@@ -10,6 +10,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check",
+    "sync": "tsx scripts/sync.ts",
+    "link-policy": "tsx scripts/set-link-type.ts",
     "fetch-raw": "tsx scripts/fetch-raw.ts",
     "identify-new": "tsx scripts/identify-new.ts",
     "write-markdown": "tsx scripts/write-markdown.ts",

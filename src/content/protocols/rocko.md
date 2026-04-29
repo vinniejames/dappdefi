@@ -9,6 +9,7 @@ twitter: rockodefi
 github: getrocko
 logo: /logos/rocko.png
 listed_at: 2026-04-29
+link_type: follow
 tags:
   governance: foundation
   token: null

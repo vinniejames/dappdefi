@@ -15,3 +15,12 @@ export function withUtm(url: string | null | undefined): string | null {
     return url;
   }
 }
+
+// Build a `rel` attribute for outbound links. Always includes `noopener`
+// for security; appends the link policy (nofollow / sponsored) per the
+// protocol's link_type. `follow` returns just `noopener` so the link
+// passes editorial equity.
+export function relForLink(linkType: 'nofollow' | 'follow' | 'sponsored' = 'nofollow'): string {
+  if (linkType === 'follow') return 'noopener';
+  return `noopener ${linkType}`;
+}

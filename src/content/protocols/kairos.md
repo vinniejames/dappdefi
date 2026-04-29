@@ -9,6 +9,7 @@ twitter: kairosswap
 github: null
 logo: /logos/kairos.svg
 listed_at: 2026-04-29
+link_type: follow
 tags:
   governance: foundation
   token: null

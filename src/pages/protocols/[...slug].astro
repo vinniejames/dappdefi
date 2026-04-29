@@ -4,7 +4,7 @@ import TagPill from '../../components/TagPill.astro';
 import ProtocolCard from '../../components/ProtocolCard.astro';
 import { getCollection, render } from 'astro:content';
 import { CATEGORY_BY_SLUG } from '../../data/categories';
-import { withUtm } from '../../lib/utm';
+import { withUtm, relForLink } from '../../lib/utm';
 
 export async function getStaticPaths() {
   const protocols = await getCollection('protocols');
@@ -72,9 +72,9 @@ function tagLabel(key: string, value: unknown): string {
         <section>
           <h3 class="mb-2 text-xs font-semibold uppercase tracking-wide text-ink-500 dark:text-ink-400">Links</h3>
           <ul class="space-y-1">
-            <li><a href={withUtm(data.url)} target="_blank" rel="noopener" class="hover:text-accent">Website ↗</a></li>
-            {data.twitter && <li><a href={withUtm(`https://twitter.com/${data.twitter}`)} target="_blank" rel="noopener" class="hover:text-accent">@{data.twitter}</a></li>}
-            {data.github && <li><a href={withUtm(`https://github.com/${data.github}`)} target="_blank" rel="noopener" class="hover:text-accent">github.com/{data.github}</a></li>}
+            <li><a href={withUtm(data.url)} target="_blank" rel={relForLink(data.link_type)} class="hover:text-accent">Website ↗</a></li>
+            {data.twitter && <li><a href={withUtm(`https://twitter.com/${data.twitter}`)} target="_blank" rel={relForLink(data.link_type)} class="hover:text-accent">@{data.twitter}</a></li>}
+            {data.github && <li><a href={withUtm(`https://github.com/${data.github}`)} target="_blank" rel={relForLink(data.link_type)} class="hover:text-accent">github.com/{data.github}</a></li>}
           </ul>
         </section>
 

@@ -34,6 +34,11 @@ const protocolsCollection = defineCollection({
       .nullable()
       .default(null),
     listed_at: z.coerce.date(),
+    // SEO link policy for outbound links (website, twitter, github):
+    //   nofollow  — default, no equity passed (most entries)
+    //   follow    — clean editorial link (features, paid placements)
+    //   sponsored — Google-compliant paid disclosure
+    link_type: z.enum(['nofollow', 'follow', 'sponsored']).default('nofollow'),
     tags: tagsSchema,
     sources: z.array(sourceSchema).default([]),
   }),
