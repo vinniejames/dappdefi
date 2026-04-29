@@ -1,0 +1,228 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// We need a static index of {slug → name} on first paint so the
+// selectors render even before the JSON manifest loads. Generate that
+// at build time directly from the collection.
+const protocols = await getCollection('protocols');
+const indexEntries = protocols
+  .map((p) => ({ slug: p.slug, name: p.data.name }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+<BaseLayout
+  title="Compare protocols"
+  description="Side-by-side comparison of any two DeFi protocols in the directory — chains, custody, governance, audits, and more."
+>
+  <section class="container-page py-10">
+    <h1 class="text-4xl font-bold tracking-tight sm:text-5xl">Compare protocols</h1>
+    <p class="mt-2 max-w-2xl text-ink-600 dark:text-ink-300">
+      Pick two protocols to see them side by side — chains, custody, governance, audits, and other tags.
+    </p>
+
+    <form id="compare-form" class="mt-6 grid gap-4 sm:grid-cols-2">
+      <label class="flex flex-col gap-2 text-sm">
+        <span class="font-medium text-ink-700 dark:text-ink-200">First protocol</span>
+        <input
+          type="text"
+          name="a"
+          list="protocols-list"
+          placeholder="Type a protocol name…"
+          autocomplete="off"
+          class="rounded-lg border border-ink-200 bg-white px-3 py-2 text-base shadow-sm focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/30 dark:border-ink-700 dark:bg-ink-800"
+        />
+      </label>
+      <label class="flex flex-col gap-2 text-sm">
+        <span class="font-medium text-ink-700 dark:text-ink-200">Second protocol</span>
+        <input
+          type="text"
+          name="b"
+          list="protocols-list"
+          placeholder="Type a protocol name…"
+          autocomplete="off"
+          class="rounded-lg border border-ink-200 bg-white px-3 py-2 text-base shadow-sm focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/30 dark:border-ink-700 dark:bg-ink-800"
+        />
+      </label>
+    </form>
+    <datalist id="protocols-list">
+      {indexEntries.map((p) => <option value={p.name} data-slug={p.slug} />)}
+    </datalist>
+
+    <div id="compare-result" class="mt-10">
+      <div id="compare-empty" class="rounded-lg border border-dashed border-ink-300 p-10 text-center text-ink-500 dark:border-ink-700">
+        Pick two protocols above to compare.
+      </div>
+    </div>
+  </section>
+
+  <script>
+    type Tags = {
+      governance: string;
+      token: string | null;
+      audited: boolean | 'unknown';
+      open_source: boolean | 'unknown';
+      custody: string;
+      permissions: string;
+      launched: number | 'unknown';
+      maturity?: string;
+    };
+    type Protocol = {
+      slug: string;
+      name: string;
+      category: string;
+      categoryName: string;
+      subcategories: string[];
+      chains: string[];
+      tags: Tags;
+      excerpt: string;
+      url: string;
+      logo: string | null;
+      listed_at: string;
+    };
+
+    const form = document.getElementById('compare-form') as HTMLFormElement;
+    const result = document.getElementById('compare-result') as HTMLElement;
+    const datalist = document.getElementById('protocols-list') as HTMLDataListElement;
+
+    // Build a lookup: name → slug, slug → name (datalist value is the name,
+    // we want the slug for the URL).
+    const nameToSlug = new Map<string, string>();
+    const slugToName = new Map<string, string>();
+    for (const opt of Array.from(datalist.options)) {
+      const slug = opt.dataset.slug!;
+      const name = opt.value;
+      nameToSlug.set(name.toLowerCase(), slug);
+      slugToName.set(slug, name);
+    }
+
+    let manifest: Protocol[] | null = null;
+    async function loadManifest(): Promise<Protocol[]> {
+      if (manifest) return manifest;
+      const res = await fetch('/api/protocols.json');
+      manifest = await res.json();
+      return manifest!;
+    }
+
+    function getInputs(): { a: HTMLInputElement; b: HTMLInputElement } {
+      return {
+        a: form.querySelector('input[name="a"]') as HTMLInputElement,
+        b: form.querySelector('input[name="b"]') as HTMLInputElement,
+      };
+    }
+
+    function setFromUrl() {
+      const url = new URL(window.location.href);
+      const a = url.searchParams.get('a');
+      const b = url.searchParams.get('b');
+      const { a: ai, b: bi } = getInputs();
+      if (a && slugToName.has(a)) ai.value = slugToName.get(a)!;
+      if (b && slugToName.has(b)) bi.value = slugToName.get(b)!;
+      render();
+    }
+
+    function valueToSlug(v: string): string | null {
+      if (!v) return null;
+      return nameToSlug.get(v.toLowerCase()) ?? null;
+    }
+
+    function pushUrl(a: string | null, b: string | null) {
+      const url = new URL(window.location.href);
+      if (a) url.searchParams.set('a', a); else url.searchParams.delete('a');
+      if (b) url.searchParams.set('b', b); else url.searchParams.delete('b');
+      history.replaceState(null, '', url.toString());
+    }
+
+    function row(label: string, av: string, bv: string, highlight: boolean): string {
+      const cls = highlight ? 'bg-accent/5 dark:bg-accent/10' : '';
+      return `<tr class="${cls}">
+        <td class="py-3 pr-4 text-xs font-medium uppercase tracking-wide text-ink-500 dark:text-ink-400">${label}</td>
+        <td class="py-3 pr-4">${av}</td>
+        <td class="py-3 pr-4">${bv}</td>
+      </tr>`;
+    }
+
+    function pillsHtml(items: string[], variant: 'accent' | 'neutral' = 'neutral'): string {
+      if (!items || items.length === 0) return '<span class="text-ink-400">—</span>';
+      const cls = variant === 'accent' ? 'pill-accent' : 'pill-neutral';
+      return items.map((s) => `<span class="${cls}">${s}</span>`).join(' ');
+    }
+
+    function tagText(v: any): string {
+      if (v === true) return 'yes';
+      if (v === false) return 'no';
+      if (v === null || v === undefined) return '—';
+      return String(v);
+    }
+
+    function header(p: Protocol): string {
+      const logo = p.logo
+        ? `<img src="${p.logo}" alt="${p.name}" class="h-12 w-12 rounded-full bg-ink-100 object-cover dark:bg-ink-700" onerror="this.style.display='none'" />`
+        : `<div class="flex h-12 w-12 items-center justify-center rounded-full bg-ink-100 text-base font-semibold text-ink-500 dark:bg-ink-700">${p.name.slice(0, 2).toUpperCase()}</div>`;
+      return `<div class="flex flex-col gap-3">
+        <div class="flex items-center gap-3">
+          ${logo}
+          <div class="min-w-0">
+            <a href="/protocols/${p.slug}/" class="text-xl font-semibold tracking-tight hover:text-accent">${p.name}</a>
+            <div class="text-sm text-ink-500 dark:text-ink-400">${p.categoryName}</div>
+          </div>
+        </div>
+        <p class="text-sm leading-6 text-ink-700 dark:text-ink-300">${p.excerpt}…</p>
+      </div>`;
+    }
+
+    function render() {
+      const { a: ai, b: bi } = getInputs();
+      const aSlug = valueToSlug(ai.value);
+      const bSlug = valueToSlug(bi.value);
+      pushUrl(aSlug, bSlug);
+      if (!aSlug || !bSlug) {
+        result.innerHTML = `<div id="compare-empty" class="rounded-lg border border-dashed border-ink-300 p-10 text-center text-ink-500 dark:border-ink-700">${
+          !aSlug && !bSlug ? 'Pick two protocols above to compare.'
+          : !aSlug ? 'Pick the first protocol.'
+          : 'Pick the second protocol.'
+        }</div>`;
+        return;
+      }
+      loadManifest().then((data) => {
+        const a = data.find((p) => p.slug === aSlug);
+        const b = data.find((p) => p.slug === bSlug);
+        if (!a || !b) {
+          result.innerHTML = `<div class="rounded-lg border border-red-300 p-6 text-red-700">Protocol not found.</div>`;
+          return;
+        }
+        const same = (k: keyof Tags) => a.tags[k] === b.tags[k];
+        const rows = [
+          row('Category', a.categoryName, b.categoryName, a.category !== b.category),
+          row('Subcategories', pillsHtml(a.subcategories, 'accent'), pillsHtml(b.subcategories, 'accent'), JSON.stringify(a.subcategories) !== JSON.stringify(b.subcategories)),
+          row('Chains', pillsHtml(a.chains.slice(0, 6)), pillsHtml(b.chains.slice(0, 6)), JSON.stringify(a.chains) !== JSON.stringify(b.chains)),
+          row('Custody', tagText(a.tags.custody), tagText(b.tags.custody), !same('custody')),
+          row('Permissions', tagText(a.tags.permissions), tagText(b.tags.permissions), !same('permissions')),
+          row('Governance', tagText(a.tags.governance), tagText(b.tags.governance), !same('governance')),
+          row('Audited', tagText(a.tags.audited), tagText(b.tags.audited), !same('audited')),
+          row('Open source', tagText(a.tags.open_source), tagText(b.tags.open_source), !same('open_source')),
+          row('Token', tagText(a.tags.token), tagText(b.tags.token), !same('token')),
+          row('Launched', tagText(a.tags.launched), tagText(b.tags.launched), !same('launched')),
+          row('Maturity', tagText(a.tags.maturity ?? 'growing'), tagText(b.tags.maturity ?? 'growing'), a.tags.maturity !== b.tags.maturity),
+          row('Listed', new Date(a.listed_at).toISOString().slice(0, 10), new Date(b.listed_at).toISOString().slice(0, 10), false),
+          row('Website', `<a href="${a.url}?utm_source=dappdefi.com" target="_blank" rel="noopener" class="text-accent hover:text-accent-hover">${new URL(a.url).hostname} ↗</a>`, `<a href="${b.url}?utm_source=dappdefi.com" target="_blank" rel="noopener" class="text-accent hover:text-accent-hover">${new URL(b.url).hostname} ↗</a>`, false),
+        ].join('');
+
+        result.innerHTML = `<div class="overflow-x-auto rounded-lg border border-ink-200 dark:border-ink-700">
+          <table class="w-full text-left text-sm">
+            <thead>
+              <tr class="border-b border-ink-200 dark:border-ink-700">
+                <th class="w-32 py-4 pr-4"></th>
+                <th class="py-4 pr-4">${header(a)}</th>
+                <th class="py-4 pr-4">${header(b)}</th>
+              </tr>
+            </thead>
+            <tbody class="divide-y divide-ink-100 dark:divide-ink-800">${rows}</tbody>
+          </table>
+        </div>`;
+      });
+    }
+
+    form.addEventListener('input', () => render());
+    setFromUrl();
+  </script>
+</BaseLayout>
