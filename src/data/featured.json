@@ -1,0 +1,55 @@
+{
+  "lending": [
+    "aave-v3",
+    "morpho-blue",
+    "sky-lending"
+  ],
+  "dex": [
+    "pancakeswap-amm",
+    "curve-dex",
+    "uniswap-v3"
+  ],
+  "perps": [
+    "jupiter-perpetual-exchange",
+    "hyperliquid-hlp",
+    "gmx-v2-perps"
+  ],
+  "liquid-staking": [
+    "lido",
+    "ssv-network",
+    "binance-staked-eth"
+  ],
+  "yield": [
+    "spark-savings",
+    "pendle",
+    "convex-finance"
+  ],
+  "bridges": [
+    "wbtc",
+    "coinbase-bridge",
+    "binance-bitcoin"
+  ],
+  "stablecoins": [
+    "ethena-usde",
+    "falcon-finance",
+    "solstice-usx"
+  ],
+  "rwa": [
+    "tether-gold",
+    "circle-usyc",
+    "blackrock-buidl"
+  ],
+  "restaking": [
+    "eigencloud",
+    "ether.fi-stake",
+    "babylon-protocol"
+  ],
+  "infrastructure": [
+    "grove-finance",
+    "spark-liquidity-layer",
+    "concrete"
+  ],
+  "prediction-markets": [
+    "polymarket-international"
+  ]
+}
