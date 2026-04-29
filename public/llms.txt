@@ -1,0 +1,42 @@
+# Dapp DeFi
+
+> An open-source, markdown-driven directory of 500+ DeFi protocols, organized by what they actually do (lending, DEX, perps, liquid staking, restaking, RWA, etc.) rather than by chain. Every entry has a hand-written description, a structured tag block (governance, custody, audit status, launch year, custody model, permissions), and links out. Discovery uses external's API; descriptions are original to this directory.
+
+## Categories
+
+- [Lending](https://dappdefi.com/categories/lending/): On-chain credit markets, money markets, CDP-style stablecoin issuers
+- [Decentralized Exchanges](https://dappdefi.com/categories/dex/): AMMs, concentrated-liquidity, order books, aggregators
+- [Perpetuals & Derivatives](https://dappdefi.com/categories/perps/): Perp futures, options, synthetic derivatives
+- [Liquid Staking](https://dappdefi.com/categories/liquid-staking/): LSTs and pooled staking across many networks
+- [Yield](https://dappdefi.com/categories/yield/): Yield aggregators, vaults, structured products, fixed-rate, leverage
+- [Bridges](https://dappdefi.com/categories/bridges/): Lock-mint, liquidity-pool, messaging, intent-based
+- [Stablecoins](https://dappdefi.com/categories/stablecoins/): Issuers — fiat-backed, crypto-backed, basis-trade-backed
+- [Real World Assets](https://dappdefi.com/categories/rwa/): Tokenized treasuries, private credit, commodities, real estate
+- [Restaking](https://dappdefi.com/categories/restaking/): ETH and BTC restaking platforms, AVS marketplaces
+- [Infrastructure](https://dappdefi.com/categories/infrastructure/): Oracles, indexers, MEV, account abstraction, data tooling
+- [Prediction Markets](https://dappdefi.com/categories/prediction-markets/): On-chain venues for trading event outcomes
+- [NFT Finance](https://dappdefi.com/categories/nft-fi/): NFT lending, fractionalization, financial primitives
+- [Gaming](https://dappdefi.com/categories/gaming/): On-chain games and gaming-adjacent finance
+- [Social](https://dappdefi.com/categories/social/): Social and creator protocols with financial primitives
+- [Other](https://dappdefi.com/categories/other/): Protocols that don't fit cleanly elsewhere
+
+## Featured (homepage)
+
+- [Rocko](https://dappdefi.com/protocols/rocko/): Consumer-friendly front-end for crypto-backed borrowing routing to Aave V3, Compound III, and Morpho
+- [Kairos](https://dappdefi.com/protocols/kairos/): On-chain interest-rate-swap protocol with oracle-agnostic markets and up to 5,000x notional leverage
+- [CoinFox](https://dappdefi.com/protocols/coinfox/): Crypto portfolio tracker for monitoring positions across coins and tokens
+- [Aave V3](https://dappdefi.com/protocols/aave-v3/): Largest non-custodial lending protocol; isolation mode and efficiency mode across 20+ deployments
+- [Morpho Blue](https://dappdefi.com/protocols/morpho-blue/): Minimalist permissionless lending primitive built around isolated markets
+- [Uniswap V3](https://dappdefi.com/protocols/uniswap-v3/): Concentrated-liquidity AMM, the dominant DEX architecture
+- [Curve DEX](https://dappdefi.com/protocols/curve-dex/): Canonical stable-asset DEX; pioneered the StableSwap invariant and ve-tokenomics
+- [Pendle](https://dappdefi.com/protocols/pendle/): Dominant venue for trading tokenized future yield (PT/YT)
+- [Lido](https://dappdefi.com/protocols/lido/): Largest liquid staking protocol on Ethereum; issues stETH
+
+## Discovery
+
+- [external /protocols API](https://example.com/protocols): Source of truth for protocol existence, chains, TVL, and external categories. Used as a discovery layer only — descriptions and metadata in this directory are original.
+
+## Project
+
+- [GitHub repository](https://github.com/vinniejames/dappdefi): Open-source. PRs welcome — every protocol is a markdown file in `src/content/protocols/`.
+- [Contributing guide](https://github.com/vinniejames/dappdefi#contributing--add-or-edit-your-projects-page): Template and instructions for adding or editing a project's page.
