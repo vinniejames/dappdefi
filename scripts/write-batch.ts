@@ -17,7 +17,7 @@ import { CATEGORY_SLUGS, isValidSubcategory } from '../src/data/categories.ts';
 import type { CategorySlug } from '../src/data/categories.ts';
 
 const InputSchema = z.object({
-  slug: z.string().regex(/^[a-z0-9][a-z0-9-]*$/),
+  slug: z.string().regex(/^[a-z0-9][a-z0-9.-]*$/),
   name: z.string().min(1),
   category: z.enum(CATEGORY_SLUGS as unknown as [string, ...string[]]),
   subcategories: z.array(z.string()).max(3),
@@ -114,11 +114,12 @@ async function main() {
   const skipped: Array<{ slug: string; reason: string }> = [];
 
   for (const entry of arr) {
-    for (const sub of entry.subcategories) {
-      if (!isValidSubcategory(entry.category as CategorySlug, sub)) {
-        skipped.push({ slug: entry.slug, reason: `bad subcategory ${sub} for ${entry.category}` });
-        continue;
-      }
+    const badSub = entry.subcategories.find(
+      (s) => !isValidSubcategory(entry.category as CategorySlug, s),
+    );
+    if (badSub) {
+      skipped.push({ slug: entry.slug, reason: `bad subcategory ${badSub} for ${entry.category}` });
+      continue;
     }
     const file = path.join(protocolsDir, `${entry.slug}.md`);
     if (fs.existsSync(file)) {

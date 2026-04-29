@@ -35,7 +35,7 @@ import { CATEGORY_SLUGS, isValidSubcategory } from '../src/data/categories.ts';
 import type { CategorySlug } from '../src/data/categories.ts';
 
 const InputSchema = z.object({
-  slug: z.string().regex(/^[a-z0-9][a-z0-9-]*$/, 'slug must be lowercase kebab-case'),
+  slug: z.string().regex(/^[a-z0-9][a-z0-9.-]*$/, 'slug must be lowercase kebab-case'),
   name: z.string().min(1),
   category: z.enum(CATEGORY_SLUGS as unknown as [string, ...string[]]),
   subcategories: z.array(z.string()).max(3),
