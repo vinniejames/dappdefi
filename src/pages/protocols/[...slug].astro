@@ -1,0 +1,110 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TagPill from '../../components/TagPill.astro';
+import ProtocolCard from '../../components/ProtocolCard.astro';
+import { getCollection, render } from 'astro:content';
+import { CATEGORY_BY_SLUG } from '../../data/categories';
+
+export async function getStaticPaths() {
+  const protocols = await getCollection('protocols');
+  return protocols.map((p) => ({ params: { slug: p.slug }, props: { entry: p } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const data = entry.data;
+const category = CATEGORY_BY_SLUG[data.category];
+
+// 3 random related protocols from same category, excluding this one.
+const all = await getCollection('protocols');
+const related = all
+  .filter((p) => p.data.category === data.category && p.slug !== entry.slug)
+  .sort(() => Math.random() - 0.5)
+  .slice(0, 3)
+  .map((p) => ({
+    slug: p.slug,
+    name: p.data.name,
+    category: p.data.category,
+    subcategories: p.data.subcategories,
+    chains: p.data.chains,
+    logo: p.data.logo,
+  }));
+
+const tags = data.tags;
+
+function tagLabel(key: string, value: unknown): string {
+  if (value === true) return 'yes';
+  if (value === false) return 'no';
+  if (value === null) return '—';
+  return String(value);
+}
+---
+<BaseLayout title={data.name} description={`${data.name} — ${category.name} protocol on ${data.chains.slice(0, 3).join(', ')}.`}>
+  <article class="container-page py-10">
+    <header class="mb-8 flex flex-col gap-4 sm:flex-row sm:items-center">
+      {data.logo ? (
+        <img src={data.logo} alt={data.name} class="h-16 w-16 rounded-full bg-ink-100 object-cover dark:bg-ink-700" onerror="this.style.display='none'" />
+      ) : (
+        <div class="flex h-16 w-16 items-center justify-center rounded-full bg-ink-100 text-xl font-bold text-ink-500 dark:bg-ink-700">
+          {data.name.slice(0, 2).toUpperCase()}
+        </div>
+      )}
+      <div class="min-w-0 flex-1">
+        <h1 class="text-3xl font-bold">{data.name}</h1>
+        <div class="mt-2 flex flex-wrap gap-1.5">
+          <TagPill variant="accent" href={`/categories/${data.category}/`}>{category.name}</TagPill>
+          {data.subcategories.map((s) => <TagPill variant="accent">{s}</TagPill>)}
+          {data.chains.map((c) => <TagPill href={`/chains/${c.toLowerCase().replace(/\s+/g, '-')}/`}>{c}</TagPill>)}
+        </div>
+      </div>
+    </header>
+
+    <div class="grid gap-10 lg:grid-cols-[1fr,260px]">
+      <div data-pagefind-body class="prose prose-ink max-w-none dark:prose-invert">
+        <span data-pagefind-meta={`name:${data.name}`} class="hidden"></span>
+        <span data-pagefind-meta={`category:${data.category}`} class="hidden"></span>
+        <span data-pagefind-meta={`chains:${data.chains.join(', ')}`} class="hidden"></span>
+        <Content />
+      </div>
+
+      <aside class="space-y-6 text-sm">
+        <section>
+          <h3 class="mb-2 text-xs font-semibold uppercase tracking-wide text-ink-500 dark:text-ink-400">Links</h3>
+          <ul class="space-y-1">
+            <li><a href={data.url} target="_blank" rel="noopener" class="hover:text-accent">Website ↗</a></li>
+            {data.twitter && <li><a href={`https://twitter.com/${data.twitter}`} target="_blank" rel="noopener" class="hover:text-accent">@{data.twitter}</a></li>}
+            {data.github && <li><a href={`https://github.com/${data.github}`} target="_blank" rel="noopener" class="hover:text-accent">github.com/{data.github}</a></li>}
+          </ul>
+        </section>
+
+        <section>
+          <h3 class="mb-2 text-xs font-semibold uppercase tracking-wide text-ink-500 dark:text-ink-400">Tags</h3>
+          <dl class="space-y-1">
+            <div class="flex justify-between gap-2"><dt class="text-ink-500 dark:text-ink-400">Token</dt><dd>{tagLabel('token', tags.token)}</dd></div>
+            <div class="flex justify-between gap-2"><dt class="text-ink-500 dark:text-ink-400">Governance</dt><dd>{tagLabel('governance', tags.governance)}</dd></div>
+            <div class="flex justify-between gap-2"><dt class="text-ink-500 dark:text-ink-400">Custody</dt><dd>{tagLabel('custody', tags.custody)}</dd></div>
+            <div class="flex justify-between gap-2"><dt class="text-ink-500 dark:text-ink-400">Permissions</dt><dd>{tagLabel('permissions', tags.permissions)}</dd></div>
+            <div class="flex justify-between gap-2"><dt class="text-ink-500 dark:text-ink-400">Audited</dt><dd>{tagLabel('audited', tags.audited)}</dd></div>
+            <div class="flex justify-between gap-2"><dt class="text-ink-500 dark:text-ink-400">Open source</dt><dd>{tagLabel('open_source', tags.open_source)}</dd></div>
+            <div class="flex justify-between gap-2"><dt class="text-ink-500 dark:text-ink-400">Launched</dt><dd>{tagLabel('launched', tags.launched)}</dd></div>
+            <div class="flex justify-between gap-2"><dt class="text-ink-500 dark:text-ink-400">Maturity</dt><dd>{tagLabel('maturity', tags.tags?.maturity ?? tags.maturity ?? 'growing')}</dd></div>
+          </dl>
+        </section>
+
+        <section>
+          <h3 class="mb-2 text-xs font-semibold uppercase tracking-wide text-ink-500 dark:text-ink-400">Listed</h3>
+          <p>{data.listed_at.toISOString().slice(0, 10)}</p>
+        </section>
+      </aside>
+    </div>
+
+    {related.length > 0 && (
+      <section class="mt-12 border-t border-ink-200 pt-8 dark:border-ink-700">
+        <h2 class="mb-5 text-xl font-semibold">Related {category.name}</h2>
+        <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {related.map((p) => <ProtocolCard {...p} />)}
+        </div>
+      </section>
+    )}
+  </article>
+</BaseLayout>

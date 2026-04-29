@@ -22,7 +22,6 @@ const protocolsCollection = defineCollection({
   type: 'content',
   schema: z.object({
     name: z.string().min(1),
-    slug: z.string().min(1),
     category: categoryEnum,
     subcategories: z.array(z.string()).default([]),
     chains: z.array(z.string()).min(1),

@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { CATEGORIES, CATEGORY_BY_SLUG } from '../../data/categories';
+
+export async function getStaticPaths() {
+  const slugify = (name: string) => name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  const all = await getCollection('protocols');
+  const chains = new Map<string, string>();
+  for (const p of all) {
+    for (const c of p.data.chains) {
+      const s = slugify(c);
+      if (!chains.has(s)) chains.set(s, c);
+    }
+  }
+  return [...chains.entries()].map(([slug, name]) => ({ params: { chain: slug }, props: { chainName: name } }));
+}
+
+const { chainName } = Astro.props;
+const all = await getCollection('protocols');
+const matching = all
+  .filter((p) => p.data.chains.includes(chainName))
+  .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+// Group by category, in CATEGORIES order
+const byCategory = new Map<string, typeof matching>();
+for (const p of matching) {
+  const arr = byCategory.get(p.data.category) ?? [];
+  arr.push(p);
+  byCategory.set(p.data.category, arr);
+}
+---
+<BaseLayout title={`${chainName} — DeFi protocols`} description={`Protocols deployed on ${chainName}, grouped by category.`}>
+  <section class="border-b border-ink-200 py-10 dark:border-ink-700">
+    <div class="container-page">
+      <h1 class="text-3xl font-bold">{chainName}</h1>
+      <p class="mt-2 text-ink-600 dark:text-ink-300">{matching.length} protocol{matching.length === 1 ? '' : 's'} deployed on this chain.</p>
+    </div>
+  </section>
+  <section class="container-page py-8">
+    {CATEGORIES.map((cat) => {
+      const list = byCategory.get(cat.slug);
+      if (!list || list.length === 0) return null;
+      return (
+        <div class="mb-10">
+          <h2 class="mb-4 text-xl font-semibold">
+            <a href={`/categories/${cat.slug}/`} class="hover:text-accent !text-ink-900 dark:!text-ink-100">{cat.name}</a>
+            <span class="ml-2 text-sm font-normal text-ink-500 dark:text-ink-400">{list.length}</span>
+          </h2>
+          <ul class="grid gap-1 sm:grid-cols-2 lg:grid-cols-3">
+            {list.map((p) => (
+              <li>
+                <a href={`/protocols/${p.slug}/`} class="block rounded px-2 py-1 text-sm hover:bg-ink-100 hover:text-accent dark:hover:bg-ink-800">
+                  {p.data.name}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      );
+    })}
+  </section>
+</BaseLayout>

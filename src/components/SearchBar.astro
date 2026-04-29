@@ -1,0 +1,32 @@
+---
+import Search from 'astro-pagefind/components/Search';
+export interface Props {
+  placeholder?: string;
+  className?: string;
+}
+const { placeholder = 'Search protocols, chains, tags…', className = '' } = Astro.props;
+---
+<div class={`pagefind-wrapper ${className}`}>
+  <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false, placeholder }} />
+</div>
+
+<style is:global>
+  .pagefind-ui {
+    --pagefind-ui-primary: #6366f1;
+    --pagefind-ui-text: #212529;
+    --pagefind-ui-background: #ffffff;
+    --pagefind-ui-border: #dee2e6;
+    --pagefind-ui-tag: #f1f3f5;
+    --pagefind-ui-border-width: 1px;
+    --pagefind-ui-border-radius: 0.5rem;
+    --pagefind-ui-font: Inter, system-ui, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    .pagefind-ui {
+      --pagefind-ui-text: #f1f3f5;
+      --pagefind-ui-background: #212529;
+      --pagefind-ui-border: #343a40;
+      --pagefind-ui-tag: #343a40;
+    }
+  }
+</style>

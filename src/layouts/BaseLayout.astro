@@ -1,0 +1,46 @@
+---
+import '../styles/global.css';
+export interface Props {
+  title?: string;
+  description?: string;
+}
+const { title, description = 'An open-source directory of DeFi protocols.' } = Astro.props;
+const fullTitle = title ? `${title} — DeFi Directory` : 'DeFi Directory';
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body class="flex min-h-screen flex-col">
+    <header class="border-b border-ink-200 bg-white/80 backdrop-blur dark:border-ink-700 dark:bg-ink-900/80">
+      <div class="container-page flex items-center justify-between gap-6 py-4">
+        <a href="/" class="text-lg font-semibold !text-ink-900 hover:!text-accent dark:!text-ink-100">
+          <span class="text-accent">∆</span> DeFi Directory
+        </a>
+        <nav class="flex items-center gap-4 text-sm">
+          <a href="/categories/lending" class="text-ink-600 hover:text-accent dark:text-ink-300">Categories</a>
+          <a href="https://github.com/" target="_blank" rel="noopener" class="text-ink-600 hover:text-accent dark:text-ink-300">GitHub</a>
+        </nav>
+      </div>
+    </header>
+    <main class="flex-1">
+      <slot />
+    </main>
+    <footer class="border-t border-ink-200 dark:border-ink-700">
+      <div class="container-page flex flex-col gap-2 py-6 text-sm text-ink-500 sm:flex-row sm:justify-between">
+        <span>Open-source DeFi directory. MIT licensed.</span>
+        <span>
+          <a href="https://github.com/" class="hover:text-accent">Contribute</a>
+          <span class="mx-2">·</span>
+          <a href="https://external.com" class="hover:text-accent" target="_blank" rel="noopener">Discovery via external</a>
+        </span>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,84 @@
+---
+export interface Props {
+  chains: string[];
+  subcategories: string[];
+  showMaturity?: boolean;
+}
+const { chains, subcategories, showMaturity = true } = Astro.props;
+---
+<form data-filters class="mb-6 flex flex-wrap items-center gap-3 rounded-lg border border-ink-200 bg-white p-3 text-sm dark:border-ink-700 dark:bg-ink-800">
+  <label class="flex items-center gap-2">
+    <span class="text-ink-500 dark:text-ink-400">Chain</span>
+    <select name="chain" class="rounded border border-ink-200 bg-transparent px-2 py-1 dark:border-ink-700">
+      <option value="">All</option>
+      {chains.map((c) => <option value={c}>{c}</option>)}
+    </select>
+  </label>
+  {subcategories.length > 0 && (
+    <label class="flex items-center gap-2">
+      <span class="text-ink-500 dark:text-ink-400">Subcategory</span>
+      <select name="subcategory" class="rounded border border-ink-200 bg-transparent px-2 py-1 dark:border-ink-700">
+        <option value="">All</option>
+        {subcategories.map((s) => <option value={s}>{s}</option>)}
+      </select>
+    </label>
+  )}
+  {showMaturity && (
+    <label class="flex items-center gap-2">
+      <span class="text-ink-500 dark:text-ink-400">Maturity</span>
+      <select name="maturity" class="rounded border border-ink-200 bg-transparent px-2 py-1 dark:border-ink-700">
+        <option value="">All</option>
+        <option value="established">Established</option>
+        <option value="growing">Growing</option>
+        <option value="new">New</option>
+      </select>
+    </label>
+  )}
+  <button type="reset" class="ml-auto text-ink-500 hover:text-accent dark:text-ink-400">Reset</button>
+</form>
+
+<script>
+  // Hydrate filter state from URL and apply on change.
+  const form = document.querySelector('[data-filters]') as HTMLFormElement | null;
+  if (form) {
+    const url = new URL(window.location.href);
+    for (const select of form.querySelectorAll('select') as NodeListOf<HTMLSelectElement>) {
+      const v = url.searchParams.get(select.name);
+      if (v) select.value = v;
+    }
+    form.addEventListener('change', () => {
+      const u = new URL(window.location.href);
+      for (const select of form.querySelectorAll('select') as NodeListOf<HTMLSelectElement>) {
+        if (select.value) u.searchParams.set(select.name, select.value);
+        else u.searchParams.delete(select.name);
+      }
+      history.replaceState(null, '', u.toString());
+      applyFilters();
+    });
+    form.addEventListener('reset', () => {
+      setTimeout(() => {
+        const u = new URL(window.location.href);
+        u.search = '';
+        history.replaceState(null, '', u.toString());
+        applyFilters();
+      }, 0);
+    });
+    applyFilters();
+  }
+  function applyFilters() {
+    const u = new URL(window.location.href);
+    const chain = u.searchParams.get('chain') || '';
+    const sub = u.searchParams.get('subcategory') || '';
+    const maturity = u.searchParams.get('maturity') || '';
+    for (const card of document.querySelectorAll('[data-protocol]') as NodeListOf<HTMLElement>) {
+      const chains = (card.dataset.chains || '').split(',');
+      const subs = (card.dataset.subcategories || '').split(',');
+      const m = card.dataset.maturity || '';
+      const ok =
+        (!chain || chains.includes(chain)) &&
+        (!sub || subs.includes(sub)) &&
+        (!maturity || m === maturity);
+      card.style.display = ok ? '' : 'none';
+    }
+  }
+</script>

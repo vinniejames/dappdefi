@@ -1,0 +1,33 @@
+---
+import ProtocolCard from './ProtocolCard.astro';
+import type { CategorySlug } from '../data/categories';
+
+export interface Props {
+  slug: CategorySlug;
+  name: string;
+  description: string;
+  protocols: Array<{
+    slug: string;
+    name: string;
+    category: CategorySlug;
+    subcategories: string[];
+    chains: string[];
+    logo: string | null | undefined;
+  }>;
+}
+const { slug, name, description, protocols } = Astro.props;
+---
+<section class="border-b border-ink-200 py-10 last:border-b-0 dark:border-ink-700">
+  <div class="mb-5 flex items-end justify-between gap-4">
+    <div>
+      <h2 class="text-2xl font-semibold tracking-tight">{name}</h2>
+      <p class="mt-1 max-w-2xl text-sm text-ink-600 dark:text-ink-300">{description}</p>
+    </div>
+    <a href={`/categories/${slug}/`} class="shrink-0 text-sm font-medium text-accent hover:text-accent-hover">
+      View all →
+    </a>
+  </div>
+  <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+    {protocols.map((p) => <ProtocolCard {...p} />)}
+  </div>
+</section>
