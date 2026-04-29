@@ -36,4 +36,6 @@
 
 - [GitHub repository](https://github.com/vinniejames/dappdefi): Open-source. PRs welcome — every protocol is a markdown file in `src/content/protocols/`.
 - [Contributing guide](https://github.com/vinniejames/dappdefi#contributing--add-or-edit-your-projects-page): Template and instructions for adding or editing a project's page.
+- [Compare two protocols](https://dappdefi.com/compare/): Side-by-side comparison page; supports `?a=<slug>&b=<slug>` URL params.
+- [Changelog](https://dappdefi.com/changelog/): Every protocol added to the directory, grouped by month.
 - [RSS feed](https://dappdefi.com/rss.xml): Recently added protocols.
