@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://world.org
 twitter: worldcoin
 github: worldcoin
-logo: https://example.com/world-chain.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: world-chain
 ---
 
 World Chain is a permissionless Ethereum Layer-2 built with the OP Stack and integrated with Worldcoin's proof-of-personhood identity layer. The canonical bridge moves assets between Ethereum and World Chain, inheriting standard OP Stack security guarantees and seven-day withdrawal window.

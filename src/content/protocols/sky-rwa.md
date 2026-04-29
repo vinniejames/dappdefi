@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://sky.money
 twitter: SkyEcosystem
 github: makerdao
-logo: https://example.com/sky-rwa.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: hybrid
   launched: 2022
   maturity: growing
-sources:
-  - external: sky-rwa
 ---
 
 Sky RWA is the real-world-asset collateral surface of the Sky (formerly MakerDAO) protocol. Legal entities representing Sky deploy capital into off-chain assets — short-term U.S. Treasuries, private credit, tokenized funds — and the resulting positions back USDS issuance on-chain.

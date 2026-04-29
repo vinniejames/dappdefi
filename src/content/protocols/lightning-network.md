@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://lightning.network/
 twitter: null
 github: lightningnetwork/lnd
-logo: https://example.com/lightning-network.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2018
   maturity: growing
-sources:
-  - external: lightning-network
 ---
 
 The Lightning Network is Bitcoin's primary payment-scaling layer. Two parties open a channel by locking BTC in an on-chain multisig; transfers between them then happen off-chain with cryptographic settlement guarantees, and only opening and closing transactions touch the Bitcoin base layer.

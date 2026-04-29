@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://reserve.org
 twitter: reserveprotocol
 github: reserve-protocol
-logo: https://example.com/reserve-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: reserve-protocol
 ---
 
 Reserve is an issuance platform for asset-backed currencies. Anyone can deploy an RToken — a stablecoin- or index-style currency — backed by a configurable basket of underlying assets, with optional yield distribution and overcollateralization from RSR stakers who absorb losses.

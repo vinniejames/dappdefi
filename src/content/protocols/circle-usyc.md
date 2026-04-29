@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Near, Noble]
 url: https://www.circle.com/usyc
 twitter: circle
 github: null
-logo: https://example.com/circle-usyc.png
+logo: null
 listed_at: 2023-10-26
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2023
   maturity: established
-sources:
-  - external: circle-usyc
 ---
 
 USYC is a tokenized money-market product from Hashnote (now part of Circle), giving qualified investors on-chain exposure to short-duration U.S. Treasuries and reverse-repo positions on those Treasuries. The token accrues yield through an exchange rate that increases over time.

@@ -7,7 +7,7 @@ chains: [Tron]
 url: https://sun.io
 twitter: defi_sun
 github: null
-logo: https://example.com/sunswap-v1.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: growing
-sources:
-  - external: sunswap-v1
 ---
 
 SUNSwap V1 is the original Uniswap-style AMM on Tron. The protocol provides automated liquidity provision and constant-product swaps between TRC-20 assets, and remains live for long-tail tokens that haven't migrated to V3.

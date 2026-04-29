@@ -7,7 +7,7 @@ chains: [Mantle]
 url: https://merchantmoe.com
 twitter: MerchantMoe_xyz
 github: null
-logo: https://example.com/merchant-moe-liquidity-book.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: merchant-moe-liquidity-book
 ---
 
 Merchant Moe is the dominant DEX on Mantle. Its Liquidity Book uses a discrete-bin concentrated liquidity design (the same template as Trader Joe's V2.1 Liquidity Book on Avalanche) where LPs select bins to provide liquidity in and trades execute at zero slippage within each bin.

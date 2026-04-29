@@ -7,7 +7,7 @@ chains: [Flare, Ethereum]
 url: https://clearpool.finance
 twitter: ClearpoolFin
 github: null
-logo: https://example.com/clearpool-tpool.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: clearpool-tpool
 ---
 
 Clearpool TPOOL is a USDX-denominated lending pool that invests in or purchases U.S. Treasuries and distributes the resulting yield back to liquidity providers. The product is part of Clearpool's broader institutional credit-marketplace stack.

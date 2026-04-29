@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Base, Polygon]
 url: https://app.uncx.network
 twitter: UNCX_token
 github: null
-logo: https://example.com/uncx-network-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: uncx-network-v2
 ---
 
 UNCX Network is a one-stop-shop for project teams launching tokens — token lockers, liquidity-pair lockers, vesting tools, and KYC services. Locks are non-custodial smart contracts that hold a project's team-allocated tokens or LP tokens until a configured release date, providing an on-chain commitment device for the project's holders.

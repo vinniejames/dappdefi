@@ -7,7 +7,7 @@ chains: [Arbitrum, "Hyperliquid L1", Base]
 url: https://d2.finance
 twitter: d2finance
 github: null
-logo: https://example.com/d2-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: d2-finance
 ---
 
 D2 Finance is a tokenized derivatives-strategies platform that runs institutional-grade structured strategies across multiple chains, dynamically managing risk and reward. The product gives prosumer and institutional users access to strategies that previously required separate accounts at trading firms.

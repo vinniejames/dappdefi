@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://gmtrade.io
 twitter: gmtrade_io
 github: null
-logo: https://example.com/gmtrade.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: gmtrade
 ---
 
 GMTrade is a perpetuals DEX on Solana supporting both crypto and RWA-style markets (FX, commodities, equities perps). The protocol uses isolated liquidity pools per market, similar to GMX V2's GM Markets design.

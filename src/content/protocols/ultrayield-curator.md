@@ -7,7 +7,7 @@ chains: [Ethereum, "Hyperliquid L1", Monad]
 url: https://ultrayield.xyz
 twitter: ultrayield_xyz
 github: null
-logo: https://example.com/ultrayield-curator.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: ultrayield-curator
 ---
 
 UltraYield is a risk-curator product from Edge Capital, a crypto hedge fund. The team operates curated vaults on top of underlying lending markets, packaging institutional-grade strategies into deposit products that retail and prosumer users can access.

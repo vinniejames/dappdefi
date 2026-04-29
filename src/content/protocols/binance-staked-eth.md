@@ -7,7 +7,7 @@ chains: [Ethereum, Binance]
 url: https://www.binance.com/en/wbeth
 twitter: binance
 github: null
-logo: https://example.com/binance-staked-eth.png
+logo: null
 listed_at: 2023-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2023
   maturity: growing
-sources:
-  - external: binance-staked-eth
 ---
 
 WBETH is Binance's wrapped, exchange-issued liquid staking token for Ethereum. Users deposit ETH on Binance and receive WBETH, an ERC-20 that tracks the deposit plus accrued staking rewards through an exchange rate that increases over time rather than rebasing.

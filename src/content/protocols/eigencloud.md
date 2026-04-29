@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.eigencloud.xyz
 twitter: eigencloud
 github: Layr-Labs/eigenlayer-contracts
-logo: https://example.com/eigencloud.png
+logo: null
 listed_at: 2023-06-14
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: eigencloud
 ---
 
 EigenCloud is the protocol formerly known as EigenLayer — the project that introduced restaking as a primitive for Ethereum. Restakers redirect their staked ETH (or liquid staking tokens) to also secure Actively Validated Services (AVSs) such as data availability layers, oracles, and bridges, earning additional rewards in exchange for additional slashing risk.

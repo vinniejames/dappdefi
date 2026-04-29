@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Optimism]
 url: https://summer.fi
 twitter: summerfinance_
 github: OasisDEX
-logo: https://example.com/summer.fi-pro.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2019
   maturity: established
-sources:
-  - external: summer.fi-pro
 ---
 
 Summer.fi Pro (formerly Oasis.app) is a position-management front-end for sophisticated DeFi users with positions across MakerDAO/Sky, Aave, Compound, Spark, and Liquity. It offers Multiply (leveraged collateral positions), Earn (passive yield), and Borrow (CDP), with automation tools layered on top.

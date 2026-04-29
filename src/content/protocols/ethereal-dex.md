@@ -7,7 +7,7 @@ chains: [Ethereal]
 url: https://ethereal.trade
 twitter: ethereal_dex
 github: null
-logo: https://example.com/ethereal-dex.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: ethereal-dex
 ---
 
 Ethereal is a non-custodial spot and perpetuals DEX built on the Ethena Network using USDe as the primary collateral and settlement asset. The project leverages Ethena's deep synthetic-dollar liquidity to offer trading without bridging to a different stablecoin.

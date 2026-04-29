@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://lista.org/
 twitter: LISTA_DAO
 github: null
-logo: https://example.com/lista-liquid-staking.jpg
+logo: null
 listed_at: 2023-08-07
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: lista-liquid-staking
 ---
 
 Lista is a BNB Chain-focused DeFi platform; its liquid staking arm issues slisBNB, a yield-bearing liquid staking token whose exchange rate appreciates against BNB in line with BNB's staking APR. Stakers deposit BNB and the protocol stakes it to BNB Chain validators on their behalf.

@@ -7,7 +7,7 @@ chains: [Polygon, Base]
 url: https://quickswap.exchange/
 twitter: QuickswapDEX
 github: QuickSwap
-logo: https://example.com/quickswap-dex.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: growing
-sources:
-  - external: quickswap-dex
 ---
 
 QuickSwap is the dominant Uniswap-style DEX on Polygon and one of the longer-running DeFi protocols there. It offers both V2-style constant-product pools and V3-style concentrated-liquidity pools, with farming rewards in QUICK, the protocol's governance token.

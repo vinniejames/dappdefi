@@ -7,7 +7,7 @@ chains: [Ethereum, Stable, Berachain, Arbitrum, Katana]
 url: https://app.concrete.xyz
 twitter: ConcreteXYZ
 github: null
-logo: https://example.com/concrete.png
+logo: null
 listed_at: 2025-02-07
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2025
   maturity: new
-sources:
-  - external: concrete
 ---
 
 Concrete is a vault-infrastructure platform that powers automated, risk-managed yield products across multiple chains. Strategy designers configure modular vault templates — single-asset lending, looped LSTs, basis trades — and Concrete handles execution, rebalancing, and cross-chain accounting under one operational stack.

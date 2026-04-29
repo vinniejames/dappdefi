@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.compound.finance
 twitter: compoundfinance
 github: compound-finance/compound-protocol
-logo: https://example.com/compound-v2.png
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2019
   maturity: growing
-sources:
-  - external: compound-v2
 ---
 
 Compound V2 is the original implementation of the Compound algorithmic interest rate protocol that defined the money-market template most of DeFi later copied. Suppliers deposit assets and receive cTokens that accrue interest; borrowers post any combination of collateral assets and borrow against the shared pool.

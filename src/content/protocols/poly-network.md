@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, NEO]
 url: https://poly.network
 twitter: PolyNetwork2
 github: null
-logo: https://example.com/poly-network.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2020
   maturity: established
-sources:
-  - external: poly-network
 ---
 
 Poly Network is a cross-chain protocol that pioneered multi-chain interoperability across EVM and non-EVM environments, including NEO and Ontology. The project survived two major exploits and remains live in reduced form.

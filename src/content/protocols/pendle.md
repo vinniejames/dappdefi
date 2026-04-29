@@ -7,7 +7,7 @@ chains: [Ethereum, Plasma, Arbitrum, Sonic, "Hyperliquid L1", Binance]
 url: https://pendle.finance/
 twitter: pendle_fi
 github: pendle-finance/pendle-core-v2-public
-logo: https://example.com/pendle.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: pendle
 ---
 
 Pendle is the dominant venue for trading tokenized future yield. Yield-bearing tokens (LSTs, LRTs, stable yield products, etc.) are split into a Principal Token, redeemable for the underlying at maturity, and a Yield Token, which captures the variable yield until that date. Both pieces trade independently against the underlying.

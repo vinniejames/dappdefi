@@ -7,7 +7,7 @@ chains: [Near]
 url: https://www.rhea.finance
 twitter: rheafinance
 github: null
-logo: https://example.com/rhea-lend.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: rhea-lend
 ---
 
 Rhea Lending is the dominant non-custodial money-market protocol on NEAR Protocol. It runs a Compound-style algorithmic interest-rate model with shared collateral across major NEAR assets and integrations with bridged ETH, BTC, and stablecoins.

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.inverse.finance
 twitter: InverseFinance
 github: InverseFinance
-logo: https://example.com/inverse-finance-firm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: inverse-finance-firm
 ---
 
 FiRM is Inverse Finance's Fixed Rate Market protocol. Borrowers escrow collateral and mint DOLA, the protocol's stablecoin, at a fixed rate using the DOLA Borrowing Right (DBR) token, which is consumed over time as the loan is held.

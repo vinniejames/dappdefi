@@ -27,7 +27,7 @@ chains: [Ethereum, Arbitrum, Base, ...]
 url: https://aave.com
 twitter: aave                            # handle without @, or null
 github: aave-dao/aave-v3-origin          # owner/repo or owner, or null
-logo: https://example.com/aave-v3.png # or null
+logo: /logos/aave-v3.png                 # absolute URL or local path under public/, or null
 listed_at: 2026-04-29                    # ISO date
 tags:
   governance: dao                        # dao | multisig | foundation | unknown
@@ -38,12 +38,10 @@ tags:
   permissions: permissionless            # permissionless | permissioned | hybrid | unknown
   launched: 2022                         # year, or unknown
   maturity: established                  # established | growing | new (computed by writer script — leave it)
-sources:
-  - external: aave-v3
 ---
 ```
 
-The body should be **2–3 paragraphs**. Cover what the protocol does, how it works at a high level, and what makes it notable. Don't copy external or the protocol's own marketing copy verbatim.
+The body should be **2–3 paragraphs**. Cover what the protocol does, how it works at a high level, and what makes it notable. Always describe in your own words — don't paste marketing copy verbatim.
 
 ## Subcategory vocabulary
 

@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Polygon, Binance]
 url: https://www.bsquared.network
 twitter: BSquaredNetwork
 github: null
-logo: https://example.com/b2-buzz.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: b2-buzz
 ---
 
 B² Buzz is a deposit and staking event run by B² Network, a Bitcoin Layer-2. Users deposit BTC, ETH, BNB, and other major assets and earn protocol points and yield while their funds back B²'s ecosystem and validator operations.

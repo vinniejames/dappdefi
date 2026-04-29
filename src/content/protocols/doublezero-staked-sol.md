@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://doublezero.xyz/
 twitter: doublezero
 github: null
-logo: https://example.com/doublezero-staked-sol.jpg
+logo: null
 listed_at: 2025-11-13
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: doublezero-staked-sol
 ---
 
 DoubleZero is a Solana validator-network project that issues a liquid-staking token (sometimes shown as 2zSOL or similar) representing SOL staked to validators participating in the DoubleZero high-performance routing fabric. Stakers earn standard SOL rewards plus any incentives the network distributes to its validator set.

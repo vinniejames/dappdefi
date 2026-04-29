@@ -7,7 +7,7 @@ chains: [Ethereum, Linea, Arbitrum, Base]
 url: https://www.connext.network
 twitter: ConnextNetwork
 github: connext
-logo: https://example.com/connext.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: connext
 ---
 
 Connext is a non-custodial cross-chain messaging and liquidity protocol. Routers run by independent operators bridge assets and execute calls across chains; the protocol secures movement through HOP-style liquidity pools and cryptographic intent-matching, without locking users behind a fixed validator set.

@@ -7,7 +7,7 @@ chains: [Tron, Ethereum, Binance]
 url: https://usdd.io/
 twitter: usddio
 github: null
-logo: https://example.com/usdd.jpg
+logo: null
 listed_at: 2025-03-13
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: usdd
 ---
 
 USDD is a USD-pegged stablecoin native to Tron, originally launched by the TRON DAO Reserve and later transitioned to a CDP-style design where users mint USDD against overcollateralized crypto deposits. Reserves include TRX, BTC, USDT, and other assets, with policy decisions handled through TRON DAO governance.

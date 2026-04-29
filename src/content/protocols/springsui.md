@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://springsui.com
 twitter: springsui_
 github: null
-logo: https://example.com/springsui.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: springsui
 ---
 
 SpringSui is a Sui-native liquid staking protocol and standard. Spring Staked SUI (sSUI) is the first LST built on the standard, with improvements over earlier Sui LSTs in instant unstaking, validator selection, and DeFi composability.

@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum]
 url: https://www.lombard.finance/app/stake/
 twitter: Lombard_Finance
 github: null
-logo: https://example.com/lombard-lbtc.jpg
+logo: null
 listed_at: 2024-09-04
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: lombard-lbtc
 ---
 
 Lombard issues LBTC, a yield-bearing liquid representation of restaked Bitcoin. BTC deposited into Lombard's vaults is staked through Babylon to secure participating PoS chains, and the resulting yield accrues to LBTC holders, who can simultaneously use the token in EVM DeFi venues as Bitcoin-pegged collateral.

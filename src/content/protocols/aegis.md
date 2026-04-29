@@ -7,7 +7,7 @@ chains: [Ethereum, Binance]
 url: https://www.aegis.im
 twitter: aegis_im
 github: null
-logo: https://example.com/aegis.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: aegis
 ---
 
 Aegis runs delta-neutral basis-trade strategies on spot and perpetual markets to mint a synthetic dollar backed by funding-rate income. The model is similar to Ethena's USDe with execution adapted to Aegis's preferred venues.

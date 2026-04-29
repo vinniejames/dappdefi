@@ -7,7 +7,7 @@ chains: [Algorand]
 url: https://folks.finance
 twitter: Folks_Finance
 github: null
-logo: https://example.com/xalgo-liquid-staking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: xalgo-liquid-staking
 ---
 
 xALGO is the interest-bearing liquid staking token for Algorand from Folks Finance. ALGO deposited into xALGO is staked across the Folks-curated validator set, with rewards accruing through an exchange-rate model.

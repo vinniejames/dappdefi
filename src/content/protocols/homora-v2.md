@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Avalanche]
 url: https://homora.alphaventuredao.io
 twitter: AlphaFinanceLab
 github: AlphaVentureDAO
-logo: https://example.com/homora-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: homora-v2
 ---
 
 Homora is Alpha Venture DAO's leveraged yield-farming product. Users supply capital that Homora then loops through underlying lending and AMM venues to amplify exposure to a target farming position, with the protocol handling the borrow leg automatically.

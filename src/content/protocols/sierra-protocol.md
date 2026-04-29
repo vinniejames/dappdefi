@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://sierra.io
 twitter: sierra_protocol
 github: null
-logo: https://example.com/sierra-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sierra-protocol
 ---
 
 Sierra Protocol issues SIERRA, a Liquid Yield Token (LYT) that packages diversified DeFi yield strategies into a single transferable token. Holders get exposure to a dynamic basket of underlying yield sources without having to manage individual positions.

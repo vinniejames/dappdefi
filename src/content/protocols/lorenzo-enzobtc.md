@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.lorenzo-protocol.xyz
 twitter: LorenzoProtocol
 github: null
-logo: https://example.com/lorenzo-enzobtc.jpg
+logo: null
 listed_at: 2024-10-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: lorenzo-enzobtc
 ---
 
 enzoBTC is Lorenzo Protocol's wrapped Bitcoin, a 1:1 BTC-pegged token that participates in the Lorenzo product suite of Bitcoin yield strategies. Lorenzo combines Babylon-based restaking with structured Bitcoin yield products built on top.

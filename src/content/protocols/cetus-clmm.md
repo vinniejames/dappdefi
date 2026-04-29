@@ -7,7 +7,7 @@ chains: [Sui, Aptos]
 url: https://www.cetus.zone
 twitter: CetusProtocol
 github: CetusProtocol
-logo: https://example.com/cetus-clmm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: cetus-clmm
 ---
 
 Cetus is a pioneer DEX and concentrated-liquidity protocol on the Move-based ecosystems Sui and Aptos. It offers the first major CLMM implementation on those chains, similar to Uniswap V3 on EVM.

@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.thevault.finance
 twitter: TheVaultFinance
 github: null
-logo: https://example.com/the-vault-liquid-staking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: the-vault-liquid-staking
 ---
 
 The Vault issues vSOL, a liquid-staking token whose underlying SOL is delegated to community-focused Solana validators. Stakers gain a transferable claim on staked SOL plus rewards while supporting validators outside the largest commercial operator set.

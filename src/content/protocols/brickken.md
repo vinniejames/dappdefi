@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Base]
 url: https://www.brickken.com
 twitter: Brickken
 github: null
-logo: https://example.com/brickken.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2022
   maturity: established
-sources:
-  - external: brickken
 ---
 
 Brickken is a tokenization platform that lets businesses issue tokens backed by real-world assets through its Token Suite product. The platform handles issuance, compliance, distribution, and secondary management for the underlying tokenized assets.

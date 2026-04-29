@@ -7,7 +7,7 @@ chains: ["Plume Mainnet", Ethereum, Swellchain]
 url: https://nucleusearn.io
 twitter: nucleusearn
 github: null
-logo: https://example.com/nucleus.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: nucleus
 ---
 
 Nucleus is a yield-as-a-service platform that operates as the default yield provider for partner networks. Each partner chain integrates Nucleus to surface curated yield strategies for users without building its own aggregator from scratch.

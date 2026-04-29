@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://autofinance.fi
 twitter: AUTOfinance_fi
 github: null
-logo: https://example.com/autofinance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: autofinance
 ---
 
 AUTOfinance maximizes returns through Autopools, autonomous vaults that route liquidity across DeFi destinations to capture the best risk-adjusted yield. The product is from the Tokemak team, building on TOKE's earlier liquidity-as-a-service framework.

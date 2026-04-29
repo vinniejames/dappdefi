@@ -7,7 +7,7 @@ chains: [Ethereum, Monad, Etherlink]
 url: https://gearbox.fi
 twitter: GearboxProtocol
 github: Gearbox-protocol
-logo: https://example.com/gearbox.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: gearbox
 ---
 
 Gearbox is a permissionless credit layer with composable Credit Accounts. Users deposit collateral and borrow against it, but the borrowed funds remain inside a Gearbox-controlled account that can interact with whitelisted protocols (Curve, Uniswap, Yearn) — enabling leveraged yield farming with on-chain collateralization.

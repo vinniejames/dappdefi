@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://bridge.metis.io
 twitter: MetisL2
 github: MetisProtocol
-logo: https://example.com/metis-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: metis-bridge
 ---
 
 Metis Bridge is the canonical bridge between Ethereum and Metis, an Optimism-fork Layer-2 with extended features for DAOs and governance. Deposits and withdrawals follow the standard optimistic-rollup challenge model.

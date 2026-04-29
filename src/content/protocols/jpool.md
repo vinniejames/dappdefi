@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jpool.one
 twitter: JPoolSolana
 github: null
-logo: https://example.com/jpool.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: jpool
 ---
 
 JPool is a liquid staking protocol on Solana issuing JSOL, a yield-bearing claim on a pool of stake delegated to JPool's validator set. The product is one of the longer-running Solana LSTs alongside Marinade and Jito.

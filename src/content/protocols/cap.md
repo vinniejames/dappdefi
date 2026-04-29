@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://cap.app
 twitter: capmoney_
 github: null
-logo: https://example.com/cap.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: cap
 ---
 
 Cap is a stablecoin protocol issuing cUSD (the dollar token) and stcUSD (the yield-bearing variant). Operators stake collateral and route deposits through curated yield strategies; in exchange, depositors get a stablecoin with explicit financial guarantees on principal.

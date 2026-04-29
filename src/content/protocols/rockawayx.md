@@ -7,7 +7,7 @@ chains: [Solana, Ethereum, Sei]
 url: https://www.rockawayx.com
 twitter: rockawayxhq
 github: null
-logo: https://example.com/rockawayx.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: rockawayx
 ---
 
 RockawayX is an on-chain asset manager and risk curator running market-neutral yield strategies for institutions on top of underlying lending markets, primarily Morpho. The team underwrites borrowers, structures vault risk envelopes, and manages allocations across DeFi venues.

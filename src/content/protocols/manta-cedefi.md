@@ -7,7 +7,7 @@ chains: [Manta]
 url: https://www.manta.network
 twitter: MantaNetwork
 github: null
-logo: https://example.com/manta-cedefi.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: manta-cedefi
 ---
 
 Manta CeDeFi is a yield platform on Manta Network combining centralized-execution basis trades with on-chain accounting. Users deposit stablecoins or BTC-aligned assets and earn yield from the underlying basis position, similar to Ethena and BounceBit.

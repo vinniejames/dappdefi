@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.swellnetwork.io
 twitter: swellnetworkio
 github: null
-logo: https://example.com/swell-liquid-staking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: swell-liquid-staking
 ---
 
 Swell is a non-custodial liquid staking protocol on Ethereum. Stakers deposit ETH and receive swETH, a yield-bearing LST whose exchange rate appreciates with consensus and execution rewards.

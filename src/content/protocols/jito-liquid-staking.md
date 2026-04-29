@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jito.network
 twitter: jito_sol
 github: jito-foundation
-logo: https://example.com/jito-liquid-staking.jpg
+logo: null
 listed_at: 2022-11-24
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: jito-liquid-staking
 ---
 
 JitoSOL is the dominant liquid staking token on Solana and the first to capture MEV rewards in addition to base staking yield. The Jito network coordinates validators that run the Jito-Solana client, which exposes a transparent off-chain bundle market — those MEV revenues flow back into the JitoSOL exchange rate.

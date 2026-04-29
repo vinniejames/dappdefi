@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://project-0.xyz
 twitter: project0_xyz
 github: null
-logo: https://example.com/project-0.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: project-0
 ---
 
 Project 0 is a DeFi-native prime brokerage on Solana that lets users borrow against their entire DeFi portfolio across multiple venues. The protocol aggregates collateral positions across lending markets, LSTs, and LP positions and extends a unified credit line.

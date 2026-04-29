@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.binance.com/en/collateral-btokens
 twitter: binance
 github: null
-logo: https://example.com/binance-bitcoin.jpg
+logo: null
 listed_at: 2024-08-22
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2020
   maturity: growing
-sources:
-  - external: binance-bitcoin
 ---
 
 Binance Bitcoin (BTCB and the broader bToken family) is Binance's pegged-token program, in which the exchange issues on-chain representations of Bitcoin and other assets backed one-for-one by reserves it holds. BTCB is the most prominent of these and circulates broadly on BNB Chain.

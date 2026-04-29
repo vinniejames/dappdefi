@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.ether.fi
 twitter: ether_fi
 github: etherfi-protocol
-logo: https://example.com/ether.fi-liquid.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: ether.fi-liquid
 ---
 
 ether.fi Liquid is the automated DeFi-strategy vault layer built on top of ether.fi's eETH liquid restaking token. Depositors choose a strategy — looped LSTs, basis trades, lending — and Liquid handles execution and rebalancing across underlying protocols, with eETH as the productive base asset.

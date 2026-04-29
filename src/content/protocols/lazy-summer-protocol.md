@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://summer.fi
 twitter: summerfinance_
 github: OasisDEX
-logo: https://example.com/lazy-summer-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: lazy-summer-protocol
 ---
 
 Lazy Summer is a yield-aggregation product within Summer.fi (formerly Oasis), the long-running DeFi management platform. The protocol routes deposits across high-quality underlying yield venues — Aave, Sky, Spark, Morpho — to deliver passively-managed returns.

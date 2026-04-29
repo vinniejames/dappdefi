@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://blackhole.xyz
 twitter: blackhole_dex
 github: null
-logo: https://example.com/blackhole-clmm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: blackhole-clmm
 ---
 
 Blackhole is a concentrated-liquidity DEX on Avalanche, part of the chain's growing CLMM cohort alongside Pharaoh. The protocol leverages Avalanche's low-latency execution for active market-making and ranges-based liquidity provision.

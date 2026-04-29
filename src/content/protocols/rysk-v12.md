@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://rysk.finance
 twitter: ryskfinance
 github: rysk-finance
-logo: https://example.com/rysk-v12.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: rysk-v12
 ---
 
 Rysk V12 is an options-protocol redesign focused on sustainable yield through systematic option-selling strategies on ETH, BTC, and other volatile assets. Users deposit collateral into Rysk vaults; the protocol writes options against that collateral and distributes premiums back to depositors.

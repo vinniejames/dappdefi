@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://metapool.app
 twitter: meta_pool
 github: Meta-Pool
-logo: https://example.com/meta-pool-eth.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: meta-pool-eth
 ---
 
 Meta Pool ETH is the Ethereum-side liquid staking product within the Meta Pool ecosystem (which started on NEAR). Users deposit ETH and receive a yield-bearing LST whose value tracks the underlying staked ETH plus rewards.

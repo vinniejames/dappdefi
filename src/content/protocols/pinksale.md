@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Polygon, Cronos]
 url: https://www.pinksale.finance
 twitter: Pinksale_Fi
 github: null
-logo: https://example.com/pinksale.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: pinksale
 ---
 
 PinkSale is a multi-chain decentralized launchpad. Project teams deploy a token sale with configurable parameters — bonding-curve presale, fixed-price sale, fairlaunch — and contributors participate from their own wallets without listing the token on a centralized venue first.

@@ -7,7 +7,7 @@ chains: [Near]
 url: https://linearprotocol.org
 twitter: LinearProtocol
 github: null
-logo: https://example.com/linear-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: linear-protocol
 ---
 
 LiNEAR Protocol is a liquid staking protocol on NEAR. Stakers deposit NEAR and receive LiNEAR, a yield-bearing token whose value tracks staking rewards while remaining transferable across NEAR DeFi.

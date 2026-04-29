@@ -7,7 +7,7 @@ chains: [Ethereum, Fraxtal, Arbitrum, Polygon]
 url: https://www.convexfinance.com/
 twitter: ConvexFinance
 github: convex-eth
-logo: https://example.com/convex-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: convex-finance
 ---
 
 Convex is the dominant Curve-yield aggregator. Curve LPs deposit their LP tokens into Convex, which stakes them through a pooled veCRV position to earn boosted CRV emissions. Depositors get the boost without locking CRV themselves, and Convex captures fees in CVX.

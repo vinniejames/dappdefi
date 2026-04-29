@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Klaytn, Berachain, Sonic]
 url: https://www.avalonfinance.xyz
 twitter: avalonfinance_
 github: null
-logo: https://example.com/avalon-usda.jpg
+logo: null
 listed_at: 2024-11-01
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: avalon-usda
 ---
 
 USDa is Avalon Finance's flagship CDP-style stablecoin, minted against a wide range of crypto and CeDeFi-style collateral on Avalon's lending platform. The product blends DeFi composability with off-chain custody arrangements for some collateral assets.

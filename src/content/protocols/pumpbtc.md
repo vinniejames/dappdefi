@@ -7,7 +7,7 @@ chains: [Bitcoin, Binance, Ethereum]
 url: https://www.pumpbtc.xyz
 twitter: Pumpbtcxyz
 github: null
-logo: https://example.com/pumpbtc.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: pumpbtc
 ---
 
 PumpBTC is a liquid restaking solution for Bitcoin, built on top of Babylon. BTC holders deposit and receive pumpBTC, a yield-bearing wrapped token whose value accrues from Babylon-based BTC staking rewards as Babylon secures participating PoS chains.

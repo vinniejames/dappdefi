@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://aave.com
 twitter: aave
 github: aave-dao
-logo: https://example.com/aave-v4.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: aave-v4
 ---
 
 Aave V4 is a modular evolution of the Aave money-market design with a hub-and-spoke architecture: the Hub holds liquidity and risk parameters, while Spokes are individual deployments connected to the Hub for capital efficiency and shared risk management.

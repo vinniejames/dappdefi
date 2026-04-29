@@ -7,7 +7,7 @@ chains: [BSquared, Bitcoin]
 url: https://echo-protocol.xyz
 twitter: Echo_protocol_
 github: null
-logo: https://example.com/echo-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: echo-bridge
 ---
 
 Echo Bridge moves Bitcoin and BTC-aligned assets between the Bitcoin base layer and the BSquared (B²) Network, a Bitcoin Layer-2. It is paired with Echo's broader product suite for restaking, lending, and earning yield on bridged BTC.

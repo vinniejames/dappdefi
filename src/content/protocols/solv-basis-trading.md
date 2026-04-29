@@ -7,7 +7,7 @@ chains: [Binance, Arbitrum, Ethereum, Mantle]
 url: https://app.solv.finance
 twitter: SolvProtocol
 github: null
-logo: https://example.com/solv-basis-trading.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: solv-basis-trading
 ---
 
 Solv Basis Trading is the yield product within the Solv Protocol stack that uses delta-neutral basis trades and hedging strategies to generate consistent low-risk returns on deposited capital. Yield comes from funding-rate income on the futures leg paired with the long underlying position.

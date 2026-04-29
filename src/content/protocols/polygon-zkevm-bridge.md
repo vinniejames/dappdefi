@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://portal.polygon.technology
 twitter: 0xPolygon
 github: 0xPolygonHermez
-logo: https://example.com/polygon-zkevm-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: polygon-zkevm-bridge
 ---
 
 The Polygon zkEVM Bridge is the canonical bridge between Ethereum and Polygon zkEVM, a zero-knowledge validity rollup. Withdrawals settle to L1 once a STARK proof verifies the new state, with no fraud-proof challenge window required.

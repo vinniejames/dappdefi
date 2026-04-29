@@ -7,7 +7,7 @@ chains: [Tron, Ethereum, Binance]
 url: https://sun.io
 twitter: defi_sun
 github: null
-logo: https://example.com/sunx-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sunx-bridge
 ---
 
 SunX Bridge is the deposit and withdrawal layer for SunX, a perpetuals trading platform on Tron. Users bridge assets in to trade on the SunX venue, which positions itself as the leading Tron-based decentralized perp DEX.

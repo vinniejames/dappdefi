@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://hakutora.io
 twitter: hakutora_io
 github: null
-logo: https://example.com/hakutora.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: hakutora
 ---
 
 Hakutora is an asset-management firm that operates risk-curated vaults on top of underlying lending markets. The team focuses on identifying on-chain opportunities and managing the corresponding credit and protocol risk.

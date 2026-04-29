@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.avalonfinance.xyz
 twitter: avalonfinance_
 github: null
-logo: https://example.com/avalon-superearn.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: avalon-superearn
 ---
 
 Avalon Superearn is a yield product within Avalon Finance that displays real-time APY across underlying strategies. It's positioned as the consumer-facing yield interface complementing Avalon's USDa stablecoin and CeDeFi products.

@@ -7,7 +7,7 @@ chains: [Ethereum, Flare, Monad, "Hyperliquid L1", Avalanche]
 url: https://upshift.finance
 twitter: UpshiftFi
 github: null
-logo: https://example.com/upshift.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: upshift
 ---
 
 Upshift is a yield-vault platform offering transparent, risk-controlled cross-chain strategies. Users deposit into Upshift vaults that route capital across underlying yield sources — lending markets, LSTs, structured products — with the risk envelope and target return spelled out per strategy.

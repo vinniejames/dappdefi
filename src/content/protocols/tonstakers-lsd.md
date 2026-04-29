@@ -7,7 +7,7 @@ chains: [TON]
 url: https://tonstakers.com
 twitter: tonstakers
 github: null
-logo: https://example.com/tonstakers-lsd.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: tonstakers-lsd
 ---
 
 Tonstakers is the leading liquid staking protocol on TON (The Open Network). Stakers deposit TON and receive tsTON, a yield-bearing token that accrues TON staking rewards and is usable across TON DeFi venues as productive collateral.

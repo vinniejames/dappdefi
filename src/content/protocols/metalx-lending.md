@@ -7,7 +7,7 @@ chains: [Proton]
 url: https://metalx.com
 twitter: metalpaynow
 github: null
-logo: https://example.com/metalx-lending.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: metalx-lending
 ---
 
 MetalX Lending is the DeFi lending protocol on the XPR Network (formerly Proton). It pairs a standard money-market design with the chain's native USD-stable settlement model, aimed at consumer-finance use cases.

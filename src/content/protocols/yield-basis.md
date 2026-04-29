@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://yieldbasis.com
 twitter: yieldbasis
 github: null
-logo: https://example.com/yield-basis.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: yield-basis
 ---
 
 Yield Basis is a Curve-team protocol that aims to neutralize impermanent loss in AMM pools by structuring LP positions as leveraged loops against the underlying. The headline product turns volatile assets — starting with BTC — into IL-free yield positions for liquidity providers.

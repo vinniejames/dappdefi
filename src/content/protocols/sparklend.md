@@ -7,7 +7,7 @@ chains: [Ethereum, xDai]
 url: https://app.spark.fi/
 twitter: sparkdotfi
 github: marsfoundation/spark-lend
-logo: https://example.com/sparklend.jpg
+logo: null
 listed_at: 2023-05-03
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: sparklend
 ---
 
 SparkLend is the lending market of Spark Protocol, a sub-DAO inside the Sky (formerly MakerDAO) ecosystem. It runs an Aave V3 fork tuned specifically for stablecoin lending, with parameters set by Sky governance rather than the usual utilization-driven curve.

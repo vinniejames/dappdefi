@@ -7,7 +7,7 @@ chains: [Binance, Solana]
 url: https://standx.io
 twitter: StandXdefi
 github: null
-logo: https://example.com/standx-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: standx-bridge
 ---
 
 StandX Bridge is the deposit and withdrawal layer for StandX, a perpetuals DEX live on BNB Chain and Solana. Trader collateral bridges in to the StandX venue, where it backs perpetual positions and earns yield through DUSD, the platform's native yield-bearing dollar.

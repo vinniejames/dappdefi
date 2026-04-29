@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://drift.trade
 twitter: DriftProtocol
 github: drift-labs
-logo: https://example.com/drift-staked-sol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: drift-staked-sol
 ---
 
 Drift Staked SOL (dSOL) is a liquid staking token from Drift Protocol on Solana. Stakers deposit SOL and receive dSOL, a yield-bearing claim that integrates as collateral inside Drift's perps and lending venues alongside the broader Drift product suite.

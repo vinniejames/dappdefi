@@ -7,7 +7,7 @@ chains: [Ethereum, Sui]
 url: https://emberprotocol.xyz
 twitter: ember_protocol
 github: null
-logo: https://example.com/ember-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: ember-protocol
 ---
 
 Ember is an investment platform and infrastructure layer for launching, accessing, and distributing both traditional and on-chain funds. Asset managers configure issuance, subscription, and redemption flows on Ember's contracts; investors interact with a unified front-end across products.

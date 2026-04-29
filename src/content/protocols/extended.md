@@ -7,7 +7,7 @@ chains: [Starknet, Ethereum]
 url: https://app.extended.exchange
 twitter: ExtendedExch
 github: null
-logo: https://example.com/extended.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: extended
 ---
 
 Extended is a perpetuals DEX built on Starknet by an ex-Revolut team. The product targets a pro-trader audience with cross-asset listings — including FX, equities indices, and commodities perps — alongside the standard crypto pairs, all settled on a STARK-validated on-chain order book.

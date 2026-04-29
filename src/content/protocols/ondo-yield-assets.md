@@ -7,7 +7,7 @@ chains: [Ethereum, Ripple, "Plume Mainnet", Solana, Stellar, Sei, Aptos, Mantle,
 url: https://ondo.finance
 twitter: OndoFinance
 github: ondoprotocol
-logo: https://example.com/ondo-yield-assets.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: hybrid
   launched: 2023
   maturity: established
-sources:
-  - external: ondo-yield-assets
 ---
 
 Ondo issues a family of tokenized yield-bearing products that wrap short-term U.S. Treasuries — most notably USDY (a permissionless, retail-oriented note) and OUSG (an institutional money-market token). Each represents a claim on an off-chain bond portfolio managed under regulated structures.

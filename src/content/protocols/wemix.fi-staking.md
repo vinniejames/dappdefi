@@ -7,7 +7,7 @@ chains: [WEMIX]
 url: https://wemix.fi
 twitter: WemixFi
 github: null
-logo: https://example.com/wemix.fi-staking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2023
   maturity: growing
-sources:
-  - external: wemix.fi-staking
 ---
 
 WEMIX.FI Staking is the staking and yield platform on the WEMIX gaming-focused Layer-1. Users stake supported assets and earn rewards from a curated set of staking products guaranteed by the WEMIX foundation.

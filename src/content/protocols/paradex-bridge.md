@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.paradex.trade
 twitter: tradeparadex
 github: null
-logo: https://example.com/paradex-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: paradex-bridge
 ---
 
 Paradex Bridge is the deposit and withdrawal layer for Paradex, a high-performance perpetuals DEX from the Paradigm team built on a Starknet appchain. Trader collateral bridges in to back perpetual positions on Paradex's order-book venue.

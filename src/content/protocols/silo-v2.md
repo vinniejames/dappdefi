@@ -7,7 +7,7 @@ chains: [Arbitrum, Sonic, Avalanche]
 url: https://www.silo.finance
 twitter: SiloFinance
 github: silo-finance
-logo: https://example.com/silo-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: silo-v2
 ---
 
 Silo creates permissionless, risk-isolated lending markets — each "silo" pairs a single asset with a base asset (USDC or ETH) and contains its own borrow/lend pool. Risk is contained: a bad debt event in one silo cannot contaminate others.

@@ -7,7 +7,7 @@ chains: [Cardano]
 url: https://minswap.org
 twitter: MinswapDEX
 github: minswap
-logo: https://example.com/minswap-dex.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: minswap-dex
 ---
 
 Minswap is the leading DEX on Cardano. The platform integrates multiple pool models — constant product, stableswap, weighted pools — under one venue, and remains one of Cardano's largest DeFi protocols by volume.

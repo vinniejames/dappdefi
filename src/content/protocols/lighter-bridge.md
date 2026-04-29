@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum]
 url: https://app.lighter.xyz/
 twitter: Lighter_xyz
 github: null
-logo: https://example.com/lighter-bridge.jpg
+logo: null
 listed_at: 2025-04-14
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: lighter-bridge
 ---
 
 Lighter Bridge is the deposit and withdrawal pathway for Lighter, a zk-rollup-based decentralized exchange that aims to deliver centralized-exchange-grade matching and liquidations with on-chain verifiability. Funds bridged in become collateral for trading on Lighter's order book.

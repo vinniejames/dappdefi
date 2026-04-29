@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://marinade.finance
 twitter: MarinadeFinance
 github: marinade-finance
-logo: https://example.com/marinade-liquid-staking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: marinade-liquid-staking
 ---
 
 Marinade is the original Solana liquid staking protocol, issuing mSOL — a non-rebasing LST whose exchange rate against SOL appreciates with staking rewards. Stake is distributed across hundreds of Solana validators selected by Marinade's delegation algorithm to maximize decentralization.

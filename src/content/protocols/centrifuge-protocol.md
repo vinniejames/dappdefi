@@ -7,7 +7,7 @@ chains: [Ethereum, Avalanche, "Plume Mainnet", Base, Binance, Optimism]
 url: https://centrifuge.io
 twitter: centrifuge
 github: centrifuge
-logo: https://example.com/centrifuge-protocol.jpg
+logo: null
 listed_at: 2024-08-01
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: hybrid
   launched: 2020
   maturity: established
-sources:
-  - external: centrifuge-protocol
 ---
 
 Centrifuge is a tokenization platform that bridges off-chain assets — invoices, real-estate loans, structured credit — into composable on-chain pools. Asset originators set up pools with senior and junior tranches; investors deposit into the tranche that matches their risk preference and earn yield as borrowers repay.

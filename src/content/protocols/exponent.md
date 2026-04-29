@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://app.exponent.finance
 twitter: exponent_fi
 github: null
-logo: https://example.com/exponent.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: exponent
 ---
 
 Exponent is a yield-tokenization protocol on Solana similar in design to Pendle on Ethereum. Yield-bearing tokens are split into Principal and Yield components that trade independently, letting holders lock in fixed rates by selling Yield tokens or take leveraged yield exposure by buying them.

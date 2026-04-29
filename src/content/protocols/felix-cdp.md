@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://felix.market
 twitter: felixmarket
 github: null
-logo: https://example.com/felix-cdp.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: felix-cdp
 ---
 
 Felix CDP is a synthetic-dollar protocol on Hyperliquid L1. Users deposit collateral and mint a stablecoin against it; the issuance and stability mechanics follow standard CDP semantics adapted to Hyperliquid's economics.

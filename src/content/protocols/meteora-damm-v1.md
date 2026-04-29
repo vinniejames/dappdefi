@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://meteora.ag
 twitter: MeteoraAG
 github: MeteoraAg
-logo: https://example.com/meteora-damm-v1.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: meteora-damm-v1
 ---
 
 Meteora DAMM V1 is the original Dynamic AMM design from Meteora, focused on stable and pegged-asset pools on Solana. It complements Meteora's DLMM concentrated-liquidity engine and the V2 dynamic AMM.

@@ -7,7 +7,7 @@ chains: [Ethereum, Plasma, Avalanche, Arbitrum]
 url: https://k3capital.io
 twitter: k3capital
 github: null
-logo: https://example.com/k3-capital.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: k3-capital
 ---
 
 K3 Capital is an institutional asset and risk manager operating in DeFi, running curated vault strategies on top of underlying lending markets such as Morpho. The team underwrites borrowers and risk parameters, and depositors choose K3-curated vaults that match their risk profile.

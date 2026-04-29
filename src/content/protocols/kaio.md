@@ -7,7 +7,7 @@ chains: [Sui, Sei, "Immutable zkEVM"]
 url: https://kaio.finance
 twitter: KAIOfinance
 github: null
-logo: https://example.com/kaio.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: kaio
 ---
 
 KAIO (formerly Libre Capital) issues regulated tokenized RWAs designed to interoperate with permissionless DeFi. The platform handles the legal and compliance wrapper for each product, while the on-chain tokens remain composable with lending markets and DEXs that integrate them.

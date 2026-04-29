@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://stake.link
 twitter: stakedotlink
 github: null
-logo: https://example.com/stake.link-liquid.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: stake.link-liquid
 ---
 
 stake.link is a liquid staking protocol focused on Chainlink (LINK) and other oracle-network tokens. Users stake LINK and receive a yield-bearing token whose value tracks the underlying staked position plus rewards.

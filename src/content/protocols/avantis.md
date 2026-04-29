@@ -7,7 +7,7 @@ chains: [Base]
 url: https://avantisfi.com
 twitter: AvantisFi
 github: null
-logo: https://example.com/avantis.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: avantis
 ---
 
 Avantis is a perpetuals DEX on Base offering advanced risk management for liquidity providers, loss-protection mechanics for traders, and a wide selection of perpetual markets. The product is part of Base's growing on-chain derivatives landscape.

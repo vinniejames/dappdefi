@@ -7,7 +7,7 @@ chains: [Algorand]
 url: https://vestaequity.io
 twitter: VestaEquity
 github: null
-logo: https://example.com/vesta-equity.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2022
   maturity: growing
-sources:
-  - external: vesta-equity
 ---
 
 Vesta Equity tokenizes home-equity investments on Algorand. Investors buy fractional, regulatory-compliant tokens representing equity stakes in verified residential properties, with returns tied to the underlying property's appreciation and rental cash flows.

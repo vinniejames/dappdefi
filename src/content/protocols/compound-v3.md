@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Base, Optimism, Polygon, Mantle]
 url: https://v3-app.compound.finance/
 twitter: compoundfinance
 github: compound-finance/comet
-logo: https://example.com/compound-v3.png
+logo: null
 listed_at: 2022-09-14
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: compound-v3
 ---
 
 Compound V3 simplifies the original Compound design around a single base asset per market. Each deployment lets users borrow exactly one asset (USDC, ETH, etc.) against a curated set of collateral, with all interest, liquidation, and reward logic concentrated in one contract.

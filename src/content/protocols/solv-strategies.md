@@ -7,7 +7,7 @@ chains: [Binance, Avalanche, Ethereum]
 url: https://app.solv.finance
 twitter: SolvProtocol
 github: null
-logo: https://example.com/solv-strategies.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: solv-strategies
 ---
 
 Solv Strategies is the curated yield-strategy layer on top of Solv Protocol. Users deposit BTC-aligned assets and Solv routes them through automated strategies — liquidity provision, lending, basis trades — across CeFi and DeFi venues.

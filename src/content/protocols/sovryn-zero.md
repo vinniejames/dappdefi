@@ -7,7 +7,7 @@ chains: [RSK]
 url: https://sovryn.com
 twitter: SovrynBTC
 github: DistributedCollective
-logo: https://example.com/sovryn-zero.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: sovryn-zero
 ---
 
 Sovryn Zero is the BTC-collateralized 0% interest borrowing protocol within the Sovryn ecosystem on RSK. It is a Liquity V1 fork: borrowers post BTC collateral and mint ZUSD at 0% interest, paying only a one-time issuance fee.

@@ -7,7 +7,7 @@ chains: [Filecoin, Base]
 url: https://glif.io
 twitter: glifio
 github: glifio
-logo: https://example.com/glif.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: glif
 ---
 
 GLIF is the on-chain credit and liquid-staking layer for Filecoin's storage-provider network. Liquidity providers deposit FIL into the pool; storage providers borrow against their pledged storage to scale operations, and LPs earn yield from the borrow demand.

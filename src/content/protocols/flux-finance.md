@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://fluxfinance.com
 twitter: fluxdefi
 github: null
-logo: https://example.com/flux-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: hybrid
   launched: 2023
   maturity: growing
-sources:
-  - external: flux-finance
 ---
 
 Flux Finance is a Compound V2 fork that supports permissioned RWA collateral such as Ondo's OUSG. Borrowers post the permissioned collateral and borrow stablecoins; lenders supply USDC and earn yield from the institutional borrow demand.

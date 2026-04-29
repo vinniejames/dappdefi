@@ -7,7 +7,7 @@ chains: [Ethereum, Mantle, Arbitrum, Optimism, Base]
 url: https://yieldlayer.cian.app/
 twitter: CIAN_protocol
 github: null
-logo: https://example.com/cian-yield-layer.jpg
+logo: null
 listed_at: 2024-11-18
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: cian-yield-layer
 ---
 
 CIAN Yield Layer is a multi-chain yield-aggregation product that redistributes capital across underlying DeFi yield sources — lending markets, LSTs, structured products — to optimize rate and risk. Each vault has a target strategy and rebalances as market conditions change.

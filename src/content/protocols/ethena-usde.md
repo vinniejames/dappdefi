@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.ethena.fi/
 twitter: ethena_labs
 github: ethena-labs/ethena
-logo: https://example.com/ethena-usde.png
+logo: null
 listed_at: 2024-02-15
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: ethena-usde
 ---
 
 Ethena's USDe is a synthetic dollar that maintains its peg through a delta-neutral position rather than fiat reserves. Users deposit ETH or staked-ETH; the protocol then opens an equal-and-opposite short on perpetual futures venues so that the long collateral plus the short futures position together hold a stable USD value.

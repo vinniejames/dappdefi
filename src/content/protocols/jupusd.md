@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jup.ag
 twitter: JupiterExchange
 github: null
-logo: https://example.com/jupusd.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: jupusd
 ---
 
 JupUSD is a Solana-native, reserve-backed stablecoin pegged to the U.S. dollar, built by Jupiter in partnership with Ethena. The product combines Ethena's basis-trade economics with Jupiter's distribution and DeFi product line on Solana.

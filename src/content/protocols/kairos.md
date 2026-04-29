@@ -19,8 +19,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: kairos
 ---
 
 Kairos is an on-chain interest-rate-swap protocol. Borrowers and lenders use it to lock in fixed rates against variable underlying yields, hedge their interest-rate exposure, or take leveraged directional positions on where rates are headed — with a perps-style trading UX rather than the principal/yield-token split that Pendle uses.

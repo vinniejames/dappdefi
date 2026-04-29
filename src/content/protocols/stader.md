@@ -7,7 +7,7 @@ chains: [Ethereum, Hedera, Binance, Fantom, Terra2]
 url: https://staderlabs.com
 twitter: staderlabs
 github: stader-labs
-logo: https://example.com/stader.png
+logo: null
 listed_at: 2021-12-18
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: stader
 ---
 
 Stader is a multi-chain liquid staking platform. Its flagship Ethereum product, ETHx, is a permissionless LST with a node-operator marketplace that requires only a small ETH bond plus SD collateral, in the spirit of Rocket Pool. Stader also offers LSTs for BNB, MATIC, HBAR, and other PoS networks.

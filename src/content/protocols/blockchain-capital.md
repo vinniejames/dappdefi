@@ -7,7 +7,7 @@ chains: ["zkSync Era"]
 url: https://www.blockchaincapital.com/
 twitter: blockchaincap
 github: null
-logo: https://example.com/blockchain-capital.jpg
+logo: null
 listed_at: 2025-09-09
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2017
   maturity: growing
-sources:
-  - external: blockchain-capital
 ---
 
 BCAP is a tokenized fractional interest in Blockchain Capital's Digital Liquid Venture fund, one of the original tokenized venture-fund securities. Holders gain non-voting economic exposure to a portfolio of crypto-native venture investments managed by Blockchain Capital.

@@ -7,7 +7,7 @@ chains: [Ethereum, Lisk, Binance]
 url: https://mellow.finance
 twitter: Mellowprotocol
 github: null
-logo: https://example.com/mellow-restaking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: mellow-restaking
 ---
 
 Mellow Restaking is the LRT-issuance arm built on top of the Mellow vault framework. Vault operators deploy custom LRT vaults that stake into EigenLayer, Symbiotic, and other restaking protocols, with each vault expressing its own AVS selection and risk policy.

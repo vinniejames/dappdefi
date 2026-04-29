@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://pump.fun
 twitter: pumpdotfun
 github: null
-logo: https://example.com/pumpswap.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: pumpswap
 ---
 
 PumpSwap is the native AMM for pump.fun, the dominant memecoin launchpad on Solana. After a token graduates from pump.fun's bonding curve, its liquidity migrates to PumpSwap pools where ongoing trading happens at standard AMM economics.

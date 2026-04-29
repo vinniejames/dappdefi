@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://app.scallop.io
 twitter: Scallop_io
 github: scallop-io
-logo: https://example.com/scallop-lend.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: scallop-lend
 ---
 
 Scallop is a money-market protocol on Sui with an institutional-quality risk framework and a strong focus on capital efficiency. The platform supports isolated pools and a unified risk dashboard for cross-asset exposure.

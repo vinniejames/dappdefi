@@ -7,7 +7,7 @@ chains: [Ethereum, Solana, Binance, Algorand, Polygon, Base]
 url: https://portalbridge.com
 twitter: portalbridge_
 github: wormhole-foundation/wormhole
-logo: https://example.com/portal.png
+logo: null
 listed_at: 2022-03-13
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: portal
 ---
 
 Portal is the asset-bridge front-end for Wormhole, one of the longest-running general-purpose interoperability protocols. Users lock tokens on a source chain and mint a Wormhole-wrapped representation on a destination chain; redemption burns the wrapped token and unlocks the original.

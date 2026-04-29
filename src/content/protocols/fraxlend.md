@@ -7,7 +7,7 @@ chains: [Ethereum, Fraxtal, Arbitrum]
 url: https://app.frax.finance
 twitter: fraxfinance
 github: FraxFinance
-logo: https://example.com/fraxlend.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: fraxlend
 ---
 
 Fraxlend lets anyone create an isolated lending market between any pair of ERC-20 tokens. Each market has its own risk parameters, oracle, and rate model — similar in spirit to Morpho Blue's permissionless market creation.

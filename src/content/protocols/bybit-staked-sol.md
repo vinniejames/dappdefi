@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.bybit.com
 twitter: Bybit_Official
 github: null
-logo: https://example.com/bybit-staked-sol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: bybit-staked-sol
 ---
 
 Bybit Staked SOL is Bybit's exchange-issued LST for Solana, similar in pattern to Binance's BNSOL and Coinbase's cbETH. Users stake SOL on Bybit and receive a tokenized claim that accrues staking rewards through an exchange-rate appreciation model.

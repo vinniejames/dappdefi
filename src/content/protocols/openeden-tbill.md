@@ -7,7 +7,7 @@ chains: [Ethereum, Ripple, Solana, Arbitrum]
 url: https://openeden.com
 twitter: OpenEden_HQ
 github: null
-logo: https://example.com/openeden-tbill.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2023
   maturity: established
-sources:
-  - external: openeden-tbill
 ---
 
 OpenEden TBILL is a Moody's-rated tokenized U.S. Treasury Bill product. Holders gain 24/7 on-chain access to short-duration T-Bills, with BNY Mellon as the underlying manager and custodian and a smart-contract vault as the issuance and redemption layer.

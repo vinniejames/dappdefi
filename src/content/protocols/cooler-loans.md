@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.olympusdao.finance
 twitter: OlympusDAO
 github: OlympusDAO
-logo: https://example.com/cooler-loans.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: cooler-loans
 ---
 
 Cooler Loans is OlympusDAO's native lending product. gOHM holders deposit gOHM as collateral and borrow stablecoins at a fixed 0.5% APR with predictable terms — a long-duration, low-rate facility funded by the Olympus treasury.

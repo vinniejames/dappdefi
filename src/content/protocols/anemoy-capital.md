@@ -7,7 +7,7 @@ chains: [Ethereum, Celo, Base]
 url: https://www.anemoy.io
 twitter: anemoycapital
 github: null
-logo: https://example.com/anemoy-capital.png
+logo: null
 listed_at: 2024-12-09
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: anemoy-capital
 ---
 
 Anemoy Capital is an on-chain asset manager built on Centrifuge that runs tokenized funds backed by short-term U.S. Treasuries, structured credit, and other fixed-income strategies. Each fund is issued as an on-chain token redeemable against the underlying portfolio.

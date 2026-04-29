@@ -7,7 +7,7 @@ chains: [HydraDX]
 url: https://hydration.net
 twitter: hydration_net
 github: galacticcouncil
-logo: https://example.com/hydration-lending.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: hydration-lending
 ---
 
 Hydration Lending is the lending arm of Hydration (formerly HydraDX), a Polkadot-based DeFi hub. The protocol pairs Hydration's omnipool AMM with a money-market layer, sharing collateral and liquidity across the same liquidity surface.

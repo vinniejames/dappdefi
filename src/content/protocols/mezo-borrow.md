@@ -7,7 +7,7 @@ chains: [Mezo]
 url: https://mezo.org
 twitter: MezoNetwork
 github: null
-logo: https://example.com/mezo-borrow.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: mezo-borrow
 ---
 
 Mezo Borrow is the CDP-style borrowing product on the Mezo network. Users post Bitcoin (via tBTC or other Bitcoin-pegged collateral) and mint MUSD, Mezo's native stablecoin, paying a stability fee set by Mezo governance.

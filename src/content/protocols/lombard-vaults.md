@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Binance]
 url: https://www.lombard.finance
 twitter: Lombard_Finance
 github: null
-logo: https://example.com/lombard-vaults.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: lombard-vaults
 ---
 
 Lombard Vaults are curated DeFi vaults that put LBTC to work across yield strategies — lending, liquidity provision, structured products. LBTC holders deposit into a vault appropriate for their risk preference and the protocol handles execution and rebalancing.

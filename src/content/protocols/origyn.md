@@ -7,7 +7,7 @@ chains: [ICP]
 url: https://www.origyn.com
 twitter: ORIGYN_Found
 github: ORIGYN-SA
-logo: https://example.com/origyn.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2021
   maturity: growing
-sources:
-  - external: origyn
 ---
 
 ORIGYN is a tokenization protocol on the Internet Computer (ICP) focused on luxury goods, art, and other physical objects of value. Each item is represented by an ORIGYN-certified NFT containing provenance metadata and authentication.

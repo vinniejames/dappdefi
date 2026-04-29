@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Merlin, BOB, Binance]
 url: https://app.bedrock.technology/
 twitter: Bedrock_DeFi
 github: null
-logo: https://example.com/bedrock-unibtc.jpg
+logo: null
 listed_at: 2024-10-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: bedrock-unibtc
 ---
 
 uniBTC is Bedrock's Bitcoin liquid restaking token, a tokenized representation of BTC staked through Babylon to secure participating PoS networks. Holders earn restaking yield while keeping a transferable, DeFi-composable wrapper.

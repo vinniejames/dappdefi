@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://manta.network
 twitter: MantaNetwork
 github: Manta-Network
-logo: https://example.com/manta-pacific.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: manta-pacific
 ---
 
 Manta Pacific is the canonical bridge between Ethereum and Manta Pacific Chain, an OP Stack rollup with Celestia data availability. The bridge is the entry point for capital into Manta's DeFi ecosystem.

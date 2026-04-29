@@ -7,7 +7,7 @@ chains: [Pulse]
 url: https://pulsex.com
 twitter: pulsexcom
 github: null
-logo: https://example.com/pulsex-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: pulsex-v2
 ---
 
 PulseX V2 is the second-generation DEX on PulseChain, layering concentrated-liquidity pools on top of the V1 Uniswap V2-style AMM. It remains the dominant trading venue on Pulse.

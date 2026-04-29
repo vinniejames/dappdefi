@@ -7,7 +7,7 @@ chains: [Ethereum, Solana, Moonbeam, Moonriver, Terra]
 url: https://lido.fi/
 twitter: LidoFinance
 github: lidofinance/lido-dao
-logo: https://example.com/lido.png
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: lido
 ---
 
 Lido is the largest liquid staking protocol on Ethereum, letting holders stake ETH without running a validator and without locking it up. Deposits are split across a diverse set of professional node operators selected by Lido governance, and stakers receive stETH — a rebasing token that tracks the deposit plus daily consensus and execution rewards.

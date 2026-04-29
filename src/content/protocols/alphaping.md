@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://alphaping.com
 twitter: AlphaPingDAO
 github: null
-logo: https://example.com/alphaping.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: alphaping
 ---
 
 AlphaPing is a risk-curator firm specializing in DeFi lending vault management and capital allocation. The team operates curated vaults on top of underlying lending markets, focusing on systematic risk underwriting for institutional and prosumer depositors.

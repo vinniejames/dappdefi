@@ -7,7 +7,7 @@ chains: [Flare]
 url: https://kinetic.market
 twitter: kinetic_market
 github: null
-logo: https://example.com/kinetic.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: kinetic
 ---
 
 Kinetic is a money-market protocol on Flare with an additional work-to-earn layer that lets participants earn protocol incentives by performing useful tasks (running keepers, providing data, etc.). The lending side is a standard pooled, utilization-driven model.

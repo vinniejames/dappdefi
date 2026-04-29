@@ -14,10 +14,6 @@ const tagsSchema = z.object({
   maturity: z.enum(['established', 'growing', 'new']).optional(),
 });
 
-const sourceSchema = z.object({
-  external: z.string().optional(),
-});
-
 const protocolsCollection = defineCollection({
   type: 'content',
   schema: z.object({
@@ -40,7 +36,6 @@ const protocolsCollection = defineCollection({
     //   sponsored — Google-compliant paid disclosure
     link_type: z.enum(['nofollow', 'follow', 'sponsored']).default('nofollow'),
     tags: tagsSchema,
-    sources: z.array(sourceSchema).default([]),
   }),
 });
 

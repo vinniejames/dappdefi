@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://app.venus.io
 twitter: VenusProtocol
 github: VenusProtocol
-logo: https://example.com/venus-flux.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: venus-flux
 ---
 
 Venus Flux is the unified-liquidity lending product within the Venus ecosystem on BNB Chain. Suppliers deposit assets into a shared liquidity layer that backs multiple lending strategies, complementing Venus's Core Pool and Isolated Pools products.

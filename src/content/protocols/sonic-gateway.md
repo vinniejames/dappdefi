@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://gateway.soniclabs.com
 twitter: SonicLabs
 github: null
-logo: https://example.com/sonic-gateway.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sonic-gateway
 ---
 
 Sonic Gateway is the canonical bridge between Ethereum and Sonic, the high-throughput EVM L1 from the team formerly behind Fantom. The bridge is the primary entry point for capital into Sonic's DeFi ecosystem and is the chain's largest TVL surface.

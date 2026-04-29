@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://marinade.finance/app/native-staking
 twitter: MarinadeFinance
 github: marinade-finance
-logo: https://example.com/marinade-native.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: marinade-native
 ---
 
 Marinade Native is a non-custodial Solana staking product that delegates user SOL to Marinade's curated validator set without going through the LST contract. Users keep their stake account directly in their wallet — there's no smart-contract intermediary holding the position — and pay no protocol fee.

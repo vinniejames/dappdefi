@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.sky.money/
 twitter: SkyEcosystem
 github: makerdao/dss
-logo: https://example.com/sky-lending.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sky-lending
 ---
 
 Sky Lending is the rebranded core lending engine of the Sky ecosystem, formerly MakerDAO. Borrowers lock collateral into vaults and mint USDS — the upgraded successor to DAI — paying a stability fee set by Sky governance rather than a utilization-driven rate.

@@ -7,7 +7,7 @@ chains: [BSquared, Ethereum, Base]
 url: https://termmax.finance
 twitter: TermMaxFinance
 github: null
-logo: https://example.com/termmax.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: termmax
 ---
 
 TermMax is a fixed-rate, fixed-maturity lending AMM. Borrowers and lenders interact with bond-like positions that have a defined interest rate and maturity date, and the protocol provides one-click leverage on top of the same primitives.

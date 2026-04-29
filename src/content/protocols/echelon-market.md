@@ -7,7 +7,7 @@ chains: [Aptos, "Echelon Chain"]
 url: https://echelon.market
 twitter: EchelonMarket
 github: null
-logo: https://example.com/echelon-market.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: echelon-market
 ---
 
 Echelon Market is a money-market protocol on Aptos and the Aptos-aligned Echelon Chain. It runs a Compound-style algorithmic interest-rate model with shared collateral across listed Move-ecosystem assets.

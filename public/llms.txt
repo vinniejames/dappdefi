@@ -1,6 +1,6 @@
 # Dapp DeFi
 
-> An open-source, markdown-driven directory of 500+ DeFi protocols, organized by what they actually do (lending, DEX, perps, liquid staking, restaking, RWA, etc.) rather than by chain. Every entry has a hand-written description, a structured tag block (governance, custody, audit status, launch year, custody model, permissions), and links out. Discovery uses external's API; descriptions are original to this directory.
+> An open-source, markdown-driven directory of 500+ DeFi protocols, organized by what they actually do (lending, DEX, perps, liquid staking, restaking, RWA, etc.) rather than by chain. Every entry has an original, hand-written description, a structured tag block (governance, custody, audit status, launch year, custody model, permissions), and links out.
 
 ## Categories
 
@@ -32,11 +32,8 @@
 - [Pendle](https://dappdefi.com/protocols/pendle/): Dominant venue for trading tokenized future yield (PT/YT)
 - [Lido](https://dappdefi.com/protocols/lido/): Largest liquid staking protocol on Ethereum; issues stETH
 
-## Discovery
-
-- [external /protocols API](https://example.com/protocols): Source of truth for protocol existence, chains, TVL, and external categories. Used as a discovery layer only — descriptions and metadata in this directory are original.
-
 ## Project
 
 - [GitHub repository](https://github.com/vinniejames/dappdefi): Open-source. PRs welcome — every protocol is a markdown file in `src/content/protocols/`.
 - [Contributing guide](https://github.com/vinniejames/dappdefi#contributing--add-or-edit-your-projects-page): Template and instructions for adding or editing a project's page.
+- [RSS feed](https://dappdefi.com/rss.xml): Recently added protocols.

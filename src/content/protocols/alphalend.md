@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://alphalend.xyz
 twitter: AlphaLend
 github: null
-logo: https://example.com/alphalend.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: alphalend
 ---
 
 AlphaLend is a non-custodial pool-based lending protocol on Sui from the team behind AlphaFi (a Sui DeFi product suite). Suppliers deposit assets into shared pools to earn yield; borrowers post collateral and borrow against the pools at utilization-driven rates.

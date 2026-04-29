@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://www.naviprotocol.io
 twitter: navi_protocol
 github: naviprotocol
-logo: https://example.com/navi-lending.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: navi-lending
 ---
 
 NAVI is the leading lending protocol on Sui, offering overcollateralized lending and borrowing of SUI, USDC, USDT, wETH, and wBTC. The protocol supports isolated pools, flash loans, and looping strategies on top of the standard money-market base layer.

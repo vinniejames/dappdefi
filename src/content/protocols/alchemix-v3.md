@@ -7,7 +7,7 @@ chains: [Ethereum, Optimism, Arbitrum]
 url: https://alchemix.fi
 twitter: alchemixfi
 github: alchemix-finance
-logo: https://example.com/alchemix-v3.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: alchemix-v3
 ---
 
 Alchemix V3 is the third version of the protocol that pioneered "self-repaying loans." Users deposit yield-bearing collateral and mint synthetic tokens (alUSD, alETH) against it; the underlying yield is automatically used to pay down the debt over time.

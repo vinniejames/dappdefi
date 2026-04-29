@@ -7,7 +7,7 @@ chains: [Solana, Arbitrum]
 url: https://defi.xstocks.fi/
 twitter: xStocksFi
 github: null
-logo: https://example.com/xstocks.jpg
+logo: null
 listed_at: 2025-07-01
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: hybrid
   launched: 2025
   maturity: new
-sources:
-  - external: xstocks
 ---
 
 xStocks is a tokenized-equities platform that issues 1:1-backed on-chain representations of U.S.-listed stocks. Tokens are freely transferable and composable in DeFi — they can be used as collateral in lending markets, traded on DEXs, or held in self-custodied wallets.

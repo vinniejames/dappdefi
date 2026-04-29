@@ -7,7 +7,7 @@ chains: [BSquared]
 url: https://www.bsquared.network
 twitter: BSquaredNetwork
 github: null
-logo: https://example.com/buzz-farming.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: buzz-farming
 ---
 
 Buzz Farming is the yield-aggregation arm of B² Network, a Bitcoin Layer-2. It partners with major BTCFi protocols — Babylon, Lombard, Bedrock — to surface multi-strategy yield options where users can deposit BTC-denominated assets and earn restaking and DeFi yields through B²'s farming framework.

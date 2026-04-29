@@ -7,7 +7,7 @@ chains: [Bitcoin, zkLink]
 url: https://ailayer.xyz
 twitter: AILayerXYZ
 github: null
-logo: https://example.com/ailayer-farm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: ailayer-farm
 ---
 
 AILayer farm is the staking and yield program for AILayer, a Bitcoin-aligned Layer-2 with AI tooling integrations. Users stake supported assets into the AILayer Dataset to earn yield and protocol points, with TVL counted toward the network's launch incentives.

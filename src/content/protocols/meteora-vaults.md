@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://meteora.ag
 twitter: MeteoraAG
 github: MeteoraAg
-logo: https://example.com/meteora-vaults.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: meteora-vaults
 ---
 
 Meteora's Dynamic Yield Layer is a vault framework that lets protocols, wallets, and treasuries deploy idle capital into yield strategies on Solana. Vaults rebalance across underlying lending markets and other yield sources to capture the best available rate.

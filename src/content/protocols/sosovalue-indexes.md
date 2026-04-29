@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Doge]
 url: https://sosovalue.com
 twitter: SoSoValueCrypto
 github: null
-logo: https://example.com/sosovalue-indexes.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sosovalue-indexes
 ---
 
 The SoSoValue Indexes (SSI) Protocol is a spot-index product that lets investors hold themed crypto baskets — DeFi index, AI index, memecoin index — through a single token. Each index rebalances on a schedule under transparent on-chain rules.

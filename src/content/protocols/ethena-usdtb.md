@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://usdtb.money
 twitter: ethena_labs
 github: null
-logo: https://example.com/ethena-usdtb.jpg
+logo: null
 listed_at: 2024-12-16
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: ethena-usdtb
 ---
 
 USDtb is Ethena's RWA-backed dollar token, distinct from its synthetic-dollar USDe. USDtb is backed primarily by BlackRock's BUIDL and other tokenized U.S. Treasury exposure, giving Ethena a fully-collateralized fiat-pegged stablecoin alongside its delta-neutral USDe.

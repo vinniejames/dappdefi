@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://ssv.network/
 twitter: ssv_network
 github: ssvlabs/ssv
-logo: https://example.com/ssv-network.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: ssv-network
 ---
 
 SSV Network is the infrastructure layer for Distributed Validator Technology (DVT) on Ethereum. Instead of one machine running an Ethereum validator, SSV splits a validator's signing key across multiple independent operators using threshold cryptography, so a single faulty or malicious node cannot compromise it.

@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://hastra.io
 twitter: HastraFinance
 github: null
-logo: https://example.com/hastra.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: hastra
 ---
 
 Hastra is a Solana-native RWA protocol that connects institutional-grade off-chain credit and structured products to on-chain capital. Asset originators tokenize positions through Hastra's structuring contracts; investors deposit and earn yield on the underlying off-chain cash flows.

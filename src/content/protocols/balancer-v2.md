@@ -7,7 +7,7 @@ chains: [Ethereum, Polygon, Arbitrum]
 url: https://balancer.fi
 twitter: Balancer
 github: balancer/balancer-v2-monorepo
-logo: https://example.com/balancer-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: balancer-v2
 ---
 
 Balancer V2 is the second-generation programmable-liquidity AMM. The single-vault architecture lets new pool types — weighted, stable, boosted, composable stable — share liquidity infrastructure rather than each implementing it from scratch.

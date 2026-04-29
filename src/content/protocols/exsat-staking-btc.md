@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.exsat.network
 twitter: exsatnetwork
 github: null
-logo: https://example.com/exsat-staking-btc.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: exsat-staking-btc
 ---
 
 exSat Staking BTC is the EVM-compatible wrapped Bitcoin token of exSat, a Bitcoin scaling network. BTC staked through exSat's contracts is represented 1:1 on-chain and can be used as collateral and trading asset across the chain's DeFi venues.

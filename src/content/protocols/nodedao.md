@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.nodedao.com
 twitter: Node_DAO
 github: NodeDAO-Official
-logo: https://example.com/nodedao.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: nodedao
 ---
 
 NodeDAO is a liquid staking platform on Ethereum. Users deposit ETH and the protocol stakes through a curated operator set, issuing a yield-bearing token that tracks staking rewards.

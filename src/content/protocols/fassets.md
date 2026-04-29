@@ -7,7 +7,7 @@ chains: [Ripple, Flare]
 url: https://flare.network/fassets
 twitter: FlareNetworks
 github: flare-foundation
-logo: https://example.com/fassets.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: fassets
 ---
 
 FAssets is Flare Network's trustless, over-collateralized bridge protocol that brings non-smart-contract assets — XRP, BTC, DOGE, and others — onto Flare as wrapped representations usable in DeFi. Asset agents lock the underlying on the source chain and post FLR collateral; bridged tokens (e.g. FXRP) circulate on Flare.

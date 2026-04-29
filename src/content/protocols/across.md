@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://across.to
 twitter: AcrossProtocol
 github: across-protocol
-logo: https://example.com/across.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: across
 ---
 
 Across is a fast cross-chain bridge that combines an optimistic-oracle settlement layer (UMA) with bonded relayers and single-sided liquidity. Relayers front the destination-chain funds for fast user transfers, then claim back from the source-chain pool after the optimistic-oracle window verifies validity.

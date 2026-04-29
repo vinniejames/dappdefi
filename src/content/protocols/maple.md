@@ -7,7 +7,7 @@ chains: [Ethereum, Solana]
 url: https://www.maple.finance
 twitter: maplefinance
 github: maple-labs
-logo: https://example.com/maple.png
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: hybrid
   launched: 2021
   maturity: growing
-sources:
-  - external: maple
 ---
 
 Maple is an institutional credit marketplace that lets pool delegates underwrite loans to vetted corporate borrowers — primarily market makers, trading firms, and on-chain businesses. Lenders deposit into specific delegate-managed pools, choose among credit terms, and receive yield from the loans those delegates originate.

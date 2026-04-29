@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://ao.computer
 twitter: aoTheComputer
 github: permaweb
-logo: https://example.com/ao-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: ao-bridge
 ---
 
 AO Bridge is the canonical entry point into AO, a decentralized supercomputer built on top of Arweave's permanent data storage layer. The bridge moves AO and other supported assets between Ethereum and AO's compute environment.

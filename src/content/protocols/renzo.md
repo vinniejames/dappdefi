@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Linea, Solana, Monad]
 url: https://www.renzoprotocol.com
 twitter: RenzoProtocol
 github: null
-logo: https://example.com/renzo.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: renzo
 ---
 
 Renzo is a liquid restaking protocol that issues ezETH, a yield-bearing token representing ETH staked through Lido or other LSTs and then restaked through EigenLayer. Holders earn base ETH staking yield plus restaking and AVS rewards through the ezETH exchange rate.

@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://babylonlabs.io
 twitter: babylonlabs_io
 github: babylonlabs-io/babylon
-logo: https://example.com/babylon-protocol.jpg
+logo: null
 listed_at: 2024-10-22
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: babylon-protocol
 ---
 
 Babylon is the leading Bitcoin staking protocol. Bitcoin holders self-custody their BTC inside Babylon-defined scripts on Bitcoin itself — no bridging, no wrapping — and use those locked positions to provide economic security to participating Proof-of-Stake chains in exchange for yield.

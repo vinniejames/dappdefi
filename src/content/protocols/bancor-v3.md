@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://bancor.network
 twitter: Bancor
 github: bancorprotocol
-logo: https://example.com/bancor-v3.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: bancor-v3
 ---
 
 Bancor is the original on-chain AMM, predating Uniswap. V3 introduced single-sided liquidity provision plus impermanent-loss protection funded by the protocol's BNT emissions, though the IL-protection mechanism was later wound down.

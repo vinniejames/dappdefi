@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.puffer.fi
 twitter: puffer_finance
 github: PufferFinance
-logo: https://example.com/puffer-stake.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: puffer-stake
 ---
 
 Puffer is a decentralized native liquid restaking protocol issuing pufETH. Stakers' ETH is deployed to Puffer-operated validators on Ethereum and simultaneously restaked through EigenLayer, with anti-slashing technology to reduce risk for the validator operators in the Puffer set.

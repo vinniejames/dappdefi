@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://raydium.io
 twitter: RaydiumProtocol
 github: raydium-io
-logo: https://example.com/raydium-amm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: raydium-amm
 ---
 
 Raydium is one of the longest-running DEXs on Solana, originally built around an order-book-AMM hybrid that routed liquidity into Serum's central limit order book. After Serum's collapse, Raydium pivoted to a standalone AMM and concentrated-liquidity venue while remaining one of Solana's most-used trading platforms.

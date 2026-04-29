@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://hylo.so
 twitter: hylo_so
 github: null
-logo: https://example.com/hylo-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: hylo-protocol
 ---
 
 Hylo is a dual-token stablecoin protocol on Solana that splits yield-bearing collateral into two complementary tokens: hyUSD, a stable USD-denominated asset capturing baseline yield, and a leveraged variant that absorbs volatility for amplified upside.

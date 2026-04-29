@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://nexusbtc.io
 twitter: Nexus_BTC
 github: null
-logo: https://example.com/nexus-btc.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: nexus-btc
 ---
 
 NexusBTC is a wrapped Bitcoin token aimed at cross-chain DeFi composability. It is bridged across multiple networks and serves as a BTC-pegged collateral and trading asset in venues that integrate it.

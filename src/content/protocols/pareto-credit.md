@@ -7,7 +7,7 @@ chains: [Ethereum, Polygon, Arbitrum, Optimism]
 url: https://pareto.credit
 twitter: pareto_credit
 github: null
-logo: https://example.com/pareto-credit.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: hybrid
   launched: 2022
   maturity: established
-sources:
-  - external: pareto-credit
 ---
 
 Pareto is a private-credit marketplace that brings institutional lender-borrower relationships on-chain. Pool delegates underwrite specific borrowers and structure terms; lenders deposit into pools that match their preferred risk profile and earn yield as the underlying loans perform.

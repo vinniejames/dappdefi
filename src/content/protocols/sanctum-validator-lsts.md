@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.sanctum.so
 twitter: sanctumso
 github: igneous-labs
-logo: https://example.com/sanctum-validator-lsts.jpg
+logo: null
 listed_at: 2024-03-25
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sanctum-validator-lsts
 ---
 
 Sanctum is the LST infrastructure layer on Solana. Rather than running a single staked-SOL pool, Sanctum lets any validator launch their own branded LST against the SanctumSPL stake pool program, with a shared liquidity reserve (the Infinity pool) that swaps between any two Sanctum-listed LSTs at a tight spread.

@@ -7,7 +7,7 @@ chains: [Monad]
 url: https://curvance.com
 twitter: Curvance
 github: null
-logo: https://example.com/curvance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: curvance
 ---
 
 Curvance is a Monad-native lending platform with one-click leverage and capital-efficient market design. The protocol layers structured leverage products on top of standard money-market primitives to give Monad users a single venue for both lending and leveraged exposure.

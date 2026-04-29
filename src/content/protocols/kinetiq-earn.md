@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://kinetiq.xyz
 twitter: kinetiq_xyz
 github: null
-logo: https://example.com/kinetiq-earn.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: kinetiq-earn
 ---
 
 Kinetiq Earn is the yield-aggregation product within the Kinetiq ecosystem on Hyperliquid. Users deposit HYPE and kHYPE into Earn vaults that route capital across HyperEVM DeFi protocols, optimizing for the best risk-adjusted yield.

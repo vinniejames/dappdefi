@@ -7,7 +7,7 @@ chains: [Ethereum, Katana, Base]
 url: https://yearn.fi
 twitter: yearnfi
 github: yearn
-logo: https://example.com/yearn-curating.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: yearn-curating
 ---
 
 Yearn Curating is the risk-curator product within the Yearn ecosystem. The team operates curated lending vaults on top of underlying markets such as Morpho, leveraging Yearn's long-running strategy and risk infrastructure to package institutional-grade lending exposure.

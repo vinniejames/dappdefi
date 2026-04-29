@@ -7,7 +7,7 @@ chains: [Ethereum, Base, PGN]
 url: https://app.optimism.io/bridge/deposit
 twitter: optimismFND
 github: ethereum-optimism/optimism
-logo: https://example.com/optimism-bridge.png
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: optimism-bridge
 ---
 
 The Optimism Bridge is the canonical entry and exit between Ethereum and the OP Mainnet rollup, the original deployment of the OP Stack. Deposits move on-chain in minutes; withdrawals back to Ethereum follow the standard fault-proof challenge window.

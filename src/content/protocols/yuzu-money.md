@@ -7,7 +7,7 @@ chains: [Plasma]
 url: https://yuzu.money
 twitter: yuzu_money
 github: null
-logo: https://example.com/yuzu-money.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: yuzu-money
 ---
 
 Yuzu Money issues an overcollateralized stablecoin backed by curated on-chain yield strategies. Reserves are deployed across DeFi venues to deliver yield that flows back to the staked variant of the token.

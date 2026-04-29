@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://stakestone.io
 twitter: Stake_Stone
 github: null
-logo: https://example.com/stakestone-stone.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: stakestone-stone
 ---
 
 StakeStone issues STONE, an omnichain liquid staking token. STONE is bridged across many chains as a unified LST primitive, with the underlying ETH staked through StakeStone-curated validators.

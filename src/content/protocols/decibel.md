@@ -7,7 +7,7 @@ chains: [Aptos]
 url: https://decibel.exchange
 twitter: decibel_xyz
 github: null
-logo: https://example.com/decibel.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: decibel
 ---
 
 Decibel is a composable on-chain trading engine on Aptos supporting spot, perpetuals, and yield products from a single venue. The matching engine is built natively on Aptos to leverage the chain's parallel execution model.

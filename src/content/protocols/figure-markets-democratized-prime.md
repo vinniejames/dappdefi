@@ -7,7 +7,7 @@ chains: [Provenance]
 url: https://www.figuremarkets.com
 twitter: figuremarkets
 github: null
-logo: https://example.com/figure-markets-democratized-prime.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: figure-markets-democratized-prime
 ---
 
 Democratized Prime is the lending product on Figure Markets — connecting capital providers with borrowers seeking liquidity against their collateral. The product runs on Provenance Blockchain with KYC and regulatory tooling appropriate to Figure's institutional client base.

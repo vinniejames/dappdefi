@@ -7,7 +7,7 @@ chains: [Avalanche, Monad, Arbitrum]
 url: https://lfj.gg
 twitter: lfj_gg
 github: traderjoe-xyz
-logo: https://example.com/joe-v2.2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: joe-v2.2
 ---
 
 Joe V2.2 (LFJ Liquidity Book V2.2) is the latest iteration of Trader Joe's bin-based concentrated-liquidity AMM. LPs control liquidity ranges; the protocol distributes real-time on-chain incentives to liquidity contributors and integrates dynamic fees that scale with volatility.

@@ -7,7 +7,7 @@ chains: [Stellar]
 url: https://aqua.network
 twitter: aqua_token
 github: null
-logo: https://example.com/aquarius-stellar.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: aquarius-stellar
 ---
 
 Aquarius is an AMM and liquidity-management layer on Stellar. It offers stable and volatile pools and a market-making layer on top, leveraging Stellar's native asset model and decentralized exchange order book for routing.

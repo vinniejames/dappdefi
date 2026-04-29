@@ -7,7 +7,7 @@ chains: [Ethereum, Aptos, Sei]
 url: https://securitize.io
 twitter: Securitize
 github: null
-logo: https://example.com/apollo-diversified-credit-securitize-fund.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: apollo-diversified-credit-securitize-fund
 ---
 
 The Apollo Diversified Credit Securitize Fund (ACRED) is a tokenized fund that gives qualified investors on-chain exposure to a diversified portfolio of securitized credit assets, primarily corporate and consumer credit. Apollo Global Management runs the underlying portfolio; Securitize handles tokenization and on-chain distribution.

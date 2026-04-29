@@ -7,7 +7,7 @@ chains: [Ripple, Ethereum]
 url: https://doppler.finance
 twitter: DopplerFinance
 github: null
-logo: https://example.com/doppler-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: doppler-finance
 ---
 
 Doppler is one of the first XRPfi protocols to launch on the XRP Ledger as it gains EVM compatibility. The product surfaces yield strategies — staking, lending, structured products — to XRP holders inside a CeDeFi-style packaged interface.

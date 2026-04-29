@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.bedrock.technology
 twitter: Bedrock_DeFi
 github: null
-logo: https://example.com/bedrock-unieth.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: bedrock-unieth
 ---
 
 uniETH is Bedrock's Ethereum liquid restaking token. ETH deposited is staked through Bedrock-curated validators and restaked through EigenLayer; uniETH is non-rebasing — its exchange rate against ETH appreciates as staking and AVS rewards accrue.

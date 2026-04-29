@@ -7,7 +7,7 @@ chains: [Ethereum, RSK, Monad, Mezo]
 url: https://mellow.finance
 twitter: Mellowprotocol
 github: null
-logo: https://example.com/mellow-core.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: mellow-core
 ---
 
 Mellow is a vault-protocol framework where strategy constraints — allowed integrations, action whitelists, accounting rules — are encoded directly into the vault contract. Operators deploy Mellow Core vaults with their own strategy logic on top, and users deposit knowing exactly what the vault is permitted to do.

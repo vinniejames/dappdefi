@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://fluid.io
 twitter: 0xfluid
 github: Instadapp
-logo: https://example.com/fluid-lite.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: fluid-lite
 ---
 
 Fluid Lite is the simpler vault product within the Fluid (Instadapp) DeFi platform. It exposes pre-built strategies — looped LSTs, lending positions, basis trades — so users can deposit once and let the vault do the rest, without configuring leverage or borrowing manually as in Fluid's Lending product.

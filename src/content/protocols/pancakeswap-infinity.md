@@ -7,7 +7,7 @@ chains: [Binance, Base]
 url: https://pancakeswap.finance
 twitter: PancakeSwap
 github: pancakeswap
-logo: https://example.com/pancakeswap-infinity.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: pancakeswap-infinity
 ---
 
 PancakeSwap Infinity is the next-generation singleton-vault DEX from PancakeSwap, conceptually similar to Uniswap V4. It combines multiple pool types — concentrated, weighted, stable — into a single contract architecture for capital efficiency and lower gas costs.

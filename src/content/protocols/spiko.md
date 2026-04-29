@@ -7,7 +7,7 @@ chains: [Stellar, Arbitrum, Polygon, Ethereum, Starknet, Base]
 url: https://www.spiko.io/
 twitter: Spiko_finance
 github: null
-logo: https://example.com/spiko.png
+logo: null
 listed_at: 2024-08-13
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: spiko
 ---
 
 Spiko issues USTBL and EUTBL, tokenized money-market funds regulated by the French AMF and invested respectively in U.S. Treasury Bills and Eurozone T-Bills. Each token represents a share in the underlying fund and accrues yield through an exchange rate that rises over time.

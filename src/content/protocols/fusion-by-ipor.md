@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://www.ipor.io
 twitter: ipor_io
 github: IPOR-Labs
-logo: https://example.com/fusion-by-ipor.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: fusion-by-ipor
 ---
 
 Fusion is a meta-aggregation and execution engine from IPOR (the on-chain interest-rate-derivative protocol). It introduces a unified liquidity framework that lets capital flow across DeFi yield sources with intent-based execution.

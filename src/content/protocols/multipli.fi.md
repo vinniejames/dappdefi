@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Monad, Arbitrum, Binance]
 url: https://app.multipli.fi
 twitter: multiplifi
 github: null
-logo: https://example.com/multipli.fi.jpg
+logo: null
 listed_at: 2025-03-14
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: multipli.fi
 ---
 
 Multipli.fi is a multi-chain yield aggregator that targets two structural problems with retail DeFi yield: limited asset coverage and low effective rates. It runs strategies across lending markets, liquid staking, and structured products, presenting users with a single deposit interface and unified accounting.

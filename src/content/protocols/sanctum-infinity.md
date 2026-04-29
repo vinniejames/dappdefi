@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.sanctum.so
 twitter: sanctumso
 github: igneous-labs
-logo: https://example.com/sanctum-infinity.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sanctum-infinity
 ---
 
 Sanctum Infinity is the multi-LST liquidity pool that makes Solana's polycentric LST landscape interoperable. It can support hundreds of validator-specific LSTs simultaneously and provides tight-spread swaps between any two of them, plus instant unstaking against the pool's reserves.

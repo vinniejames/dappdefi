@@ -7,7 +7,7 @@ chains: [Aptos]
 url: https://echo-protocol.xyz
 twitter: Echo_protocol_
 github: null
-logo: https://example.com/echo-lending.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: echo-lending
 ---
 
 Echo Lending is the Aptos-native lending product within the Echo Protocol stack. It pairs the standard money-market primitive with bridged BTC assets and restaking yields, making it a Bitcoin-aligned DeFi venue on the Move-based Aptos chain.

@@ -7,7 +7,7 @@ chains: [Base]
 url: https://aerodrome.finance
 twitter: aerodromefi
 github: aerodrome-finance
-logo: https://example.com/aerodrome-slipstream.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: aerodrome-slipstream
 ---
 
 Aerodrome Slipstream is the concentrated-liquidity engine of Aerodrome, Base's dominant DEX and the spiritual successor to Velodrome on Optimism. Slipstream brings Uniswap-V3-style range orders to Aerodrome's ve(3,3)-incentivized liquidity model.

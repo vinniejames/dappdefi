@@ -7,7 +7,7 @@ chains: [Ethereum, Bitcoin]
 url: https://core.app
 twitter: coreapp
 github: ava-labs
-logo: https://example.com/avalanche-core-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: avalanche-core-bridge
 ---
 
 Avalanche Core Bridge is the canonical bridge between the C-Chain on Avalanche and Ethereum, plus a native Bitcoin bridge built into the Core wallet stack. The bridge is operated by Avalanche's Warden network, with no added fees beyond gas.

@@ -7,7 +7,7 @@ chains: [Ethereum, Polygon, Avalanche]
 url: https://aave.com
 twitter: aave
 github: aave/protocol-v2
-logo: https://example.com/aave-v2.png
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: aave-v2
 ---
 
 Aave V2 was the version of Aave that established the modern money-market template — pooled supply and borrow, variable and stable borrow rates, flash loans, and the aToken accounting model that V3 inherited. V2 deployments remain live but new activity has migrated to V3 markets on each supported chain.

@@ -7,7 +7,7 @@ chains: [Ethereum, Monad, Arbitrum, Plasma]
 url: https://midas.app
 twitter: MidasRWA
 github: null
-logo: https://example.com/midas-rwa.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: midas-rwa
 ---
 
 Midas is a tokenization protocol that issues regulatory-compliant on-chain wrappers for institutional-grade assets — short-term Treasuries, money-market funds, structured credit. Each tokenized product is structured under a regulated wrapper and is composable with DeFi protocols that integrate it as collateral.

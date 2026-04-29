@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://haedal.xyz
 twitter: HaedalProtocol
 github: null
-logo: https://example.com/haedal-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: haedal-protocol
 ---
 
 Haedal is a liquid staking protocol on Sui. Stakers deposit SUI to contribute to network governance and security and receive a yield-bearing LST that they can use across Sui DeFi venues.

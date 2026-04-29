@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://app.hyperlend.finance/
 twitter: hyperlendx
 github: null
-logo: https://example.com/hyperlend-pooled.jpg
+logo: null
 listed_at: 2025-03-22
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: hyperlend-pooled
 ---
 
 HyperLend is the leading lending protocol on the Hyperliquid EVM, offering pooled money markets where suppliers earn interest and borrowers post overcollateralized positions against shared liquidity. The pooled product is HyperLend's flagship, complemented by isolated-market and looping products.

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.swellnetwork.io
 twitter: swellnetworkio
 github: null
-logo: https://example.com/swell-liquid-restaking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: swell-liquid-restaking
 ---
 
 rswETH is Swell's liquid restaking token. Stakers deposit ETH or LSTs; the protocol stakes through validators and simultaneously restakes through EigenLayer. rswETH accrues both base staking yield and AVS rewards through an exchange-rate model.

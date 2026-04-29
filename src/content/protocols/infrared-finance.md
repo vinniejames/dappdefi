@@ -7,7 +7,7 @@ chains: [Berachain]
 url: https://infrared.finance
 twitter: InfraredFinance
 github: null
-logo: https://example.com/infrared-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: infrared-finance
 ---
 
 Infrared Finance is a BERA liquid staking protocol on Berachain that leverages the chain's Proof-of-Liquidity consensus model. Stakers deposit BERA and earn staking rewards plus the liquidity-provision incentives that PoL distributes to validators.

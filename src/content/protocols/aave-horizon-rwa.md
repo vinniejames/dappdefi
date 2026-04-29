@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://aave.com
 twitter: aave
 github: aave-dao
-logo: https://example.com/aave-horizon-rwa.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2025
   maturity: new
-sources:
-  - external: aave-horizon-rwa
 ---
 
 Aave Horizon is an institutional-only Aave market that lets qualified borrowers post tokenized real-world assets — money-market fund shares, treasury tokens, and similar — as collateral and borrow stablecoins against them. Horizon is an isolated, KYC-gated deployment alongside the standard permissionless Aave V3 markets.

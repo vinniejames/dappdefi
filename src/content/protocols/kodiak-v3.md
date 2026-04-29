@@ -7,7 +7,7 @@ chains: [Berachain]
 url: https://kodiak.finance
 twitter: KodiakFi
 github: null
-logo: https://example.com/kodiak-v3.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: kodiak-v3
 ---
 
 Kodiak V3 is the concentrated-liquidity DEX on Berachain, built as a Uniswap V3 fork tuned for the chain's Proof-of-Liquidity economics. LPs choose price ranges; the V3-style pool integrates with Berachain's native PoL incentives where validators direct rewards to specific pools.

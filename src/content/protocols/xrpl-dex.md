@@ -7,7 +7,7 @@ chains: [Ripple]
 url: https://xrpl.org
 twitter: RippleXDev
 github: XRPLF
-logo: https://example.com/xrpl-dex.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2018
   maturity: growing
-sources:
-  - external: xrpl-dex
 ---
 
 The XRPL DEX is the native AMM and order-book layer built directly into the XRP Ledger consensus protocol. Pools and orders execute as part of XRPL's transaction processing — there is no separate smart-contract layer for trading.

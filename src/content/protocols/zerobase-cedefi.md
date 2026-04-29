@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Arbitrum]
 url: https://zerobase.pro
 twitter: zerobase_labs
 github: null
-logo: https://example.com/zerobase-cedefi.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: zerobase-cedefi
 ---
 
 ZEROBASE is the first zk-powered staking and yield product on stablecoins. Users deposit stablecoins into ZEROBASE's CeDeFi vaults; yield is generated through a mix of basis trades and other strategies, with zero-knowledge proofs used to attest to position health and reserve backing.

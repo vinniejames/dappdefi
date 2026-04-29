@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://hypurr.fi
 twitter: HypurrFi
 github: null
-logo: https://example.com/hypurrfi-pooled.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: hypurrfi-pooled
 ---
 
 HypurrFi is a Hyperliquid-native lending protocol that pairs collateralized borrowing with looping and leverage strategies. Users post collateral, borrow, and the platform automates loop-and-lever flows for amplified yield.

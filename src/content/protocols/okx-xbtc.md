@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.okx.com
 twitter: okx
 github: null
-logo: https://example.com/okx-xbtc.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2025
   maturity: new
-sources:
-  - external: okx-xbtc
 ---
 
 xBTC is OKX's exchange-issued wrapped Bitcoin, backed 1:1 by reserves held by the exchange. Like Coinbase's cbBTC and Kraken's kBTC, xBTC offers BTC holders a deeply liquid wrapped representation tied directly to OKX's regulated custody.

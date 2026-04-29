@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Base, Polygon, Unichain]
 url: https://app.uniswap.org/
 twitter: Uniswap
 github: Uniswap/v4-core
-logo: https://example.com/uniswap-v4.png
+logo: null
 listed_at: 2025-01-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: uniswap-v4
 ---
 
 Uniswap V4 keeps the concentrated-liquidity model of V3 and adds two structural changes: a singleton contract that holds all pools, and a hooks system that lets developers extend pool behavior with custom logic at fixed lifecycle points. The singleton drives gas costs down, and hooks unlock new pool types — limit orders, dynamic fees, on-chain auctions, custom oracles — without forking the core.

@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.fxn.xyz
 twitter: FunctionBTC
 github: null
-logo: https://example.com/function-fbtc.jpg
+logo: null
 listed_at: 2024-08-05
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: function-fbtc
 ---
 
 Function issues FBTC (ƒBTC), a pegged Bitcoin token built around a federated custody and minting model. The goal is to provide a Bitcoin wrapper that combines the deep DeFi composability of WBTC with a more diversified custody surface across multiple custodians and jurisdictions.

@@ -7,7 +7,7 @@ chains: [Bitcoin, Arbitrum, Ethereum, Zkfair]
 url: https://merlinchain.io/bridge/staking
 twitter: MerlinLayer2
 github: null
-logo: https://example.com/merlins-seal.jpg
+logo: null
 listed_at: 2024-02-09
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: merlins-seal
 ---
 
 Merlin's Seal is the asset-staking bridge for Merlin Chain, a Bitcoin Layer-2 network. Users deposit BTC, BRC-20s, ordinals, and other Bitcoin-native assets into the Seal contracts to earn M-points and bridge into Merlin's EVM environment for DeFi activity.

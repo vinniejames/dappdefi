@@ -7,7 +7,7 @@ chains: [Hemi, Flare, Avalanche]
 url: https://spectra.finance
 twitter: spectra_finance
 github: null
-logo: https://example.com/spectra-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: spectra-v2
 ---
 
 Spectra is a Pendle-style yield-tokenization protocol that splits yield-bearing tokens into Principal and Yield components, letting holders lock in fixed rates by selling YT or take leveraged yield exposure by buying it. V2 expands the protocol's chain footprint and underlying-asset coverage.

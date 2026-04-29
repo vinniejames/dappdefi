@@ -7,7 +7,7 @@ chains: [Starknet]
 url: https://www.starknet.io
 twitter: Starknet
 github: starkware-libs
-logo: https://example.com/starknet-btc-staking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: starknet-btc-staking
 ---
 
 Starknet BTC Staking is the chain's program for staking Bitcoin-backed assets (LBTC, sBTC, etc.) within the Starknet validator economy. Stakers earn yield while contributing to Starknet's broader BTCFi expansion plans.

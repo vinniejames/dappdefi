@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://pharaoh.exchange
 twitter: PharaohExchange
 github: null
-logo: https://example.com/pharaoh-v3.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: pharaoh-v3
 ---
 
 Pharaoh V3 is a concentrated-liquidity DEX on Avalanche C-Chain built around the metaDEX x(3,3) tokenomics popularized by Solidly forks. veNFT holders direct emissions to specific pools and capture the corresponding bribes and trading fees.

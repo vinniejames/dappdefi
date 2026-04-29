@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://kinetiq.xyz
 twitter: kinetiq_xyz
 github: null
-logo: https://example.com/kinetiq-kmhype.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: kinetiq-kmhype
 ---
 
 kmHYPE is the exchange-LST primitive within Kinetiq Markets, the Hyperliquid-native perpetuals venue from the Kinetiq team. Stakers deposit HYPE and receive kmHYPE, a yield-bearing token that simultaneously serves as collateral on the perps exchange.

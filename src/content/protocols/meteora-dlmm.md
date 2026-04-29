@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://meteora.ag
 twitter: MeteoraAG
 github: MeteoraAg
-logo: https://example.com/meteora-dlmm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: meteora-dlmm
 ---
 
 Meteora DLMM (Dynamic Liquidity Market Maker) is a bin-based concentrated-liquidity AMM on Solana. Liquidity is divided into discrete price bins inside which trades execute at zero slippage; LPs select which bins their capital sits in, capturing dynamic fees that scale with volatility.

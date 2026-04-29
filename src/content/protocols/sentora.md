@@ -7,7 +7,7 @@ chains: [Ethereum, Solana]
 url: https://sentora.com/
 twitter: SentoraHQ
 github: null
-logo: https://example.com/sentora.jpg
+logo: null
 listed_at: 2025-10-03
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2025
   maturity: new
-sources:
-  - external: sentora
 ---
 
 Sentora is an institutional-grade vault platform that curates strategies on top of underlying lending markets such as Morpho and Aave. Allocators on Sentora design risk frameworks for specific borrower and collateral profiles; capital deposited into a Sentora vault is then routed across the underlying markets according to that framework.

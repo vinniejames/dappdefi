@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://fx.aladdin.club
 twitter: AladdinDAO
 github: AladdinDAO
-logo: https://example.com/fx-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: fx-protocol
 ---
 
 f(x) Protocol is a dual-token stablecoin platform from Aladdin DAO. Users deposit ETH or WBTC into f(x); the protocol mints a low-volatility token (fxUSD/rUSD) and a leveraged token (xETH/xWBTC) that absorbs the volatility of the underlying. The split lets stablecoin holders get a stable claim while leverage seekers get amplified directional exposure.

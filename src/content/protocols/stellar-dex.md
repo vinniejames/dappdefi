@@ -7,7 +7,7 @@ chains: [Stellar]
 url: https://stellar.org
 twitter: StellarOrg
 github: stellar
-logo: https://example.com/stellar-dex.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2015
   maturity: growing
-sources:
-  - external: stellar-dex
 ---
 
 The Stellar DEX is the native exchange built directly into the Stellar consensus layer. Asset issuers and traders can list any Stellar-based asset; trades execute as part of standard Stellar transaction processing without a separate smart-contract layer.

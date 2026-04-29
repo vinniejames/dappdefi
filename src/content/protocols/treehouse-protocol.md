@@ -7,7 +7,7 @@ chains: [Ethereum, Avalanche, Mantle]
 url: https://www.treehouse.finance
 twitter: TreehouseFi
 github: null
-logo: https://example.com/treehouse-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: treehouse-protocol
 ---
 
 Treehouse introduces a new on-chain primitive: Decentralized Offered Rates (DOR), benchmark interest rates established by stake-weighted attestations. Treehouse Assets (tAssets) are yield-bearing tokens whose returns track those benchmark rates rather than a single underlying protocol's curve.

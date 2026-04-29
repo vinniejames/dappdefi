@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.stacks.co
 twitter: Stacks
 github: stacks-network
-logo: https://example.com/stacks-sbtc.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: stacks-sbtc
 ---
 
 sBTC is a SIP-010 token on the Stacks blockchain that represents Bitcoin in a 1:1 ratio. The peg is maintained by a federated set of Stackers — STX holders who post stake to participate in sBTC custody — using Stacks's distinctive Proof-of-Transfer consensus.

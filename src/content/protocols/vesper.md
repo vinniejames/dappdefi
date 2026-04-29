@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Optimism]
 url: https://vesper.finance
 twitter: vesperfi
 github: vesperfi
-logo: https://example.com/vesper.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: vesper
 ---
 
 Vesper is a long-running DeFi yield platform offering single-asset vaults that deploy across underlying lending and LP strategies. The product line spans simple Grow vaults (set-and-forget yield) and Earn vaults (earn yield in a different denomination than the deposit).

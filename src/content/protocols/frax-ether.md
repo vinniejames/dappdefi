@@ -7,7 +7,7 @@ chains: [Ethereum, Fraxtal]
 url: https://app.frax.finance
 twitter: fraxfinance
 github: FraxFinance
-logo: https://example.com/frax-ether.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: frax-ether
 ---
 
 frxETH is Frax Finance's liquid ETH staking derivative. The two-token design splits frxETH (the principal-pegged token) from sfrxETH (the staked, yield-accruing variant), letting users decide whether to hold non-yielding pegged frxETH or stake into sfrxETH for the yield leg.

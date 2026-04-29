@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.gate.io
 twitter: gate_io
 github: null
-logo: https://example.com/gtbtc.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: gtbtc
 ---
 
 GTBTC is Gate exchange's BTC staking product. Users stake BTC on Gate and receive GTBTC at a 1:1 ratio; yield accrues through Gate's internal staking and earn programs rather than through a fully on-chain mechanism.

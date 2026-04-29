@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.mantle.xyz
 twitter: Mantle_Official
 github: null
-logo: https://example.com/mantle-restaking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: mantle-restaking
 ---
 
 Mantle Restaking is the liquid restaking arm of the Mantle ecosystem, complementing the mETH liquid staking protocol with a restaked variant — typically cmETH — that captures additional yield through EigenLayer integrations.

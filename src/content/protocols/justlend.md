@@ -7,7 +7,7 @@ chains: [Tron]
 url: https://justlend.just.network
 twitter: DeFi_JUST
 github: null
-logo: https://example.com/justlend.png
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: growing
-sources:
-  - external: justlend
 ---
 
 JustLend is the dominant lending market on Tron, modeled closely on Compound's algorithmic money-market design. Suppliers deposit assets such as TRX, USDT, and JST into shared pools; borrowers post overcollateralized loans against those pools, and rates adjust as utilization changes.

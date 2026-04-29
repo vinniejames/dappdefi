@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.gnosis.io
 twitter: gnosischain
 github: gnosischain
-logo: https://example.com/xdai-stake-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2018
   maturity: growing
-sources:
-  - external: xdai-stake-bridge
 ---
 
 The xDAI Stake Bridge is the canonical bridge between Ethereum and Gnosis Chain (formerly the xDAI Chain), a Proof-of-Stake EVM sidechain that uses a stable bridged DAI as its native gas token. The bridge handles DAI deposits, GNO staking, and validator-set messaging.

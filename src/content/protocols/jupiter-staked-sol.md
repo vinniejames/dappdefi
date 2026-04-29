@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jup.ag/
 twitter: JupiterExchange
 github: null
-logo: https://example.com/jupiter-staked-sol.jpg
+logo: null
 listed_at: 2024-08-16
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: jupiter-staked-sol
 ---
 
 Jupiter Staked SOL is the LST product within the Jupiter ecosystem on Solana, sitting alongside Jupiter's swap aggregator, perps exchange, and lending market. SOL deposited through Jupiter is staked to a curated validator set; depositors receive a tokenized claim that accrues rewards.

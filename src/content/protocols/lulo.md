@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://lulo.fi
 twitter: lulo_fi
 github: null
-logo: https://example.com/lulo.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: lulo
 ---
 
 Lulo is a Solana lending aggregator that automatically migrates user deposits between underlying lending protocols (Kamino, Solend, MarginFi, Drift) to capture the best available rate at any time. Users supply assets once; Lulo handles routing and rebalancing.

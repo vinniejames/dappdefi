@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.agglayer.dev
 twitter: AggLayer
 github: 0xPolygon/agglayer
-logo: https://example.com/vault-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: vault-bridge
 ---
 
 VaultBridge is a yield-generating bridge mechanism within Polygon's AggLayer. Connected chains can route bridged assets through configurable yield strategies (lending markets, LSTs) so that the bridge contract earns yield rather than sitting idle, with revenue accruing to the chain.

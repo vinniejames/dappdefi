@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Arbitrum]
 url: https://www.asterdex.com
 twitter: Aster_DEX
 github: null
-logo: https://example.com/apx-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: apx-bridge
 ---
 
 APX Bridge is the legacy bridge component of APX Finance, the predecessor of the Aster perpetual exchange on BNB Chain. It still moves funds between supported chains for the broader Aster (formerly APX) trading platform.

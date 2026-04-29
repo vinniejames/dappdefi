@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://wbtc.network/
 twitter: WrappedBTC
 github: null
-logo: https://example.com/wbtc.png
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: multisig
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2019
   maturity: growing
-sources:
-  - external: wbtc
 ---
 
 Wrapped Bitcoin (WBTC) is the original ERC-20 representation of Bitcoin on Ethereum. Each WBTC is backed one-for-one by BTC held in custody, with reserves attested on-chain and a public list of merchants and custodians participating in the issuance and redemption process.

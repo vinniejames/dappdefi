@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Arbitrum, "Plume Mainnet"]
 url: https://www.digift.sg
 twitter: DigiFT_Tech
 github: null
-logo: https://example.com/digift.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: digift
 ---
 
 DigiFT is a Singapore-licensed regulated exchange for tokenized real-world assets. Holding a Capital Markets Services license and Recognised Market Operator approval from the Monetary Authority of Singapore, it operates a primary issuance and secondary trading venue for tokenized funds, treasuries, and structured products.

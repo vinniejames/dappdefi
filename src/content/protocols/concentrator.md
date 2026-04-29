@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://concentrator.aladdin.club
 twitter: AladdinDAO
 github: AladdinDAO
-logo: https://example.com/concentrator.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: concentrator
 ---
 
 Concentrator is an Aladdin DAO product that compounds Curve and Convex farming positions back into a single yield-bearing token (aCRV). LPs deposit Curve LP tokens into Concentrator, and the protocol harvests rewards on a regular schedule and reinvests them.

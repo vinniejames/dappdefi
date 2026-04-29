@@ -7,7 +7,7 @@ chains: [Aptos]
 url: https://amnis.finance
 twitter: AmnisFinance
 github: amnisfinance
-logo: https://example.com/amnis-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: amnis-finance
 ---
 
 Amnis Finance is the largest liquid staking protocol on Aptos. Stakers deposit APT and receive amAPT, a yield-bearing token whose value tracks staking rewards. The platform also offers a stAPT staked variant for additional yield within the Amnis ecosystem.

@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://benqi.fi
 twitter: BenqiFinance
 github: Benqi-fi
-logo: https://example.com/benqi-lending.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: benqi-lending
 ---
 
 BENQI Lending (Markets) is the money-market arm of BENQI on Avalanche, complementing the protocol's sAVAX liquid staking product. It runs a Compound-style algorithmic interest-rate model with shared collateral across major Avalanche assets and integrations with sAVAX as productive collateral.

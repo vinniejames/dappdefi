@@ -7,7 +7,7 @@ chains: [Arbitrum, Avalanche, MegaETH, Botanix]
 url: https://gmx.io
 twitter: GMX_IO
 github: gmx-io
-logo: https://example.com/gmx-v2-perps.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: gmx-v2-perps
 ---
 
 GMX V2 is the second iteration of the GMX perpetuals protocol, with isolated GM (GMX Markets) pools per asset rather than the V1 GLP single-basket approach. Each GM pool acts as the counterparty for trades on a specific market, capturing trader PnL and fees as yield to LPs.

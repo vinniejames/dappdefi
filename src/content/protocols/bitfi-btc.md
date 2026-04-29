@@ -7,7 +7,7 @@ chains: [AILayer]
 url: https://bitfi.app
 twitter: Bitfi_app
 github: null
-logo: https://example.com/bitfi-btc.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: bitfi-btc
 ---
 
 BitFi BTC is the Bitcoin-pegged primitive within the BitFi platform on AILayer. Users deposit BTC and receive a yield-bearing wrapped representation that participates in BitFi's basis-trade and synthetic-asset products.

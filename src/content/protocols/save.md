@@ -7,7 +7,7 @@ chains: [Solana, Eclipse]
 url: https://save.finance
 twitter: save_finance
 github: solendprotocol
-logo: https://example.com/save.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: save
 ---
 
 Save (formerly Solend) is one of the longest-running lending protocols on Solana. It runs an algorithmic peer-to-pool money market with multiple isolated pools — a Main Pool for the safest assets, plus Permissionless Pools for long-tail collateral with stricter risk parameters.

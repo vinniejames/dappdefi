@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://goldfinger.io
 twitter: goldfinger_io
 github: null
-logo: https://example.com/goldfinger.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: goldfinger
 ---
 
 GoldFinger issues ART (Aurum Reserve Token), a gold-backed yield-bearing token on BNB Chain. Each ART is redeemable for physical gold reserves, with embedded yield from underlying gold-leasing or hedging strategies.

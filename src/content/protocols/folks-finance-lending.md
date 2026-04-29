@@ -7,7 +7,7 @@ chains: [Algorand]
 url: https://folks.finance
 twitter: Folks_Finance
 github: null
-logo: https://example.com/folks-finance-lending.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: folks-finance-lending
 ---
 
 Folks Finance is the leading DeFi platform on Algorand, offering a money-market, asset-management products, and the xALGO LST. The lending arm is a Compound-style pooled market with shared collateral across listed Algorand assets.

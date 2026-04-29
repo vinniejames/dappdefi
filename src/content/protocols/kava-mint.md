@@ -7,7 +7,7 @@ chains: [Kava]
 url: https://www.kava.io
 twitter: kava_platform
 github: Kava-Labs
-logo: https://example.com/kava-mint.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: growing
-sources:
-  - external: kava-mint
 ---
 
 Kava Mint is the CDP-style stablecoin issuance arm of Kava, a Cosmos-aligned chain with EVM compatibility. Users lock crypto collateral and mint USDX, Kava's native stablecoin, paying a stability fee set by Kava governance.

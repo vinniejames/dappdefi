@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1", Ethereum, Binance]
 url: https://mevcapital.com
 twitter: mevcapital
 github: null
-logo: https://example.com/mev-capital.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2023
   maturity: established
-sources:
-  - external: mev-capital
 ---
 
 MEV Capital is an investment and risk-management firm that runs open-ended strategies across DeFi on EVM chains. On-chain, it operates as a risk curator on Morpho and other lending markets, underwriting borrowers and structuring vault risk envelopes for institutional and prosumer depositors.

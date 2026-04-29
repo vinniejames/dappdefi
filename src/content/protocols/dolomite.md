@@ -7,7 +7,7 @@ chains: [Ethereum, Berachain, Arbitrum, Mantle]
 url: https://dolomite.io
 twitter: Dolomite_io
 github: dolomite-exchange
-logo: https://example.com/dolomite.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: dolomite
 ---
 
 Dolomite is a money market and DeFi prime brokerage that supports an unusually wide collateral universe, including LP tokens, vault shares, and other yield-bearing assets that retain their underlying yield while posted as collateral. The platform combines lending, margin, and isolated pools in one venue.

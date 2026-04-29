@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://bridge.linea.build
 twitter: LineaBuild
 github: null
-logo: https://example.com/linea-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: linea-bridge
 ---
 
 Linea Bridge is the canonical message bridge between Ethereum and Linea, the zkEVM rollup developed by ConsenSys. The contracts handle deposits and withdrawals between L1 and L2, and serve as the trust root for Linea's broader interoperability surface.

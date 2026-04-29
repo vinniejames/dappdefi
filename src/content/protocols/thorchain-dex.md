@@ -7,7 +7,7 @@ chains: [Thorchain, Bitcoin, Ethereum]
 url: https://thorchain.org
 twitter: THORChain
 github: thorchain
-logo: https://example.com/thorchain-dex.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: thorchain-dex
 ---
 
 THORChain is a cross-chain liquidity protocol that lets users swap native BTC, ETH, ATOM, BNB, and other Layer-1 assets without wrapping or pegging them. Liquidity is provided as RUNE-paired pools, and swaps route through RUNE under the hood — which means RUNE acts as the bonding asset for validator security and as the AMM hub asset.

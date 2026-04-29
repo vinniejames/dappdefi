@@ -7,7 +7,7 @@ chains: [Ethereum, Base, "Hyperliquid L1", Katana, Monad, Arbitrum, Flare, Sei, 
 url: https://app.morpho.org
 twitter: MorphoLabs
 github: morpho-org/morpho-blue
-logo: https://example.com/morpho-blue.png
+logo: null
 listed_at: 2024-01-14
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: morpho-blue
 ---
 
 Morpho Blue is a minimalist, permissionless lending primitive built around isolated markets. Each market is a single loan asset, single collateral asset, single oracle, and single interest rate model — an immutable contract pair anyone can deploy without governance approval.

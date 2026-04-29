@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://sophon.xyz
 twitter: sophon
 github: null
-logo: https://example.com/sophon-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sophon-bridge
 ---
 
 Sophon Bridge is the canonical bridge between Ethereum and Sophon, a zk-validity rollup. Withdrawals settle to L1 once the zk proof is verified, with no fraud-proof challenge window required.

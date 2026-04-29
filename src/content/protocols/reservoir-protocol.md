@@ -7,7 +7,7 @@ chains: [Ethereum, Monad, Plasma]
 url: https://reservoir.xyz
 twitter: reservoir_xyz
 github: null
-logo: https://example.com/reservoir-protocol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: reservoir-protocol
 ---
 
 Reservoir is a CDP-style stablecoin protocol that issues rUSD against deposited collateral with a focus on scalability and trust-minimization. The design borrows from the Maker/Sky template, with parameters set by Reservoir governance.

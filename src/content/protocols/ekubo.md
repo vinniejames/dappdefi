@@ -7,7 +7,7 @@ chains: [Starknet, Ethereum]
 url: https://ekubo.org
 twitter: EkuboProtocol
 github: EkuboProtocol
-logo: https://example.com/ekubo.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: ekubo
 ---
 
 Ekubo is a singleton-architecture concentrated-liquidity DEX built primarily for Starknet, with an Ethereum deployment. It introduces an extension system that lets developers customize pool behavior — limit orders, custom fees, hooks — similar in spirit to Uniswap V4.

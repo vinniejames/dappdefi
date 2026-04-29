@@ -7,7 +7,7 @@ chains: [Tron]
 url: https://just.network/token
 twitter: DeFi_JUST
 github: null
-logo: https://example.com/justcryptos.png
+logo: null
 listed_at: 2021-10-21
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2020
   maturity: growing
-sources:
-  - external: justcryptos
 ---
 
 JustCryptos is the asset-bridging arm of the JUST ecosystem on Tron. It issues Tron-native, pegged versions of major cryptocurrencies — BTC, ETH, and others — backed by reserves on their origin chains, so that those assets can move into Tron DeFi venues such as JustLend and SunSwap.

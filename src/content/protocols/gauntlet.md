@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Base, Katana, Solana, Optimism]
 url: https://www.gauntlet.xyz
 twitter: gauntlet_xyz
 github: null
-logo: https://example.com/gauntlet.jpg
+logo: null
 listed_at: 2025-05-20
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: gauntlet
 ---
 
 Gauntlet started as a quantitative risk-modeling firm for major DeFi protocols (Aave, Compound, Maker) and now also operates a vault-curation platform that runs structured strategies on top of underlying lending markets. Each Gauntlet vault has a defined risk envelope, asset universe, and rebalancing rule set, with parameters calibrated by the same simulation infrastructure Gauntlet uses for protocol consulting.

@@ -7,7 +7,7 @@ chains: [Tron, Ethereum]
 url: https://stusdt.io
 twitter: stusdt
 github: null
-logo: https://example.com/stusdt.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2023
   maturity: growing
-sources:
-  - external: stusdt
 ---
 
 stUSDT is a yield-bearing, RWA-backed token native to Tron. Users deposit USDT and receive stUSDT, whose value accrues yield from underlying real-world asset investments — primarily short-duration Treasuries and similar instruments managed by a JustLend-aligned issuer.

@@ -7,7 +7,7 @@ chains: [Ethereum, "Plume Mainnet", Solana]
 url: https://superstate.com/
 twitter: superstatefunds
 github: null
-logo: https://example.com/superstate-ustb.jpg
+logo: null
 listed_at: 2024-03-08
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: superstate-ustb
 ---
 
 USTB is the Superstate Short Duration U.S. Government Securities Fund — a private fund tokenized as an ERC-20 and offered exclusively to Qualified Purchasers. The fund holds short-duration U.S. Treasury Bills and pays yield through periodic distributions or via an exchange-rate-style accrual.

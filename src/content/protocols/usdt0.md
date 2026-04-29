@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://usdt0.to
 twitter: USDT0_to
 github: null
-logo: https://example.com/usdt0.jpg
+logo: null
 listed_at: 2025-03-13
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2025
   maturity: new
-sources:
-  - external: usdt0
 ---
 
 USDT0 is the omnichain interoperability layer for Tether's USDT, built on the LayerZero messaging stack. It offers a single canonical USDT representation that can be moved natively between supported chains without going through wrapped-token detours.

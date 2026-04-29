@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://blockanalitica.com
 twitter: BlockAnalitica
 github: null
-logo: https://example.com/block-analitica.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2020
   maturity: established
-sources:
-  - external: block-analitica
 ---
 
 Block Analitica is the long-running risk team behind the DAI/USDS stablecoin and the Maker/Sky risk parameter framework. The team also operates risk-curated vaults on top of underlying lending markets like Morpho, applying the same modeling and underwriting they use for Sky governance.

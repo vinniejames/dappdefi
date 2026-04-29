@@ -7,7 +7,7 @@ chains: [Base, Optimism, Moonbeam]
 url: https://moonwell.fi
 twitter: MoonwellDeFi
 github: moonwell-fi
-logo: https://example.com/moonwell-lending.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: moonwell-lending
 ---
 
 Moonwell is an open lending and borrowing protocol that started on Moonbeam/Moonriver and expanded to Base and Optimism. It runs a Compound-style algorithmic interest-rate model and was an early lending venue on Base, where it remains one of the larger money markets.

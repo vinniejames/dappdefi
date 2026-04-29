@@ -7,7 +7,7 @@ chains: [Bitlayer]
 url: https://www.bitlayer.org
 twitter: BitlayerLabs
 github: null
-logo: https://example.com/ybtc.b.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: ybtc.b
 ---
 
 YBTC.B is a wrapped Bitcoin token within the Bitlayer ecosystem, designed as a universal cross-chain liquidity standard for BTC across Bitlayer's deployments. It joins the broader cohort of BTC wrappers competing on custody design and DeFi composability.

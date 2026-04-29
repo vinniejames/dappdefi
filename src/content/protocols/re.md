@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Avalanche, Arbitrum]
 url: https://www.re.xyz
 twitter: reprotocol
 github: null
-logo: https://example.com/re.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: re
 ---
 
 Re is a decentralized reinsurance protocol that brings traditional reinsurance risk on-chain. Capital providers deposit stablecoins into pools backing specific reinsurance contracts; participants in the broader insurance market cede risk to those pools and pay premiums that flow back to depositors as yield.

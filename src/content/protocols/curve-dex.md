@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Base, Monad, Fraxtal, Etherlink]
 url: https://curve.finance
 twitter: CurveFinance
 github: curvefi/curve-contract
-logo: https://example.com/curve.png
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: curve-dex
 ---
 
 Curve is the canonical DEX for trading between assets that should hold a similar price — stablecoins, liquid staking tokens, and pegged wrappers. The original StableSwap invariant compresses slippage near the peg, making Curve the cheapest on-chain venue for routing large stable-pair flow.

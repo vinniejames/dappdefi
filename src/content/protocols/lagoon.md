@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum, TAC]
 url: https://lagoon.finance
 twitter: lagoonfi
 github: null
-logo: https://example.com/lagoon.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: lagoon
 ---
 
 Lagoon provides general-purpose vault infrastructure for on-chain yield products, built around the ERC-7540 asynchronous-vault standard. Issuers configure deposit, redemption, and strategy logic; Lagoon handles execution, accounting, and the complex async settlement flow that ERC-7540 enables.

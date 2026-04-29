@@ -7,7 +7,7 @@ chains: [Ethereum, Monad, Arbitrum, Plasma]
 url: https://hyperithm.com
 twitter: hyperithm
 github: null
-logo: https://example.com/hyperithm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: hyperithm
 ---
 
 Hyperithm is a digital-asset manager based in Tokyo and Seoul running quant trading and venture investments. Its on-chain product surface includes risk-curated vault allocations on top of underlying lending markets, where Hyperithm acts as the strategy and risk underwriter.

@@ -7,7 +7,7 @@ chains: [ENI]
 url: https://dswap.eni
 twitter: null
 github: null
-logo: https://example.com/dswap.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: dswap
 ---
 
 Dswap is the built-in token-swap module of DAOaaS, a DAO-as-a-service platform on the ENI network. It pairs a standard AMM swap interface with the broader DAOaaS governance and treasury tooling so that DAOs deployed through DAOaaS have first-class swap functionality.

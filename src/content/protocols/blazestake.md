@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://stake.solblaze.org
 twitter: solblaze_org
 github: null
-logo: https://example.com/blazestake.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: blazestake
 ---
 
 BlazeStake is a Solana liquid staking protocol that lets stakers select specific validators to delegate to, rather than receiving the protocol's algorithmic delegation. The token bSOL accrues staking rewards while remaining transferable.

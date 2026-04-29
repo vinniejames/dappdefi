@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.methprotocol.xyz/
 twitter: mETHProtocol
 github: null
-logo: https://example.com/meth-protocol.jpg
+logo: null
 listed_at: 2023-12-04
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: meth-protocol
 ---
 
 mETH Protocol is a permissionless, non-custodial ETH liquid staking protocol governed by the Mantle ecosystem. It issues mETH, a yield-bearing LST whose exchange rate against ETH increases with staking rewards, plus cmETH, a restaked variant that captures additional yield through EigenLayer integrations.

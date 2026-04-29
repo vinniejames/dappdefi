@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Avalanche, "Plume Mainnet"]
 url: https://data.grove.finance/
 twitter: grovedotfinance
 github: null
-logo: https://example.com/grove-finance.jpg
+logo: null
 listed_at: 2026-03-26
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2025
   maturity: new
-sources:
-  - external: grove-finance
 ---
 
 Grove is a capital-allocation protocol within the Sky (formerly MakerDAO) ecosystem. Rather than running its own lending market or DEX, Grove deploys capital into a curated mix of tokenized real-world assets, Aave lending markets, Morpho vaults, and Curve LP positions — acting as an on-chain treasury manager.

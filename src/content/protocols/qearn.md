@@ -7,7 +7,7 @@ chains: [Qubic]
 url: https://qubic.org
 twitter: QubicOrg
 github: qubic
-logo: https://example.com/qearn.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: qearn
 ---
 
 Qearn is a smart-contract platform on the Qubic chain that lets users lock funds for rewards while offering flexible unlocking options. The product is part of Qubic's broader staking and economic-incentive stack.

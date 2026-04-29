@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://nexusmutual.io
 twitter: NexusMutual
 github: NexusMutual
-logo: https://example.com/nexus-mutual.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2019
   maturity: growing
-sources:
-  - external: nexus-mutual
 ---
 
 Nexus Mutual is the largest decentralized cover protocol in DeFi. Members buy cover against specific risks — smart-contract failure, custodian insolvency, slashing, depeg events — and the mutual pool, capitalized by NXM holders, pays out claims approved by a member-driven assessment process.

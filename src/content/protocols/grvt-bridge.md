@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://grvt.io
 twitter: grvt_io
 github: null
-logo: https://example.com/grvt-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: grvt-bridge
 ---
 
 Grvt Bridge is the deposit and withdrawal layer for Grvt, a privacy-focused on-chain financial venue powered by zero-knowledge technology. Users bridge funds in to trade and lend with privacy guarantees that other order-book DEXs don't provide.

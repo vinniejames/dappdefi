@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum, Fraxtal]
 url: https://beefy.com
 twitter: beefyfinance
 github: beefyfinance
-logo: https://example.com/beefy.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: beefy
 ---
 
 Beefy is a multi-chain auto-compounding yield aggregator. Users deposit LP tokens or single assets into Beefy vaults; the protocol harvests rewards from the underlying farms and reinvests them on a regular schedule, lifting effective APY relative to manual claiming.

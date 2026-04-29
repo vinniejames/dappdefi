@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum, Binance, Polygon, "X Layer"]
 url: https://app.uniswap.org/
 twitter: Uniswap
 github: Uniswap/v3-core
-logo: https://example.com/uniswap-v3.png
+logo: null
 listed_at: 2022-10-19
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: established
-sources:
-  - external: uniswap-v3
 ---
 
 Uniswap V3 introduced concentrated liquidity to AMMs: liquidity providers choose price ranges within which their capital is active, instead of supplying liquidity uniformly across all prices. The result is dramatically higher capital efficiency for the same dollar of liquidity, at the cost of position management complexity.

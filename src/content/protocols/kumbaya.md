@@ -7,7 +7,7 @@ chains: [MegaETH]
 url: https://kumbaya.io
 twitter: kumbaya_io
 github: null
-logo: https://example.com/kumbaya.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: kumbaya
 ---
 
 Kumbaya is a decentralized exchange on MegaETH, the high-throughput EVM rollup. The DEX provides standard AMM swap functionality tuned for MegaETH's low-latency, high-frequency execution environment.

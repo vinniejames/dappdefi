@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://usual.money
 twitter: usualmoney
 github: null
-logo: https://example.com/usual-usd0.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: usual-usd0
 ---
 
 Usual issues USD0, a fully-backed stablecoin collateralized by tokenized U.S. Treasuries (BUIDL, USYC, M tokens). USD0 holders can stake into USD0++ to capture the yield from the underlying treasuries plus the USUAL token rewards distributed by the protocol.

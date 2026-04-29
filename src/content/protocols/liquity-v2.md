@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.liquity.org/v2
 twitter: LiquityProtocol
 github: liquity
-logo: https://example.com/liquity-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: liquity-v2
 ---
 
 Liquity V2 is the next generation of the Liquity borrowing protocol, issuing BOLD instead of LUSD. The headline change is borrower-set interest rates: each Trove (borrowing position) chooses its own rate, and the protocol orders liquidation priority by rate rather than by collateral ratio alone.

@@ -7,7 +7,7 @@ chains: [Binance, Ethereum]
 url: https://lista.org/lending
 twitter: LISTA_DAO
 github: null
-logo: https://example.com/lista-lending.jpg
+logo: null
 listed_at: 2025-04-16
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: lista-lending
 ---
 
 Lista Lending is the lending arm of Lista DAO on BNB Chain, organized as a vault-based peer-to-pool design. Liquidity is pooled into vaults that allocate across multiple lending markets based on rate and risk parameters set by Lista governance.

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://portal.arbitrum.io/bridge
 twitter: arbitrum
 github: OffchainLabs/nitro-contracts
-logo: https://example.com/arbitrum-bridge.png
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: arbitrum-bridge
 ---
 
 The Arbitrum Bridge is the canonical entry and exit between Ethereum mainnet and Arbitrum One, the optimistic-rollup network from Offchain Labs. Deposits from Ethereum to Arbitrum complete in minutes; withdrawals to Ethereum follow the rollup's seven-day fraud-proof window before funds are released on L1.

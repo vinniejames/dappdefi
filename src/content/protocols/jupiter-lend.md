@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jup.ag/
 twitter: JupiterExchange
 github: null
-logo: https://example.com/jupiter-lend.jpg
+logo: null
 listed_at: 2025-08-19
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: jupiter-lend
 ---
 
 Jupiter Lend is the lending arm of Jupiter, Solana's dominant DEX aggregator. The product launched as Jupiter expanded from pure swap aggregation into a broader DeFi suite that also includes perps, a launchpad, and a stablecoin issuance path.

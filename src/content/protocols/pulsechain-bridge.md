@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://bridge.pulsechain.com
 twitter: PulseChainCom
 github: null
-logo: https://example.com/pulsechain-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: pulsechain-bridge
 ---
 
 PulseChain Bridge is the canonical bridge between Ethereum and PulseChain, an Ethereum-fork chain. The bridge contracts handle deposits and withdrawals between the two networks for ETH, ERC-20s, and PulseChain-native assets.

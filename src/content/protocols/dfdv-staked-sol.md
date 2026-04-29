@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://dfdvtech.com
 twitter: DFDVTech
 github: null
-logo: https://example.com/dfdv-staked-sol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: dfdv-staked-sol
 ---
 
 dfdvSOL is the liquid staking token issued by DFDV Tech, a Solana validator operator. Holders' SOL is delegated to DFDV's validators and the LST appreciates against SOL as staking rewards accrue.

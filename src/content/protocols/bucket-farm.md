@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://bucketprotocol.io
 twitter: bucket_protocol
 github: null
-logo: https://example.com/bucket-farm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: bucket-farm
 ---
 
 Bucket Farm is the deposit-and-points program from Bucket Protocol on Sui. Users deposit supported tokens to earn DROPS — points convertible to BUT, the upcoming protocol token. The program is part of Bucket's broader Sui DeFi product line.

@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Solana, Plasma, Monad]
 url: https://hyperunit.xyz/deposit
 twitter: unitxyz
 github: null
-logo: https://example.com/unit.jpg
+logo: null
 listed_at: 2025-02-14
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: unit
 ---
 
 Unit is the asset tokenization layer for Hyperliquid, enabling deposits of native assets — BTC, ETH, SOL, and others — directly onto Hyperliquid L1 as tokenized representations. It complements Hyperliquid's USDC-only canonical bridge by extending the chain's tradable asset universe.

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.matrixdock.com
 twitter: MatrixDockHQ
 github: null
-logo: https://example.com/matrixdock-stbt.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2023
   maturity: growing
-sources:
-  - external: matrixdock-stbt
 ---
 
 STBT (Short-Term U.S. Treasury Bill Token) is MatrixDock's tokenized treasuries product. Each STBT is pegged 1:1 to one USD of underlying short-duration Treasury and reverse-repo exposure, with daily rebases distributing yield to holders.

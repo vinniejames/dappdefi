@@ -7,7 +7,7 @@ chains: [Optimism, Scroll]
 url: https://www.ether.fi/cash
 twitter: ether_fi
 github: null
-logo: https://example.com/etherfi-cash-liquid.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: etherfi-cash-liquid
 ---
 
 EtherFi Cash Liquid is the on-chain account behind the EtherFi Cash debit card, a card product that lets users spend against their eETH and other DeFi positions without offboarding to fiat. Funds are held in smart contract accounts that integrate with the EtherFi borrowing market for credit lines.

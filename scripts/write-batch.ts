@@ -40,7 +40,6 @@ const InputSchema = z.object({
     permissions: z.enum(['permissionless', 'permissioned', 'hybrid', 'unknown']),
     launched: z.union([z.number().int().min(2009).max(2100), z.literal('unknown')]),
   }),
-  external_id: z.string().optional(),
   listed_at_unix: z.number().nullable().optional(),
 });
 type Input = z.infer<typeof InputSchema>;
@@ -88,12 +87,6 @@ function frontmatter(input: Input): string {
   lines.push(`  permissions: ${tags.permissions}`);
   lines.push(`  launched: ${tags.launched}`);
   lines.push(`  maturity: ${maturity}`);
-  if (input.external_id) {
-    lines.push('sources:');
-    lines.push(`  - external: ${yamlEscape(input.external_id)}`);
-  } else {
-    lines.push('sources: []');
-  }
   lines.push('---');
   return lines.join('\n');
 }
@@ -138,19 +131,7 @@ async function main() {
     written.push(entry.slug);
   }
 
-  // Update queue: remove all written slugs.
-  const queuePath = path.join(process.cwd(), '.cache', 'queue.json');
-  if (fs.existsSync(queuePath)) {
-    const queue = JSON.parse(fs.readFileSync(queuePath, 'utf-8')) as Array<{ slug: string }>;
-    const writtenSet = new Set(written);
-    const remaining = queue.filter((q) => !writtenSet.has(q.slug));
-    const tmp = `${queuePath}.tmp`;
-    fs.writeFileSync(tmp, JSON.stringify(remaining, null, 2));
-    fs.renameSync(tmp, queuePath);
-    console.log(`write-batch: wrote ${written.length}, skipped ${skipped.length}, queue remaining ${remaining.length}`);
-  } else {
-    console.log(`write-batch: wrote ${written.length}, skipped ${skipped.length} (no queue file)`);
-  }
+  console.log(`write-batch: wrote ${written.length}, skipped ${skipped.length}`);
 
   if (skipped.length > 0) {
     console.log('write-batch: skipped:');

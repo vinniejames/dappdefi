@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://app.hyperliquid.xyz
 twitter: HyperliquidX
 github: null
-logo: https://example.com/hyperliquid-hlp.jpg
+logo: null
 listed_at: 2024-12-01
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: hyperliquid-hlp
 ---
 
 HLP is Hyperliquid's protocol-owned market-maker vault. Depositors supply USDC; the vault runs market-making, liquidation backstop, and earn-yield strategies against Hyperliquid's order book and accrues a share of platform fees and PnL back to depositors.

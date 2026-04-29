@@ -7,7 +7,7 @@ chains: [Algorand]
 url: https://reti.run
 twitter: Reti_Pooling
 github: null
-logo: https://example.com/reti-pooling.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: reti-pooling
 ---
 
 Réti Pooling is a decentralized, non-custodial staking pool protocol on Algorand. Stakers contribute ALGO to pools that exceed Algorand's solo-staking minimum, and rewards are distributed pro-rata to contributors.

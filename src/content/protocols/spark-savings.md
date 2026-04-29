@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Avalanche, Base, Optimism, Unichain]
 url: https://data.spark.fi/savings/
 twitter: sparkdotfi
 github: marsfoundation
-logo: https://example.com/spark-savings.jpg
+logo: null
 listed_at: 2025-09-11
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: spark-savings
 ---
 
 Spark Savings is the deposit interface for the Sky Savings Rate, allowing holders to earn a predictable APY on USDS by depositing into the savings module. The yield is paid by the Sky protocol from its overall revenue stream and reflects governance-set policy rather than market utilization.

@@ -7,7 +7,7 @@ chains: [xDai]
 url: https://realt.co
 twitter: RealTPlatform
 github: null
-logo: https://example.com/realt-tokens.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2019
   maturity: growing
-sources:
-  - external: realt-tokens
 ---
 
 RealT issues fractional, tokenized claims on individual U.S. residential properties. Each property is held in a dedicated LLC, divided into RealTokens that represent fractional ownership, and rents are distributed pro rata to token holders weekly.

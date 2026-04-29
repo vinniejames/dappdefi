@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://saturnfi.com
 twitter: saturn_fi
 github: null
-logo: https://example.com/saturn.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: saturn
 ---
 
 Saturn is a dual-token Bitcoin-backed credit protocol. USDat is a stablecoin backed by tokenized treasuries; sUSat is the staked, yield-bearing variant whose returns are funded by a Bitcoin-aligned credit facility.

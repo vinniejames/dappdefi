@@ -7,7 +7,7 @@ chains: [Ethereum, Katana, Optimism, Base]
 url: https://yearn.fi
 twitter: yearnfi
 github: yearn
-logo: https://example.com/yearn-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: yearn-finance
 ---
 
 Yearn is the original DeFi yield aggregator. Depositors put assets into Yearn vaults; strategies move that capital through underlying protocols (lending markets, Curve LPs, structured products) to maximize risk-adjusted yield, with all logic encoded in vault contracts and automated by keepers.

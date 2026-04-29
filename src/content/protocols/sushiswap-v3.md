@@ -7,7 +7,7 @@ chains: [Ethereum, Katana, Hemi]
 url: https://sushi.com
 twitter: SushiSwap
 github: sushiswap
-logo: https://example.com/sushiswap-v3.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: sushiswap-v3
 ---
 
 SushiSwap V3 is SushiSwap's concentrated-liquidity DEX, built on a Uniswap V3 fork. Liquidity providers choose price ranges within which their capital is active, dramatically improving capital efficiency over the original V2-style constant-product pools.

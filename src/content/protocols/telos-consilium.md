@@ -7,7 +7,7 @@ chains: [Plasma, Ethereum]
 url: https://telos.consilium.is
 twitter: TelosConsilium
 github: null
-logo: https://example.com/telos-consilium.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: telos-consilium
 ---
 
 Telos Consilium (Telosc) is a Web3 advisory firm running risk-curated vault allocations and treasury services for DAOs and institutions. The team underwrites strategies on top of underlying lending markets and structured products, with capital allocations sized to client risk envelopes.

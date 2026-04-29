@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://phantom.app
 twitter: phantom
 github: null
-logo: https://example.com/phantom-sol.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: phantom-sol
 ---
 
 Phantom SOL is the staking product surfaced inside the Phantom wallet on Solana. Users can either delegate natively to a validator of their choice or opt into a liquid-staking flow that issues a tokenized claim, all from within the wallet UI.

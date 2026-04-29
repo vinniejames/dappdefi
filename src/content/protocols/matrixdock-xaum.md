@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Sui]
 url: https://www.matrixdock.com
 twitter: MatrixDockHQ
 github: null
-logo: https://example.com/matrixdock-xaum.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: matrixdock-xaum
 ---
 
 MatrixDock's XAUm is a digital gold token launched in 2024, backed by allocated gold held in regulated custody. Each XAUm represents one fine troy ounce of gold and joins the small set of on-chain gold-backed tokens (PAXG, XAUt) competing on custody and jurisdictional design.

@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://avant.fi
 twitter: avantprotocol
 github: null
-logo: https://example.com/avant-avusd.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: avant-avusd
 ---
 
 Avant is a DeFi platform on Avalanche issuing avUSD, a yield-bearing synthetic dollar backed by delta-neutral basis-trade strategies. The model echoes Ethena's USDe with execution adapted to Avalanche's market structure, and avUSD's staked variant captures the yield from the funding-rate leg.

@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.binance.com/en/solana-staking
 twitter: binance
 github: null
-logo: https://example.com/binance-staked-sol.png
+logo: null
 listed_at: 2024-09-12
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: binance-staked-sol
 ---
 
 BNSOL is Binance's exchange-issued liquid staking token for Solana. Users deposit SOL on Binance and receive BNSOL, a tokenized representation of their staked SOL plus accrued rewards through an exchange rate that increases over time.

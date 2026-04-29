@@ -7,7 +7,7 @@ chains: [Solana, Binance]
 url: https://unitasprotocol.com
 twitter: unitasprotocol
 github: null
-logo: https://example.com/unitas.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: unitas
 ---
 
 Unitas is a yield-bearing stablecoin protocol that issues stable tokens backed by delta-neutral basis-trade strategies and other yield sources. The model echoes Ethena's USDe with execution adapted to Unitas's chosen venues, and the staked variant captures the yield from the strategies.

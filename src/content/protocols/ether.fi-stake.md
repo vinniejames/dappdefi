@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://www.ether.fi/
 twitter: ether_fi
 github: etherfi-protocol/smart-contracts
-logo: https://example.com/ether.fi.jpg
+logo: null
 listed_at: 2023-03-02
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: ether.fi-stake
 ---
 
 ether.fi is a non-custodial liquid restaking protocol on Ethereum. Stakers deposit ETH and receive eETH, a rebasing liquid token; the underlying ETH is staked through validators and simultaneously restaked into EigenLayer to earn restaking points and AVS rewards on top of the base consensus yield.

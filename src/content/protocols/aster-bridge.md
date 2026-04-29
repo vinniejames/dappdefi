@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Arbitrum, Solana, Scroll]
 url: https://www.asterdex.com/
 twitter: Aster_DEX
 github: null
-logo: https://example.com/aster-bridge.jpg
+logo: null
 listed_at: 2024-07-05
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: aster-bridge
 ---
 
 Aster Bridge is the deposit and withdrawal layer for Aster, a high-leverage decentralized perpetual exchange built on BNB Chain. Funds bridged in from Ethereum, Arbitrum, Solana, and other supported chains become trading collateral inside Aster's perpetuals venue.

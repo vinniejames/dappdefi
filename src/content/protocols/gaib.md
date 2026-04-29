@@ -7,7 +7,7 @@ chains: [Ethereum, Sei, Arbitrum, Binance]
 url: https://gaib.ai
 twitter: gaib_ai
 github: null
-logo: https://example.com/gaib.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: gaib
 ---
 
 GAIB is a financial layer for AI infrastructure, turning GPU hardware and compute capacity into yield-generating on-chain assets. Its synthetic-dollar product, AID, gives investors exposure to the underlying compute economy through a tokenized claim on GPU-backed receivables.

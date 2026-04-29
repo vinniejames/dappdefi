@@ -7,7 +7,7 @@ chains: [Ethereum, Base]
 url: https://seamlessprotocol.com
 twitter: SeamlessFi
 github: seamless-protocol
-logo: https://example.com/seamless-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: seamless-v2
 ---
 
 Seamless is a non-custodial lending protocol on Base and Ethereum, originally built as an Aave V3 fork and later evolved into a curated-vault platform on Morpho. The current V2 iteration emphasizes simpler UX for both suppliers and borrowers.

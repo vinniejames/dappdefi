@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.falcon.finance
 twitter: falconstable
 github: null
-logo: https://example.com/falcon-finance.jpg
+logo: null
 listed_at: 2025-09-30
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: falcon-finance
 ---
 
 Falcon Finance issues USDf, a synthetic dollar built on a universal-collateralization model. Users deposit a wide range of crypto and tokenized assets — stables, ETH, BTC, LSTs, and selected RWAs — into Falcon's vaults, and the protocol mints USDf against them while running delta-neutral hedging strategies on the underlying.

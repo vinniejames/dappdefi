@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.resolv.xyz
 twitter: ResolvLabs
 github: null
-logo: https://example.com/resolv.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: resolv
 ---
 
 Resolv issues USR, a stablecoin fully backed by ETH-based positions and pegged to the U.S. dollar through a delta-neutral hedging strategy. The protocol's distinguishing feature is its insurance pool — RLP — which absorbs adverse PnL on the basis position so USR's peg holds even under stress.

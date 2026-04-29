@@ -7,7 +7,7 @@ chains: [Base, Ethereum, Arbitrum]
 url: https://vfat.io
 twitter: vfat_io
 github: null
-logo: https://example.com/vfat.io.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: vfat.io
 ---
 
 vfat.io is a yield-aggregation interface backed by Sickle, a smart-contract-wallet primitive built specifically for yield farming. The platform consolidates farms across many DEXs and yield venues into one operational dashboard so users can deploy, harvest, and rebalance positions from a single UI.

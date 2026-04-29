@@ -7,7 +7,7 @@ chains: [Near]
 url: https://www.rhea.finance
 twitter: rheafinance
 github: null
-logo: https://example.com/rhea-dex.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: rhea-dex
 ---
 
 Rhea DEX is the swap arm of Rhea Finance, the merger of Ref Finance and Burrow Finance into a single DeFi hub on NEAR. The DEX integrates with the Rhea Lending market and NEAR's chain-abstraction stack to support BTC, NEAR, and major Ethereum-bridged assets in one venue.

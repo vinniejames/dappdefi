@@ -7,7 +7,7 @@ chains: [Base]
 url: https://t-rize.io
 twitter: t_rize_io
 github: null
-logo: https://example.com/t-rize.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: t-rize
 ---
 
 T-RIZE is an institutional-grade RWA tokenization platform that uses decentralized machine learning to underwrite and price tokenized assets. The platform handles the full issuance lifecycle for asset originators bringing private-credit and other off-chain assets on-chain.

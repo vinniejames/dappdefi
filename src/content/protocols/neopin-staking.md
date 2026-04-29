@@ -7,7 +7,7 @@ chains: [Klaytn, Tron]
 url: https://neopin.io
 twitter: NEOPIN_Official
 github: null
-logo: https://example.com/neopin-staking.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: neopin-staking
 ---
 
 NEOPIN Staking is the validator-delegation product within the NEOPIN wallet and DeFi platform. Users delegate to NEOPIN's validator infrastructure on Klaytn (now Kaia) and Tron, earning network rewards through the platform's UI.

@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Binance]
 url: https://www.railgun.org
 twitter: RAILGUN_Project
 github: Railgun-Privacy
-logo: https://example.com/railgun.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: railgun
 ---
 
 RAILGUN is a smart-contract privacy system that lets users transact, swap, and lend privately on Ethereum and other EVM chains without using a bridge or Layer-2. Funds are deposited into a shielded balance set with zero-knowledge proofs, and users execute DeFi actions from inside that shield.

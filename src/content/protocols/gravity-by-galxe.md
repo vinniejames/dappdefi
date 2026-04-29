@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://gravity.xyz
 twitter: GravityChain
 github: null
-logo: https://example.com/gravity-by-galxe.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: gravity-by-galxe
 ---
 
 Gravity is the canonical bridge for the Galxe-developed Gravity Chain, an EVM-compatible network designed as an omnichain settlement layer for consumer apps. The bridge uses zero-knowledge proofs for fast cross-chain settlement.

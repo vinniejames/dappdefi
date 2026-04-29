@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://meteora.ag
 twitter: MeteoraAG
 github: MeteoraAg
-logo: https://example.com/meteora-damm-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: meteora-damm-v2
 ---
 
 Meteora's DAMM V2 is a constant-product AMM with configurable features — dynamic fees, fee scheduling, token-based fee selection — that pool deployers can use to tune their pools to specific use cases. It complements Meteora's DLMM concentrated-liquidity engine.

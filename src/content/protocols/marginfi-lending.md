@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.marginfi.com
 twitter: marginfi
 github: mrgnlabs
-logo: https://example.com/marginfi-lending.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: marginfi-lending
 ---
 
 marginfi is a foundational lending and prime-brokerage protocol on Solana. It offers a Compound-style money market with a strong focus on portfolio risk management — users see a unified account view across deposits, borrows, and trading-app integrations.

@@ -7,7 +7,7 @@ chains: [Cardano]
 url: https://dano.finance
 twitter: danofinance
 github: null
-logo: https://example.com/dano-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: dano-finance
 ---
 
 Dano Finance is a Cardano-based DEX specializing in trading bond tokens issued by Optim Finance. The venue lets bond-token holders trade their positions without going through a centralized intermediary.

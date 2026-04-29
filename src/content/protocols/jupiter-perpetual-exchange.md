@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jup.ag/
 twitter: JupiterExchange
 github: null
-logo: https://example.com/jupiter-perpetual-exchange.jpg
+logo: null
 listed_at: 2024-01-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: jupiter-perpetual-exchange
 ---
 
 Jupiter Perps is an LP-to-trader perpetual exchange on Solana inspired by GMX's design. Liquidity providers deposit into the JLP pool — a basket of SOL, ETH, BTC, USDC, and USDT — and that pool acts as the counterparty for all traders. Prices come from oracles, and traders pay a borrow fee plus open/close fees on every position.

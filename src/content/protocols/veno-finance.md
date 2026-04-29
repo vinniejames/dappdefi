@@ -7,7 +7,7 @@ chains: [Cronos, Ethereum, "Cronos zkEVM"]
 url: https://veno.finance
 twitter: VenoFinance
 github: null
-logo: https://example.com/veno-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: veno-finance
 ---
 
 Veno is the dominant liquid staking platform on Cronos. Users stake CRO and other supported assets and receive yield-bearing LSTs (LCRO, LATOM) usable across Cronos DeFi venues.

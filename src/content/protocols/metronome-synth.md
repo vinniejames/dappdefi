@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Optimism]
 url: https://metronome.io
 twitter: MetronomeDAO
 github: autonomoussoftware
-logo: https://example.com/metronome-synth.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: metronome-synth
 ---
 
 Metronome Synth is a multi-collateral synthetic-asset protocol. Users post a wide range of yield-bearing collaterals — LSTs, LP tokens, vault shares — and mint synthetic assets (msUSD, msETH, msBTC) against them, retaining the underlying yield while gaining synthetic exposure.

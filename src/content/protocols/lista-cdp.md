@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://lista.org/
 twitter: LISTA_DAO
 github: null
-logo: https://example.com/lista-cdp.jpg
+logo: null
 listed_at: 2022-08-30
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: growing
-sources:
-  - external: lista-cdp
 ---
 
 Lista CDP is the collateralized-stablecoin issuance arm of Lista DAO on BNB Chain. Users lock crypto collateral — BNB, ETH, stablecoins, LSTs — into vaults and mint lisUSD, Lista's decentralized stablecoin, paying a stability fee set by Lista governance.

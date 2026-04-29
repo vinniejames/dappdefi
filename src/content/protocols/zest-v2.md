@@ -7,7 +7,7 @@ chains: [Stacks]
 url: https://www.zestprotocol.com
 twitter: ZestProtocol
 github: Trust-Machines
-logo: https://example.com/zest-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: zest-v2
 ---
 
 Zest V2 is an open-source lending platform on Stacks built specifically for Bitcoin-native collateral. Users earn yield by supplying assets or borrow against tokenized BTC representations on Stacks (sBTC and others), with terms set by the protocol's risk parameters.

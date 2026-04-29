@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://synthetix.io
 twitter: synthetix_io
 github: Synthetixio
-logo: https://example.com/synthetix-v3.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: synthetix-v3
 ---
 
 Synthetix V3 is a comprehensive rewrite of the Synthetix protocol around a modular liquidity layer. SNX stakers provide collateral to a pool that backs permissionless derivatives — perpetual futures, options, parimutuel markets — built on top of the same liquidity.

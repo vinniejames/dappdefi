@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Solana, Binance, Base]
 url: https://app.solv.finance/solvbtc
 twitter: SolvProtocol
 github: null
-logo: https://example.com/solvbtc.jpg
+logo: null
 listed_at: 2024-05-16
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: solvbtc
 ---
 
 SolvBTC is a universal Bitcoin reserve token issued by Solv Protocol, backed 1:1 by attested Bitcoin reserves and bridged across multiple chains. Holders can earn yield by depositing SolvBTC into Solv's curated yield strategies, which include staking, basis trades, and lending.

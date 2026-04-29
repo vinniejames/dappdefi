@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://securitize.io
 twitter: Securitize
 github: null
-logo: https://example.com/securitize-tokenized-aaa-clo-fund.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: securitize-tokenized-aaa-clo-fund
 ---
 
 The Securitize Tokenized AAA CLO Fund provides on-chain exposure to a diversified portfolio of AAA-rated U.S. dollar Collateralized Loan Obligations. Each token represents a fractional interest in the underlying CLO holdings, with yield distributed through periodic on-chain payments.

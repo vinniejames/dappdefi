@@ -7,7 +7,7 @@ chains: [Binance, Base, BSquared]
 url: https://river.inc
 twitter: river_inc
 github: null
-logo: https://example.com/river-omni-cdp.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: river-omni-cdp
 ---
 
 River builds an omni-chain CDP and yield routing layer that connects assets, liquidity, and yield across multiple networks. Users mint a stable claim against deposited collateral and the underlying capital is routed through curated yield strategies on supported chains.

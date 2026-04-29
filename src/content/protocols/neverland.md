@@ -7,7 +7,7 @@ chains: [Monad]
 url: https://neverland.fi
 twitter: neverland_fi
 github: null
-logo: https://example.com/neverland.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: neverland
 ---
 
 Neverland is a Monad-native lending protocol that builds on battle-tested lending infrastructure (forking established designs) tuned for Monad's parallel execution model. The platform offers standard money-market primitives plus structured products on top.

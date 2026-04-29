@@ -7,7 +7,7 @@ chains: [Arbitrum, "Hyperliquid L1"]
 url: https://app.hyperliquid.xyz
 twitter: HyperliquidX
 github: null
-logo: https://example.com/hyperliquid.png
+logo: null
 listed_at: 2024-04-15
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: hyperliquid-bridge
 ---
 
 Hyperliquid Bridge is the canonical entry and exit point between Arbitrum and the Hyperliquid L1, the perpetual-futures appchain. USDC is the primary asset that flows across, with native USDC minted on Hyperliquid via Circle's CCTP and bridged from Arbitrum into the L1 for trading.

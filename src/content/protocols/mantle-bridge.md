@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.mantle.xyz/bridge
 twitter: Mantle_Official
 github: mantlenetworkio
-logo: https://example.com/mantle-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: mantle-bridge
 ---
 
 Mantle Bridge is the canonical bridge between Ethereum and Mantle Network, an Ethereum Layer-2 with a modular execution and data-availability stack. Deposits make ETH and ERC-20s available on Mantle in minutes; withdrawals follow the standard L2 challenge window before settling on L1.

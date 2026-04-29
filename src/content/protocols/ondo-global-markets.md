@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Solana]
 url: https://ondo.finance
 twitter: OndoFinance
 github: ondoprotocol
-logo: https://example.com/ondo-global-markets.jpg
+logo: null
 listed_at: 2025-09-03
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2025
   maturity: new
-sources:
-  - external: ondo-global-markets
 ---
 
 Ondo Global Markets is Ondo's tokenized-equities product, bringing exposure to U.S.-listed stocks and ETFs on-chain through regulated wrappers. Each tokenized share represents a backed claim on the underlying security, redeemable through Ondo's institutional pipeline.

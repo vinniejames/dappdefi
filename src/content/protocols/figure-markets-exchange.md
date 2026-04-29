@@ -7,7 +7,7 @@ chains: [Provenance]
 url: https://www.figuremarkets.com/crypto-exchange/
 twitter: figuremarkets
 github: null
-logo: https://example.com/figure-markets-exchange.jpg
+logo: null
 listed_at: 2025-07-28
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: figure-markets-exchange
 ---
 
 Figure Markets is a decentralized exchange built on the Provenance Blockchain, a Cosmos-based chain optimized for regulated financial products. It offers spot trading of crypto and tokenized real-world assets with a hybrid model that combines self-custody of assets in user wallets with the order-matching ergonomics of a centralized exchange.

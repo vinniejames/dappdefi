@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://scroll.io/bridge
 twitter: Scroll_ZKP
 github: scroll-tech
-logo: https://example.com/scroll-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: scroll-bridge
 ---
 
 The Scroll Bridge is the canonical bridge between Ethereum and Scroll, a zkEVM validity rollup. Withdrawals settle to L1 once a zk proof verifies the new state, with no fraud-proof challenge window required.

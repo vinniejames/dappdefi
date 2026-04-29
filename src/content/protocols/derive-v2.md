@@ -7,7 +7,7 @@ chains: [Arbitrum, "Hyperliquid L1", Optimism, Ethereum]
 url: https://derive.xyz
 twitter: derivexyz
 github: null
-logo: https://example.com/derive-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: derive-v2
 ---
 
 Derive (formerly Lyra) is a self-custodial derivatives exchange offering options, perpetual futures, and spot trading from a single venue. V2 unifies the order-book matching engine across all three product lines and runs on Derive Chain, an OP Stack rollup with low-latency settlement.

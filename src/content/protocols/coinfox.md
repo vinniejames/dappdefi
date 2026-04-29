@@ -19,8 +19,6 @@ tags:
   permissions: permissionless
   launched: unknown
   maturity: growing
-sources:
-  - external: coinfox
 ---
 
 CoinFox is a crypto portfolio tracker that lets holders monitor their positions across coins and tokens in one consolidated view. Rather than checking individual exchange balances and on-chain wallets separately, users add their holdings once and see live valuations, P&L, and portfolio composition.

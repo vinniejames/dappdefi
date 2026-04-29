@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://resupply.fi
 twitter: Resupplyfi
 github: null
-logo: https://example.com/resupply.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: resupply
 ---
 
 Resupply is a CDP-style stablecoin protocol that issues reUSD against deposits in lending markets — Curve LlamaLend, Fraxlend, and similar. Borrowing against a yield-bearing lending position rather than raw collateral lets borrowers retain underlying yield while drawing the stablecoin.

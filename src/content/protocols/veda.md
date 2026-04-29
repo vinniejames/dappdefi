@@ -7,7 +7,7 @@ chains: [Ethereum, Ink, "Hyperliquid L1", Plasma, Base]
 url: https://veda.tech
 twitter: veda_labs
 github: null
-logo: https://example.com/veda.jpg
+logo: null
 listed_at: 2025-02-20
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: veda
 ---
 
 Veda is a vault-infrastructure platform that other DeFi applications use to ship cross-chain yield products without rebuilding the underlying plumbing themselves. Issuers configure strategies — looped LSTs, basis trades, lending positions — and Veda handles execution, accounting, and the cross-chain settlement layer.

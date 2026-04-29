@@ -7,7 +7,7 @@ chains: [dYdX]
 url: https://dydx.exchange
 twitter: dYdX
 github: dydxprotocol/v4-chain
-logo: https://example.com/dydx-v4.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: dydx-v4
 ---
 
 dYdX V4 is the Cosmos-SDK appchain version of dYdX, moved off StarkEx onto its own validator-secured chain. The chain runs a fully decentralized off-chain order book with on-chain settlement, with validators handling order matching and consensus simultaneously.

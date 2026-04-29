@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://crvusd.curve.finance
 twitter: CurveFinance
 github: curvefi/curve-stablecoin
-logo: https://example.com/crvusd.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: crvusd
 ---
 
 crvUSD is Curve's CDP-style stablecoin pegged to the dollar. Borrowers deposit collateral (initially LSTs and BTC wrappers) and mint crvUSD, but unlike traditional CDPs Curve uses a continuous "soft liquidation" mechanism (LLAMMA) that gradually rebalances the position into stablecoins as the price falls toward the liquidation threshold.

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.swellnetwork.io
 twitter: swellnetworkio
 github: null
-logo: https://example.com/swell-l2-farm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: swell-l2-farm
 ---
 
 Swell L2 Farm is the pre-launch deposit and incentive program for Swell L2, a restaking-focused Layer-2 from the Swell team. Stakers deposit LSTs and LRTs to earn protocol points and farm incentives while their capital backs the upcoming L2.

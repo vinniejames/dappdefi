@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Plasma, Base, Avalanche, Binance, Polygon, Mantle, 
 url: https://aave.com
 twitter: aave
 github: aave-dao/aave-v3-origin
-logo: https://example.com/aave-v3.png
+logo: null
 listed_at: 2022-04-01
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: aave-v3
 ---
 
 Aave V3 is the third major version of the Aave money market — the largest non-custodial lending protocol in DeFi. Suppliers earn interest on deposits, borrowers post overcollateralized loans against those deposits, and rates adjust algorithmically based on utilization of each market.

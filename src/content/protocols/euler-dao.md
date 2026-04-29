@@ -7,7 +7,7 @@ chains: [Ethereum, Unichain, Arbitrum]
 url: https://www.euler.finance
 twitter: eulerfinance
 github: euler-xyz
-logo: https://example.com/euler-dao.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: euler-dao
 ---
 
 Euler DAO is the governance and curated-vault arm of the Euler V2 lending platform. EUL holders steer protocol parameters and the DAO operates curated vaults on top of the underlying Euler Vault Kit primitives.

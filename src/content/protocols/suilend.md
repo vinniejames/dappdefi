@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://suilend.fi
 twitter: suilendprotocol
 github: solendprotocol
-logo: https://example.com/suilend.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: suilend
 ---
 
 Suilend is a Sui-native lending protocol from the team behind Solend on Solana. It offers Compound-style algorithmic money markets — supply assets to earn interest, borrow up to LTV — adapted to Sui's object-based execution model.

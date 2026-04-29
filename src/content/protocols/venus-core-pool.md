@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Arbitrum, "zkSync Era", Unichain, Base]
 url: "https://app.venus.io/#/core-pool"
 twitter: VenusProtocol
 github: VenusProtocol
-logo: https://example.com/venus-core-pool.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: venus-core-pool
 ---
 
 Venus is the dominant lending market on BNB Chain and has expanded to several other EVM networks. The Core Pool is its flagship money market — a Compound-style algorithmic interest-rate model with shared collateral across listed assets.

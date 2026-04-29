@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://obol.org/
 twitter: Obol_Collective
 github: ObolNetwork/charon
-logo: https://example.com/obol.jpg
+logo: null
 listed_at: 2025-11-04
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2025
   maturity: new
-sources:
-  - external: obol
 ---
 
 Obol is a Distributed Validator Technology stack for Ethereum, similar in goal to SSV but with a distinct cluster-coordination middleware called Charon. Validators are operated as clusters of independent nodes that jointly produce signatures, removing single-points-of-failure and improving uptime.

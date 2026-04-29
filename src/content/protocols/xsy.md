@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://xsy.finance
 twitter: xsy_finance
 github: null
-logo: https://example.com/xsy.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: xsy
 ---
 
 XSY issues UTY (Unity), a digital synthetic dollar on Avalanche backed by delta-neutral basis-trade strategies. The token is the synthetic-dollar arm of XSY's broader DeFi product line.

@@ -7,7 +7,7 @@ chains: [Flare, Ethereum, Base]
 url: https://clearstar.io
 twitter: clearstarLabs
 github: null
-logo: https://example.com/clearstar.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: clearstar
 ---
 
 Clearstar is a risk-curator firm building on-chain infrastructure and strategies on top of underlying lending markets. The team designs risk frameworks for specific borrower and collateral profiles and operates curated vaults that depositors can opt into.

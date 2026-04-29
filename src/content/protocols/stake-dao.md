@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum, Fraxtal]
 url: https://stakedao.org
 twitter: StakeDAOHQ
 github: stake-dao
-logo: https://example.com/stake-dao.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: stake-dao
 ---
 
 Stake DAO is a non-custodial yield aggregator best known for its meta-governance products on Curve, Frax, and other voting-escrow protocols. Users deposit LP tokens and Stake DAO routes them through a pooled veCRV/veFXS position that captures boosted emissions, similar in spirit to Convex.

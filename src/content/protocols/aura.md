@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Base]
 url: https://aura.finance
 twitter: AuraFinance
 github: aurafinance
-logo: https://example.com/aura.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2022
   maturity: established
-sources:
-  - external: aura
 ---
 
 Aura is a yield aggregator built on top of Balancer, doing for veBAL what Convex did for veCRV. LPs deposit Balancer LP tokens into Aura, which routes them through a pooled veBAL position to capture boosted BAL emissions; depositors get the boost without locking BAL themselves.

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.avalonfinance.xyz
 twitter: avalonfinance_
 github: null
-logo: https://example.com/avalon-cedefi.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: avalon-cedefi
 ---
 
 Avalon CeDeFi is the on-chain capital-markets layer of Avalon Finance, focused on Bitcoin. The platform routes BTC and BTC-aligned assets through CeDeFi-style yield strategies and lending, complementing Avalon's USDa stablecoin product.

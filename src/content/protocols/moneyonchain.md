@@ -7,7 +7,7 @@ chains: [RSK]
 url: https://moneyonchain.com
 twitter: moneyonchainok
 github: money-on-chain
-logo: https://example.com/moneyonchain.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: growing
-sources:
-  - external: moneyonchain
 ---
 
 MoneyOnChain is a Bitcoin-collateralized DeFi protocol on RSK that issues a dollar-pegged stablecoin (DoC), a yield-bearing HODL token (BPro), and a leveraged BTC token (BTCx) — all backed by the same RBTC collateral pool.

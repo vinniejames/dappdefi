@@ -7,7 +7,7 @@ chains: [Bitcoin, Ripple, Doge, Cardano, Litecoin]
 url: https://www.coinbase.com/
 twitter: coinbase
 github: null
-logo: https://example.com/coinbase-bridge.jpg
+logo: null
 listed_at: 2025-02-18
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: coinbase-bridge
 ---
 
 Coinbase Bridge is the umbrella name for Coinbase's wrapped-asset issuances — ERC-20 tokens backed one-for-one by reserves held by the exchange. The most prominent of these is cbBTC, a Bitcoin-backed token that lets BTC holders use their assets across Ethereum, Base, and other EVM networks.

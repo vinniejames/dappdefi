@@ -7,7 +7,7 @@ chains: [Binance, Base, Ethereum, Solana, Arbitrum]
 url: https://pancakeswap.finance/
 twitter: PancakeSwap
 github: pancakeswap
-logo: https://example.com/pancakeswap-amm-v3.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: established
-sources:
-  - external: pancakeswap-amm-v3
 ---
 
 PancakeSwap V3 brings Uniswap V3-style concentrated liquidity to BNB Chain and the broader set of networks PancakeSwap deploys to. LPs choose price ranges within which their capital is active, dramatically improving capital efficiency for the same dollar of liquidity.

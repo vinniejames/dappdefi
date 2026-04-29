@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Hemi, Base, CORE]
 url: https://bitfi.app
 twitter: Bitfi_app
 github: null
-logo: https://example.com/bitfi-basis.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: bitfi-basis
 ---
 
 BitFi issues bfUSD, a yield-bearing stablecoin backed by delta-neutral basis-trading strategies on cryptocurrency derivatives. The model echoes Ethena's USDe and Falcon's USDf, with BitFi running execution across multiple chains and venues.

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://blast.io/bridge
 twitter: Blast_L2
 github: null
-logo: https://example.com/blast-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: blast-bridge
 ---
 
 The Blast Bridge is the canonical bridge between Ethereum and Blast, an OP Stack rollup distinguished by built-in native yield on bridged ETH and stablecoins. Deposited assets earn yield from Lido (for ETH) and MakerDAO/Sky (for stables) while sitting in the bridge contract.

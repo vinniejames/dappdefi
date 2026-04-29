@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://tzbtc.io
 twitter: tzbtcofficial
 github: null
-logo: https://example.com/tzbtc.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: multisig
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2020
   maturity: growing
-sources:
-  - external: tzbtc
 ---
 
 tzBTC is a wrapped Bitcoin token on Tezos, backed 1:1 by BTC and issued through a multi-signature keyholder federation. The keyholders are vetted Tezos ecosystem entities that custody the underlying Bitcoin and authorize mints and redemptions.

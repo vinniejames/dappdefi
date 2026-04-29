@@ -7,7 +7,7 @@ chains: [Tron]
 url: https://sun.io
 twitter: defi_sun
 github: null
-logo: https://example.com/sunswap-v3.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sunswap-v3
 ---
 
 SUNSwap V3 is the leading DEX on Tron, offering both Uniswap-style automated liquidity and concentrated-liquidity pools tuned for the network's economics. As part of the broader SUN.io ecosystem, it's tightly integrated with JustLend and other Tron DeFi venues.

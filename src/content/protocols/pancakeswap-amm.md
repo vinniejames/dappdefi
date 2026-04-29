@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Aptos, Base, "zkSync Era", Op_Bnb]
 url: https://pancakeswap.finance/
 twitter: PancakeSwap
 github: pancakeswap
-logo: https://example.com/pancakeswap-amm.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: pancakeswap-amm
 ---
 
 PancakeSwap is the largest DEX on BNB Chain and one of the highest-volume DEXs in DeFi by activity. The AMM offers both a Uniswap V2-style constant-product pool and a V3-style concentrated-liquidity pool, plus a yield-farming layer that distributes the CAKE governance token to liquidity providers.

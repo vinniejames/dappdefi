@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.frankencoin.com
 twitter: frankencoinZCHF
 github: Frankencoin-ZCHF
-logo: https://example.com/frankencoin.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: frankencoin
 ---
 
 Frankencoin (ZCHF) is an oracle-free, collateralized stablecoin that tracks the Swiss franc. Borrowers propose new collateral types and parameters to the protocol; ZCHF holders can challenge proposals, and accepted positions issue ZCHF backed by the deposited collateral.

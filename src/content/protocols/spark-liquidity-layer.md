@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Unichain, Arbitrum, Optimism, Avalanche]
 url: https://app.spark.fi/
 twitter: sparkdotfi
 github: marsfoundation
-logo: https://example.com/spark-liquidity-layer.jpg
+logo: null
 listed_at: 2025-04-03
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2025
   maturity: new
-sources:
-  - external: spark-liquidity-layer
 ---
 
 The Spark Liquidity Layer (SLL) is the routing system that moves USDS, sUSDS, and USDC from the Sky ecosystem out to lending markets, DEXs, and RWA products across multiple chains. Rather than running an independent yield product, SLL programmatically deploys Sky's reserves where they are most needed to keep stablecoin liquidity deep and rates stable.

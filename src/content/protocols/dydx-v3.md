@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://trade.dydx.exchange
 twitter: dYdX
 github: dydxprotocol
-logo: https://example.com/dydx-v3.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: dydx-v3
 ---
 
 dYdX V3 was the StarkEx-based perpetuals DEX that defined the on-chain orderbook-perp template. Deposits settled on Ethereum; matching ran off-chain on a StarkEx validity rollup. V3 has been gradually retired in favor of V4 on the Cosmos-SDK appchain.

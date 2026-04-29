@@ -7,7 +7,7 @@ chains: [Ethereum, Stellar]
 url: https://www.wisdomtreeprime.com/
 twitter: WisdomTreePrime
 github: null
-logo: https://example.com/wisdomtree.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2023
   maturity: growing
-sources:
-  - external: wisdomtree
 ---
 
 WisdomTree, a major traditional ETF issuer, runs a tokenization platform that brings selected ETFs and money-market products on-chain. WisdomTree Connect is the institutional-facing access layer; the underlying tokenized funds settle on Ethereum and Stellar.

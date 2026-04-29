@@ -7,7 +7,7 @@ chains: [Base, Ethereum, Arbitrum]
 url: https://sodex.com
 twitter: sosovaluedex
 github: null
-logo: https://example.com/sodex-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: sodex-bridge
 ---
 
 SoDEX Bridge moves assets into SoDEX, a high-performance order-book DEX built on ValueChain. Users bridge USDC and other supported assets in to trade on the venue's matching engine, which is structured for low-latency execution.

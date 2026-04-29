@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum]
 url: https://threshold.network/
 twitter: TheTNetwork
 github: keep-network/tbtc-v2
-logo: https://example.com/tbtc.png
+logo: null
 listed_at: 2023-02-14
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: growing
-sources:
-  - external: tbtc
 ---
 
 tBTC is the Threshold Network's decentralized Bitcoin-to-Ethereum bridge. Unlike custodial wrappers, tBTC uses a randomly-selected, threshold-signature-secured group of operators to hold the underlying BTC, with the validator group rotated regularly to limit single-operator failure.

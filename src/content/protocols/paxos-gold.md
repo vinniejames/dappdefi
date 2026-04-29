@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://paxos.com/paxgold/
 twitter: Paxos
 github: null
-logo: https://example.com/paxos-gold.png
+logo: null
 listed_at: 2024-07-09
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2019
   maturity: growing
-sources:
-  - external: paxos-gold
 ---
 
 Paxos Gold (PAXG) is an ERC-20 token where each unit is backed by one fine troy ounce of LBMA-grade gold held in London vaults under Paxos's custody. Reserves are attested monthly, and qualified holders can redeem PAXG for the underlying allocated bars or sell it back to Paxos for fiat.

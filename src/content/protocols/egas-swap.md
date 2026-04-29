@@ -7,7 +7,7 @@ chains: [ENI]
 url: https://egas.swap
 twitter: null
 github: null
-logo: https://example.com/egas-swap.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: egas-swap
 ---
 
 EGAS Swap is the native swap protocol on the ENI chain. Users swap between EGAS and supported ERC-20 assets through a standard AMM model.

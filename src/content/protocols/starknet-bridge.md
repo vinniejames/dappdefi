@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://starkgate.starknet.io
 twitter: Starknet
 github: starkware-libs
-logo: https://example.com/starknet-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: starknet-bridge
 ---
 
 The Starknet Bridge (StarkGate) is the canonical bridge between Ethereum and Starknet, a STARK-validity rollup developed by StarkWare. Deposits move to L2 quickly; withdrawals are settled by submitting a STARK proof to L1 and don't require a fraud-proof challenge window like optimistic rollups.

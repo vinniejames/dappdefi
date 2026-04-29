@@ -1,7 +1,7 @@
 #!/usr/bin/env tsx
 /**
- * Read enriched protocol JSON from stdin, write src/content/protocols/{slug}.md.
- * Refuses to overwrite. Removes the matching entry from .cache/queue.json on success.
+ * Read protocol JSON from stdin, write src/content/protocols/{slug}.md.
+ * Refuses to overwrite existing files.
  *
  * Input shape (validated with zod):
  * {
@@ -13,8 +13,8 @@
  *   "url": "https://aave.com",
  *   "twitter": "aave",
  *   "github": "aave/aave-v3-core",
- *   "logo": "https://example.com/aave.jpg",
- *   "description": "...markdown body...",
+ *   "logo": "/logos/aave.png",
+ *   "description": "...markdown body, 2-3 paragraphs...",
  *   "tags": {
  *     "governance": "dao",
  *     "token": "AAVE",
@@ -23,9 +23,7 @@
  *     "custody": "non-custodial",
  *     "permissions": "permissionless",
  *     "launched": 2020
- *   },
- *   "external_id": "aave",
- *   "listed_at_unix": 1606435200
+ *   }
  * }
  */
 import fs from 'node:fs';
@@ -58,7 +56,6 @@ const InputSchema = z.object({
     permissions: z.enum(['permissionless', 'permissioned', 'hybrid', 'unknown']),
     launched: z.union([z.number().int().min(2009).max(2100), z.literal('unknown')]),
   }),
-  external_id: z.string().optional(),
   listed_at_unix: z.number().nullable().optional(),
 });
 
@@ -109,26 +106,8 @@ function frontmatter(input: Input): string {
   lines.push(`  permissions: ${tags.permissions}`);
   lines.push(`  launched: ${tags.launched}`);
   lines.push(`  maturity: ${maturity}`);
-  if (input.external_id) {
-    lines.push('sources:');
-    lines.push(`  - external: ${yamlEscape(input.external_id)}`);
-  } else {
-    lines.push('sources: []');
-  }
   lines.push('---');
   return lines.join('\n');
-}
-
-function popFromQueue(slug: string) {
-  const queuePath = path.join(process.cwd(), '.cache', 'queue.json');
-  if (!fs.existsSync(queuePath)) return;
-  const raw = fs.readFileSync(queuePath, 'utf-8');
-  const queue = JSON.parse(raw) as Array<{ slug: string }>;
-  const filtered = queue.filter((q) => q.slug !== slug);
-  if (filtered.length === queue.length) return;
-  const tmp = `${queuePath}.tmp`;
-  fs.writeFileSync(tmp, JSON.stringify(filtered, null, 2));
-  fs.renameSync(tmp, queuePath);
 }
 
 async function readStdin(): Promise<string> {
@@ -170,7 +149,6 @@ async function main() {
   fs.writeFileSync(tmp, content);
   fs.renameSync(tmp, file);
 
-  popFromQueue(parsed.slug);
   console.log(`write-markdown: wrote ${file}`);
 }
 

@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://www.asterdex.com
 twitter: Aster_DEX
 github: null
-logo: https://example.com/aster-usdf.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: aster-usdf
 ---
 
 USDF is Aster's yield-bearing stablecoin on BNB Chain, convertible 1:1 with USDT. Underlying USDT funds are deployed into delta-neutral basis-trade strategies; the resulting yield accrues to USDF holders through the token's exchange rate.

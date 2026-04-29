@@ -7,7 +7,7 @@ chains: [HydraDX]
 url: https://hydration.net
 twitter: hydration_net
 github: galacticcouncil
-logo: https://example.com/hydration-dex.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: hydration-dex
 ---
 
 Hydration DEX is the omnipool AMM at the center of the Hydration (formerly HydraDX) Polkadot-based DeFi hub. The omnipool design holds all listed assets in a single pool with a shared price-discovery curve, dramatically improving capital efficiency for swaps.

@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://projectx.fi
 twitter: ProjectX_HL
 github: null
-logo: https://example.com/project-x.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: project-x
 ---
 
 Project X is a Hyperliquid-based trading venue built around the thesis that distribution and brand will dominate the next era of DeFi rather than pure technology differentiation. The platform offers spot trading and structured products on top of Hyperliquid's execution layer.

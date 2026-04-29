@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://infinifi.xyz
 twitter: infinifi_xyz
 github: null
-logo: https://example.com/infinifi.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: infinifi
 ---
 
 infiniFi recreates modern banking infrastructure on-chain: deposits, savings, and credit products composed from underlying DeFi primitives but presented under a familiar consumer-banking UX. The project aims to match the safety and liquidity profile of bank deposits with on-chain transparency.

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://docs.base.org/base-chain/network-information/bridges-mainnet
 twitter: BuildOnBase
 github: ethereum-optimism/optimism
-logo: https://example.com/base-bridge.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2023
   maturity: growing
-sources:
-  - external: base-bridge
 ---
 
 Base Bridge is the canonical bridge between Ethereum and Base, the OP Stack rollup operated by Coinbase. ETH and ERC-20s deposited on Ethereum become spendable on Base in minutes; withdrawals back to Ethereum follow the standard seven-day OP Stack fraud-proof window.

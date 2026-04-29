@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://realms.today
 twitter: Realms_DAOs
 github: solana-labs/governance-program
-logo: https://example.com/realms.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2021
   maturity: growing
-sources:
-  - external: realms
 ---
 
 Realms is the front-end and tooling layer for SPL Governance, Solana's reference DAO framework. DAOs deploy a Realm with their governance token, configure proposal types and voting rules, and run treasury operations on-chain through the Realms UI.

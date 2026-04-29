@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.kraken.com
 twitter: krakenfx
 github: null
-logo: https://example.com/kraken-bitcoin.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: kraken-bitcoin
 ---
 
 kBTC is Kraken's exchange-issued wrapped Bitcoin, a 1:1 backed ERC-20 representation of BTC available across Ethereum, OP Mainnet, and a growing list of EVM chains. Each kBTC is fully backed by Bitcoin held by Kraken under the same regulatory framework that governs the exchange.

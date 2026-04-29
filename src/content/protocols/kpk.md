@@ -7,7 +7,7 @@ chains: [Ethereum, xDai, Arbitrum, Binance]
 url: https://kpk.io
 twitter: kpk_io
 github: null
-logo: https://example.com/kpk.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2020
   maturity: established
-sources:
-  - external: kpk
 ---
 
 KPK is a non-custodial on-chain asset manager for DAOs, institutions, and prosumer capital allocators. KPK runs strategies across DeFi protocols on behalf of clients, with all positions held in the client's own smart accounts rather than in a pooled fund.

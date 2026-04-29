@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://app.hyperliquid.xyz
 twitter: HyperliquidX
 github: null
-logo: https://example.com/hyperliquid-spot-orderbook.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: hyperliquid-spot-orderbook
 ---
 
 Hyperliquid's Spot Orderbook is a fully on-chain central limit order book for spot trading on Hyperliquid L1. Orders are matched by the chain's validator set on every block, achieving sub-second matching with the verifiability of an on-chain venue.

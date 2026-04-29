@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Arbitrum]
 url: https://stargate.finance
 twitter: StargateFinance
 github: stargate-protocol
-logo: https://example.com/stargate-v2.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: dao
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: stargate-v2
 ---
 
 Stargate V2 is the second-generation cross-chain bridge built on LayerZero. Liquidity providers deposit single-asset positions into pools that span multiple chains; transfers happen by burning on the source chain and minting from the destination pool, with deep unified liquidity reducing slippage on large flows.

@@ -7,7 +7,7 @@ chains: [Ethereum, Aptos, Binance, Solana, Avalanche, Optimism, Arbitrum, Polygo
 url: https://securitize.io/
 twitter: BlackRock
 github: null
-logo: https://example.com/blackrock-buidl.png
+logo: null
 listed_at: 2024-07-06
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: blackrock-buidl
 ---
 
 BUIDL is the BlackRock USD Institutional Digital Liquidity Fund, a tokenized money-market fund issued via Securitize as the transfer agent and tokenization platform. It holds short-term U.S. Treasuries, repos, and cash, and pays yield to qualified holders through periodic distributions.

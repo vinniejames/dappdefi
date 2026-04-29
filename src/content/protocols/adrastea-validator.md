@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://adrastea.io
 twitter: adrastea_io
 github: null
-logo: https://example.com/adrastea-validator.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2024
   maturity: growing
-sources:
-  - external: adrastea-validator
 ---
 
 Adrastea is a Solana validator and staking platform. Users delegate SOL to the Adrastea validator through on-chain staking and earn standard Solana staking rewards.

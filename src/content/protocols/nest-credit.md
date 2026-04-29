@@ -7,7 +7,7 @@ chains: ["Plume Mainnet", Solana, Ethereum]
 url: https://nest.credit
 twitter: nest_credit
 github: null
-logo: https://example.com/nest-credit.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissioned
   launched: 2024
   maturity: growing
-sources:
-  - external: nest-credit
 ---
 
 Nest Credit provides native yield from tokenized RWAs on the Plume Network, with select deployments on Solana and Ethereum. The platform aggregates regulated credit and treasury products into vaults that depositors can access from a single interface.

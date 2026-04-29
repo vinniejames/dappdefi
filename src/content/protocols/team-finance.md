@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Base]
 url: https://www.team.finance
 twitter: teamfinance_
 github: null
-logo: https://example.com/team-finance.jpg
+logo: null
 listed_at: 2026-04-29
 tags:
   governance: foundation
@@ -18,8 +18,6 @@ tags:
   permissions: permissionless
   launched: 2020
   maturity: established
-sources:
-  - external: team-finance
 ---
 
 Team Finance is a multi-chain token-management platform offering token lockers, vesting schedules, liquidity-pair lockers, and the tooling that token-issuing project teams typically need. Locks are non-custodial smart contracts that hold team or LP allocations until configurable release dates.
