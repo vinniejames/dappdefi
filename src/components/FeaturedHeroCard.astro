@@ -1,0 +1,43 @@
+---
+import TagPill from './TagPill.astro';
+import { CATEGORY_BY_SLUG } from '../data/categories';
+import type { CategorySlug } from '../data/categories';
+
+export interface Props {
+  slug: string;
+  name: string;
+  category: CategorySlug;
+  subcategories: string[];
+  chains: string[];
+  logo: string | null | undefined;
+  excerpt: string;
+}
+const { slug, name, category, subcategories, chains, logo, excerpt } = Astro.props;
+const categoryName = CATEGORY_BY_SLUG[category]?.name ?? category;
+---
+<a
+  href={`/protocols/${slug}/`}
+  class="group flex h-full flex-col gap-4 rounded-xl border border-ink-200 bg-gradient-to-br from-white to-ink-50 p-6 !text-ink-900 transition hover:border-accent hover:shadow-md dark:border-ink-700 dark:from-ink-800 dark:to-ink-900 dark:!text-ink-100"
+>
+  <div class="flex items-center gap-4">
+    {logo ? (
+      <img src={logo} alt={name} class="h-14 w-14 rounded-full bg-ink-100 object-cover dark:bg-ink-700" loading="lazy" decoding="async" onerror="this.style.display='none'" />
+    ) : (
+      <div class="flex h-14 w-14 items-center justify-center rounded-full bg-ink-100 text-lg font-semibold text-ink-500 dark:bg-ink-700 dark:text-ink-400">
+        {name.slice(0, 2).toUpperCase()}
+      </div>
+    )}
+    <div class="min-w-0">
+      <div class="truncate text-2xl font-semibold tracking-tight group-hover:text-accent">{name}</div>
+      <div class="text-sm text-ink-500 dark:text-ink-400">{categoryName}</div>
+    </div>
+  </div>
+  {excerpt && (
+    <p class="line-clamp-3 text-sm leading-relaxed text-ink-700 dark:text-ink-300">{excerpt}</p>
+  )}
+  <div class="mt-auto flex flex-wrap gap-1.5">
+    {subcategories.slice(0, 3).map((s) => <TagPill variant="accent">{s}</TagPill>)}
+    {chains.slice(0, 3).map((c) => <TagPill>{c}</TagPill>)}
+    {chains.length > 3 && <TagPill>+{chains.length - 3}</TagPill>}
+  </div>
+</a>
