@@ -22,8 +22,6 @@ sources:
   - external: blackhole-clmm
 ---
 
-## Overview
-
 Blackhole is a concentrated-liquidity DEX on Avalanche, part of the chain's growing CLMM cohort alongside Pharaoh. The protocol leverages Avalanche's low-latency execution for active market-making and ranges-based liquidity provision.
 
 BLACK is the governance token.

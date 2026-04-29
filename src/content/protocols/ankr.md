@@ -22,8 +22,6 @@ sources:
   - external: ankr
 ---
 
-## Overview
-
 Ankr is a long-running staking and infrastructure provider that issues liquid staking tokens for multiple networks — ankrETH, ankrBNB, ankrFLOW, and others. The platform pairs LST issuance with broader RPC and validator-as-a-service infrastructure.
 
 ANKR is the platform's token.

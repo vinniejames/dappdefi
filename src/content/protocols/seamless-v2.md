@@ -22,8 +22,6 @@ sources:
   - external: seamless-v2
 ---
 
-## Overview
-
 Seamless is a non-custodial lending protocol on Base and Ethereum, originally built as an Aave V3 fork and later evolved into a curated-vault platform on Morpho. The current V2 iteration emphasizes simpler UX for both suppliers and borrowers.
 
 SEAM is the governance token.

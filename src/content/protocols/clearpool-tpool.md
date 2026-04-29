@@ -22,8 +22,6 @@ sources:
   - external: clearpool-tpool
 ---
 
-## Overview
-
 Clearpool TPOOL is a USDX-denominated lending pool that invests in or purchases U.S. Treasuries and distributes the resulting yield back to liquidity providers. The product is part of Clearpool's broader institutional credit-marketplace stack.
 
 CPOOL is the governance token across Clearpool products.

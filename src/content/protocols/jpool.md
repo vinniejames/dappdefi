@@ -22,8 +22,6 @@ sources:
   - external: jpool
 ---
 
-## Overview
-
 JPool is a liquid staking protocol on Solana issuing JSOL, a yield-bearing claim on a pool of stake delegated to JPool's validator set. The product is one of the longer-running Solana LSTs alongside Marinade and Jito.
 
 Validator selection emphasizes performance and decentralization metrics, similar to Marinade's delegation criteria.

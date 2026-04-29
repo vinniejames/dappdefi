@@ -22,8 +22,6 @@ sources:
   - external: lombard-lbtc
 ---
 
-## Overview
-
 Lombard issues LBTC, a yield-bearing liquid representation of restaked Bitcoin. BTC deposited into Lombard's vaults is staked through Babylon to secure participating PoS chains, and the resulting yield accrues to LBTC holders, who can simultaneously use the token in EVM DeFi venues as Bitcoin-pegged collateral.
 
 Lombard sits at the intersection of two trends — Bitcoin DeFi and restaking — and the LBTC token has become one of the larger BTC-pegged assets used in lending markets and DEX pools. BARD is the project's governance token.

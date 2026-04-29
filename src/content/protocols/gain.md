@@ -22,8 +22,6 @@ sources:
   - external: gain
 ---
 
-## Overview
-
 Gain is an actively-managed DeFi vaults platform with deposits north of $150M. Vault managers run strategies on top of underlying lending markets, LSTs, and structured products, while depositors choose vaults based on risk profile and target return.
 
 The platform is part of the broader vault-curator cohort that gives institutional and prosumer users explicit risk frameworks rather than opaque yield.

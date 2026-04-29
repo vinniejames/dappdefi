@@ -22,8 +22,6 @@ sources:
   - external: yieldnest
 ---
 
-## Overview
-
 YieldNest is a liquid restaking protocol that issues simple, risk-adjusted restaking strategies. Each YieldNest vault represents a defined AVS exposure profile so users can choose how aggressive their restaking position is rather than getting a one-size-fits-all LRT.
 
 YND is the governance token.

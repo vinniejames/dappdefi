@@ -22,8 +22,6 @@ sources:
   - external: templar-protocol
 ---
 
-## Overview
-
 Templar is a cross-chain lending protocol that lets users borrow stablecoins against Bitcoin or any asset on any supported chain. The platform handles cross-chain collateral attestation and settlement so borrowers don't need to first wrap or bridge their collateral.
 
 The project's positioning is chain-agnostic credit anchored to Bitcoin.

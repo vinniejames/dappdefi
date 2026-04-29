@@ -22,8 +22,6 @@ sources:
   - external: apollo-diversified-credit-securitize-fund
 ---
 
-## Overview
-
 The Apollo Diversified Credit Securitize Fund (ACRED) is a tokenized fund that gives qualified investors on-chain exposure to a diversified portfolio of securitized credit assets, primarily corporate and consumer credit. Apollo Global Management runs the underlying portfolio; Securitize handles tokenization and on-chain distribution.
 
 The product is a major institutional-RWA milestone — Apollo is one of the largest alternative-asset managers in traditional finance — and slots into the same regulated tier as BUIDL and Hamilton Lane's tokenized funds.

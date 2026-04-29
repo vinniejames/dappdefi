@@ -22,8 +22,6 @@ sources:
   - external: binance-bitcoin
 ---
 
-## Overview
-
 Binance Bitcoin (BTCB and the broader bToken family) is Binance's pegged-token program, in which the exchange issues on-chain representations of Bitcoin and other assets backed one-for-one by reserves it holds. BTCB is the most prominent of these and circulates broadly on BNB Chain.
 
 Like other custodial wrappers, the design trades the trust assumptions of a decentralized bridge for the operational and regulatory surface of the issuing exchange. Reserves are published periodically, and minting and redemption happen through Binance rather than via on-chain proofs.

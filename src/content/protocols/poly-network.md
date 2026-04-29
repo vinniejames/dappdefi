@@ -22,8 +22,6 @@ sources:
   - external: poly-network
 ---
 
-## Overview
-
 Poly Network is a cross-chain protocol that pioneered multi-chain interoperability across EVM and non-EVM environments, including NEO and Ontology. The project survived two major exploits and remains live in reduced form.
 
 The protocol was an early effort to provide generalized blockchain interoperability before the current generation of bridge-and-messaging stacks (LayerZero, Wormhole, Axelar) became dominant.

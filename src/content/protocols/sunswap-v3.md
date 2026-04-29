@@ -22,8 +22,6 @@ sources:
   - external: sunswap-v3
 ---
 
-## Overview
-
 SUNSwap V3 is the leading DEX on Tron, offering both Uniswap-style automated liquidity and concentrated-liquidity pools tuned for the network's economics. As part of the broader SUN.io ecosystem, it's tightly integrated with JustLend and other Tron DeFi venues.
 
 SUN is the governance token across the SUN.io product line, including SUNSwap, SUN's stable-asset pools, and the platform's farming program.

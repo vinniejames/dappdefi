@@ -22,8 +22,6 @@ sources:
   - external: k3-capital
 ---
 
-## Overview
-
 K3 Capital is an institutional asset and risk manager operating in DeFi, running curated vault strategies on top of underlying lending markets such as Morpho. The team underwrites borrowers and risk parameters, and depositors choose K3-curated vaults that match their risk profile.
 
 The project is part of the broader risk-curator cohort that emerged after Morpho Blue's permissionless markets unbundled the lending stack, alongside Gauntlet, Sentora, and others.

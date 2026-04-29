@@ -22,8 +22,6 @@ sources:
   - external: tulipa-capital
 ---
 
-## Overview
-
 Tulipa Capital is a risk-curator firm operating curated vault strategies on top of underlying lending markets. The team underwrites borrowers and risk envelopes, packaging strategies into deposit products targeted at institutional and prosumer allocators.
 
 The project is part of the broader risk-curator cohort.

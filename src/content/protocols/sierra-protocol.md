@@ -22,8 +22,6 @@ sources:
   - external: sierra-protocol
 ---
 
-## Overview
-
 Sierra Protocol issues SIERRA, a Liquid Yield Token (LYT) that packages diversified DeFi yield strategies into a single transferable token. Holders get exposure to a dynamic basket of underlying yield sources without having to manage individual positions.
 
 The project positions itself as a consumer-friendly alternative to managing multiple yield positions manually.

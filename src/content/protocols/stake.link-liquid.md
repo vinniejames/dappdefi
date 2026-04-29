@@ -22,8 +22,6 @@ sources:
   - external: stake.link-liquid
 ---
 
-## Overview
-
 stake.link is a liquid staking protocol focused on Chainlink (LINK) and other oracle-network tokens. Users stake LINK and receive a yield-bearing token whose value tracks the underlying staked position plus rewards.
 
 The project's distinguishing focus is staked LINK as a productive asset, complementing other staked-asset liquid representations across the broader LST landscape. SDL is the platform's token.

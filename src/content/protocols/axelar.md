@@ -22,8 +22,6 @@ sources:
   - external: axelar
 ---
 
-## Overview
-
 Axelar is a generalized cross-chain messaging and asset-bridging protocol secured by its own Cosmos-based proof-of-stake validator network. Smart contracts on supported chains call Axelar's contracts to send arbitrary messages or lock-mint tokenized representations across chains.
 
 Axelar's reach spans EVM, Cosmos, and selected non-EVM chains, making it one of the broadest interoperability layers in production. AXL is the protocol token used to secure the validator set.

@@ -22,8 +22,6 @@ sources:
   - external: opengdp-shared-security
 ---
 
-## Overview
-
 OpenGDP is a shared-security and restaking layer that aggregates economic security from across the cryptoeconomy. The protocol is part of an emerging cohort of restaking platforms that go beyond ETH to combine multiple security assets.
 
 The project's pitch is a universal restaking layer with broad collateral coverage.

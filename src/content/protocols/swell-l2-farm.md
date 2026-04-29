@@ -22,8 +22,6 @@ sources:
   - external: swell-l2-farm
 ---
 
-## Overview
-
 Swell L2 Farm is the pre-launch deposit and incentive program for Swell L2, a restaking-focused Layer-2 from the Swell team. Stakers deposit LSTs and LRTs to earn protocol points and farm incentives while their capital backs the upcoming L2.
 
 The program is part of Swell's evolution from an LST/LRT issuer (swETH, rswETH) into a full restaking-focused chain. SWELL is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: tonstakers-lsd
 ---
 
-## Overview
-
 Tonstakers is the leading liquid staking protocol on TON (The Open Network). Stakers deposit TON and receive tsTON, a yield-bearing token that accrues TON staking rewards and is usable across TON DeFi venues as productive collateral.
 
 The project is the LST cornerstone of TON's growing DeFi ecosystem, similar in role to Lido on Ethereum and Marinade on Solana.

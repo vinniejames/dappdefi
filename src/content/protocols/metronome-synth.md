@@ -22,8 +22,6 @@ sources:
   - external: metronome-synth
 ---
 
-## Overview
-
 Metronome Synth is a multi-collateral synthetic-asset protocol. Users post a wide range of yield-bearing collaterals — LSTs, LP tokens, vault shares — and mint synthetic assets (msUSD, msETH, msBTC) against them, retaining the underlying yield while gaining synthetic exposure.
 
 MET is the governance token.

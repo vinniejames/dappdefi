@@ -22,8 +22,6 @@ sources:
   - external: morpho-blue
 ---
 
-## Overview
-
 Morpho Blue is a minimalist, permissionless lending primitive built around isolated markets. Each market is a single loan asset, single collateral asset, single oracle, and single interest rate model — an immutable contract pair anyone can deploy without governance approval.
 
 This design pushes risk management out of the protocol layer and into a market layer of curated vaults built on top, where allocators choose which Blue markets receive deposits and on what terms. The result is a lending stack with a small audited core and an expressive, modular surface that lenders, builders, and risk managers can compose against.

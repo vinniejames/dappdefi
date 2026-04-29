@@ -22,8 +22,6 @@ sources:
   - external: lombard-vaults
 ---
 
-## Overview
-
 Lombard Vaults are curated DeFi vaults that put LBTC to work across yield strategies — lending, liquidity provision, structured products. LBTC holders deposit into a vault appropriate for their risk preference and the protocol handles execution and rebalancing.
 
 The product extends Lombard from a pure LBTC issuer into a full Bitcoin-yield platform, similar to how Solv has paired SolvBTC with strategy products. BARD is the governance token.

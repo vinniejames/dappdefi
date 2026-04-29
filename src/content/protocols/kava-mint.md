@@ -22,8 +22,6 @@ sources:
   - external: kava-mint
 ---
 
-## Overview
-
 Kava Mint is the CDP-style stablecoin issuance arm of Kava, a Cosmos-aligned chain with EVM compatibility. Users lock crypto collateral and mint USDX, Kava's native stablecoin, paying a stability fee set by Kava governance.
 
 Kava's broader product suite also includes lending, swaps, and a developer incentive program. KAVA is the chain's native token.

@@ -22,8 +22,6 @@ sources:
   - external: convex-finance
 ---
 
-## Overview
-
 Convex is the dominant Curve-yield aggregator. Curve LPs deposit their LP tokens into Convex, which stakes them through a pooled veCRV position to earn boosted CRV emissions. Depositors get the boost without locking CRV themselves, and Convex captures fees in CVX.
 
 Convex's pooled veCRV holdings made it a structural participant in Curve gauge wars, where protocols bid for CVX votes to direct emissions toward their pools. The same model later extended to Frax and Prisma. CVX is the governance token.

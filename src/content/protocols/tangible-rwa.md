@@ -22,8 +22,6 @@ sources:
   - external: tangible-rwa
 ---
 
-## Overview
-
 Tangible is an NFT marketplace for real-world assets — gold, watches, real estate — and the issuer of Real USD (USDR), a stablecoin originally backed by tokenized real-estate. Users buy fractional NFT claims on physical assets that are stored, insured, and authenticated by Tangible's custodian network.
 
 TNGBL is the governance token.

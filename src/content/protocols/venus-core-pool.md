@@ -22,8 +22,6 @@ sources:
   - external: venus-core-pool
 ---
 
-## Overview
-
 Venus is the dominant lending market on BNB Chain and has expanded to several other EVM networks. The Core Pool is its flagship money market — a Compound-style algorithmic interest-rate model with shared collateral across listed assets.
 
 Venus also issues VAI, a borderless stablecoin minted against deposited collateral, and runs isolated pools for higher-risk assets so that listing them does not contaminate the Core Pool. XVS is the governance token.

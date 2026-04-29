@@ -22,8 +22,6 @@ sources:
   - external: adrastea-validator
 ---
 
-## Overview
-
 Adrastea is a Solana validator and staking platform. Users delegate SOL to the Adrastea validator through on-chain staking and earn standard Solana staking rewards.
 
 The project is part of Solana's diverse validator ecosystem.

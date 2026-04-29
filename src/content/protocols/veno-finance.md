@@ -22,8 +22,6 @@ sources:
   - external: veno-finance
 ---
 
-## Overview
-
 Veno is the dominant liquid staking platform on Cronos. Users stake CRO and other supported assets and receive yield-bearing LSTs (LCRO, LATOM) usable across Cronos DeFi venues.
 
 Veno fills the LST role on Cronos that Lido fills on Ethereum and Marinade fills on Solana. VNO is the governance token.

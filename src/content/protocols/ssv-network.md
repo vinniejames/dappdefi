@@ -22,8 +22,6 @@ sources:
   - external: ssv-network
 ---
 
-## Overview
-
 SSV Network is the infrastructure layer for Distributed Validator Technology (DVT) on Ethereum. Instead of one machine running an Ethereum validator, SSV splits a validator's signing key across multiple independent operators using threshold cryptography, so a single faulty or malicious node cannot compromise it.
 
 Liquid staking protocols, solo stakers, and institutional operators use SSV to remove single-points-of-failure from validator infrastructure and to reduce slashing risk. The network is coordinated by an on-chain registry where operators stake the SSV token and earn fees from validators that select them.

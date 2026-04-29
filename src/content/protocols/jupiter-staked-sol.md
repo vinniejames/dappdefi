@@ -22,8 +22,6 @@ sources:
   - external: jupiter-staked-sol
 ---
 
-## Overview
-
 Jupiter Staked SOL is the LST product within the Jupiter ecosystem on Solana, sitting alongside Jupiter's swap aggregator, perps exchange, and lending market. SOL deposited through Jupiter is staked to a curated validator set; depositors receive a tokenized claim that accrues rewards.
 
 The product is part of Jupiter's progressive expansion from pure aggregation into a full-stack Solana DeFi suite, with JUP as the governance token across components.

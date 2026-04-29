@@ -22,8 +22,6 @@ sources:
   - external: alphalend
 ---
 
-## Overview
-
 AlphaLend is a non-custodial pool-based lending protocol on Sui from the team behind AlphaFi (a Sui DeFi product suite). Suppliers deposit assets into shared pools to earn yield; borrowers post collateral and borrow against the pools at utilization-driven rates.
 
 The protocol slots into Sui's growing DeFi ecosystem alongside NAVI and Suilend. BLUE is the governance token.

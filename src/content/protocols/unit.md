@@ -22,8 +22,6 @@ sources:
   - external: unit
 ---
 
-## Overview
-
 Unit is the asset tokenization layer for Hyperliquid, enabling deposits of native assets — BTC, ETH, SOL, and others — directly onto Hyperliquid L1 as tokenized representations. It complements Hyperliquid's USDC-only canonical bridge by extending the chain's tradable asset universe.
 
 Unit handles the multi-chain deposit and withdrawal logic so traders on Hyperliquid can hold and trade non-USDC assets without first converting them on another venue.

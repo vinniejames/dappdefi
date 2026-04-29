@@ -22,8 +22,6 @@ sources:
   - external: river-omni-cdp
 ---
 
-## Overview
-
 River builds an omni-chain CDP and yield routing layer that connects assets, liquidity, and yield across multiple networks. Users mint a stable claim against deposited collateral and the underlying capital is routed through curated yield strategies on supported chains.
 
 The positioning emphasizes movement across chains as a first-class feature rather than as an afterthought, fitting the broader trend toward chain-agnostic yield products. RIVER is the project's token.

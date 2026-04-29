@@ -22,8 +22,6 @@ sources:
   - external: dhedge-vaults
 ---
 
-## Overview
-
 dHEDGE is a decentralized asset-management platform where managers deploy tokenized vaults investors can subscribe to. Each vault has a defined investment policy and integrations with DEXs and lending protocols; investors hold the tokenized share.
 
 The platform predates much of the current vault-curation cohort. DHT is the governance token.

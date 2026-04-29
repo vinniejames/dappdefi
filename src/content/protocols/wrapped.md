@@ -22,8 +22,6 @@ sources:
   - external: wrapped
 ---
 
-## Overview
-
 wrapped.com is a cross-chain institutional bridge designed for high-performance asset wrapping across many chains. The platform handles tokenization, custody, and redemption for institutional clients moving assets between EVM, Cosmos, and other ecosystems.
 
 The trust model is operational integrity of the institutional custodian rather than a trust-minimized validator set.

@@ -22,8 +22,6 @@ sources:
   - external: minswap-dex
 ---
 
-## Overview
-
 Minswap is the leading DEX on Cardano. The platform integrates multiple pool models — constant product, stableswap, weighted pools — under one venue, and remains one of Cardano's largest DeFi protocols by volume.
 
 MIN is the governance token.

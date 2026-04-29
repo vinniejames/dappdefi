@@ -22,8 +22,6 @@ sources:
   - external: fusion-by-ipor
 ---
 
-## Overview
-
 Fusion is a meta-aggregation and execution engine from IPOR (the on-chain interest-rate-derivative protocol). It introduces a unified liquidity framework that lets capital flow across DeFi yield sources with intent-based execution.
 
 The product builds on IPOR's interest-rate-index work and extends the protocol from rate derivatives into broader yield routing.

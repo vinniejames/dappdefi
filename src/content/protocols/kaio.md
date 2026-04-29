@@ -22,8 +22,6 @@ sources:
   - external: kaio
 ---
 
-## Overview
-
 KAIO (formerly Libre Capital) issues regulated tokenized RWAs designed to interoperate with permissionless DeFi. The platform handles the legal and compliance wrapper for each product, while the on-chain tokens remain composable with lending markets and DEXs that integrate them.
 
 The project's distinguishing pitch is bridging the regulated and permissionless tiers without forcing all participants to operate under the same rules.

@@ -22,8 +22,6 @@ sources:
   - external: coinbase-wrapped-staked-eth
 ---
 
-## Overview
-
 cbETH is Coinbase's exchange-issued liquid staking token for Ethereum. Users staking ETH on Coinbase can receive cbETH, a non-rebasing ERC-20 whose exchange rate appreciates against ETH as staking rewards accrue. Validator operations are run by Coinbase, making cbETH a custodial LST.
 
 cbETH is widely integrated as collateral and yield-bearing asset in DeFi protocols that accept exchange-backed staked-ETH variants alongside Lido's stETH and other major LSTs.

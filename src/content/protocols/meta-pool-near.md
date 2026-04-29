@@ -22,8 +22,6 @@ sources:
   - external: meta-pool-near
 ---
 
-## Overview
-
 Meta Pool is a liquid staking protocol on NEAR Protocol issuing stNEAR, a yield-bearing LST whose value tracks NEAR staking rewards. The project also operates LSTs on Aurora and other NEAR-aligned chains.
 
 MPDAO is the governance token of the broader Meta Pool ecosystem.

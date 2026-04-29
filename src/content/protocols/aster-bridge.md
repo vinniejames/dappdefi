@@ -22,8 +22,6 @@ sources:
   - external: aster-bridge
 ---
 
-## Overview
-
 Aster Bridge is the deposit and withdrawal layer for Aster, a high-leverage decentralized perpetual exchange built on BNB Chain. Funds bridged in from Ethereum, Arbitrum, Solana, and other supported chains become trading collateral inside Aster's perpetuals venue.
 
 The bridge contracts hold the bulk of Aster's user collateral and form the largest TVL surface of the broader Aster product, which combines a simplified "Simple Mode" trader UI with a pro orderbook view.

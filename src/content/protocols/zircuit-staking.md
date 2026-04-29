@@ -22,8 +22,6 @@ sources:
   - external: zircuit-staking
 ---
 
-## Overview
-
 Zircuit Staking is the points-and-yield program that bootstrapped early liquidity for Zircuit, an Ethereum Layer-2 with EVM compatibility and security-first sequencer rules. Depositors stake LSTs, LRTs, and other yield-bearing assets to earn Zircuit points and underlying restaking yields.
 
 The program functioned as Zircuit's launch on-ramp: bridge in eligible assets, accumulate ZRC points, and earn rewards while validating the network's economic security model.

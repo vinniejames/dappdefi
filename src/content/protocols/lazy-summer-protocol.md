@@ -22,8 +22,6 @@ sources:
   - external: lazy-summer-protocol
 ---
 
-## Overview
-
 Lazy Summer is a yield-aggregation product within Summer.fi (formerly Oasis), the long-running DeFi management platform. The protocol routes deposits across high-quality underlying yield venues — Aave, Sky, Spark, Morpho — to deliver passively-managed returns.
 
 SUMR is the platform's token.

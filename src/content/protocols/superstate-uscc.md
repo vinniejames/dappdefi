@@ -22,8 +22,6 @@ sources:
   - external: superstate-uscc
 ---
 
-## Overview
-
 USCC is the Superstate Crypto Carry Fund — a tokenized Qualified Purchaser-only fund that runs basis-trade strategies between spot and futures crypto markets. Holders earn yield from the funding-rate spread between the two legs.
 
 USCC complements Superstate's treasuries product (USTB) by giving institutional holders an explicit on-chain way to express crypto-carry exposure inside a regulated wrapper.

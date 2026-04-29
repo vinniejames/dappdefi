@@ -22,8 +22,6 @@ sources:
   - external: saturn
 ---
 
-## Overview
-
 Saturn is a dual-token Bitcoin-backed credit protocol. USDat is a stablecoin backed by tokenized treasuries; sUSat is the staked, yield-bearing variant whose returns are funded by a Bitcoin-aligned credit facility.
 
 The model brings together the RWA-stablecoin and Bitcoin-collateral threads into one product, distinguishing Saturn from pure-treasuries-backed stablecoins.

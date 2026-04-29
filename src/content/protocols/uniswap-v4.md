@@ -22,8 +22,6 @@ sources:
   - external: uniswap-v4
 ---
 
-## Overview
-
 Uniswap V4 keeps the concentrated-liquidity model of V3 and adds two structural changes: a singleton contract that holds all pools, and a hooks system that lets developers extend pool behavior with custom logic at fixed lifecycle points. The singleton drives gas costs down, and hooks unlock new pool types — limit orders, dynamic fees, on-chain auctions, custom oracles — without forking the core.
 
 V4 is also the substrate for Uniswap Foundation's broader Hooks ecosystem and the Unichain rollup. UNI continues as the governance token across versions.

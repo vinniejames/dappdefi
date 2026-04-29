@@ -22,8 +22,6 @@ sources:
   - external: binance-staked-sol
 ---
 
-## Overview
-
 BNSOL is Binance's exchange-issued liquid staking token for Solana. Users deposit SOL on Binance and receive BNSOL, a tokenized representation of their staked SOL plus accrued rewards through an exchange rate that increases over time.
 
 Like BNB Chain's WBETH, BNSOL is custodial — Binance runs the validator operations and reserves accounting. The token is used inside the Binance ecosystem and selectively in Solana DeFi venues that have integrated it as a yield-bearing collateral asset.

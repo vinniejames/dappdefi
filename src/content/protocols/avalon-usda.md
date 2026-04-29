@@ -22,8 +22,6 @@ sources:
   - external: avalon-usda
 ---
 
-## Overview
-
 USDa is Avalon Finance's flagship CDP-style stablecoin, minted against a wide range of crypto and CeDeFi-style collateral on Avalon's lending platform. The product blends DeFi composability with off-chain custody arrangements for some collateral assets.
 
 Avalon is one of several BNB Chain-leaning protocols that issue stablecoins through CDP designs, often paired with Bitcoin-backed positions and yield-bearing collateral.

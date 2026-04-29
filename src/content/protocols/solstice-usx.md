@@ -22,8 +22,6 @@ sources:
   - external: solstice-usx
 ---
 
-## Overview
-
 Solstice issues USX, a synthetic stablecoin native to Solana. Like Ethena's USDe, USX maintains its peg through a delta-neutral basis-trade strategy on the underlying collateral, with the staked variant capturing the resulting yield.
 
 The protocol fills the synthetic-dollar niche on Solana that Ethena occupies on Ethereum, taking advantage of Solana's deep perp liquidity to run the hedging leg.

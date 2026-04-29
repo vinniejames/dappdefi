@@ -22,8 +22,6 @@ sources:
   - external: cooler-loans
 ---
 
-## Overview
-
 Cooler Loans is OlympusDAO's native lending product. gOHM holders deposit gOHM as collateral and borrow stablecoins at a fixed 0.5% APR with predictable terms — a long-duration, low-rate facility funded by the Olympus treasury.
 
 The design reflects Olympus's evolution from a reserve-currency experiment into a more conservative balance-sheet protocol that uses its OHM treasury to backstop its own holders' borrowing rather than chasing emissions-driven growth.

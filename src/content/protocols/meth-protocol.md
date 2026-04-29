@@ -22,8 +22,6 @@ sources:
   - external: meth-protocol
 ---
 
-## Overview
-
 mETH Protocol is a permissionless, non-custodial ETH liquid staking protocol governed by the Mantle ecosystem. It issues mETH, a yield-bearing LST whose exchange rate against ETH increases with staking rewards, plus cmETH, a restaked variant that captures additional yield through EigenLayer integrations.
 
 The protocol is one of the higher-profile LSTs from an L2 ecosystem, with Mantle backing distribution and product positioning. COOK is the governance token.

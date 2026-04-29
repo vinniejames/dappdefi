@@ -22,8 +22,6 @@ sources:
   - external: xrpl-dex
 ---
 
-## Overview
-
 The XRPL DEX is the native AMM and order-book layer built directly into the XRP Ledger consensus protocol. Pools and orders execute as part of XRPL's transaction processing — there is no separate smart-contract layer for trading.
 
 The DEX is one of the longest-running on-chain trading venues, predating most EVM DEXs, and continues to handle XRP-denominated flow alongside XRPL's payments use case.

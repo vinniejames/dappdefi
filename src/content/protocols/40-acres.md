@@ -22,8 +22,6 @@ sources:
   - external: 40-acres
 ---
 
-## Overview
-
 40acres is a community-DAO DeFi platform offering lending and yield products with a focus on accessibility and education for retail users. The protocol pairs standard money-market primitives with curated strategies and DAO governance.
 
 The project's brand and positioning emphasize building DeFi access for under-served retail audiences.

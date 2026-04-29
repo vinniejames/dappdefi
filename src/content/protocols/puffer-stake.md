@@ -22,8 +22,6 @@ sources:
   - external: puffer-stake
 ---
 
-## Overview
-
 Puffer is a decentralized native liquid restaking protocol issuing pufETH. Stakers' ETH is deployed to Puffer-operated validators on Ethereum and simultaneously restaked through EigenLayer, with anti-slashing technology to reduce risk for the validator operators in the Puffer set.
 
 The protocol's pitch is decentralization-first restaking: lower operator-bond requirements plus slashing-resistant infrastructure to bring more independent operators into the validator set. PUFFER is the governance token.

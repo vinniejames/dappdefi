@@ -22,8 +22,6 @@ sources:
   - external: spark-savings
 ---
 
-## Overview
-
 Spark Savings is the deposit interface for the Sky Savings Rate, allowing holders to earn a predictable APY on USDS by depositing into the savings module. The yield is paid by the Sky protocol from its overall revenue stream and reflects governance-set policy rather than market utilization.
 
 Savings positions are tokenized as sUSDS, a yield-bearing variant of USDS that accrues value through an exchange rate that increases over time. sUSDS is composable with other DeFi protocols and is one of the most widely held yield-bearing stable tokens.

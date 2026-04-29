@@ -22,8 +22,6 @@ sources:
   - external: helius-staked-sol
 ---
 
-## Overview
-
 Helius Staked SOL is a liquid staking token issued by Helius, a Solana validator and infrastructure provider. SOL deposited is staked to Helius's validator set, and the LST appreciates against SOL through accrued rewards.
 
 The project is part of Solana's polycentric LST market alongside other validator-specific liquid-staking products.

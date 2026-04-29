@@ -22,8 +22,6 @@ sources:
   - external: meta-pool-eth
 ---
 
-## Overview
-
 Meta Pool ETH is the Ethereum-side liquid staking product within the Meta Pool ecosystem (which started on NEAR). Users deposit ETH and receive a yield-bearing LST whose value tracks the underlying staked ETH plus rewards.
 
 The product extends Meta Pool's NEAR-native staking into Ethereum's larger LST market. MPDAO is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: moonlander
 ---
 
-## Overview
-
 Moonlander is a perpetuals platform on Cronos zkEVM offering both a market-maker staking pool (MLP) and on-chain trading. LPs supply MLP and act as counterparty to traders; the protocol distributes fees and PnL back to MLP holders.
 
 The model echoes GMX/JLP design adapted to the Cronos ecosystem. MLP is the LP token.

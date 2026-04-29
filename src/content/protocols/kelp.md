@@ -22,8 +22,6 @@ sources:
   - external: kelp
 ---
 
-## Overview
-
 Kelp is a liquid restaking protocol that issues rsETH, a token representing restaked ETH plus accrued AVS rewards. Depositors supply ETH or LSTs; Kelp restakes through EigenLayer and distributes the resulting yield back to rsETH holders, with rsETH itself liquid across more than ten L2s and forty DeFi venues.
 
 Kelp's design emphasizes broad LST acceptance — stETH, ETHx, sfrxETH and others — so users do not need to unwind their existing staked positions to participate. The KelpDAO governs the validator and AVS selection process and the broader operator program.

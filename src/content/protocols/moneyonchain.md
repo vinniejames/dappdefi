@@ -22,8 +22,6 @@ sources:
   - external: moneyonchain
 ---
 
-## Overview
-
 MoneyOnChain is a Bitcoin-collateralized DeFi protocol on RSK that issues a dollar-pegged stablecoin (DoC), a yield-bearing HODL token (BPro), and a leveraged BTC token (BTCx) — all backed by the same RBTC collateral pool.
 
 The model is one of the longest-running Bitcoin-native DeFi stacks. MOC is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: marinade-native
 ---
 
-## Overview
-
 Marinade Native is a non-custodial Solana staking product that delegates user SOL to Marinade's curated validator set without going through the LST contract. Users keep their stake account directly in their wallet — there's no smart-contract intermediary holding the position — and pay no protocol fee.
 
 The product complements Marinade's mSOL liquid staking by offering a smart-contract-free option for stakers who want Marinade's validator selection without the LST trust surface. MNDE is the governance token across products.

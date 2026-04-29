@@ -22,8 +22,6 @@ sources:
   - external: cian-yield-layer
 ---
 
-## Overview
-
 CIAN Yield Layer is a multi-chain yield-aggregation product that redistributes capital across underlying DeFi yield sources — lending markets, LSTs, structured products — to optimize rate and risk. Each vault has a target strategy and rebalances as market conditions change.
 
 The project sits in the same broad category as Yearn, Beefy, and Concrete, with an emphasis on cross-chain coverage across Ethereum and major L2s.

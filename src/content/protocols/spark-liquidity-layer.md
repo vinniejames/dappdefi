@@ -22,8 +22,6 @@ sources:
   - external: spark-liquidity-layer
 ---
 
-## Overview
-
 The Spark Liquidity Layer (SLL) is the routing system that moves USDS, sUSDS, and USDC from the Sky ecosystem out to lending markets, DEXs, and RWA products across multiple chains. Rather than running an independent yield product, SLL programmatically deploys Sky's reserves where they are most needed to keep stablecoin liquidity deep and rates stable.
 
 SLL is the connective tissue between Sky governance decisions and the rest of DeFi: governance sets target allocations and risk caps, and the contracts execute the moves on-chain. SPK is the governance token of Spark Protocol and steers SLL parameters along with the rest of the Spark stack.

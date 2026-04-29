@@ -22,8 +22,6 @@ sources:
   - external: agni-finance
 ---
 
-## Overview
-
 Agni Finance is a high-capital-efficiency AMM-based DEX and launchpad on Mantle Network. The protocol pairs concentrated-liquidity pools with launchpad mechanics to bootstrap liquidity for new Mantle ecosystem tokens.
 
 The project is one of the larger DEXs on Mantle alongside Merchant Moe.

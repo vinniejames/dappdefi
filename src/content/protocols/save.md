@@ -22,8 +22,6 @@ sources:
   - external: save
 ---
 
-## Overview
-
 Save (formerly Solend) is one of the longest-running lending protocols on Solana. It runs an algorithmic peer-to-pool money market with multiple isolated pools — a Main Pool for the safest assets, plus Permissionless Pools for long-tail collateral with stricter risk parameters.
 
 The rebrand to Save reflected the team's expansion beyond Solana into Eclipse and other ecosystems. SAVE is the governance token.

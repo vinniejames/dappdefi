@@ -22,8 +22,6 @@ sources:
   - external: world-chain
 ---
 
-## Overview
-
 World Chain is a permissionless Ethereum Layer-2 built with the OP Stack and integrated with Worldcoin's proof-of-personhood identity layer. The canonical bridge moves assets between Ethereum and World Chain, inheriting standard OP Stack security guarantees and seven-day withdrawal window.
 
 World Chain's distinctive feature is identity-aware throughput: verified humans get priority gas allocations. The bridge contract is the chain's largest TVL surface.

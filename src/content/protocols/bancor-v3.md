@@ -22,8 +22,6 @@ sources:
   - external: bancor-v3
 ---
 
-## Overview
-
 Bancor is the original on-chain AMM, predating Uniswap. V3 introduced single-sided liquidity provision plus impermanent-loss protection funded by the protocol's BNT emissions, though the IL-protection mechanism was later wound down.
 
 BNT remains the protocol's governance and liquidity-bonding token.

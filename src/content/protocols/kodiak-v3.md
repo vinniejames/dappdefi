@@ -22,8 +22,6 @@ sources:
   - external: kodiak-v3
 ---
 
-## Overview
-
 Kodiak V3 is the concentrated-liquidity DEX on Berachain, built as a Uniswap V3 fork tuned for the chain's Proof-of-Liquidity economics. LPs choose price ranges; the V3-style pool integrates with Berachain's native PoL incentives where validators direct rewards to specific pools.
 
 The project is one of Berachain's anchor DEXs alongside its Islands liquidity-management product.

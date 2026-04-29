@@ -22,8 +22,6 @@ sources:
   - external: spectra-v2
 ---
 
-## Overview
-
 Spectra is a Pendle-style yield-tokenization protocol that splits yield-bearing tokens into Principal and Yield components, letting holders lock in fixed rates by selling YT or take leveraged yield exposure by buying it. V2 expands the protocol's chain footprint and underlying-asset coverage.
 
 SPECTRA is the governance token.

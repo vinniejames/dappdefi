@@ -22,8 +22,6 @@ sources:
   - external: bifrost-liquid-staking
 ---
 
-## Overview
-
 Bifrost is a multi-chain liquid staking protocol originally built as a Polkadot parachain. The platform issues vTokens (vDOT, vKSM, vETH, etc.) that represent staked assets from a wide range of supported networks, all under a unified standardized rewards infrastructure.
 
 BNC is the governance token.

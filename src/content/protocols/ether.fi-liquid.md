@@ -22,8 +22,6 @@ sources:
   - external: ether.fi-liquid
 ---
 
-## Overview
-
 ether.fi Liquid is the automated DeFi-strategy vault layer built on top of ether.fi's eETH liquid restaking token. Depositors choose a strategy — looped LSTs, basis trades, lending — and Liquid handles execution and rebalancing across underlying protocols, with eETH as the productive base asset.
 
 The product extends ether.fi from a pure LST issuer into a yield platform that uses its own token as the yield-bearing primitive. ETHFI is the governance token across the suite.

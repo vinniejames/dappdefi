@@ -22,8 +22,6 @@ sources:
   - external: royco-v1
 ---
 
-## Overview
-
 Royco is the Incentivized Action Market (IAM) protocol — a marketplace where protocols pay users to perform specific on-chain actions (deposits, swaps, position holds) under negotiated terms. Issuers post action requests with rewards; users compete to fill them.
 
 The model formalizes the protocol-incentives layer that underlies most points campaigns and farming programs.

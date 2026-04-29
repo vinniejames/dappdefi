@@ -22,8 +22,6 @@ sources:
   - external: anvil
 ---
 
-## Overview
-
 Anvil is an on-chain collateral-management protocol that lets users issue fully-secured credit against deposited collateral. The protocol enforces credit terms in smart contracts so lenders don't need to trust borrower behavior — collateral is locked and released according to contract rules.
 
 ANVL is the governance token.

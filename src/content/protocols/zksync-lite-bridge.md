@@ -22,8 +22,6 @@ sources:
   - external: zksync-lite-bridge
 ---
 
-## Overview
-
 zkSync Lite Bridge is the canonical bridge for zkSync 1.0 (Lite), the original Matter Labs payment-focused validity rollup that predated zkSync Era. It supports basic ETH and ERC-20 transfers but not general smart contracts.
 
 Most activity has migrated to zkSync Era; Lite remains live for users with positions in the original deployment.

@@ -22,8 +22,6 @@ sources:
   - external: pulsex-v1
 ---
 
-## Overview
-
 PulseX V1 is the dominant DEX on PulseChain, the Ethereum-fork chain. It runs a Uniswap V2-style constant-product AMM that supports PRC-20 swap pairs natively on Pulse.
 
 PLSX is the governance token.

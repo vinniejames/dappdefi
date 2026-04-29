@@ -22,8 +22,6 @@ sources:
   - external: apx-bridge
 ---
 
-## Overview
-
 APX Bridge is the legacy bridge component of APX Finance, the predecessor of the Aster perpetual exchange on BNB Chain. It still moves funds between supported chains for the broader Aster (formerly APX) trading platform.
 
 After Aster's rebrand and product expansion, the APX bridge contracts continue to handle a portion of historical user flow. ASTER is the platform's token.

@@ -22,8 +22,6 @@ sources:
   - external: upshift
 ---
 
-## Overview
-
 Upshift is a yield-vault platform offering transparent, risk-controlled cross-chain strategies. Users deposit into Upshift vaults that route capital across underlying yield sources — lending markets, LSTs, structured products — with the risk envelope and target return spelled out per strategy.
 
 The product is part of the broader vault-curation cohort (Concrete, Veda, Mellow, Sentora) that emerged as institutional and prosumer capital looks for explicit risk frameworks rather than opaque yield.

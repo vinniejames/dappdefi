@@ -22,8 +22,6 @@ sources:
   - external: telos-consilium
 ---
 
-## Overview
-
 Telos Consilium (Telosc) is a Web3 advisory firm running risk-curated vault allocations and treasury services for DAOs and institutions. The team underwrites strategies on top of underlying lending markets and structured products, with capital allocations sized to client risk envelopes.
 
 The project sits in the broader risk-curator cohort that emerged after permissionless lending platforms unbundled the risk and capital layers.

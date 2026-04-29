@@ -22,8 +22,6 @@ sources:
   - external: jagpool-staked-sol
 ---
 
-## Overview
-
 JagPool is a Solana liquid staking protocol that issues a yield-bearing LST representing pooled staked SOL. The protocol handles validator selection, reward accrual, and unstaking flow under the standard Solana stake-pool model.
 
 The project is one of several smaller validator-aligned LSTs that coexist alongside Marinade and Jito on Solana.

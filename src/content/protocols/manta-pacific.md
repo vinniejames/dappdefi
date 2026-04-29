@@ -22,8 +22,6 @@ sources:
   - external: manta-pacific
 ---
 
-## Overview
-
 Manta Pacific is the canonical bridge between Ethereum and Manta Pacific Chain, an OP Stack rollup with Celestia data availability. The bridge is the entry point for capital into Manta's DeFi ecosystem.
 
 MANTA is the chain's native token.

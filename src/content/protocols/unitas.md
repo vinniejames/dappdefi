@@ -22,8 +22,6 @@ sources:
   - external: unitas
 ---
 
-## Overview
-
 Unitas is a yield-bearing stablecoin protocol that issues stable tokens backed by delta-neutral basis-trade strategies and other yield sources. The model echoes Ethena's USDe with execution adapted to Unitas's chosen venues, and the staked variant captures the yield from the strategies.
 
 The project sits within the broader basis-trade-stablecoin cohort that has emerged across L1s and L2s. UP is the platform's token.

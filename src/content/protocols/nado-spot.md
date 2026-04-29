@@ -22,8 +22,6 @@ sources:
   - external: nado-spot
 ---
 
-## Overview
-
 Nado is a vertically-integrated DEX on Ink (Kraken's OP Stack rollup) supporting both spot and perpetual futures trading. The platform uses an off-chain sequencer for low-latency matching with on-chain settlement.
 
 The project is one of Ink's anchor DeFi venues, leveraging the rollup's L2 economics for trader-friendly fees.

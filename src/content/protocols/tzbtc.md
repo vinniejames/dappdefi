@@ -22,8 +22,6 @@ sources:
   - external: tzbtc
 ---
 
-## Overview
-
 tzBTC is a wrapped Bitcoin token on Tezos, backed 1:1 by BTC and issued through a multi-signature keyholder federation. The keyholders are vetted Tezos ecosystem entities that custody the underlying Bitcoin and authorize mints and redemptions.
 
 The project is one of the longer-running BTC wrappers and is the primary Bitcoin representation in Tezos DeFi.

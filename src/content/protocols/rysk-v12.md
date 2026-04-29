@@ -22,8 +22,6 @@ sources:
   - external: rysk-v12
 ---
 
-## Overview
-
 Rysk V12 is an options-protocol redesign focused on sustainable yield through systematic option-selling strategies on ETH, BTC, and other volatile assets. Users deposit collateral into Rysk vaults; the protocol writes options against that collateral and distributes premiums back to depositors.
 
 The move to Hyperliquid L1 leverages the chain's low-latency execution for the dynamic hedging that the strategies require.

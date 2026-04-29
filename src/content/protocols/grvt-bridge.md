@@ -22,8 +22,6 @@ sources:
   - external: grvt-bridge
 ---
 
-## Overview
-
 Grvt Bridge is the deposit and withdrawal layer for Grvt, a privacy-focused on-chain financial venue powered by zero-knowledge technology. Users bridge funds in to trade and lend with privacy guarantees that other order-book DEXs don't provide.
 
 The bridge contracts hold a substantial share of Grvt's user collateral. GRVT is the platform's token.

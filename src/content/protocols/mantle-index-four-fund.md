@@ -22,8 +22,6 @@ sources:
   - external: mantle-index-four-fund
 ---
 
-## Overview
-
 Mantle Index Four (MI4) is a tokenized index fund on the Mantle Network that tracks a market-cap-weighted basket of leading L1 and L2 tokens. The fund is structured as an on-chain product that institutional and retail investors can hold as a single ticker for diversified crypto exposure.
 
 The product reflects Mantle's broader strategy of operating as a treasury and asset platform for the Mantle ecosystem in addition to a Layer-2 rollup.

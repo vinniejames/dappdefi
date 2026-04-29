@@ -22,8 +22,6 @@ sources:
   - external: swell-liquid-staking
 ---
 
-## Overview
-
 Swell is a non-custodial liquid staking protocol on Ethereum. Stakers deposit ETH and receive swETH, a yield-bearing LST whose exchange rate appreciates with consensus and execution rewards.
 
 The LST is integrated across Ethereum DeFi and is the foundation product on top of which Swell built its later restaking and L2 ambitions. SWELL is the governance token.

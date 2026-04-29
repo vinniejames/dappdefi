@@ -22,8 +22,6 @@ sources:
   - external: felix-vaults
 ---
 
-## Overview
-
 Felix Vaults are deposit products on Hyperliquid that route capital into Morpho lending markets to earn interest. Each vault has a defined target market and risk envelope, with Felix as the curator handling allocation and rebalancing.
 
 The product is part of the Felix ecosystem on Hyperliquid that builds consumer-facing yield interfaces on top of underlying DeFi primitives.

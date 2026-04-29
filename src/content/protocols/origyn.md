@@ -22,8 +22,6 @@ sources:
   - external: origyn
 ---
 
-## Overview
-
 ORIGYN is a tokenization protocol on the Internet Computer (ICP) focused on luxury goods, art, and other physical objects of value. Each item is represented by an ORIGYN-certified NFT containing provenance metadata and authentication.
 
 The project sits in a different RWA niche than treasuries and credit — closer to physical-collectible authenticity. OGY is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: edgex-bridge
 ---
 
-## Overview
-
 edgeX Bridge is the deposit and withdrawal layer for edgeX, an orderbook-based perpetual DEX with its own L1 settlement layer. Users bridge USDC and other supported assets in to trade on edgeX's order book, where matching happens with native (non-AMM) trading-engine semantics.
 
 Like other appchain perp venues, the bridge contracts hold the bulk of trader collateral. EDGE is the platform's token.

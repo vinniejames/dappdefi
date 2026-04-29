@@ -22,8 +22,6 @@ sources:
   - external: aegis
 ---
 
-## Overview
-
 Aegis runs delta-neutral basis-trade strategies on spot and perpetual markets to mint a synthetic dollar backed by funding-rate income. The model is similar to Ethena's USDe with execution adapted to Aegis's preferred venues.
 
 The staked variant of the token captures yield from the funding-rate leg.

@@ -22,8 +22,6 @@ sources:
   - external: zest-v2
 ---
 
-## Overview
-
 Zest V2 is an open-source lending platform on Stacks built specifically for Bitcoin-native collateral. Users earn yield by supplying assets or borrow against tokenized BTC representations on Stacks (sBTC and others), with terms set by the protocol's risk parameters.
 
 The project is one of the largest DeFi venues on Stacks and is positioned as the lending leg of the chain's growing Bitcoin-aligned DeFi stack.

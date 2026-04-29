@@ -22,8 +22,6 @@ sources:
   - external: ethereal-dex
 ---
 
-## Overview
-
 Ethereal is a non-custodial spot and perpetuals DEX built on the Ethena Network using USDe as the primary collateral and settlement asset. The project leverages Ethena's deep synthetic-dollar liquidity to offer trading without bridging to a different stablecoin.
 
 USDe is the chain's economic primitive; the DEX is the trading layer on top.

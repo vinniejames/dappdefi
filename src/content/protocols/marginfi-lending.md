@@ -22,8 +22,6 @@ sources:
   - external: marginfi-lending
 ---
 
-## Overview
-
 marginfi is a foundational lending and prime-brokerage protocol on Solana. It offers a Compound-style money market with a strong focus on portfolio risk management — users see a unified account view across deposits, borrows, and trading-app integrations.
 
 The protocol is a core piece of Solana DeFi liquidity infrastructure alongside Kamino and Save.

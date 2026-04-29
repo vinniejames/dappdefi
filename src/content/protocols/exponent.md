@@ -22,8 +22,6 @@ sources:
   - external: exponent
 ---
 
-## Overview
-
 Exponent is a yield-tokenization protocol on Solana similar in design to Pendle on Ethereum. Yield-bearing tokens are split into Principal and Yield components that trade independently, letting holders lock in fixed rates by selling Yield tokens or take leveraged yield exposure by buying them.
 
 The project fills the yield-trading gap on Solana that Pendle dominates on EVM chains.

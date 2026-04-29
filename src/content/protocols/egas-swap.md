@@ -22,8 +22,6 @@ sources:
   - external: egas-swap
 ---
 
-## Overview
-
 EGAS Swap is the native swap protocol on the ENI chain. Users swap between EGAS and supported ERC-20 assets through a standard AMM model.
 
 The DEX is part of the ENI chain's emerging DeFi stack.

@@ -22,8 +22,6 @@ sources:
   - external: reservoir-protocol
 ---
 
-## Overview
-
 Reservoir is a CDP-style stablecoin protocol that issues rUSD against deposited collateral with a focus on scalability and trust-minimization. The design borrows from the Maker/Sky template, with parameters set by Reservoir governance.
 
 The project is part of the broader cohort of independent CDP stablecoins building distinct collateral and policy choices on top of the same underlying mechanism.

@@ -22,8 +22,6 @@ sources:
   - external: amnis-finance
 ---
 
-## Overview
-
 Amnis Finance is the largest liquid staking protocol on Aptos. Stakers deposit APT and receive amAPT, a yield-bearing token whose value tracks staking rewards. The platform also offers a stAPT staked variant for additional yield within the Amnis ecosystem.
 
 AMI is the platform's token.

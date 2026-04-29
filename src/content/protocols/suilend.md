@@ -22,8 +22,6 @@ sources:
   - external: suilend
 ---
 
-## Overview
-
 Suilend is a Sui-native lending protocol from the team behind Solend on Solana. It offers Compound-style algorithmic money markets — supply assets to earn interest, borrow up to LTV — adapted to Sui's object-based execution model.
 
 The project is one of the largest DeFi venues on Sui alongside NAVI and is part of Sui's broader push toward a credible DeFi ecosystem. SEND is the protocol token.

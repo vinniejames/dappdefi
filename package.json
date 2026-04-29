@@ -1,5 +1,5 @@
 {
-  "name": "defi-directory",
+  "name": "dappdefi",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -19,6 +19,7 @@
     "@astrojs/check": "^0.9.9",
     "@astrojs/tailwind": "^6.0.2",
     "@pagefind/default-ui": "^1.5.2",
+    "@tailwindcss/typography": "^0.5.19",
     "astro": "^5.18.1",
     "astro-pagefind": "^1.8.6",
     "pagefind": "^1.5.2",

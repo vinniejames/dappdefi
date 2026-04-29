@@ -22,8 +22,6 @@ sources:
   - external: nexus-mutual
 ---
 
-## Overview
-
 Nexus Mutual is the largest decentralized cover protocol in DeFi. Members buy cover against specific risks — smart-contract failure, custodian insolvency, slashing, depeg events — and the mutual pool, capitalized by NXM holders, pays out claims approved by a member-driven assessment process.
 
 The project predates much of the current DeFi insurance landscape and remains the canonical reference for on-chain mutual-style coverage. NXM is a non-transferable governance and capital token; wNXM is the wrapped, transferable version.

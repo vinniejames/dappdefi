@@ -22,8 +22,6 @@ sources:
   - external: summer.fi-pro
 ---
 
-## Overview
-
 Summer.fi Pro (formerly Oasis.app) is a position-management front-end for sophisticated DeFi users with positions across MakerDAO/Sky, Aave, Compound, Spark, and Liquity. It offers Multiply (leveraged collateral positions), Earn (passive yield), and Borrow (CDP), with automation tools layered on top.
 
 The product composes on top of underlying lending protocols rather than running its own market.

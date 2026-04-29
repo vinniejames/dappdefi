@@ -22,8 +22,6 @@ sources:
   - external: starknet-bridge
 ---
 
-## Overview
-
 The Starknet Bridge (StarkGate) is the canonical bridge between Ethereum and Starknet, a STARK-validity rollup developed by StarkWare. Deposits move to L2 quickly; withdrawals are settled by submitting a STARK proof to L1 and don't require a fraud-proof challenge window like optimistic rollups.
 
 Security inherits directly from Starknet's validity-proof system. STRK is Starknet's native token, used for governance and gas.

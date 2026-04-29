@@ -22,8 +22,6 @@ sources:
   - external: jupiter-lend
 ---
 
-## Overview
-
 Jupiter Lend is the lending arm of Jupiter, Solana's dominant DEX aggregator. The product launched as Jupiter expanded from pure swap aggregation into a broader DeFi suite that also includes perps, a launchpad, and a stablecoin issuance path.
 
 The market lets Solana users borrow and lend major assets directly from the Jupiter front-end with deep liquidity routed through Jupiter's existing infrastructure. JUP is the governance token.

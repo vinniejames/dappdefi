@@ -22,8 +22,6 @@ sources:
   - external: balancer-v2
 ---
 
-## Overview
-
 Balancer V2 is the second-generation programmable-liquidity AMM. The single-vault architecture lets new pool types — weighted, stable, boosted, composable stable — share liquidity infrastructure rather than each implementing it from scratch.
 
 V2 has been largely succeeded by V3 for new pool deployments but remains live with substantial deposits. BAL is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: renzo
 ---
 
-## Overview
-
 Renzo is a liquid restaking protocol that issues ezETH, a yield-bearing token representing ETH staked through Lido or other LSTs and then restaked through EigenLayer. Holders earn base ETH staking yield plus restaking and AVS rewards through the ezETH exchange rate.
 
 Renzo became one of the largest LRTs in the early restaking cycle and has expanded ezETH support across multiple chains. REZ is the governance token, with a delegation model that lets holders express preferences over which AVSs Renzo's restaked capital secures.

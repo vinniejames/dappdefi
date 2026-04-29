@@ -22,8 +22,6 @@ sources:
   - external: frankencoin
 ---
 
-## Overview
-
 Frankencoin (ZCHF) is an oracle-free, collateralized stablecoin that tracks the Swiss franc. Borrowers propose new collateral types and parameters to the protocol; ZCHF holders can challenge proposals, and accepted positions issue ZCHF backed by the deposited collateral.
 
 The oracle-free design substitutes governance challenges and auction-based price discovery for external price feeds, making ZCHF an unusual entry in the CDP-stablecoin design space.

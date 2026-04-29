@@ -22,8 +22,6 @@ sources:
   - external: sushiswap
 ---
 
-## Overview
-
 SushiSwap is one of the broadest multi-chain DEXs, deployed on more than forty networks. It started as a Uniswap V2 fork and grew into a full DeFi platform with V3 concentrated liquidity, a swap-aggregation layer, and a lending product (Kashi) at various points.
 
 SUSHI is the governance token.

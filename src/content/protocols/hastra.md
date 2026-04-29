@@ -22,8 +22,6 @@ sources:
   - external: hastra
 ---
 
-## Overview
-
 Hastra is a Solana-native RWA protocol that connects institutional-grade off-chain credit and structured products to on-chain capital. Asset originators tokenize positions through Hastra's structuring contracts; investors deposit and earn yield on the underlying off-chain cash flows.
 
 The project sits in the same broad category as Centrifuge and Maple but built natively for Solana's lower-latency execution environment.

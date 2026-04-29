@@ -22,8 +22,6 @@ sources:
   - external: ink-bridge
 ---
 
-## Overview
-
 Ink Bridge is the canonical bridge between Ethereum and Ink, the OP Stack rollup operated by Kraken. Deposits move on-chain in minutes; withdrawals to Ethereum follow the standard OP Stack fault-proof challenge window.
 
 The bridge inherits security from Ink's L1 contracts as a canonical OP Stack rollup.

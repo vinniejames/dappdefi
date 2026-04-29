@@ -22,8 +22,6 @@ sources:
   - external: cronos-zkevm-bridge
 ---
 
-## Overview
-
 Cronos zkEVM Bridge is the canonical bridge between Ethereum and Cronos zkEVM, the validity-rollup chain in the Cronos ecosystem. The bridge moves assets between L1 and the zkEVM L2.
 
 ZKCRO is the chain's native token.

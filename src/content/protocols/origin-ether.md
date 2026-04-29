@@ -22,8 +22,6 @@ sources:
   - external: origin-ether
 ---
 
-## Overview
-
 Origin Ether (OETH) is a yield-bearing ETH derivative from Origin Protocol that combines exposure to multiple ETH staking pools (Lido, Rocket Pool, Frax) and Curve LP strategies into a single token. Holders effectively get a basket of LSTs plus the additional yield from automated LP positions.
 
 The approach diversifies LST counterparty risk while compounding additional yield through DeFi strategies layered on top.

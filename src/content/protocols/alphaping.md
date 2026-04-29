@@ -22,8 +22,6 @@ sources:
   - external: alphaping
 ---
 
-## Overview
-
 AlphaPing is a risk-curator firm specializing in DeFi lending vault management and capital allocation. The team operates curated vaults on top of underlying lending markets, focusing on systematic risk underwriting for institutional and prosumer depositors.
 
 The project is part of the broader risk-curator cohort.

@@ -22,8 +22,6 @@ sources:
   - external: stusdt
 ---
 
-## Overview
-
 stUSDT is a yield-bearing, RWA-backed token native to Tron. Users deposit USDT and receive stUSDT, whose value accrues yield from underlying real-world asset investments — primarily short-duration Treasuries and similar instruments managed by a JustLend-aligned issuer.
 
 The product brought tokenized-treasury yield to the largest USDT base in DeFi (Tron) and circulates broadly in Tron-native venues. STUSDT is the token ticker.

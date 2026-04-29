@@ -22,8 +22,6 @@ sources:
   - external: maple
 ---
 
-## Overview
-
 Maple is an institutional credit marketplace that lets pool delegates underwrite loans to vetted corporate borrowers — primarily market makers, trading firms, and on-chain businesses. Lenders deposit into specific delegate-managed pools, choose among credit terms, and receive yield from the loans those delegates originate.
 
 Unlike pooled-and-permissionless markets like Aave, Maple's loans are typically undercollateralized and rely on KYC plus off-chain legal recourse against the borrower. The protocol pivoted toward a vertically integrated, asset-management-style stack with the SYRUP token taking over the role formerly held by MPL.

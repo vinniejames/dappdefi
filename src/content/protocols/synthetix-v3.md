@@ -22,8 +22,6 @@ sources:
   - external: synthetix-v3
 ---
 
-## Overview
-
 Synthetix V3 is a comprehensive rewrite of the Synthetix protocol around a modular liquidity layer. SNX stakers provide collateral to a pool that backs permissionless derivatives — perpetual futures, options, parimutuel markets — built on top of the same liquidity.
 
 V3 turns Synthetix into a derivatives infrastructure layer that other protocols build on, rather than a single product. SNX is the staking and governance token.

@@ -22,8 +22,6 @@ sources:
   - external: usd-ai
 ---
 
-## Overview
-
 USD.AI is a synthetic dollar protocol whose collateral pool consists of real-world infrastructure assets — primarily GPU-backed hardware and AI compute capacity. Users mint a yield-bearing dollar token by depositing USDC into pools that lend against tokenized infrastructure receivables.
 
 The yield comes from utilization of the underlying hardware rather than from crypto-market dynamics, putting USD.AI in the hybrid RWA-stablecoin tier where the asset functions as a credit-backed dollar.

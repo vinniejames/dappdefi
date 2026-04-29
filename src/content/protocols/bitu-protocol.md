@@ -22,8 +22,6 @@ sources:
   - external: bitu-protocol
 ---
 
-## Overview
-
 BitU Protocol issues a USD-pegged CDP-style stablecoin with embedded yield. Through an Active Liquidity Management layer, the protocol routes deposited collateral through yield-generating strategies while preserving stablecoin peg stability.
 
 The model overlaps with the broader yield-bearing-stablecoin cohort.

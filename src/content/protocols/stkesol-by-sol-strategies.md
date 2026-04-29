@@ -22,8 +22,6 @@ sources:
   - external: stkesol-by-sol-strategies
 ---
 
-## Overview
-
 STKESOL is a liquid-staked SOL token issued by SOL Strategies, a publicly-listed Solana validator and treasury company (Nasdaq: STKE / CSE: HODL). The product is backed by SOL Strategies' compliance-oriented validator infrastructure and represents staked SOL with accrued rewards.
 
 The combination of public-company custody and on-chain LST is unusual in the LST space and aimed at investors who want institutional-grade SOL exposure with on-chain transparency.

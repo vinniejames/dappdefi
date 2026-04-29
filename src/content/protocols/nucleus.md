@@ -22,8 +22,6 @@ sources:
   - external: nucleus
 ---
 
-## Overview
-
 Nucleus is a yield-as-a-service platform that operates as the default yield provider for partner networks. Each partner chain integrates Nucleus to surface curated yield strategies for users without building its own aggregator from scratch.
 
 The project is part of the broader "yield-platform-as-a-service" tier alongside Veda, Concrete, and Lagoon.

@@ -22,8 +22,6 @@ sources:
   - external: joe-v2.2
 ---
 
-## Overview
-
 Joe V2.2 (LFJ Liquidity Book V2.2) is the latest iteration of Trader Joe's bin-based concentrated-liquidity AMM. LPs control liquidity ranges; the protocol distributes real-time on-chain incentives to liquidity contributors and integrates dynamic fees that scale with volatility.
 
 The Trader Joe team rebranded to LFJ; JOE remains the governance token.

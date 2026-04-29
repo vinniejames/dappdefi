@@ -22,8 +22,6 @@ sources:
   - external: "lorenzo-susd1+"
 ---
 
-## Overview
-
 sUSD1+ is a value-accruing yield-bearing stable token from Lorenzo Labs. Users mint sUSD1+ by depositing major stablecoins; the underlying capital is deployed into curated yield strategies, and the token's exchange rate appreciates as those strategies earn.
 
 The product complements Lorenzo's BTC-aligned offerings (enzoBTC) with a stable-yield product targeting BNB Chain and Ethereum users.

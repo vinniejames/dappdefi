@@ -22,8 +22,6 @@ sources:
   - external: kinetic
 ---
 
-## Overview
-
 Kinetic is a money-market protocol on Flare with an additional work-to-earn layer that lets participants earn protocol incentives by performing useful tasks (running keepers, providing data, etc.). The lending side is a standard pooled, utilization-driven model.
 
 The project is a major DeFi venue on Flare alongside FAssets and Firelight. JOULE is the governance token.

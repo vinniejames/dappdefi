@@ -22,8 +22,6 @@ sources:
   - external: rocksolid-network
 ---
 
-## Overview
-
 RockSolid is a single-click DeFi vault platform that surfaces curated yield strategies through one unified interface. Users deposit once and the platform routes capital across underlying protocols, rebalancing as conditions change.
 
 The positioning emphasizes consumer-friendly UX over expressive operator controls.

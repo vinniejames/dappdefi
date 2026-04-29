@@ -22,8 +22,6 @@ sources:
   - external: justlend
 ---
 
-## Overview
-
 JustLend is the dominant lending market on Tron, modeled closely on Compound's algorithmic money-market design. Suppliers deposit assets such as TRX, USDT, and JST into shared pools; borrowers post overcollateralized loans against those pools, and rates adjust as utilization changes.
 
 A notable feature for Tron users is the Energy rental market, where TRX holders supply energy and bandwidth resources that other accounts use to pay for transactions — a Tron-specific extension of the lending primitive. Governance is run through JST token holders.

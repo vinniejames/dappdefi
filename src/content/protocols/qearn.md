@@ -22,6 +22,4 @@ sources:
   - external: qearn
 ---
 
-## Overview
-
 Qearn is a smart-contract platform on the Qubic chain that lets users lock funds for rewards while offering flexible unlocking options. The product is part of Qubic's broader staking and economic-incentive stack.

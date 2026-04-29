@@ -22,8 +22,6 @@ sources:
   - external: pulsex-v2
 ---
 
-## Overview
-
 PulseX V2 is the second-generation DEX on PulseChain, layering concentrated-liquidity pools on top of the V1 Uniswap V2-style AMM. It remains the dominant trading venue on Pulse.
 
 PLSX is the governance token.

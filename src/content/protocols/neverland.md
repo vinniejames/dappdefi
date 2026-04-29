@@ -22,8 +22,6 @@ sources:
   - external: neverland
 ---
 
-## Overview
-
 Neverland is a Monad-native lending protocol that builds on battle-tested lending infrastructure (forking established designs) tuned for Monad's parallel execution model. The platform offers standard money-market primitives plus structured products on top.
 
 DUST is the platform's token.

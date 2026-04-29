@@ -22,8 +22,6 @@ sources:
   - external: rhea-lend
 ---
 
-## Overview
-
 Rhea Lending is the dominant non-custodial money-market protocol on NEAR Protocol. It runs a Compound-style algorithmic interest-rate model with shared collateral across major NEAR assets and integrations with bridged ETH, BTC, and stablecoins.
 
 Rhea is positioned as the default lending venue for NEAR DeFi, similar in role to Aave on Ethereum. RHEA is the governance token.

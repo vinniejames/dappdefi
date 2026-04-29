@@ -22,8 +22,6 @@ sources:
   - external: navi-lending
 ---
 
-## Overview
-
 NAVI is the leading lending protocol on Sui, offering overcollateralized lending and borrowing of SUI, USDC, USDT, wETH, and wBTC. The protocol supports isolated pools, flash loans, and looping strategies on top of the standard money-market base layer.
 
 NAVI fills the same role on Sui that Aave fills on Ethereum and Kamino fills on Solana — the default money-market venue for the chain. NAVX is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: pacifica
 ---
 
-## Overview
-
 Pacifica is a Solana-based perpetuals exchange offering leveraged trading through advanced order types and a pro-grade API. The platform leverages Solana's low-latency execution to provide CEX-like trader UX in a non-custodial venue.
 
 The project is part of Solana's growing decentralized derivatives stack.

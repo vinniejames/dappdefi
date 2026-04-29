@@ -22,8 +22,6 @@ sources:
   - external: decibel
 ---
 
-## Overview
-
 Decibel is a composable on-chain trading engine on Aptos supporting spot, perpetuals, and yield products from a single venue. The matching engine is built natively on Aptos to leverage the chain's parallel execution model.
 
 The project is one of Aptos's anchor DeFi venues for derivatives.

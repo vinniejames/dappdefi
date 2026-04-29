@@ -22,8 +22,6 @@ sources:
   - external: etherfi-borrowing-market
 ---
 
-## Overview
-
 The EtherFi Borrowing Market is the lending leg of ether.fi's broader product suite. It lets eETH and weETH holders post their restaked-ETH collateral and borrow stablecoins or other assets, often as part of EtherFi Cash spending flows.
 
 The market is integrated tightly with ether.fi's native LRT collateral and is part of the project's evolution from a pure LST issuer into a full-stack consumer-finance platform. ETHFI is the governance token.

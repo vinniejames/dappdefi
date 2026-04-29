@@ -22,6 +22,4 @@ sources:
   - external: avalon-superearn
 ---
 
-## Overview
-
 Avalon Superearn is a yield product within Avalon Finance that displays real-time APY across underlying strategies. It's positioned as the consumer-facing yield interface complementing Avalon's USDa stablecoin and CeDeFi products.

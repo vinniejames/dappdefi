@@ -22,8 +22,6 @@ sources:
   - external: haedal-protocol
 ---
 
-## Overview
-
 Haedal is a liquid staking protocol on Sui. Stakers deposit SUI to contribute to network governance and security and receive a yield-bearing LST that they can use across Sui DeFi venues.
 
 Haedal is one of the major LSTs on Sui alongside SpringSui. HAEDAL is the governance token.

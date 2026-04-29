@@ -22,8 +22,6 @@ sources:
   - external: stellar-dex
 ---
 
-## Overview
-
 The Stellar DEX is the native exchange built directly into the Stellar consensus layer. Asset issuers and traders can list any Stellar-based asset; trades execute as part of standard Stellar transaction processing without a separate smart-contract layer.
 
 The DEX is one of the longest-running on-chain order books and predates most EVM DEXs. XLM is the network's native asset.

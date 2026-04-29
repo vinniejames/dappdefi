@@ -22,8 +22,6 @@ sources:
   - external: polygon-zkevm-bridge
 ---
 
-## Overview
-
 The Polygon zkEVM Bridge is the canonical bridge between Ethereum and Polygon zkEVM, a zero-knowledge validity rollup. Withdrawals settle to L1 once a STARK proof verifies the new state, with no fraud-proof challenge window required.
 
 As the canonical bridge for a validity rollup, security inherits directly from the zk proof system rather than from a separate validator set. The bridge is part of the broader Polygon AggLayer evolution toward unified rollup interoperability.

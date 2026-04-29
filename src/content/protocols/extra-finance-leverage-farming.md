@@ -22,8 +22,6 @@ sources:
   - external: extra-finance-leverage-farming
 ---
 
-## Overview
-
 Extra Finance is a leveraged yield-farming protocol originally launched on Optimism that has expanded to Base and Berachain. Users deposit collateral and the protocol routes borrowed capital into Velodrome/Aerodrome-style farming pools, compounding the boost over the underlying APY.
 
 EXTRA is the governance token.

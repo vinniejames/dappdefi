@@ -22,8 +22,6 @@ sources:
   - external: vesta-equity
 ---
 
-## Overview
-
 Vesta Equity tokenizes home-equity investments on Algorand. Investors buy fractional, regulatory-compliant tokens representing equity stakes in verified residential properties, with returns tied to the underlying property's appreciation and rental cash flows.
 
 The project is part of the broader tokenized-real-estate cohort alongside RealT and Lofty.

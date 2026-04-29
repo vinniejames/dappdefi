@@ -22,8 +22,6 @@ sources:
   - external: sunx-bridge
 ---
 
-## Overview
-
 SunX Bridge is the deposit and withdrawal layer for SunX, a perpetuals trading platform on Tron. Users bridge assets in to trade on the SunX venue, which positions itself as the leading Tron-based decentralized perp DEX.
 
 The bridge is part of the broader SUN.io ecosystem; SUN is the governance token.

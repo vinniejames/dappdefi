@@ -22,8 +22,6 @@ sources:
   - external: merchant-moe-liquidity-book
 ---
 
-## Overview
-
 Merchant Moe is the dominant DEX on Mantle. Its Liquidity Book uses a discrete-bin concentrated liquidity design (the same template as Trader Joe's V2.1 Liquidity Book on Avalanche) where LPs select bins to provide liquidity in and trades execute at zero slippage within each bin.
 
 MOE is the governance token.

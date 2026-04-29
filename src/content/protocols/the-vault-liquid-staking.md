@@ -22,8 +22,6 @@ sources:
   - external: the-vault-liquid-staking
 ---
 
-## Overview
-
 The Vault issues vSOL, a liquid-staking token whose underlying SOL is delegated to community-focused Solana validators. Stakers gain a transferable claim on staked SOL plus rewards while supporting validators outside the largest commercial operator set.
 
 The project is one of several smaller Solana LSTs differentiating themselves through validator-set composition and community alignment.

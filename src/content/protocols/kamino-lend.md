@@ -22,8 +22,6 @@ sources:
   - external: kamino-lend
 ---
 
-## Overview
-
 Kamino Lend (K-Lend) is the largest lending protocol on Solana. It offers a Compound-style peer-to-pool design with multiple isolated markets, alongside a set of automated leverage strategies built on top of those markets — multiply long ETH or SOL positions, looped LST yield, and similar.
 
 Kamino is part of a broader Solana product suite that also includes liquidity-provision vaults and yield strategies. KMNO is the governance token, with veKMNO providing fee revenue and weight in the governance process.

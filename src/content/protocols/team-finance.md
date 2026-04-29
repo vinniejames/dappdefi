@@ -22,8 +22,6 @@ sources:
   - external: team-finance
 ---
 
-## Overview
-
 Team Finance is a multi-chain token-management platform offering token lockers, vesting schedules, liquidity-pair lockers, and the tooling that token-issuing project teams typically need. Locks are non-custodial smart contracts that hold team or LP allocations until configurable release dates.
 
 The platform is one of the older token-locker services and remains widely used as the default tooling on EVM chains. SWAP is the platform's token.

@@ -22,8 +22,6 @@ sources:
   - external: echo-bridge
 ---
 
-## Overview
-
 Echo Bridge moves Bitcoin and BTC-aligned assets between the Bitcoin base layer and the BSquared (B²) Network, a Bitcoin Layer-2. It is paired with Echo's broader product suite for restaking, lending, and earning yield on bridged BTC.
 
 The bridge is a key piece of the BTCFi stack on B² and overlaps with similar bridge-plus-yield products from other Bitcoin-aligned L2s.

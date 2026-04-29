@@ -22,8 +22,6 @@ sources:
   - external: connext
 ---
 
-## Overview
-
 Connext is a non-custodial cross-chain messaging and liquidity protocol. Routers run by independent operators bridge assets and execute calls across chains; the protocol secures movement through HOP-style liquidity pools and cryptographic intent-matching, without locking users behind a fixed validator set.
 
 The project rebranded several times (NXTP, Amarok, the Everclear evolution) but the constant has been a focus on fast, capital-efficient L1-L2 and cross-L2 communication. NEXT is the governance token.

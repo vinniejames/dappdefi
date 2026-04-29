@@ -22,8 +22,6 @@ sources:
   - external: dxsale
 ---
 
-## Overview
-
 DxSale is one of the largest IDO launchpads in DeFi by deployment volume, supporting more than fifteen chains. Project teams configure a token sale type (presale, fairlaunch, dutch auction) and contributors participate from their own wallets.
 
 DX is the platform's token.

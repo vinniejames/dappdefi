@@ -22,8 +22,6 @@ sources:
   - external: gravity-by-galxe
 ---
 
-## Overview
-
 Gravity is the canonical bridge for the Galxe-developed Gravity Chain, an EVM-compatible network designed as an omnichain settlement layer for consumer apps. The bridge uses zero-knowledge proofs for fast cross-chain settlement.
 
 G is the chain's native token.

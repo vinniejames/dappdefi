@@ -22,8 +22,6 @@ sources:
   - external: openeden-tbill
 ---
 
-## Overview
-
 OpenEden TBILL is a Moody's-rated tokenized U.S. Treasury Bill product. Holders gain 24/7 on-chain access to short-duration T-Bills, with BNY Mellon as the underlying manager and custodian and a smart-contract vault as the issuance and redemption layer.
 
 The Moody's A rating is unusual for an on-chain RWA product and positions OpenEden in the institutional tier of tokenized treasuries alongside BUIDL and USYC.

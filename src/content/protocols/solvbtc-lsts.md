@@ -22,8 +22,6 @@ sources:
   - external: solvbtc-lsts
 ---
 
-## Overview
-
 SolvBTC LSTs are restaked-Bitcoin variants of Solv's flagship BTC reserve token, including xSolvBTC and SolvBTC.CORE. Each variant secures specific Bitcoin-aligned PoS networks (Babylon, CORE) and accrues the corresponding restaking yields back to holders.
 
 The products extend SolvBTC into the BTC restaking space, complementing Solv's basis-trading and non-restaked products. SOLV is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: paradex-bridge
 ---
 
-## Overview
-
 Paradex Bridge is the deposit and withdrawal layer for Paradex, a high-performance perpetuals DEX from the Paradigm team built on a Starknet appchain. Trader collateral bridges in to back perpetual positions on Paradex's order-book venue.
 
 The bridge contracts hold a substantial share of Paradex's user collateral.

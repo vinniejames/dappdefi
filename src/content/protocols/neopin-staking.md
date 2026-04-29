@@ -22,8 +22,6 @@ sources:
   - external: neopin-staking
 ---
 
-## Overview
-
 NEOPIN Staking is the validator-delegation product within the NEOPIN wallet and DeFi platform. Users delegate to NEOPIN's validator infrastructure on Klaytn (now Kaia) and Tron, earning network rewards through the platform's UI.
 
 NPT is the platform's token, governing fee distribution and validator selection.

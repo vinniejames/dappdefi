@@ -22,8 +22,6 @@ sources:
   - external: vvs-standard
 ---
 
-## Overview
-
 VVS Finance is the dominant DEX on Cronos, the Crypto.com EVM chain. It runs a Uniswap V2-style AMM with a heavy farming and incentives layer, positioned as the simplest swap-and-yield platform in the Crypto.com DeFi ecosystem.
 
 VVS sits alongside Tectonic (lending) and the broader Crypto.com Chain stack as one of the chain's anchor protocols. VVS is the governance token.

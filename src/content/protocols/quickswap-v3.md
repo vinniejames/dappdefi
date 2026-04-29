@@ -22,8 +22,6 @@ sources:
   - external: quickswap-v3
 ---
 
-## Overview
-
 Quickswap V3 is the concentrated-liquidity engine of QuickSwap, the dominant DEX on Polygon. The V3 implementation expands across Immutable zkEVM, Polygon, and Manta, complementing QuickSwap's V2-style AMM pools.
 
 QUICK is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: ultrayield-vaults
 ---
 
-## Overview
-
 UltraYield Vaults are the vault-curation infrastructure used by Edge Capital's UltraYield product line. Each vault encodes the strategy logic and risk policy of an Edge-curated yield product.
 
 The product is part of the broader UltraYield platform.

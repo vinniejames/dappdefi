@@ -22,8 +22,6 @@ sources:
   - external: euler-dao
 ---
 
-## Overview
-
 Euler DAO is the governance and curated-vault arm of the Euler V2 lending platform. EUL holders steer protocol parameters and the DAO operates curated vaults on top of the underlying Euler Vault Kit primitives.
 
 The two-layer model — modular vault primitives plus DAO-curated risk strategies — sits at the heart of Euler's positioning as a "lending super app."

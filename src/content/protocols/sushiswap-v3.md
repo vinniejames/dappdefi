@@ -22,8 +22,6 @@ sources:
   - external: sushiswap-v3
 ---
 
-## Overview
-
 SushiSwap V3 is SushiSwap's concentrated-liquidity DEX, built on a Uniswap V3 fork. Liquidity providers choose price ranges within which their capital is active, dramatically improving capital efficiency over the original V2-style constant-product pools.
 
 Sushi remains one of the broadest multi-chain DEXs by deployment count, with V3 deployed across most major EVM networks. SUSHI is the governance token.

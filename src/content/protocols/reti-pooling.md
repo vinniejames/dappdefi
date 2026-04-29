@@ -22,8 +22,6 @@ sources:
   - external: reti-pooling
 ---
 
-## Overview
-
 Réti Pooling is a decentralized, non-custodial staking pool protocol on Algorand. Stakers contribute ALGO to pools that exceed Algorand's solo-staking minimum, and rewards are distributed pro-rata to contributors.
 
 The protocol fills the same role on Algorand that Lido and Marinade fill on Ethereum and Solana — letting smaller stakers participate without running their own node.

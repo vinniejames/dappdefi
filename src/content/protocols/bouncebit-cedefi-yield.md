@@ -22,8 +22,6 @@ sources:
   - external: bouncebit-cedefi-yield
 ---
 
-## Overview
-
 BounceBit is a CeDeFi yield platform that runs delta-neutral basis trades through CEX-side execution while keeping user collateral on-chain. Deposits earn yield primarily from funding-rate income on the basis position, similar to Ethena, but with more explicit reliance on centralized venues for the hedging leg.
 
 The project also operates BounceBit Chain, a BTC-staked PoS network where the same yield products run natively. BB is the chain's token and ties into BounceBit's broader product surface.

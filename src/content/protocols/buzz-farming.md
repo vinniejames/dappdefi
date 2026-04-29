@@ -22,8 +22,6 @@ sources:
   - external: buzz-farming
 ---
 
-## Overview
-
 Buzz Farming is the yield-aggregation arm of B² Network, a Bitcoin Layer-2. It partners with major BTCFi protocols — Babylon, Lombard, Bedrock — to surface multi-strategy yield options where users can deposit BTC-denominated assets and earn restaking and DeFi yields through B²'s farming framework.
 
 The project is part of B²'s broader effort to make its L2 a consolidated home for BTC-yield strategies. B2 is the network's token.

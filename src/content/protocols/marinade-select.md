@@ -22,8 +22,6 @@ sources:
   - external: marinade-select
 ---
 
-## Overview
-
 Marinade Select is an institutional-tier staking option from Marinade where stake delegates only to a curated, identity-verified validator set selected for performance and compliance characteristics. The product lets institutional stakers participate in Solana staking with a defined operator set rather than the broader algorithmic delegation Marinade uses for mSOL.
 
 MNDE is the governance token across Marinade products.

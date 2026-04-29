@@ -22,8 +22,6 @@ sources:
   - external: gearbox
 ---
 
-## Overview
-
 Gearbox is a permissionless credit layer with composable Credit Accounts. Users deposit collateral and borrow against it, but the borrowed funds remain inside a Gearbox-controlled account that can interact with whitelisted protocols (Curve, Uniswap, Yearn) — enabling leveraged yield farming with on-chain collateralization.
 
 GEAR is the governance token.

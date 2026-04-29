@@ -22,8 +22,6 @@ sources:
   - external: railgun
 ---
 
-## Overview
-
 RAILGUN is a smart-contract privacy system that lets users transact, swap, and lend privately on Ethereum and other EVM chains without using a bridge or Layer-2. Funds are deposited into a shielded balance set with zero-knowledge proofs, and users execute DeFi actions from inside that shield.
 
 The design preserves the composability of the underlying chain while concealing balances and transaction graphs. RAIL is the protocol governance token.

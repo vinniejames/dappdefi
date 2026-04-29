@@ -22,8 +22,6 @@ sources:
   - external: tydro
 ---
 
-## Overview
-
 Tydro is a non-custodial lending protocol on Ink, Kraken's OP Stack rollup. Built on top of an Aave V3 fork, it provides Ink users with the standard pooled-money-market primitive — supply assets to earn interest, borrow against them up to LTV — adapted to the chain's emerging DeFi ecosystem.
 
 The project is part of the wave of chain-specific Aave-fork deployments that bootstrap lending liquidity on new L2s.

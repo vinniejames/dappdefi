@@ -22,8 +22,6 @@ sources:
   - external: origami-finance
 ---
 
-## Overview
-
 Origami is an automated leverage protocol — users deposit a yield-bearing asset and Origami runs a flash-loan-powered loop that maximizes leverage within governance-set risk parameters. The product extends to LSTs, LRTs, and other productive collateral types.
 
 The project's distinctive launch on Ethereum and Berachain reflects Origami's pitch as a Berachain-native leveraged-yield primitive alongside Ethereum coverage.

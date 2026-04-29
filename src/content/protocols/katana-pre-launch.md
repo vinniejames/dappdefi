@@ -22,8 +22,6 @@ sources:
   - external: katana-pre-launch
 ---
 
-## Overview
-
 Katana Pre-Launch is the pre-launch deposit and incentive program for Katana, an EVM appchain. Users deposit eligible tokens into Yearn vaults to earn randomized reward NFTs (Krates) plus underlying yield while their capital backs Katana's launch.
 
 The program functions as Katana's main capital-formation surface during launch.

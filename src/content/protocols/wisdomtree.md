@@ -22,8 +22,6 @@ sources:
   - external: wisdomtree
 ---
 
-## Overview
-
 WisdomTree, a major traditional ETF issuer, runs a tokenization platform that brings selected ETFs and money-market products on-chain. WisdomTree Connect is the institutional-facing access layer; the underlying tokenized funds settle on Ethereum and Stellar.
 
 The range covers tokenized U.S. Treasury and short-duration income funds, giving qualified investors regulated exposure to traditional fixed income through on-chain rails. The trust assumption is the issuer's regulated structure and custody arrangements rather than a decentralized protocol.

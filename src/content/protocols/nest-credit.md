@@ -22,8 +22,6 @@ sources:
   - external: nest-credit
 ---
 
-## Overview
-
 Nest Credit provides native yield from tokenized RWAs on the Plume Network, with select deployments on Solana and Ethereum. The platform aggregates regulated credit and treasury products into vaults that depositors can access from a single interface.
 
 The product is part of Plume's positioning as an RWA-focused L2.

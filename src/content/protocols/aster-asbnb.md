@@ -22,8 +22,6 @@ sources:
   - external: aster-asbnb
 ---
 
-## Overview
-
 asBNB is Aster's BNB liquid staking derivative. It accrues rewards from BNB Chain validator staking plus participation in Binance Launchpools, HODLer airdrops, and Megadrop programs — turning BNB into a multi-source yield-bearing token.
 
 The product is part of Aster's broader DeFi stack on BNB Chain, complementing the Aster perpetuals exchange. ASTER is the platform's token.

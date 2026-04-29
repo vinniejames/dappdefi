@@ -22,8 +22,6 @@ sources:
   - external: superstate-ustb
 ---
 
-## Overview
-
 USTB is the Superstate Short Duration U.S. Government Securities Fund — a private fund tokenized as an ERC-20 and offered exclusively to Qualified Purchasers. The fund holds short-duration U.S. Treasury Bills and pays yield through periodic distributions or via an exchange-rate-style accrual.
 
 Superstate was founded by Compound creator Robert Leshner and operates as a registered investment adviser, putting it in the institutional-RWA tier alongside BUIDL, USYC, and OUSG. USTB has expanded across Ethereum, Plume, and Solana to be useful as cash-management collateral in regulated venues.

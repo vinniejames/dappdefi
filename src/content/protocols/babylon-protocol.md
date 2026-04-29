@@ -22,8 +22,6 @@ sources:
   - external: babylon-protocol
 ---
 
-## Overview
-
 Babylon is the leading Bitcoin staking protocol. Bitcoin holders self-custody their BTC inside Babylon-defined scripts on Bitcoin itself — no bridging, no wrapping — and use those locked positions to provide economic security to participating Proof-of-Stake chains in exchange for yield.
 
 The protocol introduces Bitcoin-native primitives for fast unbonding, slashing under cryptoeconomic conditions on remote PoS chains, and accountable validator sets. The design extends restaking economics to Bitcoin without requiring stakers to ever surrender custody of their BTC, and is governed by holders of the BABY token.

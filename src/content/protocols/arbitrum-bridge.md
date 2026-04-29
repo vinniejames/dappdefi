@@ -22,8 +22,6 @@ sources:
   - external: arbitrum-bridge
 ---
 
-## Overview
-
 The Arbitrum Bridge is the canonical entry and exit between Ethereum mainnet and Arbitrum One, the optimistic-rollup network from Offchain Labs. Deposits from Ethereum to Arbitrum complete in minutes; withdrawals to Ethereum follow the rollup's seven-day fraud-proof window before funds are released on L1.
 
 Because it is the canonical bridge, security inherits directly from the Arbitrum protocol itself rather than from a third-party validator set. ARB holders govern the surrounding stack — fee policy, sequencer rules, and treasury — through the Arbitrum DAO.

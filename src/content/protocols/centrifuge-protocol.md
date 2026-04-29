@@ -22,8 +22,6 @@ sources:
   - external: centrifuge-protocol
 ---
 
-## Overview
-
 Centrifuge is a tokenization platform that bridges off-chain assets — invoices, real-estate loans, structured credit — into composable on-chain pools. Asset originators set up pools with senior and junior tranches; investors deposit into the tranche that matches their risk preference and earn yield as borrowers repay.
 
 The protocol pioneered the playbook for bringing private credit on-chain and supplies tokenized RWA collateral to lending markets including MakerDAO/Sky and Aave. CFG is the governance token of the Centrifuge Chain (a Polkadot parachain) and the broader protocol, and Centrifuge V3 extends the same model to multiple EVM chains.

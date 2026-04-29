@@ -22,8 +22,6 @@ sources:
   - external: sophon-bridge
 ---
 
-## Overview
-
 Sophon Bridge is the canonical bridge between Ethereum and Sophon, a zk-validity rollup. Withdrawals settle to L1 once the zk proof is verified, with no fraud-proof challenge window required.
 
 Sophon is positioned around consumer applications and entertainment use cases on top of validity-rollup security; the bridge is the chain's largest TVL surface.

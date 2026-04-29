@@ -22,8 +22,6 @@ sources:
   - external: lombard-btc.b
 ---
 
-## Overview
-
 BTC.b is Lombard's decentralized, non-custodial Bitcoin wrapper, designed for use in DeFi without an exchange custodian. The token is bridged into multiple chains and serves as a more permissionless complement to Lombard's flagship LBTC restaking product.
 
 The distinguishing pitch versus exchange-issued wrappers is the trust-minimized custody design; BARD is the governance token across Lombard's products.

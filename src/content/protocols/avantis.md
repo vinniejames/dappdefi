@@ -22,8 +22,6 @@ sources:
   - external: avantis
 ---
 
-## Overview
-
 Avantis is a perpetuals DEX on Base offering advanced risk management for liquidity providers, loss-protection mechanics for traders, and a wide selection of perpetual markets. The product is part of Base's growing on-chain derivatives landscape.
 
 Avantis differentiates from pure GMX-style designs by offering more granular controls on both LP and trader sides. AVNT is the platform's token.

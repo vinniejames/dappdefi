@@ -22,8 +22,6 @@ sources:
   - external: dfdv-staked-sol
 ---
 
-## Overview
-
 dfdvSOL is the liquid staking token issued by DFDV Tech, a Solana validator operator. Holders' SOL is delegated to DFDV's validators and the LST appreciates against SOL as staking rewards accrue.
 
 The project is one of many validator-specific LSTs in Solana's polycentric LST market, accessible through Sanctum's Infinity pool for cross-LST swaps.

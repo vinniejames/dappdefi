@@ -22,8 +22,6 @@ sources:
   - external: hemi-staking
 ---
 
-## Overview
-
 Hemi Staking is the staking and points program for Hemi, a Bitcoin-aligned hybrid L1/L2 from the Hemi Labs team. Users stake supported assets to earn protocol points and yield while bootstrapping the chain's economic security.
 
 HEMI is the network's token.

@@ -22,6 +22,4 @@ sources:
   - external: verus-market
 ---
 
-## Overview
-
 Verus Market is the native DEX on the Verus chain, a privacy-oriented Komodo-aligned blockchain. The protocol is part of Verus's broader stack of identity and DeFi primitives running natively on the chain.

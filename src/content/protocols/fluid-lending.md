@@ -22,8 +22,6 @@ sources:
   - external: fluid-lending
 ---
 
-## Overview
-
 Fluid is the next-generation DeFi protocol from the Instadapp team, unifying lending and DEX liquidity in a single contract architecture. Fluid Lending lets borrowers post collateral and borrow against it; the same liquidity also supports Fluid's smart-collateral DEX, sharing capital efficiency across both products.
 
 The design's headline feature is liquidation under non-traditional curves — the protocol partially closes underwater positions through automated DEX swaps rather than full liquidations. Fluid is governed by INST holders.

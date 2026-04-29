@@ -22,8 +22,6 @@ sources:
   - external: sosovalue-indexes
 ---
 
-## Overview
-
 The SoSoValue Indexes (SSI) Protocol is a spot-index product that lets investors hold themed crypto baskets — DeFi index, AI index, memecoin index — through a single token. Each index rebalances on a schedule under transparent on-chain rules.
 
 The project pairs SoSoValue's market-data platform with index issuance on-chain. SOSO is the platform token.

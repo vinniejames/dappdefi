@@ -22,8 +22,6 @@ sources:
   - external: swell-liquid-restaking
 ---
 
-## Overview
-
 rswETH is Swell's liquid restaking token. Stakers deposit ETH or LSTs; the protocol stakes through validators and simultaneously restakes through EigenLayer. rswETH accrues both base staking yield and AVS rewards through an exchange-rate model.
 
 The product complements Swell's swETH liquid staking token and the upcoming Swell L2. SWELL is the governance token.

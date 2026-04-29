@@ -22,8 +22,6 @@ sources:
   - external: cap
 ---
 
-## Overview
-
 Cap is a stablecoin protocol issuing cUSD (the dollar token) and stcUSD (the yield-bearing variant). Operators stake collateral and route deposits through curated yield strategies; in exchange, depositors get a stablecoin with explicit financial guarantees on principal.
 
 The model decouples yield generation from peg maintenance, with the operator layer responsible for both performance and credit risk on the strategies they run.

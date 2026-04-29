@@ -22,8 +22,6 @@ sources:
   - external: hyperliquid-spot-orderbook
 ---
 
-## Overview
-
 Hyperliquid's Spot Orderbook is a fully on-chain central limit order book for spot trading on Hyperliquid L1. Orders are matched by the chain's validator set on every block, achieving sub-second matching with the verifiability of an on-chain venue.
 
 Unlike Hyperliquid's higher-volume perpetuals book, the spot venue is positioned as a clean spot trading layer for the chain's native asset universe, including HYPE. HYPE is the L1's native token.

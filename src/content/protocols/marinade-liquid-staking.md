@@ -22,8 +22,6 @@ sources:
   - external: marinade-liquid-staking
 ---
 
-## Overview
-
 Marinade is the original Solana liquid staking protocol, issuing mSOL — a non-rebasing LST whose exchange rate against SOL appreciates with staking rewards. Stake is distributed across hundreds of Solana validators selected by Marinade's delegation algorithm to maximize decentralization.
 
 Marinade also offers a Native Staking product where users can stake to specific validators while keeping the same delegation tooling. MNDE is the governance token.

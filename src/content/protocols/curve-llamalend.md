@@ -22,8 +22,6 @@ sources:
   - external: curve-llamalend
 ---
 
-## Overview
-
 LlamaLend is Curve's isolated-market lending platform. Users borrow crvUSD (and other supported assets) against permissioned or permissionless collateral lists, with each market using Curve's LLAMMA "soft liquidation" mechanism to absorb price moves continuously rather than via discrete liquidation events.
 
 The product extends crvUSD's CDP design out to more general lending markets, and lets long-tail collateral types onboard with isolated risk. CRV holders govern LlamaLend.

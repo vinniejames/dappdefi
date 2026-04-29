@@ -22,8 +22,6 @@ sources:
   - external: dydx-v4
 ---
 
-## Overview
-
 dYdX V4 is the Cosmos-SDK appchain version of dYdX, moved off StarkEx onto its own validator-secured chain. The chain runs a fully decentralized off-chain order book with on-chain settlement, with validators handling order matching and consensus simultaneously.
 
 The migration to V4 was one of the largest appchain pivots in DeFi, trading the rollup model for a sovereign chain to capture protocol revenue and customize execution. dYdX is the chain's native token.

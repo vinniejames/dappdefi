@@ -22,8 +22,6 @@ sources:
   - external: linear-protocol
 ---
 
-## Overview
-
 LiNEAR Protocol is a liquid staking protocol on NEAR. Stakers deposit NEAR and receive LiNEAR, a yield-bearing token whose value tracks staking rewards while remaining transferable across NEAR DeFi.
 
 The project fills the LST role on NEAR and is one of the chain's largest DeFi venues. LNR is the protocol's token.

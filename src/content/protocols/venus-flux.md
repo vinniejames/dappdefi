@@ -22,8 +22,6 @@ sources:
   - external: venus-flux
 ---
 
-## Overview
-
 Venus Flux is the unified-liquidity lending product within the Venus ecosystem on BNB Chain. Suppliers deposit assets into a shared liquidity layer that backs multiple lending strategies, complementing Venus's Core Pool and Isolated Pools products.
 
 The design lets users earn liquidity-layer yield while still giving Venus governance fine-grained control over how that liquidity is deployed across markets. XVS is the governance token.

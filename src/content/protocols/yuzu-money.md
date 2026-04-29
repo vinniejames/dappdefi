@@ -22,8 +22,6 @@ sources:
   - external: yuzu-money
 ---
 
-## Overview
-
 Yuzu Money issues an overcollateralized stablecoin backed by curated on-chain yield strategies. Reserves are deployed across DeFi venues to deliver yield that flows back to the staked variant of the token.
 
 The project sits in the broader basis-stablecoin/yield-bearing-dollar cohort that has emerged on Plasma and other yield-focused chains.

@@ -22,8 +22,6 @@ sources:
   - external: lulo
 ---
 
-## Overview
-
 Lulo is a Solana lending aggregator that automatically migrates user deposits between underlying lending protocols (Kamino, Solend, MarginFi, Drift) to capture the best available rate at any time. Users supply assets once; Lulo handles routing and rebalancing.
 
 The product is positioned as the consumer-friendly path to Solana lending yield without manually monitoring multiple venues.

@@ -22,8 +22,6 @@ sources:
   - external: lista-cdp
 ---
 
-## Overview
-
 Lista CDP is the collateralized-stablecoin issuance arm of Lista DAO on BNB Chain. Users lock crypto collateral — BNB, ETH, stablecoins, LSTs — into vaults and mint lisUSD, Lista's decentralized stablecoin, paying a stability fee set by Lista governance.
 
 The design follows the Maker/Sky template adapted to BNB Chain economics and complements Lista's lending and liquid staking products. LISTA is the governance token across all three.

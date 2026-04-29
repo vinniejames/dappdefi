@@ -22,8 +22,6 @@ sources:
   - external: veda
 ---
 
-## Overview
-
 Veda is a vault-infrastructure platform that other DeFi applications use to ship cross-chain yield products without rebuilding the underlying plumbing themselves. Issuers configure strategies — looped LSTs, basis trades, lending positions — and Veda handles execution, accounting, and the cross-chain settlement layer.
 
 The platform powers some of the largest yield-bearing tokens in DeFi for partner protocols and has positioned itself as a B2B layer rather than a consumer product. Veda's value proposition is letting an asset issuer or protocol focus on distribution while Veda handles the strategy and ops surface.

@@ -22,8 +22,6 @@ sources:
   - external: sanctum-validator-lsts
 ---
 
-## Overview
-
 Sanctum is the LST infrastructure layer on Solana. Rather than running a single staked-SOL pool, Sanctum lets any validator launch their own branded LST against the SanctumSPL stake pool program, with a shared liquidity reserve (the Infinity pool) that swaps between any two Sanctum-listed LSTs at a tight spread.
 
 This design makes the LST surface on Solana fundamentally polycentric — there are dozens of validator-specific LSTs rather than one Lido equivalent — and Sanctum is the connective infrastructure that makes them interchangeable. CLOUD is the governance token.

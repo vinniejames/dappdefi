@@ -22,8 +22,6 @@ sources:
   - external: usual-usd0
 ---
 
-## Overview
-
 Usual issues USD0, a fully-backed stablecoin collateralized by tokenized U.S. Treasuries (BUIDL, USYC, M tokens). USD0 holders can stake into USD0++ to capture the yield from the underlying treasuries plus the USUAL token rewards distributed by the protocol.
 
 The pitch is a stablecoin that pays its yield directly to its holders rather than capturing it for a centralized issuer, in contrast to USDC and USDT. USUAL is the governance and rewards token.

@@ -22,8 +22,6 @@ sources:
   - external: saucerswap-v2
 ---
 
-## Overview
-
 SaucerSwap V2 is the largest DEX on Hedera. It combines V2-style constant-product pools with V3-style concentrated-liquidity pools, all running through Hedera's Smart Contract Service for Solidity compatibility on the Hashgraph consensus layer.
 
 SAUCE is the governance token.

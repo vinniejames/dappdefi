@@ -22,8 +22,6 @@ sources:
   - external: balancer-v3
 ---
 
-## Overview
-
 Balancer V3 is the third major version of Balancer, an AMM with a vault-based architecture and arbitrary-weight pools. V3 simplifies the pool model relative to V2 while keeping support for custom pool types and dynamic fee logic via hooks.
 
 The vault holds all pool tokens; pools themselves are thin contracts that define the swap math. This separation lets new pool types ship as small, audited add-ons rather than full forks. BAL is the governance token, with veBAL controlling gauge emissions.

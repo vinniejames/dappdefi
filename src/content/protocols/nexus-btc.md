@@ -22,8 +22,6 @@ sources:
   - external: nexus-btc
 ---
 
-## Overview
-
 NexusBTC is a wrapped Bitcoin token aimed at cross-chain DeFi composability. It is bridged across multiple networks and serves as a BTC-pegged collateral and trading asset in venues that integrate it.
 
 Like other BTC wrappers, the trust model is the operational integrity of the issuing/redeeming infrastructure — a common pattern across the broader Bitcoin-DeFi wrapping landscape.

@@ -22,8 +22,6 @@ sources:
   - external: ston.fi
 ---
 
-## Overview
-
 STON.fi is the leading DEX on TON (The Open Network). It runs a Uniswap V2-style automated market maker tuned for TON's actor-based smart-contract model and integrates with major Telegram-based wallets and apps.
 
 STON is the platform's token.

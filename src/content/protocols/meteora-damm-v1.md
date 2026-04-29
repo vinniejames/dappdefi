@@ -22,8 +22,6 @@ sources:
   - external: meteora-damm-v1
 ---
 
-## Overview
-
 Meteora DAMM V1 is the original Dynamic AMM design from Meteora, focused on stable and pegged-asset pools on Solana. It complements Meteora's DLMM concentrated-liquidity engine and the V2 dynamic AMM.
 
 MET is the platform's token.

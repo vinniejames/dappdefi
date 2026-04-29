@@ -22,8 +22,6 @@ sources:
   - external: silo-v2
 ---
 
-## Overview
-
 Silo creates permissionless, risk-isolated lending markets — each "silo" pairs a single asset with a base asset (USDC or ETH) and contains its own borrow/lend pool. Risk is contained: a bad debt event in one silo cannot contaminate others.
 
 Silo V2 expands the design with new market types and improved capital efficiency. SILO is the governance token.

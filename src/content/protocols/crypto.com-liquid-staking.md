@@ -22,8 +22,6 @@ sources:
   - external: crypto.com-liquid-staking
 ---
 
-## Overview
-
 Crypto.com Liquid Staking is the exchange's LST product line, issuing CDCETH (for Ethereum staking) and CDCSOL (for Solana). Users stake on Crypto.com and receive transferable tokens that accrue staking rewards through exchange-rate appreciation.
 
 Like other exchange-issued LSTs (cbETH, BNSOL, kBTC), the trust assumption is the exchange's operational integrity in exchange for tight liquidity and easy on/off-ramping.

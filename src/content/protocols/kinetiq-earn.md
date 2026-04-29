@@ -22,8 +22,6 @@ sources:
   - external: kinetiq-earn
 ---
 
-## Overview
-
 Kinetiq Earn is the yield-aggregation product within the Kinetiq ecosystem on Hyperliquid. Users deposit HYPE and kHYPE into Earn vaults that route capital across HyperEVM DeFi protocols, optimizing for the best risk-adjusted yield.
 
 The product extends Kinetiq from pure liquid staking into a broader yield platform on Hyperliquid.

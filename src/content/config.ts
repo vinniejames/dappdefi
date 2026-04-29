@@ -28,7 +28,11 @@ const protocolsCollection = defineCollection({
     url: z.string().url(),
     twitter: z.string().nullable().default(null),
     github: z.string().nullable().default(null),
-    logo: z.string().url().nullable().default(null),
+    logo: z
+      .string()
+      .refine((v) => v.startsWith('/') || /^https?:\/\//.test(v), 'logo must be an absolute URL or a path starting with /')
+      .nullable()
+      .default(null),
     listed_at: z.coerce.date(),
     tags: tagsSchema,
     sources: z.array(sourceSchema).default([]),

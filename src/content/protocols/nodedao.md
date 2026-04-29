@@ -22,8 +22,6 @@ sources:
   - external: nodedao
 ---
 
-## Overview
-
 NodeDAO is a liquid staking platform on Ethereum. Users deposit ETH and the protocol stakes through a curated operator set, issuing a yield-bearing token that tracks staking rewards.
 
 The project is one of several LST options on Ethereum competing on operator selection, fee structure, and DeFi integration depth.

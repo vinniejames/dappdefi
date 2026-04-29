@@ -22,8 +22,6 @@ sources:
   - external: vaulta-rex
 ---
 
-## Overview
-
 REX (Resource Exchange) is the long-running EOS-native protocol for lending and borrowing CPU and NET resources used to pay for transactions on EOS. Stakers earn system protocol income — RAM fees, name auction proceeds, and other on-chain revenue — by lending their resources into the pool.
 
 The Vaulta rebrand reflects the broader EOSIO ecosystem's repositioning. EOS is the native token.

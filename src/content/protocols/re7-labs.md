@@ -22,8 +22,6 @@ sources:
   - external: re7-labs
 ---
 
-## Overview
-
 Re7 Labs is the on-chain asset-management arm of Re7 Capital, a digital-asset investment firm. The team operates risk-curated vaults on top of Morpho and other underlying lending markets, underwriting borrowers and risk envelopes for institutional and prosumer depositors.
 
 Re7 is one of the more visible names in the risk-curator cohort, with a research-heavy posture toward DeFi credit markets.

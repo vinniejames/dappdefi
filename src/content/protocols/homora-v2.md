@@ -22,8 +22,6 @@ sources:
   - external: homora-v2
 ---
 
-## Overview
-
 Homora is Alpha Venture DAO's leveraged yield-farming product. Users supply capital that Homora then loops through underlying lending and AMM venues to amplify exposure to a target farming position, with the protocol handling the borrow leg automatically.
 
 Homora V2 was one of the original leveraged-farming protocols and remains live across multiple EVM chains. ALPHA is the governance token of the broader Alpha ecosystem.

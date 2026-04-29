@@ -22,8 +22,6 @@ sources:
   - external: symbiotic
 ---
 
-## Overview
-
 Symbiotic is a restaking protocol that competes with EigenLayer in the shared-security category, with a more permissionless and modular design. Networks define their own slashing conditions and collateral requirements; restakers and operators opt in to specific networks rather than going through a single staking-and-restaking funnel.
 
 The protocol supports a wide range of collateral assets beyond ETH, which differentiates it from EigenCloud's ETH-centric model. Symbiotic is governed by its own network of vault, operator, and curator participants.

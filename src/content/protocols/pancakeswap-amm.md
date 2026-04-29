@@ -22,8 +22,6 @@ sources:
   - external: pancakeswap-amm
 ---
 
-## Overview
-
 PancakeSwap is the largest DEX on BNB Chain and one of the highest-volume DEXs in DeFi by activity. The AMM offers both a Uniswap V2-style constant-product pool and a V3-style concentrated-liquidity pool, plus a yield-farming layer that distributes the CAKE governance token to liquidity providers.
 
 With deployments across BNB Chain, Ethereum, Base, Aptos, and others, PancakeSwap is essentially a multi-chain trading and farming hub for retail users. CAKE holders govern emissions, fee structure, and the broader protocol roadmap.

@@ -22,8 +22,6 @@ sources:
   - external: superform
 ---
 
-## Overview
-
 Superform is a cross-chain yield-aggregation app that lets users deposit once and access yield strategies across many chains and underlying protocols from a single interface. The platform indexes vaults from across DeFi and routes deposits through Superform's cross-chain settlement layer.
 
 UP is the platform's token.

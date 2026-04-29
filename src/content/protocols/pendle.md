@@ -22,8 +22,6 @@ sources:
   - external: pendle
 ---
 
-## Overview
-
 Pendle is the dominant venue for trading tokenized future yield. Yield-bearing tokens (LSTs, LRTs, stable yield products, etc.) are split into a Principal Token, redeemable for the underlying at maturity, and a Yield Token, which captures the variable yield until that date. Both pieces trade independently against the underlying.
 
 The market lets traders express views on whether yield will rise or fall, and lets holders lock in a fixed rate by selling YT or buying PT at a discount. Pendle's AMM is purpose-built for the price decay of these instruments. PENDLE is the governance token, and vePENDLE earns protocol fees plus boosted yields.

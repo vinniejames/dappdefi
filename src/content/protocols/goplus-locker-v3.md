@@ -22,8 +22,6 @@ sources:
   - external: goplus-locker-v3
 ---
 
-## Overview
-
 GoPlus Locker is the multi-chain token and liquidity locker product from GoPlus Security. Project teams lock team allocations, LP tokens, and time-vested holdings into non-custodial smart contracts that release on a configured schedule.
 
 The product is part of GoPlus's broader security tooling for tokens and DeFi flow. GPS is the platform's token.

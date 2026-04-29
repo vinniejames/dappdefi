@@ -22,8 +22,6 @@ sources:
   - external: velodrome-v3
 ---
 
-## Overview
-
 Velodrome V3 (Slipstream) is the concentrated-liquidity engine for Velodrome, the dominant DEX on Optimism and the Solidly-style ve(3,3) protocol that inspired Aerodrome. Slipstream adds Uniswap V3-style range orders on top of Velodrome's emissions and bribes flywheel.
 
 VELO is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: sanctum-infinity
 ---
 
-## Overview
-
 Sanctum Infinity is the multi-LST liquidity pool that makes Solana's polycentric LST landscape interoperable. It can support hundreds of validator-specific LSTs simultaneously and provides tight-spread swaps between any two of them, plus instant unstaking against the pool's reserves.
 
 The pool is the connective tissue of Sanctum's broader LST infrastructure stack — it's what lets dozens of validator-branded LSTs trade as if they were a single asset.

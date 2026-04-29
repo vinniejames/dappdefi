@@ -22,8 +22,6 @@ sources:
   - external: aera-v3
 ---
 
-## Overview
-
 Aera is an autonomous on-chain treasury management protocol from the Gauntlet team. DAOs deposit treasury assets into Aera vaults; the protocol enforces governance-set policy — allowed assets, leverage limits, allocation bands — and rebalances within those constraints.
 
 The product targets a specific gap in DAO operations: treasuries that are too large to hand-manage but too policy-constrained to dump into a generic yield aggregator.

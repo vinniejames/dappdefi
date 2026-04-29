@@ -22,8 +22,6 @@ sources:
   - external: orderly-bridge
 ---
 
-## Overview
-
 Orderly Bridge moves trader collateral into Orderly Network, an omnichain CLOB infrastructure that other DeFi front-ends integrate to offer order-book trading. The bridge is the entry point for traders depositing into Orderly's shared order book.
 
 ORDER is the network's token.

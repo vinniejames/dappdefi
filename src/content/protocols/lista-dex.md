@@ -22,8 +22,6 @@ sources:
   - external: lista-dex
 ---
 
-## Overview
-
 Lista DEX is the swap module within the Lista DAO ecosystem on BNB Chain. The Smart Swap engine aggregates liquidity across pools to route trades for best price with minimum slippage, complementing Lista's lending, CDP, and liquid staking products.
 
 LISTA is the governance token across all Lista products.

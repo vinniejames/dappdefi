@@ -22,8 +22,6 @@ sources:
   - external: hydration-dex
 ---
 
-## Overview
-
 Hydration DEX is the omnipool AMM at the center of the Hydration (formerly HydraDX) Polkadot-based DeFi hub. The omnipool design holds all listed assets in a single pool with a shared price-discovery curve, dramatically improving capital efficiency for swaps.
 
 The DEX integrates with Hydration's lending market and the Hollar stablecoin under one chain. HDX is the governance token.

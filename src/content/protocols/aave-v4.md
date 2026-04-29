@@ -22,8 +22,6 @@ sources:
   - external: aave-v4
 ---
 
-## Overview
-
 Aave V4 is a modular evolution of the Aave money-market design with a hub-and-spoke architecture: the Hub holds liquidity and risk parameters, while Spokes are individual deployments connected to the Hub for capital efficiency and shared risk management.
 
 The redesign aims to consolidate liquidity that V3 fragmented across many independent markets while keeping the per-market risk controls. AAVE is the governance token.

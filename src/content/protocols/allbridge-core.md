@@ -22,8 +22,6 @@ sources:
   - external: allbridge-core
 ---
 
-## Overview
-
 Allbridge Core is a stablecoin-focused cross-chain bridge that enables native stablecoin swaps across many EVM and non-EVM chains. The protocol uses single-sided liquidity pools rather than wrapped representations, so users get native USDC/USDT/USDS on the destination chain.
 
 The model is similar to Stargate's design with a focus on stable-asset pairs.

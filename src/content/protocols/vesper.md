@@ -22,8 +22,6 @@ sources:
   - external: vesper
 ---
 
-## Overview
-
 Vesper is a long-running DeFi yield platform offering single-asset vaults that deploy across underlying lending and LP strategies. The product line spans simple Grow vaults (set-and-forget yield) and Earn vaults (earn yield in a different denomination than the deposit).
 
 VSP is the governance token.

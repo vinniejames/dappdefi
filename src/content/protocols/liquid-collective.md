@@ -22,8 +22,6 @@ sources:
   - external: liquid-collective
 ---
 
-## Overview
-
 Liquid Collective is an enterprise-oriented liquid staking protocol on Ethereum, built and operated by a coalition of major web3 firms — Coinbase Cloud, Figment, Kraken, and others — rather than a single project. It issues LsETH, a non-rebasing LST.
 
 The target market is institutions that need a staked-ETH product with curated, vetted operators and a clearer compliance posture than a fully permissionless LST. Service providers run validators under a shared service-level agreement.

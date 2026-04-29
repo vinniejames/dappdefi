@@ -22,8 +22,6 @@ sources:
   - external: hyperlend-pooled
 ---
 
-## Overview
-
 HyperLend is the leading lending protocol on the Hyperliquid EVM, offering pooled money markets where suppliers earn interest and borrowers post overcollateralized positions against shared liquidity. The pooled product is HyperLend's flagship, complemented by isolated-market and looping products.
 
 The protocol fills the same role on Hyperliquid that Aave fills on Ethereum and Kamino fills on Solana — the default lending venue for the chain's growing DeFi ecosystem. HPL is the protocol's token.

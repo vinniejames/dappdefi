@@ -22,8 +22,6 @@ sources:
   - external: frax
 ---
 
-## Overview
-
 FRAX is the original Frax Finance stablecoin, originally a fractional-algorithmic dollar where part of the supply was backed by USDC and part by FXS, with an Algorithmic Market Operations (AMO) layer that managed the collateral position dynamically. The protocol later transitioned to fully collateralized backing via frxUSD.
 
 The AMO concept introduced by Frax — where protocol-controlled contracts dynamically deploy collateral while preserving the peg — became influential across stablecoin design. FXS is the governance token.

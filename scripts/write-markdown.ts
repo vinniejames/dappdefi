@@ -160,7 +160,7 @@ async function main() {
   }
 
   const body = parsed.description.trim();
-  const content = `${frontmatter(parsed)}\n\n## Overview\n\n${body}\n`;
+  const content = `${frontmatter(parsed)}\n\n${body}\n`;
 
   const tmp = `${file}.tmp`;
   fs.writeFileSync(tmp, content);

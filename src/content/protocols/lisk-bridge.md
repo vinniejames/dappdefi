@@ -22,8 +22,6 @@ sources:
   - external: lisk-bridge
 ---
 
-## Overview
-
 Lisk Bridge is the canonical bridge between Ethereum and Lisk, an OP Stack rollup focused on emerging-markets developer adoption. The bridge is the primary entry point for capital into the Lisk DeFi ecosystem.
 
 LISK is the chain's native token.

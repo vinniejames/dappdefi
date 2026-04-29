@@ -22,8 +22,6 @@ sources:
   - external: gmtrade
 ---
 
-## Overview
-
 GMTrade is a perpetuals DEX on Solana supporting both crypto and RWA-style markets (FX, commodities, equities perps). The protocol uses isolated liquidity pools per market, similar to GMX V2's GM Markets design.
 
 The RWA-perps angle differentiates GMTrade from purely crypto-focused Solana perps venues like Drift.

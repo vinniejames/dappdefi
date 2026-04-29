@@ -22,8 +22,6 @@ sources:
   - external: b.protocol-curator
 ---
 
-## Overview
-
 B.Protocol is a long-running DeFi risk-mitigation hub originally focused on liquidation backstops for MakerDAO and other lending protocols. The team now also operates curated vaults on top of underlying lending markets, applying their backstop and risk-engineering background to vault parameters.
 
 The project is part of the broader risk-curator cohort.

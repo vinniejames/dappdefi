@@ -22,8 +22,6 @@ sources:
   - external: pumpswap
 ---
 
-## Overview
-
 PumpSwap is the native AMM for pump.fun, the dominant memecoin launchpad on Solana. After a token graduates from pump.fun's bonding curve, its liquidity migrates to PumpSwap pools where ongoing trading happens at standard AMM economics.
 
 PumpSwap was built to capture the post-graduation flow that previously moved to Raydium. PUMP is the platform's token.

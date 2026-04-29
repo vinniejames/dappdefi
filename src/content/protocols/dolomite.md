@@ -22,8 +22,6 @@ sources:
   - external: dolomite
 ---
 
-## Overview
-
 Dolomite is a money market and DeFi prime brokerage that supports an unusually wide collateral universe, including LP tokens, vault shares, and other yield-bearing assets that retain their underlying yield while posted as collateral. The platform combines lending, margin, and isolated pools in one venue.
 
 The distinguishing feature is the ability to use productive collateral without unwinding it — a useful design for users who want leverage on top of LP or LST positions. DOLO is the governance token.

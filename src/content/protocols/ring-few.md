@@ -22,6 +22,4 @@ sources:
   - external: ring-few
 ---
 
-## Overview
-
 Ring Few is a wrapper protocol within the broader Ring Protocol stack, handling cross-chain token wrapping and bridging between Ethereum, BNB Chain, and Hyperliquid L1. It is one of the components in the Ring DeFi suite.

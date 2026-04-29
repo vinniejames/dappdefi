@@ -22,8 +22,6 @@ sources:
   - external: wemix.fi-staking
 ---
 
-## Overview
-
 WEMIX.FI Staking is the staking and yield platform on the WEMIX gaming-focused Layer-1. Users stake supported assets and earn rewards from a curated set of staking products guaranteed by the WEMIX foundation.
 
 The product is part of the broader WEMIX gaming ecosystem stack.

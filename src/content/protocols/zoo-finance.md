@@ -22,8 +22,6 @@ sources:
   - external: zoo-finance
 ---
 
-## Overview
-
 Zoo Finance is a structured-asset protocol focused on improving liquidity utilization. The platform packages underlying assets into structured tokens with explicit risk and yield characteristics, suitable for use as collateral or in trading strategies.
 
 The project deploys across multiple chains as part of its expansion strategy.

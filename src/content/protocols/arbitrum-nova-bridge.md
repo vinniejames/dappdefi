@@ -22,8 +22,6 @@ sources:
   - external: arbitrum-nova-bridge
 ---
 
-## Overview
-
 Arbitrum Nova Bridge is the canonical bridge for Arbitrum Nova, the AnyTrust-based Arbitrum chain optimized for low-cost transactions (gaming, social, micro-payments). Nova uses a Data Availability Committee instead of full rollup data on Ethereum, trading some security for substantially lower fees.
 
 ARB is the Arbitrum DAO governance token.

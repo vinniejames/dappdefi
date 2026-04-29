@@ -22,8 +22,6 @@ sources:
   - external: extended
 ---
 
-## Overview
-
 Extended is a perpetuals DEX built on Starknet by an ex-Revolut team. The product targets a pro-trader audience with cross-asset listings — including FX, equities indices, and commodities perps — alongside the standard crypto pairs, all settled on a STARK-validated on-chain order book.
 
 The project's positioning is breadth of product portfolio rather than depth on any single asset, leaning on Starknet's low-latency execution to host venues that other on-chain perp DEXs typically don't list.

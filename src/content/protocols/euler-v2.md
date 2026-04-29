@@ -22,8 +22,6 @@ sources:
   - external: euler-v2
 ---
 
-## Overview
-
 Euler V2 is a modular lending platform built around the Euler Vault Kit — a framework for permissionless, customizable lending vaults that share a common security model. Anyone can deploy a market with their own collateral, oracle, and risk parameters, and lend against any other vault on the network.
 
 The design treats lending as a graph of vaults rather than a single monolithic protocol, similar in spirit to Morpho Blue but with greater per-vault expressivity. Euler returned with V2 after the original Euler exploit and full recovery; EUL is the governance token.

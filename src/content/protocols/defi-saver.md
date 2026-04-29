@@ -22,8 +22,6 @@ sources:
   - external: defi-saver
 ---
 
-## Overview
-
 DeFi Saver is a management front-end for leveraged DeFi positions across MakerDAO/Sky, Aave, Compound, and Liquity. It offers features that the underlying protocols don't — flash-loan-powered leverage adjustments, automated liquidation protection, and recipe-style position management.
 
 The product is best known for its automation tools, which monitor user positions and rebalance them within preset risk envelopes. It does not run its own lending market — it composes on top of existing ones.

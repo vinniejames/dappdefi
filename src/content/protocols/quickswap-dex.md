@@ -22,8 +22,6 @@ sources:
   - external: quickswap-dex
 ---
 
-## Overview
-
 QuickSwap is the dominant Uniswap-style DEX on Polygon and one of the longer-running DeFi protocols there. It offers both V2-style constant-product pools and V3-style concentrated-liquidity pools, with farming rewards in QUICK, the protocol's governance token.
 
 QuickSwap's role on Polygon mirrors PancakeSwap's role on BNB Chain — the default retail trading and farming venue, integrated across most major Polygon DeFi flows.

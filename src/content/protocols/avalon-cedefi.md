@@ -22,8 +22,6 @@ sources:
   - external: avalon-cedefi
 ---
 
-## Overview
-
 Avalon CeDeFi is the on-chain capital-markets layer of Avalon Finance, focused on Bitcoin. The platform routes BTC and BTC-aligned assets through CeDeFi-style yield strategies and lending, complementing Avalon's USDa stablecoin product.
 
 The positioning emphasizes Bitcoin-native flow with hybrid CeFi execution where appropriate, similar to other Bitcoin-yield platforms.

@@ -22,6 +22,4 @@ sources:
   - external: d2-finance
 ---
 
-## Overview
-
 D2 Finance is a tokenized derivatives-strategies platform that runs institutional-grade structured strategies across multiple chains, dynamically managing risk and reward. The product gives prosumer and institutional users access to strategies that previously required separate accounts at trading firms.

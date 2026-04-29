@@ -22,8 +22,6 @@ sources:
   - external: clearstar
 ---
 
-## Overview
-
 Clearstar is a risk-curator firm building on-chain infrastructure and strategies on top of underlying lending markets. The team designs risk frameworks for specific borrower and collateral profiles and operates curated vaults that depositors can opt into.
 
 The project is part of the broader risk-curator cohort that emerged after Morpho-style permissionless lending unbundled the risk and capital layers.

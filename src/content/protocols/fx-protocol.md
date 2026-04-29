@@ -22,8 +22,6 @@ sources:
   - external: fx-protocol
 ---
 
-## Overview
-
 f(x) Protocol is a dual-token stablecoin platform from Aladdin DAO. Users deposit ETH or WBTC into f(x); the protocol mints a low-volatility token (fxUSD/rUSD) and a leveraged token (xETH/xWBTC) that absorbs the volatility of the underlying. The split lets stablecoin holders get a stable claim while leverage seekers get amplified directional exposure.
 
 The model is conceptually similar to Reflexer's RAI but with a deliberate dual-token leverage tranche. FXN is the governance token.

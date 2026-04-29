@@ -22,8 +22,6 @@ sources:
   - external: starknet-btc-staking
 ---
 
-## Overview
-
 Starknet BTC Staking is the chain's program for staking Bitcoin-backed assets (LBTC, sBTC, etc.) within the Starknet validator economy. Stakers earn yield while contributing to Starknet's broader BTCFi expansion plans.
 
 The product is part of Starknet's effort to position itself as a Bitcoin-aligned ZK rollup, leveraging its STARK-validity proofs as the settlement layer for Bitcoin-pegged collateral.

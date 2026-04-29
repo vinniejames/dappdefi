@@ -22,8 +22,6 @@ sources:
   - external: echelon-market
 ---
 
-## Overview
-
 Echelon Market is a money-market protocol on Aptos and the Aptos-aligned Echelon Chain. It runs a Compound-style algorithmic interest-rate model with shared collateral across listed Move-ecosystem assets.
 
 ELON is the platform's token.

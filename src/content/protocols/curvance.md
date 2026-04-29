@@ -22,8 +22,6 @@ sources:
   - external: curvance
 ---
 
-## Overview
-
 Curvance is a Monad-native lending platform with one-click leverage and capital-efficient market design. The protocol layers structured leverage products on top of standard money-market primitives to give Monad users a single venue for both lending and leveraged exposure.
 
 The project is one of Monad's anchor DeFi venues during the chain's early ramp.

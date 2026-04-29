@@ -22,6 +22,4 @@ sources:
   - external: hyperbeat-earn
 ---
 
-## Overview
-
 Hyperbeat Earn is an automated yield-vault product on Hyperliquid that routes user deposits across leading HyperEVM DeFi protocols with one-click access. The product is positioned as a consumer-friendly yield interface for the chain's growing DeFi stack.

@@ -22,8 +22,6 @@ sources:
   - external: exsat-staking-btc
 ---
 
-## Overview
-
 exSat Staking BTC is the EVM-compatible wrapped Bitcoin token of exSat, a Bitcoin scaling network. BTC staked through exSat's contracts is represented 1:1 on-chain and can be used as collateral and trading asset across the chain's DeFi venues.
 
 The token is part of exSat's broader infrastructure for bringing Bitcoin into smart-contract environments while keeping settlement anchored to the Bitcoin base layer.

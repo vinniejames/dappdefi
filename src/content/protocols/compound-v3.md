@@ -22,8 +22,6 @@ sources:
   - external: compound-v3
 ---
 
-## Overview
-
 Compound V3 simplifies the original Compound design around a single base asset per market. Each deployment lets users borrow exactly one asset (USDC, ETH, etc.) against a curated set of collateral, with all interest, liquidation, and reward logic concentrated in one contract.
 
 This trade — losing the V2 ability to borrow any pool asset against any other — buys substantial gas and risk-management improvements. Compound V3 is governed by COMP holders through Compound Governance, the same governance template that many other DeFi protocols copied.

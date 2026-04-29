@@ -22,8 +22,6 @@ sources:
   - external: brickken
 ---
 
-## Overview
-
 Brickken is a tokenization platform that lets businesses issue tokens backed by real-world assets through its Token Suite product. The platform handles issuance, compliance, distribution, and secondary management for the underlying tokenized assets.
 
 BKN is the platform's token, used for fees and governance over the issuance framework.

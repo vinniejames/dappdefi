@@ -22,8 +22,6 @@ sources:
   - external: vesu
 ---
 
-## Overview
-
 Vesu is the leading lending protocol on Starknet — a modular, permissionless platform that lets anyone deploy isolated lending markets with their own collateral, oracle, and risk parameters. The design is similar in spirit to Morpho Blue adapted to Cairo.
 
 The project is one of Starknet's largest DeFi venues.

@@ -22,8 +22,6 @@ sources:
   - external: bitfi-btc
 ---
 
-## Overview
-
 BitFi BTC is the Bitcoin-pegged primitive within the BitFi platform on AILayer. Users deposit BTC and receive a yield-bearing wrapped representation that participates in BitFi's basis-trade and synthetic-asset products.
 
 The project complements BitFi's bfUSD stablecoin with the BTC-side of the same CeDeFi yield platform.

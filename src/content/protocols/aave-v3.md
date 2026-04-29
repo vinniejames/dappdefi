@@ -22,8 +22,6 @@ sources:
   - external: aave-v3
 ---
 
-## Overview
-
 Aave V3 is the third major version of the Aave money market — the largest non-custodial lending protocol in DeFi. Suppliers earn interest on deposits, borrowers post overcollateralized loans against those deposits, and rates adjust algorithmically based on utilization of each market.
 
 V3 introduced isolation mode (new assets list with capped borrow power), efficiency mode (higher LTV when collateral and debt are highly correlated), and granular cross-chain risk parameters governed per market. Aave Governance, controlled by AAVE token holders, sets risk curves, listing decisions, and incentive policy across more than twenty deployments.

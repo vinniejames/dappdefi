@@ -22,8 +22,6 @@ sources:
   - external: glif
 ---
 
-## Overview
-
 GLIF is the on-chain credit and liquid-staking layer for Filecoin's storage-provider network. Liquidity providers deposit FIL into the pool; storage providers borrow against their pledged storage to scale operations, and LPs earn yield from the borrow demand.
 
 The model is a DePIN-credit hybrid — yield is anchored to physical-storage utilization rather than crypto-market rates. GLF is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: liqwid
 ---
 
-## Overview
-
 Liqwid is the leading lending protocol on Cardano. It runs a Compound-style money market with utilization-driven interest rates adapted to Cardano's eUTXO model.
 
 LQ is the governance token.

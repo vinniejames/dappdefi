@@ -22,8 +22,6 @@ sources:
   - external: liquity-v1
 ---
 
-## Overview
-
 Liquity V1 is an immutable, governance-free borrowing protocol that mints LUSD against ETH at zero interest. Borrowers post ETH as collateral with a minimum 110% ratio and pay only a one-time issuance fee plus a redemption fee that activates when LUSD trades below peg.
 
 The original V1 protocol was deployed and then deliberately ossified — the contracts are immutable and no team can change parameters. This makes V1 a useful primitive in DeFi: predictable forever, with LQTY rewards going to the stability pool that absorbs liquidations.

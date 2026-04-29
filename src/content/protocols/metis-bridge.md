@@ -22,8 +22,6 @@ sources:
   - external: metis-bridge
 ---
 
-## Overview
-
 Metis Bridge is the canonical bridge between Ethereum and Metis, an Optimism-fork Layer-2 with extended features for DAOs and governance. Deposits and withdrawals follow the standard optimistic-rollup challenge model.
 
 METIS is the chain's native token.

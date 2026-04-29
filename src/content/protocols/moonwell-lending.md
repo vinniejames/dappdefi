@@ -22,8 +22,6 @@ sources:
   - external: moonwell-lending
 ---
 
-## Overview
-
 Moonwell is an open lending and borrowing protocol that started on Moonbeam/Moonriver and expanded to Base and Optimism. It runs a Compound-style algorithmic interest-rate model and was an early lending venue on Base, where it remains one of the larger money markets.
 
 WELL is the governance token across deployments.

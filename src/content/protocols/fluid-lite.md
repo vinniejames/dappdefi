@@ -22,8 +22,6 @@ sources:
   - external: fluid-lite
 ---
 
-## Overview
-
 Fluid Lite is the simpler vault product within the Fluid (Instadapp) DeFi platform. It exposes pre-built strategies — looped LSTs, lending positions, basis trades — so users can deposit once and let the vault do the rest, without configuring leverage or borrowing manually as in Fluid's Lending product.
 
 The product complements Fluid Lending by giving the same underlying liquidity routing layer a consumer-friendly automated front-end.

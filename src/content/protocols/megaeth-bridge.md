@@ -22,8 +22,6 @@ sources:
   - external: megaeth-bridge
 ---
 
-## Overview
-
 MegaETH Bridge is the canonical bridge between Ethereum and MegaETH, a high-throughput EVM rollup focused on real-time execution. It is the chain's primary capital surface during launch and ramp-up.
 
 MegaETH targets sub-millisecond block times and consumer-app use cases.

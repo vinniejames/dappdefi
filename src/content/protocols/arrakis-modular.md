@@ -22,8 +22,6 @@ sources:
   - external: arrakis-modular
 ---
 
-## Overview
-
 Arrakis Modular is the next-generation liquidity-management framework from the Arrakis team. The modular contracts let projects deploy customized concentrated-liquidity strategies on top of Uniswap V3/V4 with explicit policy and accounting separation, suitable for DAOs and asset-issuing protocols that need bespoke market-making.
 
 The framework underlies many of the largest protocol-managed liquidity programs in DeFi.

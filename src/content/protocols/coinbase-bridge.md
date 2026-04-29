@@ -22,8 +22,6 @@ sources:
   - external: coinbase-bridge
 ---
 
-## Overview
-
 Coinbase Bridge is the umbrella name for Coinbase's wrapped-asset issuances — ERC-20 tokens backed one-for-one by reserves held by the exchange. The most prominent of these is cbBTC, a Bitcoin-backed token that lets BTC holders use their assets across Ethereum, Base, and other EVM networks.
 
 The trust model is direct: holders rely on Coinbase as a regulated custodian and on its public reserve attestations, in exchange for tight liquidity and seamless on/off-ramping through the exchange. There is no on-chain bridging mechanism — issuance and redemption happen through Coinbase accounts.

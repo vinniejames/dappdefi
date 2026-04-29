@@ -22,8 +22,6 @@ sources:
   - external: lighter-bridge
 ---
 
-## Overview
-
 Lighter Bridge is the deposit and withdrawal pathway for Lighter, a zk-rollup-based decentralized exchange that aims to deliver centralized-exchange-grade matching and liquidations with on-chain verifiability. Funds bridged in become collateral for trading on Lighter's order book.
 
 Like other appchain trading venues, the bridge is the primary TVL surface — most user collateral in the system sits in the bridge contract.

@@ -22,8 +22,6 @@ sources:
   - external: frax-usd
 ---
 
-## Overview
-
 frxUSD is Frax Finance's fully-collateralized stablecoin, backed by a combination of off-chain custodian holdings (cash and cash-equivalents) and on-chain reserves. It marks Frax's evolution from the partially-algorithmic FRAX V1/V2 to a 1:1 reserve-backed dollar.
 
 The staked variant sfrxUSD captures yield from the underlying treasuries-like portfolio, similar to how sUSDS captures the Sky Savings Rate. FRAX is the project's stablecoin ticker; FXS the governance token.

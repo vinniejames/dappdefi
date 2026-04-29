@@ -22,8 +22,6 @@ sources:
   - external: dydx-v3
 ---
 
-## Overview
-
 dYdX V3 was the StarkEx-based perpetuals DEX that defined the on-chain orderbook-perp template. Deposits settled on Ethereum; matching ran off-chain on a StarkEx validity rollup. V3 has been gradually retired in favor of V4 on the Cosmos-SDK appchain.
 
 DYDX is the protocol token.

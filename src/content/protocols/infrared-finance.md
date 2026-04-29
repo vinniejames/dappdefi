@@ -22,8 +22,6 @@ sources:
   - external: infrared-finance
 ---
 
-## Overview
-
 Infrared Finance is a BERA liquid staking protocol on Berachain that leverages the chain's Proof-of-Liquidity consensus model. Stakers deposit BERA and earn staking rewards plus the liquidity-provision incentives that PoL distributes to validators.
 
 The protocol is positioned as Berachain's analogue to Lido — the default LST for the chain's PoL economy. IR is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: blazestake
 ---
 
-## Overview
-
 BlazeStake is a Solana liquid staking protocol that lets stakers select specific validators to delegate to, rather than receiving the protocol's algorithmic delegation. The token bSOL accrues staking rewards while remaining transferable.
 
 The validator-selection feature differentiates BlazeStake from Marinade's curated set, giving users direct control over delegation while preserving LST liquidity. BLZE is the platform's token.

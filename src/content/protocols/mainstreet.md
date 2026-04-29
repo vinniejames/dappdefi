@@ -22,8 +22,6 @@ sources:
   - external: mainstreet
 ---
 
-## Overview
-
 Mainstreet issues a rebasing synthetic dollar backed by delta-neutral basis-trade strategies on the underlying crypto collateral. The token rebases to distribute yield directly to holders rather than appreciating in value through an exchange rate.
 
 The model fits within the basis-trade-stablecoin cohort (Ethena, Falcon, Solstice, Avant) with the distinction of a rebasing rather than exchange-rate yield distribution.

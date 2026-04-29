@@ -22,8 +22,6 @@ sources:
   - external: derive-v2
 ---
 
-## Overview
-
 Derive (formerly Lyra) is a self-custodial derivatives exchange offering options, perpetual futures, and spot trading from a single venue. V2 unifies the order-book matching engine across all three product lines and runs on Derive Chain, an OP Stack rollup with low-latency settlement.
 
 The options component is one of the largest decentralized options venues in production, and the perpetuals layer takes advantage of the same risk-engine infrastructure. DRV is the protocol token.

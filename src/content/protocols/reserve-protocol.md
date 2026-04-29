@@ -22,8 +22,6 @@ sources:
   - external: reserve-protocol
 ---
 
-## Overview
-
 Reserve is an issuance platform for asset-backed currencies. Anyone can deploy an RToken — a stablecoin- or index-style currency — backed by a configurable basket of underlying assets, with optional yield distribution and overcollateralization from RSR stakers who absorb losses.
 
 The model lets multiple competing dollar-pegged currencies (eUSD, ETH+, USD3) and yield-bearing index tokens coexist, each with its own backing and governance. RSR is the protocol's overcollateralization and governance token.

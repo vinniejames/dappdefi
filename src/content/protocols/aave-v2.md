@@ -22,8 +22,6 @@ sources:
   - external: aave-v2
 ---
 
-## Overview
-
 Aave V2 was the version of Aave that established the modern money-market template — pooled supply and borrow, variable and stable borrow rates, flash loans, and the aToken accounting model that V3 inherited. V2 deployments remain live but new activity has migrated to V3 markets on each supported chain.
 
 The protocol is governed by AAVE token holders through Aave Governance, the same template that controls all subsequent Aave versions.

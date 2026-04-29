@@ -22,8 +22,6 @@ sources:
   - external: hyperion
 ---
 
-## Overview
-
 Hyperion is a fully on-chain hybrid orderbook-AMM DEX built natively for Aptos, leveraging the chain's high throughput and parallel execution model. The hybrid design pairs an on-chain order book with AMM liquidity for both pro-trader and casual-user flows.
 
 The project is one of Aptos's anchor DEX venues.

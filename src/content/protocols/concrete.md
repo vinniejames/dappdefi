@@ -22,8 +22,6 @@ sources:
   - external: concrete
 ---
 
-## Overview
-
 Concrete is a vault-infrastructure platform that powers automated, risk-managed yield products across multiple chains. Strategy designers configure modular vault templates — single-asset lending, looped LSTs, basis trades — and Concrete handles execution, rebalancing, and cross-chain accounting under one operational stack.
 
 The target market is institutional and quasi-institutional allocators that want yield products with explicit risk envelopes rather than opaque "DeFi yield." Concrete operates across Ethereum, Berachain, Arbitrum, and emerging app-specific networks.

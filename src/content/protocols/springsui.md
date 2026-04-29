@@ -22,8 +22,6 @@ sources:
   - external: springsui
 ---
 
-## Overview
-
 SpringSui is a Sui-native liquid staking protocol and standard. Spring Staked SUI (sSUI) is the first LST built on the standard, with improvements over earlier Sui LSTs in instant unstaking, validator selection, and DeFi composability.
 
 The project is part of Sui's growing LST landscape and slots into Sui DeFi venues that integrate sSUI as productive collateral.

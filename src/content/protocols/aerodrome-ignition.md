@@ -22,8 +22,6 @@ sources:
   - external: aerodrome-ignition
 ---
 
-## Overview
-
 Aerodrome Ignition is a DEX-native token-launch mechanism on Base. New projects bootstrap liquidity by depositing 10-20% of their supply into Aerodrome pools, where it's auctioned to LPs in exchange for AERO emissions and immediately becomes the trading venue for the token.
 
 The model integrates token launches directly into Aerodrome's liquidity flywheel. AERO is the governance token.

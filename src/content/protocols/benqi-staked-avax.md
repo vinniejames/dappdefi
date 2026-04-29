@@ -22,8 +22,6 @@ sources:
   - external: benqi-staked-avax
 ---
 
-## Overview
-
 BENQI Liquid Staking issues sAVAX, the largest LST on Avalanche. AVAX deposited into the protocol is staked across Avalanche validators selected by BENQI's delegation logic; sAVAX is a non-rebasing token whose exchange rate appreciates with staking rewards.
 
 BENQI's broader product line also includes the BENQI Markets lending protocol on Avalanche; QI is the governance token across both products.

@@ -22,8 +22,6 @@ sources:
   - external: mezo-borrow
 ---
 
-## Overview
-
 Mezo Borrow is the CDP-style borrowing product on the Mezo network. Users post Bitcoin (via tBTC or other Bitcoin-pegged collateral) and mint MUSD, Mezo's native stablecoin, paying a stability fee set by Mezo governance.
 
 The product is part of Mezo's broader Bitcoin-aligned EVM stack. MEZO is the chain's native token.

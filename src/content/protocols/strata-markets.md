@@ -22,8 +22,6 @@ sources:
   - external: strata-markets
 ---
 
-## Overview
-
 Strata is a generalized risk-tranching protocol that splits underlying yield-bearing positions into senior and junior tranches. Senior holders get a fixed yield with priority in the waterfall; junior holders take more risk for amplified upside.
 
 The model brings traditional structured-credit semantics — tranching, priority of claim, leverage on subordinated tranches — to DeFi yield positions without requiring asset originators to design that structure themselves.

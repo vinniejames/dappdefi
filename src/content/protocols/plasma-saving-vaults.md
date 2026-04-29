@@ -22,8 +22,6 @@ sources:
   - external: plasma-saving-vaults
 ---
 
-## Overview
-
 Plasma Saving Vaults are on-chain investment vaults on Plasma, a stablecoin-aligned chain optimized for payments and dollar-denominated DeFi. Vaults deploy user deposits across leading DeFi protocols and pass yield back to depositors.
 
 The product is part of Plasma's launch incentive stack.

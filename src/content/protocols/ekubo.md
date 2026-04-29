@@ -22,8 +22,6 @@ sources:
   - external: ekubo
 ---
 
-## Overview
-
 Ekubo is a singleton-architecture concentrated-liquidity DEX built primarily for Starknet, with an Ethereum deployment. It introduces an extension system that lets developers customize pool behavior — limit orders, custom fees, hooks — similar in spirit to Uniswap V4.
 
 EKUBO is the protocol's token. Ekubo is one of the largest DeFi venues on Starknet by volume.

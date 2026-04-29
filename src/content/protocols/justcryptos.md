@@ -22,8 +22,6 @@ sources:
   - external: justcryptos
 ---
 
-## Overview
-
 JustCryptos is the asset-bridging arm of the JUST ecosystem on Tron. It issues Tron-native, pegged versions of major cryptocurrencies — BTC, ETH, and others — backed by reserves on their origin chains, so that those assets can move into Tron DeFi venues such as JustLend and SunSwap.
 
 The wrapping is operated through JUST's set of custodians and partners rather than via a trustless bridge, in keeping with the Tron ecosystem's broader operational model. JST is the governance token across the JUST products, including JustCryptos.

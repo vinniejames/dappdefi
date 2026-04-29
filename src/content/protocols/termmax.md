@@ -22,8 +22,6 @@ sources:
   - external: termmax
 ---
 
-## Overview
-
 TermMax is a fixed-rate, fixed-maturity lending AMM. Borrowers and lenders interact with bond-like positions that have a defined interest rate and maturity date, and the protocol provides one-click leverage on top of the same primitives.
 
 The model echoes Notional and Pendle's fixed-rate ambitions but expressed through an AMM rather than an order-book or principal-token split.

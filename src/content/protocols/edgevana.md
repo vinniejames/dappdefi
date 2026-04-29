@@ -22,8 +22,6 @@ sources:
   - external: edgevana
 ---
 
-## Overview
-
 Edgevana is a Solana liquid staking platform that operates a stake pool with a focus on validator decentralization and infrastructure transparency. The platform also offers bare-metal validator hosting services to operators directly.
 
 The LST product complements Edgevana's broader infrastructure-services business on Solana.

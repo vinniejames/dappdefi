@@ -22,8 +22,6 @@ sources:
   - external: gtbtc
 ---
 
-## Overview
-
 GTBTC is Gate exchange's BTC staking product. Users stake BTC on Gate and receive GTBTC at a 1:1 ratio; yield accrues through Gate's internal staking and earn programs rather than through a fully on-chain mechanism.
 
 The product is custodial — like other exchange-issued BTC wrappers, the trust assumption is operational integrity of the issuing exchange.

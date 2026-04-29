@@ -22,8 +22,6 @@ sources:
   - external: onre
 ---
 
-## Overview
-
 OnRe connects on-chain capital to real-world reinsurance risk on Solana. Depositors supply capital that backs reinsurance contracts and earn yield from premiums, with returns that are largely uncorrelated to crypto market dynamics.
 
 The product is conceptually similar to Re on Ethereum, with the same insurance-tokenization thesis adapted to Solana's lower-latency and lower-fee execution.

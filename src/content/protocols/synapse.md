@@ -22,8 +22,6 @@ sources:
   - external: synapse
 ---
 
-## Overview
-
 Synapse is a long-running cross-chain liquidity network supporting EVM and non-EVM chains. The protocol offers both stable-asset bridging via single-sided liquidity pools and a messaging layer for arbitrary cross-chain calls.
 
 SYN is the governance token.

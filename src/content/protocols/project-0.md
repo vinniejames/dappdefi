@@ -22,8 +22,6 @@ sources:
   - external: project-0
 ---
 
-## Overview
-
 Project 0 is a DeFi-native prime brokerage on Solana that lets users borrow against their entire DeFi portfolio across multiple venues. The protocol aggregates collateral positions across lending markets, LSTs, and LP positions and extends a unified credit line.
 
 The model brings prime-brokerage UX to on-chain capital without unwinding positions across protocols.

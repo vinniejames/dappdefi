@@ -22,8 +22,6 @@ sources:
   - external: hylo-protocol
 ---
 
-## Overview
-
 Hylo is a dual-token stablecoin protocol on Solana that splits yield-bearing collateral into two complementary tokens: hyUSD, a stable USD-denominated asset capturing baseline yield, and a leveraged variant that absorbs volatility for amplified upside.
 
 The model is similar in spirit to Aladdin's f(x) Protocol on Ethereum, adapted to Solana's market structure.

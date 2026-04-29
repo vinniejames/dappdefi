@@ -22,8 +22,6 @@ sources:
   - external: ondo-global-markets
 ---
 
-## Overview
-
 Ondo Global Markets is Ondo's tokenized-equities product, bringing exposure to U.S.-listed stocks and ETFs on-chain through regulated wrappers. Each tokenized share represents a backed claim on the underlying security, redeemable through Ondo's institutional pipeline.
 
 The product sits alongside Ondo's existing tokenized treasuries (USDY/OUSG) and represents a step toward a broader tokenized capital-markets stack: stocks, bonds, and money-market funds composable on the same DeFi rails. Access is permissioned via KYC.

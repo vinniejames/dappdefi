@@ -22,8 +22,6 @@ sources:
   - external: aera-v2
 ---
 
-## Overview
-
 Aera V2 is the prior generation of the autonomous DAO treasury management protocol from the Gauntlet team. Vaults enforce policy-bounded asset allocation; client DAOs configure allowed assets, leverage, and rebalancing rules.
 
 V2 deployments remain live alongside the newer V3 rollout. The product targets DAO treasuries that need active but constrained capital management.

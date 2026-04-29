@@ -127,7 +127,7 @@ async function main() {
       continue;
     }
     const body = entry.description.trim();
-    const content = `${frontmatter(entry)}\n\n## Overview\n\n${body}\n`;
+    const content = `${frontmatter(entry)}\n\n${body}\n`;
     const tmp = `${file}.tmp`;
     fs.writeFileSync(tmp, content);
     fs.renameSync(tmp, file);

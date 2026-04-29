@@ -22,8 +22,6 @@ sources:
   - external: project-x
 ---
 
-## Overview
-
 Project X is a Hyperliquid-based trading venue built around the thesis that distribution and brand will dominate the next era of DeFi rather than pure technology differentiation. The platform offers spot trading and structured products on top of Hyperliquid's execution layer.
 
 The project leverages Hyperliquid's low-latency order matching for trader-friendly UX.

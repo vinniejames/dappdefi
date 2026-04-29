@@ -22,8 +22,6 @@ sources:
   - external: stader
 ---
 
-## Overview
-
 Stader is a multi-chain liquid staking platform. Its flagship Ethereum product, ETHx, is a permissionless LST with a node-operator marketplace that requires only a small ETH bond plus SD collateral, in the spirit of Rocket Pool. Stader also offers LSTs for BNB, MATIC, HBAR, and other PoS networks.
 
 The project's identifier is the breadth of supported networks rather than depth on any single one. SD is the governance token across the suite.

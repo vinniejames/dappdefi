@@ -22,8 +22,6 @@ sources:
   - external: yield-basis
 ---
 
-## Overview
-
 Yield Basis is a Curve-team protocol that aims to neutralize impermanent loss in AMM pools by structuring LP positions as leveraged loops against the underlying. The headline product turns volatile assets — starting with BTC — into IL-free yield positions for liquidity providers.
 
 The mechanism uses CDP-style borrowing combined with AMM liquidity provision so that the LP's exposure stays balanced regardless of price movement. YB is the protocol's token.

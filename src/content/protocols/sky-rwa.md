@@ -22,8 +22,6 @@ sources:
   - external: sky-rwa
 ---
 
-## Overview
-
 Sky RWA is the real-world-asset collateral surface of the Sky (formerly MakerDAO) protocol. Legal entities representing Sky deploy capital into off-chain assets — short-term U.S. Treasuries, private credit, tokenized funds — and the resulting positions back USDS issuance on-chain.
 
 This collateral type was a multi-year pillar of Maker's evolution and made the protocol one of the largest holders of tokenized treasuries and credit in the world. SKY is the governance token.

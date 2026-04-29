@@ -22,8 +22,6 @@ sources:
   - external: dano-finance
 ---
 
-## Overview
-
 Dano Finance is a Cardano-based DEX specializing in trading bond tokens issued by Optim Finance. The venue lets bond-token holders trade their positions without going through a centralized intermediary.
 
 The project is part of Cardano's growing fixed-income DeFi stack.

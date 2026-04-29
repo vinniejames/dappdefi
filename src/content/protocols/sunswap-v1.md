@@ -22,8 +22,6 @@ sources:
   - external: sunswap-v1
 ---
 
-## Overview
-
 SUNSwap V1 is the original Uniswap-style AMM on Tron. The protocol provides automated liquidity provision and constant-product swaps between TRC-20 assets, and remains live for long-tail tokens that haven't migrated to V3.
 
 SUN is the governance token across the SUN.io product line, including SUNSwap, SUN's stable pools, and farming.

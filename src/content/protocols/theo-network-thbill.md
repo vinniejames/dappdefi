@@ -22,8 +22,6 @@ sources:
   - external: theo-network-thbill
 ---
 
-## Overview
-
 thBILL is a yield-bearing token representing a basket of tokenized U.S. Treasury bills sourced from regulated issuers (BUIDL, USYC, OUSG, USTB, etc.). It functions as a stable, low-risk core asset within the Theo Network ecosystem, where users can hold thBILL or use it as collateral.
 
 The basket-of-issuers approach diversifies counterparty risk across multiple regulated tokenization platforms rather than relying on a single one.

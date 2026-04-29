@@ -22,8 +22,6 @@ sources:
   - external: kumbaya
 ---
 
-## Overview
-
 Kumbaya is a decentralized exchange on MegaETH, the high-throughput EVM rollup. The DEX provides standard AMM swap functionality tuned for MegaETH's low-latency, high-frequency execution environment.
 
 The project is one of MegaETH's anchor DeFi venues during the chain's ramp-up.

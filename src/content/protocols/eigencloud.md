@@ -22,8 +22,6 @@ sources:
   - external: eigencloud
 ---
 
-## Overview
-
 EigenCloud is the protocol formerly known as EigenLayer — the project that introduced restaking as a primitive for Ethereum. Restakers redirect their staked ETH (or liquid staking tokens) to also secure Actively Validated Services (AVSs) such as data availability layers, oracles, and bridges, earning additional rewards in exchange for additional slashing risk.
 
 The protocol acts as a marketplace: AVSs publish slashing conditions and reward streams; restakers and operators opt in to specific services. Governance and economic security are anchored by the EIGEN token, and the surrounding EigenCloud product suite extends the same security model to new categories of on-chain services.

@@ -22,8 +22,6 @@ sources:
   - external: concentrator
 ---
 
-## Overview
-
 Concentrator is an Aladdin DAO product that compounds Curve and Convex farming positions back into a single yield-bearing token (aCRV). LPs deposit Curve LP tokens into Concentrator, and the protocol harvests rewards on a regular schedule and reinvests them.
 
 The model boosts effective APY for Curve farmers without requiring manual claim-and-reinvest. CTR is the platform's token.

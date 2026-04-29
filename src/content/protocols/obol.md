@@ -22,8 +22,6 @@ sources:
   - external: obol
 ---
 
-## Overview
-
 Obol is a Distributed Validator Technology stack for Ethereum, similar in goal to SSV but with a distinct cluster-coordination middleware called Charon. Validators are operated as clusters of independent nodes that jointly produce signatures, removing single-points-of-failure and improving uptime.
 
 The Obol Collective is the broader operator and contributor ecosystem around the protocol, and OBOL is the network token used to coordinate operator selection, slashing economics, and governance over the distributed-validator set.

@@ -22,8 +22,6 @@ sources:
   - external: matrixdock-stbt
 ---
 
-## Overview
-
 STBT (Short-Term U.S. Treasury Bill Token) is MatrixDock's tokenized treasuries product. Each STBT is pegged 1:1 to one USD of underlying short-duration Treasury and reverse-repo exposure, with daily rebases distributing yield to holders.
 
 The product complements MatrixDock's gold-backed XAUm and is part of Matrixport's broader institutional tokenization stack.

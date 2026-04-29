@@ -22,8 +22,6 @@ sources:
   - external: mezo-bridge
 ---
 
-## Overview
-
 Mezo Bridge is the canonical bridge between Ethereum and Mezo, a Bitcoin-aligned EVM L1 from the Threshold Network team. Mezo uses a dual-staking model where validators bond both BTC (via tBTC) and MEZO, the native token.
 
 The project positions itself as the "Bitcoin Economic Layer" — a smart-contract environment with deep Bitcoin integration. MEZO is the network token.

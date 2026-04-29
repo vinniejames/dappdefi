@@ -22,8 +22,6 @@ sources:
   - external: stakestone-stone
 ---
 
-## Overview
-
 StakeStone issues STONE, an omnichain liquid staking token. STONE is bridged across many chains as a unified LST primitive, with the underlying ETH staked through StakeStone-curated validators.
 
 The product targets a fragmented LST market by offering a single token usable across many chains rather than per-chain LST variants.

@@ -22,8 +22,6 @@ sources:
   - external: yo-protocol
 ---
 
-## Overview
-
 YO is a multi-chain yield-optimizer that continuously rebalances user deposits across underlying yield sources to deliver the best risk-adjusted return. The product is positioned as a set-and-forget consumer interface to DeFi yield.
 
 YO is the platform's token.

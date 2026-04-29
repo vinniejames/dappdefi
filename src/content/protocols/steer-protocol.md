@@ -22,8 +22,6 @@ sources:
   - external: steer-protocol
 ---
 
-## Overview
-
 Steer is a decentralized compute and liquidity-management protocol. It provides off-chain computation for AMM range management and other strategy logic, with on-chain settlement and verifiability. LPs deposit into Steer-managed concentrated-liquidity vaults across many DEXs and chains.
 
 The protocol is the underlying engine for many active liquidity products in DeFi.

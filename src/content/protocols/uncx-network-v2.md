@@ -22,8 +22,6 @@ sources:
   - external: uncx-network-v2
 ---
 
-## Overview
-
 UNCX Network is a one-stop-shop for project teams launching tokens — token lockers, liquidity-pair lockers, vesting tools, and KYC services. Locks are non-custodial smart contracts that hold a project's team-allocated tokens or LP tokens until a configured release date, providing an on-chain commitment device for the project's holders.
 
 UNCX is widely used as the default token-locker on BNB Chain, Ethereum, and other EVM networks. UNCX is the platform's token.

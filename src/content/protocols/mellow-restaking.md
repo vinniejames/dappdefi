@@ -22,8 +22,6 @@ sources:
   - external: mellow-restaking
 ---
 
-## Overview
-
 Mellow Restaking is the LRT-issuance arm built on top of the Mellow vault framework. Vault operators deploy custom LRT vaults that stake into EigenLayer, Symbiotic, and other restaking protocols, with each vault expressing its own AVS selection and risk policy.
 
 The modular design lets the LRT market fragment into specialized vaults rather than a one-size-fits-all product.

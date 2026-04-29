@@ -35,4 +35,15 @@
   .pill-accent {
     @apply pill bg-accent/10 text-accent ring-accent/20;
   }
+
+  /* Lead-paragraph treatment for the protocol description: first <p> is
+     larger, slightly bolder, and sits inside a left-bordered card to
+     visually anchor the body. */
+  .protocol-prose > p:first-of-type {
+    @apply mt-0 text-xl font-medium leading-relaxed text-ink-800 dark:text-ink-100;
+    @apply border-l-4 border-accent pl-5 not-italic;
+  }
+  .protocol-prose > p:first-of-type::first-line {
+    @apply tracking-tight;
+  }
 }

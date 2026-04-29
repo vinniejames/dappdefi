@@ -22,8 +22,6 @@ sources:
   - external: bedrock-unieth
 ---
 
-## Overview
-
 uniETH is Bedrock's Ethereum liquid restaking token. ETH deposited is staked through Bedrock-curated validators and restaked through EigenLayer; uniETH is non-rebasing — its exchange rate against ETH appreciates as staking and AVS rewards accrue.
 
 The product complements Bedrock's uniBTC product line. BR is the platform's token.

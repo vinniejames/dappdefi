@@ -22,8 +22,6 @@ sources:
   - external: aerodrome-slipstream
 ---
 
-## Overview
-
 Aerodrome Slipstream is the concentrated-liquidity engine of Aerodrome, Base's dominant DEX and the spiritual successor to Velodrome on Optimism. Slipstream brings Uniswap-V3-style range orders to Aerodrome's ve(3,3)-incentivized liquidity model.
 
 LPs choose price ranges; veAERO holders direct emissions to specific pools and capture the corresponding bribes and fees. AERO is the governance token, with a vote-locked variant veAERO controlling emission flows.

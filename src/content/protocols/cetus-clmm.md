@@ -22,8 +22,6 @@ sources:
   - external: cetus-clmm
 ---
 
-## Overview
-
 Cetus is a pioneer DEX and concentrated-liquidity protocol on the Move-based ecosystems Sui and Aptos. It offers the first major CLMM implementation on those chains, similar to Uniswap V3 on EVM.
 
 The project is one of the largest DEXs in both Move ecosystems by volume. CETUS is the governance token.

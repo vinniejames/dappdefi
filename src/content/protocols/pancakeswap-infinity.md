@@ -22,8 +22,6 @@ sources:
   - external: pancakeswap-infinity
 ---
 
-## Overview
-
 PancakeSwap Infinity is the next-generation singleton-vault DEX from PancakeSwap, conceptually similar to Uniswap V4. It combines multiple pool types — concentrated, weighted, stable — into a single contract architecture for capital efficiency and lower gas costs.
 
 The product is part of PancakeSwap's continued evolution as the dominant DEX on BNB Chain. CAKE is the governance token.

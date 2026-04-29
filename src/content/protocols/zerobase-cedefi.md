@@ -22,8 +22,6 @@ sources:
   - external: zerobase-cedefi
 ---
 
-## Overview
-
 ZEROBASE is the first zk-powered staking and yield product on stablecoins. Users deposit stablecoins into ZEROBASE's CeDeFi vaults; yield is generated through a mix of basis trades and other strategies, with zero-knowledge proofs used to attest to position health and reserve backing.
 
 The project blends the basis-stablecoin cohort with explicit cryptographic verification of strategy state. ZBT is the platform's token.

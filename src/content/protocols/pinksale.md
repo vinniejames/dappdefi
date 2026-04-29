@@ -22,8 +22,6 @@ sources:
   - external: pinksale
 ---
 
-## Overview
-
 PinkSale is a multi-chain decentralized launchpad. Project teams deploy a token sale with configurable parameters — bonding-curve presale, fixed-price sale, fairlaunch — and contributors participate from their own wallets without listing the token on a centralized venue first.
 
 The platform sits in the launchpad/launch-tools tier of DeFi rather than a financial primitive proper, and is most heavily used on BNB Chain. PINKSALE is the platform's token.

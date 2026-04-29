@@ -22,8 +22,6 @@ sources:
   - external: lista-liquid-staking
 ---
 
-## Overview
-
 Lista is a BNB Chain-focused DeFi platform; its liquid staking arm issues slisBNB, a yield-bearing liquid staking token whose exchange rate appreciates against BNB in line with BNB's staking APR. Stakers deposit BNB and the protocol stakes it to BNB Chain validators on their behalf.
 
 The slisBNB token is integrated across BNB Chain DeFi venues — Venus, PancakeSwap, lending markets — as productive capital. LISTA is the governance token of the broader Lista DAO, which also runs lending and stablecoin products.

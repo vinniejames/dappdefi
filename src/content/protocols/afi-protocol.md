@@ -22,8 +22,6 @@ sources:
   - external: afi-protocol
 ---
 
-## Overview
-
 AFI builds proof-of-reserve infrastructure for Real-World Assets and surfaces the resulting yield as composable on-chain products. Originators tokenize off-chain receivables; AFI's PoR layer attests to backing in real time so the resulting yield-bearing tokens can be used in DeFi as transparent, audited collateral.
 
 The project sits between RWA tokenization and yield aggregation, focused on closing the verification gap that has slowed institutional adoption of on-chain RWA collateral.

@@ -22,8 +22,6 @@ sources:
   - external: sthype
 ---
 
-## Overview
-
 stHYPE is a liquid staking platform for HYPE on Hyperliquid L1. Stakers deposit HYPE and receive a yield-bearing token whose value tracks the underlying staked position plus accrued rewards, while remaining transferable and usable in Hyperliquid DeFi.
 
 The project is part of the small but growing LST cohort on Hyperliquid alongside Kinetiq's kHYPE.

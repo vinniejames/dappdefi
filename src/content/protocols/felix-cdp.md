@@ -22,8 +22,6 @@ sources:
   - external: felix-cdp
 ---
 
-## Overview
-
 Felix CDP is a synthetic-dollar protocol on Hyperliquid L1. Users deposit collateral and mint a stablecoin against it; the issuance and stability mechanics follow standard CDP semantics adapted to Hyperliquid's economics.
 
 The product complements Felix Vaults inside the broader Felix ecosystem on Hyperliquid.

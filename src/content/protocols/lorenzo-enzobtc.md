@@ -22,8 +22,6 @@ sources:
   - external: lorenzo-enzobtc
 ---
 
-## Overview
-
 enzoBTC is Lorenzo Protocol's wrapped Bitcoin, a 1:1 BTC-pegged token that participates in the Lorenzo product suite of Bitcoin yield strategies. Lorenzo combines Babylon-based restaking with structured Bitcoin yield products built on top.
 
 The project's positioning is similar to Solv and Lombard — turn idle Bitcoin into productive collateral through a wrapped representation that integrates across multiple chains.

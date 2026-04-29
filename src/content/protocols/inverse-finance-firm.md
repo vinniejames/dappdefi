@@ -22,8 +22,6 @@ sources:
   - external: inverse-finance-firm
 ---
 
-## Overview
-
 FiRM is Inverse Finance's Fixed Rate Market protocol. Borrowers escrow collateral and mint DOLA, the protocol's stablecoin, at a fixed rate using the DOLA Borrowing Right (DBR) token, which is consumed over time as the loan is held.
 
 The DBR design separates the right to borrow from the act of borrowing — borrowers can buy DBR tokens upfront to lock in a rate. INV is the governance token.

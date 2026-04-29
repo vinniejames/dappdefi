@@ -22,8 +22,6 @@ sources:
   - external: xsy
 ---
 
-## Overview
-
 XSY issues UTY (Unity), a digital synthetic dollar on Avalanche backed by delta-neutral basis-trade strategies. The token is the synthetic-dollar arm of XSY's broader DeFi product line.
 
 UTY is the issued stablecoin.

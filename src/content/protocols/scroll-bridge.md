@@ -22,8 +22,6 @@ sources:
   - external: scroll-bridge
 ---
 
-## Overview
-
 The Scroll Bridge is the canonical bridge between Ethereum and Scroll, a zkEVM validity rollup. Withdrawals settle to L1 once a zk proof verifies the new state, with no fraud-proof challenge window required.
 
 Security inherits from Scroll's zk-proof system. The bridge is the chain's main TVL surface alongside its DeFi protocols.

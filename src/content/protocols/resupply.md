@@ -22,8 +22,6 @@ sources:
   - external: resupply
 ---
 
-## Overview
-
 Resupply is a CDP-style stablecoin protocol that issues reUSD against deposits in lending markets — Curve LlamaLend, Fraxlend, and similar. Borrowing against a yield-bearing lending position rather than raw collateral lets borrowers retain underlying yield while drawing the stablecoin.
 
 The model layers a stablecoin issuance primitive on top of existing lending positions. RSUP is the governance token.

@@ -22,8 +22,6 @@ sources:
   - external: hyperithm
 ---
 
-## Overview
-
 Hyperithm is a digital-asset manager based in Tokyo and Seoul running quant trading and venture investments. Its on-chain product surface includes risk-curated vault allocations on top of underlying lending markets, where Hyperithm acts as the strategy and risk underwriter.
 
 The firm's institutional posture and Asian investor base distinguish it within the broader risk-curator cohort.

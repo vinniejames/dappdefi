@@ -22,8 +22,6 @@ sources:
   - external: raac
 ---
 
-## Overview
-
 RAAC is an RWA-backed lending protocol that issues stablecoins backed by tokenized commodities and real estate, paired with on-chain credit facilities against those same assets. Borrowers can post tokenized RWAs and mint a stable token backed by real-world value.
 
 The model overlaps with MakerDAO's RWA-collateral approach but built natively around commodity- and property-backed issuance.
