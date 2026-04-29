@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light dark;
+  }
+  html {
+    @apply bg-ink-50 text-ink-900 antialiased;
+  }
+  @media (prefers-color-scheme: dark) {
+    html {
+      @apply bg-ink-900 text-ink-100;
+    }
+  }
+  body {
+    @apply min-h-screen font-sans;
+  }
+  a {
+    @apply text-accent hover:text-accent-hover;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto max-w-6xl px-4 sm:px-6 lg:px-8;
+  }
+  .pill {
+    @apply inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ring-1 ring-inset;
+  }
+  .pill-neutral {
+    @apply pill bg-ink-100 text-ink-700 ring-ink-200 dark:bg-ink-800 dark:text-ink-200 dark:ring-ink-700;
+  }
+  .pill-accent {
+    @apply pill bg-accent/10 text-accent ring-accent/20;
+  }
+}
