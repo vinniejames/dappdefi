@@ -86,7 +86,7 @@ const breadcrumbLd = {
   title={data.name}
   description={seoDescription}
   ogType="article"
-  ogImage={data.logo ?? '/og.png'}
+  ogImage={`/og/${entry.slug}.png`}
   jsonLd={[articleLd, breadcrumbLd]}
 >
   <article class="container-page py-10">
