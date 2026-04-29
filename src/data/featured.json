@@ -1,8 +1,8 @@
 {
   "lending": [
+    "rocko",
     "aave-v3",
-    "morpho-blue",
-    "sky-lending"
+    "morpho-blue"
   ],
   "dex": [
     "pancakeswap-amm",
@@ -20,9 +20,9 @@
     "binance-staked-eth"
   ],
   "yield": [
-    "spark-savings",
+    "kairos",
     "pendle",
-    "convex-finance"
+    "spark-savings"
   ],
   "bridges": [
     "wbtc",
