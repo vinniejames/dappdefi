@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0d0f"/>
+      <stop offset="100%" stop-color="#212529"/>
+    </linearGradient>
+    <linearGradient id="accentGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="180" fill="url(#accentGlow)"/>
+  <g font-family="Inter, system-ui, sans-serif" fill="#f8f9fa">
+    <text x="80" y="280" font-size="36" font-weight="500" fill="#6366f1">∆ Dapp DeFi</text>
+    <text x="80" y="380" font-size="80" font-weight="700" letter-spacing="-2">The open directory</text>
+    <text x="80" y="470" font-size="80" font-weight="700" letter-spacing="-2">of DeFi protocols.</text>
+    <text x="80" y="560" font-size="28" fill="#adb5bd">500+ protocols, organized by what they actually do.</text>
+  </g>
+</svg>

@@ -39,8 +39,56 @@ function tagLabel(key: string, value: unknown): string {
   if (value === null) return '—';
   return String(value);
 }
+
+// SEO description: extract first ~160 chars of body text. Strip markdown
+// headings/links so the meta description reads cleanly in SERPs.
+const bodyText = entry.body?.replace(/[#*_`>\[\]]/g, '').replace(/\s+/g, ' ').trim() ?? '';
+const seoDescription = bodyText.length > 0
+  ? bodyText.slice(0, 155) + (bodyText.length > 155 ? '…' : '')
+  : `${data.name} — ${category.name} protocol on ${data.chains.slice(0, 3).join(', ')}.`;
+
+// JSON-LD: schema.org Article for the protocol entry, plus a
+// BreadcrumbList so Google can render the path Home › Category › Protocol.
+const protocolUrl = `https://dappdefi.com/protocols/${entry.slug}/`;
+const articleLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: data.name,
+  description: seoDescription,
+  url: protocolUrl,
+  about: {
+    '@type': 'SoftwareApplication',
+    name: data.name,
+    applicationCategory: 'FinanceApplication',
+    url: data.url,
+    operatingSystem: data.chains.join(', '),
+  },
+  datePublished: data.listed_at.toISOString(),
+  dateModified: data.listed_at.toISOString(),
+  publisher: {
+    '@type': 'Organization',
+    name: 'Dapp DeFi',
+    url: 'https://dappdefi.com',
+  },
+  ...(data.logo && { image: new URL(data.logo, 'https://dappdefi.com').toString() }),
+};
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://dappdefi.com/' },
+    { '@type': 'ListItem', position: 2, name: category.name, item: `https://dappdefi.com/categories/${data.category}/` },
+    { '@type': 'ListItem', position: 3, name: data.name, item: protocolUrl },
+  ],
+};
 ---
-<BaseLayout title={data.name} description={`${data.name} — ${category.name} protocol on ${data.chains.slice(0, 3).join(', ')}.`}>
+<BaseLayout
+  title={data.name}
+  description={seoDescription}
+  ogType="article"
+  ogImage={data.logo ?? '/og.png'}
+  jsonLd={[articleLd, breadcrumbLd]}
+>
   <article class="container-page py-10">
     <header class="mb-8 flex flex-col gap-4 sm:flex-row sm:items-center">
       {data.logo ? (

@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Allow modern AI crawlers explicitly — directory content is openly licensed.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Don't index static asset directories.
+Disallow: /pagefind/
+Disallow: /_astro/
+
+Sitemap: https://dappdefi.com/sitemap-index.xml

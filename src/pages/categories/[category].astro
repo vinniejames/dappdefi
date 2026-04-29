@@ -24,8 +24,38 @@ for (const p of protocols) {
 }
 const chains = [...chainSet].sort();
 const subcategories = [...subSet].sort();
+
+// CollectionPage + ItemList for the category — gives Google explicit
+// signal about what this page is and the protocols it contains.
+const collectionLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${cat.name} protocols on Dapp DeFi`,
+  description: cat.description,
+  url: `https://dappdefi.com/categories/${cat.slug}/`,
+  isPartOf: { '@type': 'WebSite', name: 'Dapp DeFi', url: 'https://dappdefi.com' },
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: protocols.length,
+    itemListElement: protocols.slice(0, 50).map((p, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `https://dappdefi.com/protocols/${p.slug}/`,
+      name: p.data.name,
+    })),
+  },
+};
+const breadcrumbLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://dappdefi.com/' },
+    { '@type': 'ListItem', position: 2, name: cat.name, item: `https://dappdefi.com/categories/${cat.slug}/` },
+  ],
+};
+const seoDescription = `${protocols.length} ${cat.name.toLowerCase()} protocols. ${cat.description}`.slice(0, 160);
 ---
-<BaseLayout title={cat.name} description={cat.description}>
+<BaseLayout title={`${cat.name} (${protocols.length} protocols)`} description={seoDescription} jsonLd={[collectionLd, breadcrumbLd]}>
   <section class="border-b border-ink-200 py-10 dark:border-ink-700">
     <div class="container-page">
       <h1 class="text-3xl font-bold">{cat.name}</h1>

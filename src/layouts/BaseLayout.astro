@@ -3,9 +3,23 @@ import '../styles/global.css';
 export interface Props {
   title?: string;
   description?: string;
+  ogImage?: string;       // path or absolute URL; defaults to /og.png
+  ogType?: 'website' | 'article';
+  noindex?: boolean;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
 }
-const { title, description = 'An open-source directory of DeFi protocols.' } = Astro.props;
-const fullTitle = title ? `${title} — Dapp DeFi` : 'Dapp DeFi';
+const {
+  title,
+  description = 'An open-source directory of DeFi protocols.',
+  ogImage = '/og.png',
+  ogType = 'website',
+  noindex = false,
+  jsonLd,
+} = Astro.props;
+const fullTitle = title ? `${title} — Dapp DeFi` : 'Dapp DeFi — the open directory of DeFi protocols';
+const canonical = new URL(Astro.url.pathname, Astro.site ?? 'https://dappdefi.com').toString();
+const ogImageUrl = new URL(ogImage, Astro.site ?? 'https://dappdefi.com').toString();
+const ldArr = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 ---
 <!doctype html>
 <html lang="en">
@@ -15,7 +29,32 @@ const fullTitle = title ? `${title} — Dapp DeFi` : 'Dapp DeFi';
     <meta name="generator" content={Astro.generator} />
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
+    <link rel="canonical" href={canonical} />
+
+    {/* Open Graph */}
+    <meta property="og:site_name" content="Dapp DeFi" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:locale" content="en_US" />
+
+    {/* Twitter Card */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+
+    {/* RSS feed discovery */}
+    <link rel="alternate" type="application/rss+xml" title="Dapp DeFi — recently added protocols" href="/rss.xml" />
+
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    {ldArr.map((ld) => (
+      <script type="application/ld+json" set:html={JSON.stringify(ld)} />
+    ))}
   </head>
   <body class="flex min-h-screen flex-col">
     <header class="border-b border-ink-200 bg-white/80 backdrop-blur dark:border-ink-700 dark:bg-ink-900/80">
@@ -37,6 +76,8 @@ const fullTitle = title ? `${title} — Dapp DeFi` : 'Dapp DeFi';
         <span>Open-source DeFi directory. MIT licensed.</span>
         <span>
           <a href="https://github.com/vinniejames/dappdefi" class="hover:text-accent">Contribute</a>
+          <span class="mx-2">·</span>
+          <a href="/rss.xml" class="hover:text-accent">RSS</a>
           <span class="mx-2">·</span>
           <a href="https://external.com" class="hover:text-accent" target="_blank" rel="noopener">Discovery via external</a>
         </span>

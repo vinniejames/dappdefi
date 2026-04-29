@@ -39,8 +39,33 @@ const featuredRows = CATEGORIES
     return { cat, cards };
   })
   .filter((row) => row.cards.length > 0);
+
+// Site-level WebSite schema with SearchAction so Google can render the
+// site search box directly in SERP. Plus an Organization entity to tie
+// everything together.
+const siteLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Dapp DeFi',
+  alternateName: 'Dapp DeFi — DeFi protocol directory',
+  url: 'https://dappdefi.com/',
+  description: `Open-source directory of ${protocols.length}+ DeFi protocols, organized by what they do.`,
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: { '@type': 'EntryPoint', urlTemplate: 'https://dappdefi.com/?q={search_term_string}' },
+    'query-input': 'required name=search_term_string',
+  },
+};
+const orgLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Dapp DeFi',
+  url: 'https://dappdefi.com/',
+  logo: 'https://dappdefi.com/og.png',
+  sameAs: ['https://github.com/vinniejames/dappdefi'],
+};
 ---
-<BaseLayout description="An open-source directory of 500+ DeFi protocols.">
+<BaseLayout description={`Open-source directory of ${protocols.length}+ DeFi protocols. Lending, DEXs, perps, liquid staking, restaking, RWA, and more — organized by what they do.`} jsonLd={[siteLd, orgLd]}>
   <section class="border-b border-ink-200 bg-gradient-to-b from-accent/5 to-transparent py-16 dark:border-ink-700 dark:from-accent/10">
     <div class="container-page">
       <h1 class="text-5xl font-bold tracking-tight sm:text-6xl">Dapp DeFi</h1>
