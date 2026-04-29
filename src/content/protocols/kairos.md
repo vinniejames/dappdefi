@@ -8,7 +8,7 @@ url: https://kairosswap.com
 twitter: kairosswap
 github: null
 logo: /logos/kairos.svg
-listed_at: 2026-04-29
+listed_at: 2026-04-29T18:00:00Z
 link_type: follow
 tags:
   governance: foundation

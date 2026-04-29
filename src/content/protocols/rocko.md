@@ -8,7 +8,7 @@ url: https://rocko.co
 twitter: rockodefi
 github: getrocko
 logo: /logos/rocko.png
-listed_at: 2026-04-29
+listed_at: 2026-04-29T17:00:00Z
 link_type: follow
 tags:
   governance: foundation

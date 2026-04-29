@@ -8,7 +8,7 @@ url: https://coinfox.co
 twitter: null
 github: null
 logo: /logos/coinfox.png
-listed_at: 2026-04-29
+listed_at: 2026-04-29T16:00:00Z
 link_type: follow
 tags:
   governance: foundation
