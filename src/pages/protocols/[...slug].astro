@@ -51,7 +51,7 @@ function tagLabel(key: string, value: unknown): string {
         </div>
       )}
       <div class="min-w-0 flex-1">
-        <h1 class="text-3xl font-bold">{data.name}</h1>
+        <h1 class="text-4xl font-bold tracking-tight sm:text-5xl">{data.name}</h1>
         <div class="mt-2 flex flex-wrap gap-1.5">
           <TagPill variant="accent" href={`/categories/${data.category}/`}>{category.name}</TagPill>
           {data.subcategories.map((s) => <TagPill variant="accent">{s}</TagPill>)}
@@ -61,7 +61,7 @@ function tagLabel(key: string, value: unknown): string {
     </header>
 
     <div class="grid gap-10 lg:grid-cols-[1fr,260px]">
-      <div data-pagefind-body class="protocol-prose prose prose-lg max-w-none dark:prose-invert prose-headings:tracking-tight prose-headings:font-semibold prose-h2:text-xl prose-h2:mt-10 prose-h2:mb-3 prose-h3:text-lg prose-h3:mt-6 prose-a:text-accent prose-a:no-underline hover:prose-a:text-accent-hover prose-strong:text-ink-900 dark:prose-strong:text-ink-100 prose-li:my-1">
+      <div data-pagefind-body class="protocol-body">
         <span data-pagefind-meta={`name:${data.name}`} class="hidden"></span>
         <span data-pagefind-meta={`category:${data.category}`} class="hidden"></span>
         <span data-pagefind-meta={`chains:${data.chains.join(', ')}`} class="hidden"></span>
@@ -93,7 +93,7 @@ function tagLabel(key: string, value: unknown): string {
         </section>
 
         <section>
-          <h3 class="mb-2 text-xs font-semibold uppercase tracking-wide text-ink-500 dark:text-ink-400">Listed</h3>
+          <h3 class="mb-2 text-xs font-semibold uppercase tracking-wide text-ink-500 dark:text-ink-400">Last Updated</h3>
           <p>{data.listed_at.toISOString().slice(0, 10)}</p>
         </section>
       </aside>

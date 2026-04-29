@@ -36,14 +36,40 @@
     @apply pill bg-accent/10 text-accent ring-accent/20;
   }
 
-  /* Lead-paragraph treatment for the protocol description: first <p> is
-     larger, slightly bolder, and sits inside a left-bordered card to
-     visually anchor the body. */
-  .protocol-prose > p:first-of-type {
-    @apply mt-0 text-xl font-medium leading-relaxed text-ink-800 dark:text-ink-100;
-    @apply border-l-4 border-accent pl-5 not-italic;
+  /* Protocol body — explicit, predictable typography rather than relying on
+     `prose-*` plugin classes (Tailwind config changes require a dev-server
+     restart to apply, so plain utilities are more robust). */
+  .protocol-body {
+    @apply text-base text-ink-700 dark:text-ink-200;
   }
-  .protocol-prose > p:first-of-type::first-line {
-    @apply tracking-tight;
+  .protocol-body > * + * {
+    @apply mt-5;
+  }
+  .protocol-body > p {
+    @apply leading-7;
+  }
+  .protocol-body > p:first-child {
+    @apply text-xl font-medium leading-8 text-ink-900 dark:text-ink-50;
+  }
+  .protocol-body h2 {
+    @apply mt-10 text-2xl font-semibold tracking-tight text-ink-900 dark:text-ink-50;
+  }
+  .protocol-body h3 {
+    @apply mt-8 text-lg font-semibold tracking-tight text-ink-900 dark:text-ink-50;
+  }
+  .protocol-body a {
+    @apply text-accent underline-offset-2 hover:text-accent-hover hover:underline;
+  }
+  .protocol-body strong {
+    @apply font-semibold text-ink-900 dark:text-ink-50;
+  }
+  .protocol-body code {
+    @apply rounded bg-ink-100 px-1 py-0.5 text-[0.9em] dark:bg-ink-800;
+  }
+  .protocol-body ul {
+    @apply list-disc space-y-2 pl-6;
+  }
+  .protocol-body ol {
+    @apply list-decimal space-y-2 pl-6;
   }
 }
