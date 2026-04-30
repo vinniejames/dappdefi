@@ -24,6 +24,13 @@ export type Category = {
 
 export const CATEGORIES: readonly Category[] = [
   {
+    slug: 'yield',
+    name: 'Yield',
+    description:
+      'Yield aggregators, vaults, and structured products that automate strategies across underlying DeFi protocols.',
+    subcategories: ['vault', 'aggregator', 'structured', 'fixed-yield', 'leveraged'],
+  },
+  {
     slug: 'lending',
     name: 'Lending',
     description:
@@ -64,13 +71,6 @@ export const CATEGORIES: readonly Category[] = [
     description:
       'Staked-asset tokens (LSTs) and liquid restaking tokens (LRTs) that keep capital productive while securing networks.',
     subcategories: ['lst', 'lrt', 'native-staking', 'pooled-staking'],
-  },
-  {
-    slug: 'yield',
-    name: 'Yield',
-    description:
-      'Yield aggregators, vaults, and structured products that automate strategies across underlying DeFi protocols.',
-    subcategories: ['vault', 'aggregator', 'structured', 'fixed-yield', 'leveraged'],
   },
   {
     slug: 'bridges',
