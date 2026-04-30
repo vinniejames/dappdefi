@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum, TAC]
 url: https://lagoon.finance
 twitter: lagoonfi
 github: null
-logo: null
+logo: /logos/lagoon.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

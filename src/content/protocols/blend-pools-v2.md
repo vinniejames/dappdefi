@@ -7,7 +7,7 @@ chains: [Stellar]
 url: https://blend.capital
 twitter: blend_capital
 github: null
-logo: null
+logo: /logos/blend-pools-v2.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

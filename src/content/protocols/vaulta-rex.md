@@ -7,7 +7,7 @@ chains: [EOS]
 url: https://eosauthority.com/rex
 twitter: VaultaCommunity
 github: EOSIO
-logo: null
+logo: /logos/vaulta-rex.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

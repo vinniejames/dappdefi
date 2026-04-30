@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://hypurr.fi
 twitter: HypurrFi
 github: null
-logo: null
+logo: /logos/hypurrfi-pooled.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

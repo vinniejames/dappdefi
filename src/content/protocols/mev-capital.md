@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1", Ethereum, Binance]
 url: https://mevcapital.com
 twitter: mevcapital
 github: null
-logo: null
+logo: /logos/mev-capital.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

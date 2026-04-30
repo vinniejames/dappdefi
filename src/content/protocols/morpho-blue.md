@@ -7,7 +7,7 @@ chains: [Ethereum, Base, "Hyperliquid L1", Katana, Monad, Arbitrum, Flare, Sei, 
 url: https://app.morpho.org
 twitter: MorphoLabs
 github: morpho-org/morpho-blue
-logo: null
+logo: /logos/morpho-blue.png
 listed_at: 2024-01-14
 tags:
   governance: dao

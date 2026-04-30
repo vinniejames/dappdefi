@@ -7,7 +7,7 @@ chains: [Arbitrum, "Hyperliquid L1"]
 url: https://app.hyperliquid.xyz
 twitter: HyperliquidX
 github: null
-logo: null
+logo: /logos/hyperliquid-bridge.png
 listed_at: 2024-04-15
 tags:
   governance: foundation

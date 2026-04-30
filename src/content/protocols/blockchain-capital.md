@@ -7,7 +7,7 @@ chains: ["zkSync Era"]
 url: https://www.blockchaincapital.com/
 twitter: blockchaincap
 github: null
-logo: null
+logo: /logos/blockchain-capital.jpg
 listed_at: 2025-09-09
 tags:
   governance: foundation

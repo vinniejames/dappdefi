@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://securitize.io
 twitter: Securitize
 github: null
-logo: null
+logo: /logos/securitize-tokenized-aaa-clo-fund.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

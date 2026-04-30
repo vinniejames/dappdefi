@@ -7,7 +7,7 @@ chains: [Manta]
 url: https://www.manta.network
 twitter: MantaNetwork
 github: null
-logo: null
+logo: /logos/manta-cedefi.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

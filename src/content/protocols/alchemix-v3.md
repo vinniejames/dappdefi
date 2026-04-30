@@ -7,7 +7,7 @@ chains: [Ethereum, Optimism, Arbitrum]
 url: https://alchemix.fi
 twitter: alchemixfi
 github: alchemix-finance
-logo: null
+logo: /logos/alchemix-v3.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

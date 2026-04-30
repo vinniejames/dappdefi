@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.thevault.finance
 twitter: TheVaultFinance
 github: null
-logo: null
+logo: /logos/the-vault-liquid-staking.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

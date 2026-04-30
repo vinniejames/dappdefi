@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Monad, Arbitrum, Binance]
 url: https://app.multipli.fi
 twitter: multiplifi
 github: null
-logo: null
+logo: /logos/multipli.fi.png
 listed_at: 2025-03-14
 tags:
   governance: foundation

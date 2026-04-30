@@ -7,7 +7,7 @@ chains: [Binance, Base, BSquared]
 url: https://river.inc
 twitter: river_inc
 github: null
-logo: null
+logo: /logos/river-omni-cdp.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

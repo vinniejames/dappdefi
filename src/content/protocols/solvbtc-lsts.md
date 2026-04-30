@@ -7,7 +7,7 @@ chains: [Ethereum, Bitcoin]
 url: https://app.solv.finance
 twitter: SolvProtocol
 github: null
-logo: null
+logo: /logos/solvbtc-lsts.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

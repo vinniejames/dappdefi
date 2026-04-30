@@ -7,7 +7,7 @@ chains: [Ethereum, Monad, Arbitrum, Plasma]
 url: https://hyperithm.com
 twitter: hyperithm
 github: null
-logo: null
+logo: /logos/hyperithm.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

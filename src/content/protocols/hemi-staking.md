@@ -7,7 +7,7 @@ chains: [Hemi]
 url: https://hemi.xyz
 twitter: hemi_xyz
 github: null
-logo: null
+logo: /logos/hemi-staking.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

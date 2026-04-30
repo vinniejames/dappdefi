@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, "Hyperliquid L1"]
 url: https://ringprotocol.io
 twitter: RingProtocol_io
 github: null
-logo: null
+logo: /logos/ring-few.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

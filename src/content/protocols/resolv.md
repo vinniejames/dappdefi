@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.resolv.xyz
 twitter: ResolvLabs
 github: null
-logo: null
+logo: /logos/resolv.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

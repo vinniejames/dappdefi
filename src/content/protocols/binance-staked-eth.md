@@ -7,7 +7,7 @@ chains: [Ethereum, Binance]
 url: https://www.binance.com/en/wbeth
 twitter: binance
 github: null
-logo: null
+logo: /logos/binance-staked-eth.png
 listed_at: 2023-04-29
 tags:
   governance: foundation

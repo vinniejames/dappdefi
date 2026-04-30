@@ -7,7 +7,7 @@ chains: [Cardano]
 url: https://liqwid.finance
 twitter: LiqwidFinance
 github: liqwid-finance
-logo: null
+logo: /logos/liqwid.png
 listed_at: 2026-04-29
 tags:
   governance: dao

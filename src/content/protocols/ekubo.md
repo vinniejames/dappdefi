@@ -7,7 +7,7 @@ chains: [Starknet, Ethereum]
 url: https://ekubo.org
 twitter: EkuboProtocol
 github: EkuboProtocol
-logo: null
+logo: /logos/ekubo.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

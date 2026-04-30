@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.stacks.co
 twitter: Stacks
 github: stacks-network
-logo: null
+logo: /logos/stacks-sbtc.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Binance, Ethereum]
 url: https://lista.org/lending
 twitter: LISTA_DAO
 github: null
-logo: null
+logo: /logos/lista-lending.jpg
 listed_at: 2025-04-16
 tags:
   governance: dao

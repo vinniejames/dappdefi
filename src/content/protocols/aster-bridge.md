@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Arbitrum, Solana, Scroll]
 url: https://www.asterdex.com/
 twitter: Aster_DEX
 github: null
-logo: null
+logo: /logos/aster-bridge.jpg
 listed_at: 2024-07-05
 tags:
   governance: foundation

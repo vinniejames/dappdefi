@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Binance]
 url: https://www.railgun.org
 twitter: RAILGUN_Project
 github: Railgun-Privacy
-logo: null
+logo: /logos/railgun.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

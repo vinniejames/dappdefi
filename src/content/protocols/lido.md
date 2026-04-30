@@ -7,7 +7,7 @@ chains: [Ethereum, Solana, Moonbeam, Moonriver, Terra]
 url: https://lido.fi/
 twitter: LidoFinance
 github: lidofinance/lido-dao
-logo: null
+logo: /logos/lido.png
 listed_at: 2026-04-29
 tags:
   governance: dao

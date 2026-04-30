@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Arbitrum]
 url: https://zerobase.pro
 twitter: zerobase_labs
 github: null
-logo: null
+logo: /logos/zerobase-cedefi.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

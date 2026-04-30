@@ -7,7 +7,7 @@ chains: [Stacks]
 url: https://www.zestprotocol.com
 twitter: ZestProtocol
 github: Trust-Machines
-logo: null
+logo: /logos/zest-v2.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

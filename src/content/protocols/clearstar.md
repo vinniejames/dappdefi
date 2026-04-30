@@ -7,7 +7,7 @@ chains: [Flare, Ethereum, Base]
 url: https://clearstar.io
 twitter: clearstarLabs
 github: null
-logo: null
+logo: /logos/clearstar.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

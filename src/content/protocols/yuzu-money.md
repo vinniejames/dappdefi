@@ -7,7 +7,7 @@ chains: [Plasma]
 url: https://yuzu.money
 twitter: yuzu_money
 github: null
-logo: null
+logo: /logos/yuzu-money.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

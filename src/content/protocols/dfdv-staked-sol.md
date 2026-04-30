@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://dfdvtech.com
 twitter: DFDVTech
 github: null
-logo: null
+logo: /logos/dfdv-staked-sol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://sophon.xyz
 twitter: sophon
 github: null
-logo: null
+logo: /logos/sophon-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

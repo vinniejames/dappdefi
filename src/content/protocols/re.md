@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Avalanche, Arbitrum]
 url: https://www.re.xyz
 twitter: reprotocol
 github: null
-logo: null
+logo: /logos/re.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

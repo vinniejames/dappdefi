@@ -7,7 +7,7 @@ chains: [Bifrost, Manta, Ethereum]
 url: https://bifrost.io
 twitter: BifrostFinance
 github: bifrost-finance
-logo: null
+logo: /logos/bifrost-liquid-staking.png
 listed_at: 2026-04-29
 tags:
   governance: dao

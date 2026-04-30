@@ -7,7 +7,7 @@ chains: [Ethereum, Flow, Binance]
 url: https://www.ankr.com
 twitter: ankr
 github: ankr
-logo: null
+logo: /logos/ankr.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

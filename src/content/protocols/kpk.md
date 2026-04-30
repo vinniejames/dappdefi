@@ -7,7 +7,7 @@ chains: [Ethereum, xDai, Arbitrum, Binance]
 url: https://kpk.io
 twitter: kpk_io
 github: null
-logo: null
+logo: /logos/kpk.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

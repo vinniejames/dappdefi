@@ -7,7 +7,7 @@ chains: [MegaETH]
 url: https://kumbaya.io
 twitter: kumbaya_io
 github: null
-logo: null
+logo: /logos/kumbaya.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

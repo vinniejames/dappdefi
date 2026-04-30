@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://benqi.fi
 twitter: BenqiFinance
 github: Benqi-fi
-logo: null
+logo: /logos/benqi-staked-avax.png
 listed_at: 2026-04-29
 tags:
   governance: dao

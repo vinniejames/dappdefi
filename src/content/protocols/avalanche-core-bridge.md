@@ -7,7 +7,7 @@ chains: [Ethereum, Bitcoin]
 url: https://core.app
 twitter: coreapp
 github: ava-labs
-logo: null
+logo: /logos/avalanche-core-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

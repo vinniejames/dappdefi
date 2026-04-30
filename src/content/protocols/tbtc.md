@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum]
 url: https://threshold.network/
 twitter: TheTNetwork
 github: keep-network/tbtc-v2
-logo: null
+logo: /logos/tbtc.png
 listed_at: 2023-02-14
 tags:
   governance: dao

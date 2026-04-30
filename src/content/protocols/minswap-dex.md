@@ -7,7 +7,7 @@ chains: [Cardano]
 url: https://minswap.org
 twitter: MinswapDEX
 github: minswap
-logo: null
+logo: /logos/minswap-dex.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

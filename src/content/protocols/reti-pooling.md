@@ -7,7 +7,7 @@ chains: [Algorand]
 url: https://reti.run
 twitter: Reti_Pooling
 github: null
-logo: null
+logo: /logos/reti-pooling.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ripple, Flare]
 url: https://flare.network/fassets
 twitter: FlareNetworks
 github: flare-foundation
-logo: null
+logo: /logos/fassets.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum, Monad, Etherlink]
 url: https://gearbox.fi
 twitter: GearboxProtocol
 github: Gearbox-protocol
-logo: null
+logo: /logos/gearbox.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

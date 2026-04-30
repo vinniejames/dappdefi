@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Optimism, Manta, Mode, Blast]
 url: https://kelpdao.xyz/restake/
 twitter: KelpDAO
 github: Kelp-DAO
-logo: null
+logo: /logos/kelp.jpg
 listed_at: 2023-12-21
 tags:
   governance: dao

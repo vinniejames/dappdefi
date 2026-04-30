@@ -7,7 +7,7 @@ chains: [Base, Ethereum, Arbitrum]
 url: https://vfat.io
 twitter: vfat_io
 github: null
-logo: null
+logo: /logos/vfat.io.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

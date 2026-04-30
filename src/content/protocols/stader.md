@@ -7,7 +7,7 @@ chains: [Ethereum, Hedera, Binance, Fantom, Terra2]
 url: https://staderlabs.com
 twitter: staderlabs
 github: stader-labs
-logo: null
+logo: /logos/stader.jpg
 listed_at: 2021-12-18
 tags:
   governance: dao

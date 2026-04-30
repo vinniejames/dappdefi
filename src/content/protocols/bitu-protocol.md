@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://bitu.io
 twitter: bitu_protocol
 github: null
-logo: null
+logo: /logos/bitu-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

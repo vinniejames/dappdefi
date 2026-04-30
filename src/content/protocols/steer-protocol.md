@@ -7,7 +7,7 @@ chains: [Katana, Flare, Base]
 url: https://steer.finance
 twitter: steerprotocol
 github: steerprotocol
-logo: null
+logo: /logos/steer-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

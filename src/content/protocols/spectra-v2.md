@@ -7,7 +7,7 @@ chains: [Hemi, Flare, Avalanche]
 url: https://spectra.finance
 twitter: spectra_finance
 github: null
-logo: null
+logo: /logos/spectra-v2.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

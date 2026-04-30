@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Base]
 url: https://www.brickken.com
 twitter: Brickken
 github: null
-logo: null
+logo: /logos/brickken.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.gate.io
 twitter: gate_io
 github: null
-logo: null
+logo: /logos/gtbtc.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

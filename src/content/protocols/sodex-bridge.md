@@ -7,7 +7,7 @@ chains: [Base, Ethereum, Arbitrum]
 url: https://sodex.com
 twitter: sosovaluedex
 github: null
-logo: null
+logo: /logos/sodex-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

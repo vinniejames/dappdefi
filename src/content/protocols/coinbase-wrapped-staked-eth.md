@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.coinbase.com/cbeth
 twitter: coinbase
 github: null
-logo: null
+logo: /logos/coinbase-wrapped-staked-eth.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

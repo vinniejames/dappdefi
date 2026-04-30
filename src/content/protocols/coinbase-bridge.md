@@ -7,7 +7,7 @@ chains: [Bitcoin, Ripple, Doge, Cardano, Litecoin]
 url: https://www.coinbase.com/
 twitter: coinbase
 github: null
-logo: null
+logo: /logos/coinbase-bridge.jpg
 listed_at: 2025-02-18
 tags:
   governance: foundation

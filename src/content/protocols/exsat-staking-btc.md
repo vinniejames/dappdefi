@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.exsat.network
 twitter: exsatnetwork
 github: null
-logo: null
+logo: /logos/exsat-staking-btc.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://inkonchain.com
 twitter: inkonchain
 github: null
-logo: null
+logo: /logos/ink-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

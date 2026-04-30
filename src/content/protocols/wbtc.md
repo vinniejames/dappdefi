@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://wbtc.network/
 twitter: WrappedBTC
 github: null
-logo: null
+logo: /logos/wbtc.png
 listed_at: 2026-04-29
 tags:
   governance: multisig

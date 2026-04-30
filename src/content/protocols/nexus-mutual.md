@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://nexusmutual.io
 twitter: NexusMutual
 github: NexusMutual
-logo: null
+logo: /logos/nexus-mutual.png
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Ethereum, Aptos, Binance, Solana, Avalanche, Optimism, Arbitrum, Polygo
 url: https://securitize.io/
 twitter: BlackRock
 github: null
-logo: null
+logo: /logos/blackrock-buidl.png
 listed_at: 2024-07-06
 tags:
   governance: foundation

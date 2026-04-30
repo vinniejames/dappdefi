@@ -7,7 +7,7 @@ chains: [Binance, Solana]
 url: https://standx.io
 twitter: StandXdefi
 github: null
-logo: null
+logo: /logos/standx-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

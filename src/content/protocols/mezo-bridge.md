@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://mezo.org
 twitter: MezoNetwork
 github: null
-logo: null
+logo: /logos/mezo-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

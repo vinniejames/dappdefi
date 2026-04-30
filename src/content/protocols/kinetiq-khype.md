@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://kinetiq.xyz/stake
 twitter: kinetiq_xyz
 github: null
-logo: null
+logo: /logos/kinetiq-khype.jpg
 listed_at: 2025-07-17
 tags:
   governance: foundation

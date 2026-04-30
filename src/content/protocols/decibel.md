@@ -7,7 +7,7 @@ chains: [Aptos]
 url: https://decibel.exchange
 twitter: decibel_xyz
 github: null
-logo: null
+logo: /logos/decibel.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

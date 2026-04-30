@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Base]
 url: https://www.team.finance
 twitter: teamfinance_
 github: null
-logo: null
+logo: /logos/team-finance.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

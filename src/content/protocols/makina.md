@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://makina.xyz
 twitter: makina_xyz
 github: null
-logo: null
+logo: /logos/makina.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

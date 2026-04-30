@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Base]
 url: https://native.org
 twitter: native_fi
 github: null
-logo: null
+logo: /logos/native-credit-pool.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

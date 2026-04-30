@@ -7,7 +7,7 @@ chains: [Kava]
 url: https://www.kava.io
 twitter: kava_platform
 github: Kava-Labs
-logo: null
+logo: /logos/kava-mint.png
 listed_at: 2026-04-29
 tags:
   governance: dao

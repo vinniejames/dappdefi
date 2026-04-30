@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://bridge.linea.build
 twitter: LineaBuild
 github: null
-logo: null
+logo: /logos/linea-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

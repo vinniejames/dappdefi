@@ -7,7 +7,7 @@ chains: [Ethereum, "Hyperliquid L1", Monad]
 url: https://ultrayield.xyz
 twitter: ultrayield_xyz
 github: null
-logo: null
+logo: /logos/ultrayield-curator.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [ENI]
 url: https://egas.swap
 twitter: null
 github: null
-logo: null
+logo: /logos/egas-swap.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

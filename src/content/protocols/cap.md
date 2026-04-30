@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://cap.app
 twitter: capmoney_
 github: null
-logo: null
+logo: /logos/cap.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

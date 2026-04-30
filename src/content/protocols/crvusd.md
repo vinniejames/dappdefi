@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://crvusd.curve.finance
 twitter: CurveFinance
 github: curvefi/curve-stablecoin
-logo: null
+logo: /logos/crvusd.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

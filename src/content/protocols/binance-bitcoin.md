@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.binance.com/en/collateral-btokens
 twitter: binance
 github: null
-logo: null
+logo: /logos/binance-bitcoin.jpg
 listed_at: 2024-08-22
 tags:
   governance: foundation

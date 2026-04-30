@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://hyperbeat.org
 twitter: hyperbeatorg
 github: null
-logo: null
+logo: /logos/sthype.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://usdtb.money
 twitter: ethena_labs
 github: null
-logo: null
+logo: /logos/ethena-usdtb.jpg
 listed_at: 2024-12-16
 tags:
   governance: dao

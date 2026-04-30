@@ -7,7 +7,7 @@ chains: [Ethereum, Tron, Binance]
 url: https://core.allbridge.io
 twitter: Allbridge_io
 github: allbridge-io
-logo: null
+logo: /logos/allbridge-core.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

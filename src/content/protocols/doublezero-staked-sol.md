@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://doublezero.xyz/
 twitter: doublezero
 github: null
-logo: null
+logo: /logos/doublezero-staked-sol.jpg
 listed_at: 2025-11-13
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://marinade.finance/app/native-staking
 twitter: MarinadeFinance
 github: marinade-finance
-logo: null
+logo: /logos/marinade-native.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

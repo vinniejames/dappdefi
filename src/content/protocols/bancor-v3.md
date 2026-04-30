@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://bancor.network
 twitter: Bancor
 github: bancorprotocol
-logo: null
+logo: /logos/bancor-v3.png
 listed_at: 2026-04-29
 tags:
   governance: dao

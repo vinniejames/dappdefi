@@ -7,7 +7,7 @@ chains: [ICP]
 url: https://www.origyn.com
 twitter: ORIGYN_Found
 github: ORIGYN-SA
-logo: null
+logo: /logos/origyn.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

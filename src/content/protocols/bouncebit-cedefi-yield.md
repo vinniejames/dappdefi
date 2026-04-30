@@ -7,7 +7,7 @@ chains: [BounceBit, Binance, Ethereum, Solana, Base]
 url: https://portal.bouncebit.io/
 twitter: bounce_bit
 github: null
-logo: null
+logo: /logos/bouncebit-cedefi-yield.jpg
 listed_at: 2024-12-01
 tags:
   governance: foundation

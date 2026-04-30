@@ -7,7 +7,7 @@ chains: [Aptos]
 url: https://hyperion.xyz
 twitter: hyperion_xyz
 github: null
-logo: null
+logo: /logos/hyperion.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

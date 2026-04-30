@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.lorenzo-protocol.xyz
 twitter: LorenzoProtocol
 github: null
-logo: null
+logo: /logos/lorenzo-enzobtc.jpg
 listed_at: 2024-10-29
 tags:
   governance: foundation

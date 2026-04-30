@@ -7,7 +7,7 @@ chains: [Ethereum, Berachain, Arbitrum]
 url: https://origami.finance
 twitter: origami_finance
 github: null
-logo: null
+logo: /logos/origami-finance.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

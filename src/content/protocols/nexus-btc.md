@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://nexusbtc.io
 twitter: Nexus_BTC
 github: null
-logo: null
+logo: /logos/nexus-btc.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

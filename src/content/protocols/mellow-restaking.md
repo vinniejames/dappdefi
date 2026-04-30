@@ -7,7 +7,7 @@ chains: [Ethereum, Lisk, Binance]
 url: https://mellow.finance
 twitter: Mellowprotocol
 github: null
-logo: null
+logo: /logos/mellow-restaking.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

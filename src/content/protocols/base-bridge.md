@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://docs.base.org/base-chain/network-information/bridges-mainnet
 twitter: BuildOnBase
 github: ethereum-optimism/optimism
-logo: null
+logo: /logos/base-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

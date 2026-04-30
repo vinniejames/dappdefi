@@ -7,7 +7,7 @@ chains: [Starknet]
 url: https://www.starknet.io
 twitter: Starknet
 github: starkware-libs
-logo: null
+logo: /logos/starknet-btc-staking.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

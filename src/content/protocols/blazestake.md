@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://stake.solblaze.org
 twitter: solblaze_org
 github: null
-logo: null
+logo: /logos/blazestake.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

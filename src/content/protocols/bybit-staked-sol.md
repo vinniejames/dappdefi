@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.bybit.com
 twitter: Bybit_Official
 github: null
-logo: null
+logo: /logos/bybit-staked-sol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

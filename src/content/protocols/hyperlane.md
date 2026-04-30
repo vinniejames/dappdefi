@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Base, Arbitrum]
 url: https://hyperlane.xyz
 twitter: Hyperlane
 github: hyperlane-xyz
-logo: null
+logo: /logos/hyperlane.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

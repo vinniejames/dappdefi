@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Base, Polygon]
 url: https://app.uncx.network
 twitter: UNCX_token
 github: null
-logo: null
+logo: /logos/uncx-network-v2.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

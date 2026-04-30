@@ -7,7 +7,7 @@ chains: [Ink]
 url: https://tydro.io
 twitter: tydro_finance
 github: null
-logo: null
+logo: /logos/tydro.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

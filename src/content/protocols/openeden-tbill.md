@@ -7,7 +7,7 @@ chains: [Ethereum, Ripple, Solana, Arbitrum]
 url: https://openeden.com
 twitter: OpenEden_HQ
 github: null
-logo: null
+logo: /logos/openeden-tbill.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

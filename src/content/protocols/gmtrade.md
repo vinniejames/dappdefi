@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://gmtrade.io
 twitter: gmtrade_io
 github: null
-logo: null
+logo: /logos/gmtrade.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

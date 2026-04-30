@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://stake.link
 twitter: stakedotlink
 github: null
-logo: null
+logo: /logos/stake.link-liquid.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

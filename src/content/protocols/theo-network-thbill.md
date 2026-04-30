@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Solana]
 url: https://theo.network
 twitter: theonetwork_
 github: null
-logo: null
+logo: /logos/theo-network-thbill.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

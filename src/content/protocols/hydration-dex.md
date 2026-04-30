@@ -7,7 +7,7 @@ chains: [HydraDX]
 url: https://hydration.net
 twitter: hydration_net
 github: galacticcouncil
-logo: null
+logo: /logos/hydration-dex.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

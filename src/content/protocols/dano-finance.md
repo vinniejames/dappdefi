@@ -7,7 +7,7 @@ chains: [Cardano]
 url: https://dano.finance
 twitter: danofinance
 github: null
-logo: null
+logo: /logos/dano-finance.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

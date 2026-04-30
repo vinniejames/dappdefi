@@ -7,7 +7,7 @@ chains: [Bitcoin, Binance, Ethereum]
 url: https://www.pumpbtc.xyz
 twitter: Pumpbtcxyz
 github: null
-logo: null
+logo: /logos/pumpbtc.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

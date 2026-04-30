@@ -7,7 +7,7 @@ chains: [Flare, Ethereum]
 url: https://clearpool.finance
 twitter: ClearpoolFin
 github: null
-logo: null
+logo: /logos/clearpool-tpool.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

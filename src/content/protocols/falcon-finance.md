@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.falcon.finance
 twitter: falconstable
 github: null
-logo: null
+logo: /logos/falcon-finance.jpg
 listed_at: 2025-09-30
 tags:
   governance: dao

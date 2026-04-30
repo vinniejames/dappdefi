@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.sanctum.so
 twitter: sanctumso
 github: igneous-labs
-logo: null
+logo: /logos/sanctum-validator-lsts.jpg
 listed_at: 2024-03-25
 tags:
   governance: dao

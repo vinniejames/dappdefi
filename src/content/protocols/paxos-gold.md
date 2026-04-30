@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://paxos.com/paxgold/
 twitter: Paxos
 github: null
-logo: null
+logo: /logos/paxos-gold.png
 listed_at: 2024-07-09
 tags:
   governance: foundation

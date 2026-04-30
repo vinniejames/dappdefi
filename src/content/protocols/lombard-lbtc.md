@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum]
 url: https://www.lombard.finance/app/stake/
 twitter: Lombard_Finance
 github: null
-logo: null
+logo: /logos/lombard-lbtc.jpg
 listed_at: 2024-09-04
 tags:
   governance: dao

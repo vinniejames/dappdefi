@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://suilend.fi
 twitter: suilendprotocol
 github: solendprotocol
-logo: null
+logo: /logos/suilend.png
 listed_at: 2026-04-29
 tags:
   governance: dao

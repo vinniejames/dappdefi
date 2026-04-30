@@ -7,7 +7,7 @@ chains: [Base, Ethereum]
 url: https://www.bprotocol.org
 twitter: bprotocoleth
 github: backstop-protocol
-logo: null
+logo: /logos/b.protocol-curator.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

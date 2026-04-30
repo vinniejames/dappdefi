@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jito.network
 twitter: jito_sol
 github: jito-foundation
-logo: null
+logo: /logos/jito-liquid-staking.jpg
 listed_at: 2022-11-24
 tags:
   governance: dao

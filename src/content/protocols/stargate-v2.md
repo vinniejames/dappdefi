@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Arbitrum]
 url: https://stargate.finance
 twitter: StargateFinance
 github: stargate-protocol
-logo: null
+logo: /logos/stargate-v2.png
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Arbitrum, "Hyperliquid L1", Optimism, Ethereum]
 url: https://derive.xyz
 twitter: derivexyz
 github: null
-logo: null
+logo: /logos/derive-v2.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

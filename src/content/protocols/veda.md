@@ -7,7 +7,7 @@ chains: [Ethereum, Ink, "Hyperliquid L1", Plasma, Base]
 url: https://veda.tech
 twitter: veda_labs
 github: null
-logo: null
+logo: /logos/veda.jpg
 listed_at: 2025-02-20
 tags:
   governance: foundation

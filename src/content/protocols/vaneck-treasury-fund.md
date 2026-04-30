@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Solana]
 url: https://www.vaneck.com
 twitter: vaneck_us
 github: null
-logo: null
+logo: /logos/vaneck-treasury-fund.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

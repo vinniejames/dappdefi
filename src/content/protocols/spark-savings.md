@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Avalanche, Base, Optimism, Unichain]
 url: https://data.spark.fi/savings/
 twitter: sparkdotfi
 github: marsfoundation
-logo: null
+logo: /logos/spark-savings.jpg
 listed_at: 2025-09-11
 tags:
   governance: dao

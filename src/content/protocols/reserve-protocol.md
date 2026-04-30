@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://reserve.org
 twitter: reserveprotocol
 github: reserve-protocol
-logo: null
+logo: /logos/reserve-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

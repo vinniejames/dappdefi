@@ -7,7 +7,7 @@ chains: [Tron, Ethereum]
 url: https://stusdt.io
 twitter: stusdt
 github: null
-logo: null
+logo: /logos/stusdt.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

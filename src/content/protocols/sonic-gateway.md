@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://gateway.soniclabs.com
 twitter: SonicLabs
 github: null
-logo: null
+logo: /logos/sonic-gateway.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

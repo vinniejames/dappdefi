@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.sanctum.so
 twitter: sanctumso
 github: igneous-labs
-logo: null
+logo: /logos/sanctum-reserve.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

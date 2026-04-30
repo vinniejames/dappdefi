@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Plasma, Base, Polygon]
 url: https://fluid.io/lending/1
 twitter: 0xfluid
 github: Instadapp
-logo: null
+logo: /logos/fluid-lending.png
 listed_at: 2024-02-25
 tags:
   governance: dao

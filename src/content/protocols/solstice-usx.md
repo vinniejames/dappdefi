@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://solstice.finance/
 twitter: solsticefi
 github: null
-logo: null
+logo: /logos/solstice-usx.jpg
 listed_at: 2025-09-30
 tags:
   governance: foundation

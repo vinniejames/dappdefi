@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.olympusdao.finance
 twitter: OlympusDAO
 github: OlympusDAO
-logo: null
+logo: /logos/cooler-loans.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

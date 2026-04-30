@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://cronos.org/zkevm
 twitter: cronos_chain
 github: null
-logo: null
+logo: /logos/cronos-zkevm-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

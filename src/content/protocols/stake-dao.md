@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum, Fraxtal]
 url: https://stakedao.org
 twitter: StakeDAOHQ
 github: stake-dao
-logo: null
+logo: /logos/stake-dao.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

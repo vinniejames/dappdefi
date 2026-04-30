@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum, Fraxtal]
 url: https://beefy.com
 twitter: beefyfinance
 github: beefyfinance
-logo: null
+logo: /logos/beefy.png
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Ethereum, Polygon, Arbitrum]
 url: https://enzyme.finance
 twitter: enzymefinance
 github: enzymefinance
-logo: null
+logo: /logos/enzyme-finance.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

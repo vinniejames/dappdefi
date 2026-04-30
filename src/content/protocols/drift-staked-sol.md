@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://drift.trade
 twitter: DriftProtocol
 github: drift-labs
-logo: null
+logo: /logos/drift-staked-sol.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

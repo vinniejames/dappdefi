@@ -7,7 +7,7 @@ chains: [Ethereum, "edgeX L1", Arbitrum, Binance]
 url: https://edgex.exchange
 twitter: edgeX_exchange
 github: null
-logo: null
+logo: /logos/edgex-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

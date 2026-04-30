@@ -7,7 +7,7 @@ chains: [Ethereum, Monad, Plasma, Avalanche, Arbitrum, Celo, Ink, Polygon]
 url: https://gold.tether.to/
 twitter: tethergold
 github: null
-logo: null
+logo: /logos/tether-gold.png
 listed_at: 2024-07-09
 tags:
   governance: foundation

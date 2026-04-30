@@ -7,7 +7,7 @@ chains: [Starknet, Ethereum]
 url: https://app.extended.exchange
 twitter: ExtendedExch
 github: null
-logo: null
+logo: /logos/extended.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Near]
 url: https://www.rhea.finance
 twitter: rheafinance
 github: null
-logo: null
+logo: /logos/rhea-dex.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

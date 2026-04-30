@@ -7,7 +7,7 @@ chains: [Mantle]
 url: https://www.mantle.xyz
 twitter: Mantle_Official
 github: null
-logo: null
+logo: /logos/mantle-index-four-fund.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

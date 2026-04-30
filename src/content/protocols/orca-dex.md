@@ -7,7 +7,7 @@ chains: [Solana, Eclipse]
 url: https://www.orca.so
 twitter: orca_so
 github: orca-so
-logo: null
+logo: /logos/orca-dex.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

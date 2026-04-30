@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Klaytn, Berachain, Sonic]
 url: https://www.avalonfinance.xyz
 twitter: avalonfinance_
 github: null
-logo: null
+logo: /logos/avalon-usda.jpg
 listed_at: 2024-11-01
 tags:
   governance: foundation

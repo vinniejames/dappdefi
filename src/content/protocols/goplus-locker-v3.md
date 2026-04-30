@@ -7,7 +7,7 @@ chains: [Binance, Base, Ethereum]
 url: https://gopluslabs.io
 twitter: GoPlusSecurity
 github: GoPlusSecurity
-logo: null
+logo: /logos/goplus-locker-v3.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

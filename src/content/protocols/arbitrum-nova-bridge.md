@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://nova.arbitrum.io
 twitter: arbitrum
 github: OffchainLabs
-logo: null
+logo: /logos/arbitrum-nova-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Doge]
 url: https://sosovalue.com
 twitter: SoSoValueCrypto
 github: null
-logo: null
+logo: /logos/sosovalue-indexes.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

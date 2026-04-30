@@ -7,7 +7,7 @@ chains: [Ethereum, Solana]
 url: https://sentora.com/
 twitter: SentoraHQ
 github: null
-logo: null
+logo: /logos/sentora.jpg
 listed_at: 2025-10-03
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://rocketpool.net
 twitter: Rocket_Pool
 github: rocket-pool/rocketpool
-logo: null
+logo: /logos/rocket-pool.jpg
 listed_at: 2021-11-24
 tags:
   governance: dao

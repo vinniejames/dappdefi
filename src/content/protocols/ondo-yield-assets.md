@@ -7,7 +7,7 @@ chains: [Ethereum, Ripple, "Plume Mainnet", Solana, Stellar, Sei, Aptos, Mantle,
 url: https://ondo.finance
 twitter: OndoFinance
 github: ondoprotocol
-logo: null
+logo: /logos/ondo-yield-assets.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

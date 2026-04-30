@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.sky.money/
 twitter: SkyEcosystem
 github: makerdao/dss
-logo: null
+logo: /logos/sky-lending.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

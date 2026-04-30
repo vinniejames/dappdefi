@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://summer.fi
 twitter: summerfinance_
 github: OasisDEX
-logo: null
+logo: /logos/lazy-summer-protocol.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

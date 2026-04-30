@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://kamino.com/
 twitter: Kamino
 github: null
-logo: null
+logo: /logos/kamino-lend.jpg
 listed_at: 2023-11-10
 tags:
   governance: dao

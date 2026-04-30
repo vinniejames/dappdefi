@@ -7,7 +7,7 @@ chains: [BSquared, Ethereum, Base]
 url: https://termmax.finance
 twitter: TermMaxFinance
 github: null
-logo: null
+logo: /logos/termmax.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

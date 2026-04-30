@@ -7,7 +7,7 @@ chains: [Cronos, "Cronos zkEVM"]
 url: https://moonlander.finance
 twitter: moonlanderfi
 github: null
-logo: null
+logo: /logos/moonlander.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

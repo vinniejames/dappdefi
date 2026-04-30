@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Arbitrum, "Plume Mainnet"]
 url: https://www.digift.sg
 twitter: DigiFT_Tech
 github: null
-logo: null
+logo: /logos/digift.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

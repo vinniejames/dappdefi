@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://project-0.xyz
 twitter: project0_xyz
 github: null
-logo: null
+logo: /logos/project-0.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

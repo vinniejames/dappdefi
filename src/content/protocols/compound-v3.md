@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Base, Optimism, Polygon, Mantle]
 url: https://v3-app.compound.finance/
 twitter: compoundfinance
 github: compound-finance/comet
-logo: null
+logo: /logos/compound-v3.png
 listed_at: 2022-09-14
 tags:
   governance: dao

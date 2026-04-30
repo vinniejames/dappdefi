@@ -7,7 +7,7 @@ chains: [BSquared]
 url: https://unirouter.io
 twitter: UniRouter_io
 github: null
-logo: null
+logo: /logos/unirouter.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

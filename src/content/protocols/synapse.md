@@ -7,7 +7,7 @@ chains: [Ethereum, Canto, Avalanche]
 url: https://synapseprotocol.com
 twitter: SynapseProtocol
 github: synapsecns
-logo: null
+logo: /logos/synapse.png
 listed_at: 2026-04-29
 tags:
   governance: dao

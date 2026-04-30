@@ -7,7 +7,7 @@ chains: [Avalanche, Plasma, "World Chain"]
 url: https://www.re7capital.com
 twitter: Re7Capital
 github: null
-logo: null
+logo: /logos/re7-labs.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

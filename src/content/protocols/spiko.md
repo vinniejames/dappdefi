@@ -7,7 +7,7 @@ chains: [Stellar, Arbitrum, Polygon, Ethereum, Starknet, Base]
 url: https://www.spiko.io/
 twitter: Spiko_finance
 github: null
-logo: null
+logo: /logos/spiko.png
 listed_at: 2024-08-13
 tags:
   governance: foundation

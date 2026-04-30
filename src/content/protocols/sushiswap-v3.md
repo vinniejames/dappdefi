@@ -7,7 +7,7 @@ chains: [Ethereum, Katana, Hemi]
 url: https://sushi.com
 twitter: SushiSwap
 github: sushiswap
-logo: null
+logo: /logos/sushiswap-v3.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

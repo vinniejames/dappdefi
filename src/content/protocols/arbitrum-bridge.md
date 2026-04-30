@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://portal.arbitrum.io/bridge
 twitter: arbitrum
 github: OffchainLabs/nitro-contracts
-logo: null
+logo: /logos/arbitrum-bridge.png
 listed_at: 2026-04-29
 tags:
   governance: dao

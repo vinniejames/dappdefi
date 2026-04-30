@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://aave.com
 twitter: aave
 github: aave-dao
-logo: null
+logo: /logos/aave-horizon-rwa.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

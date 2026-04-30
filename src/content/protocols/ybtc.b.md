@@ -7,7 +7,7 @@ chains: [Bitlayer]
 url: https://www.bitlayer.org
 twitter: BitlayerLabs
 github: null
-logo: null
+logo: /logos/ybtc.b.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

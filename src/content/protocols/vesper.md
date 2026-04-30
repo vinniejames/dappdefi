@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Optimism]
 url: https://vesper.finance
 twitter: vesperfi
 github: vesperfi
-logo: null
+logo: /logos/vesper.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

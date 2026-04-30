@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Optimism, Ripple]
 url: https://www.axelar.network
 twitter: axelar
 github: axelarnetwork
-logo: null
+logo: /logos/axelar.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

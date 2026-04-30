@@ -7,7 +7,7 @@ chains: [Algorand]
 url: https://folks.finance
 twitter: Folks_Finance
 github: null
-logo: null
+logo: /logos/folks-finance-lending.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

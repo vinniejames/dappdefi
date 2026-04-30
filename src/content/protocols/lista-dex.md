@@ -7,7 +7,7 @@ chains: [Binance, Ethereum]
 url: https://lista.org
 twitter: LISTA_DAO
 github: null
-logo: null
+logo: /logos/lista-dex.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

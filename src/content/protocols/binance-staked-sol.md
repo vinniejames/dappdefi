@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.binance.com/en/solana-staking
 twitter: binance
 github: null
-logo: null
+logo: /logos/binance-staked-sol.png
 listed_at: 2024-09-12
 tags:
   governance: foundation

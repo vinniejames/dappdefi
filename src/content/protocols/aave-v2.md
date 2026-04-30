@@ -7,7 +7,7 @@ chains: [Ethereum, Polygon, Avalanche]
 url: https://aave.com
 twitter: aave
 github: aave/protocol-v2
-logo: null
+logo: /logos/aave-v2.png
 listed_at: 2026-04-29
 tags:
   governance: dao

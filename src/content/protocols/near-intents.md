@@ -7,7 +7,7 @@ chains: [Ethereum, Near, Bitcoin]
 url: https://near.org/intents
 twitter: NEARProtocol
 github: near
-logo: null
+logo: /logos/near-intents.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

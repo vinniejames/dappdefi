@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://www.aevo.xyz
 twitter: aevoxyz
 github: null
-logo: null
+logo: /logos/aevo-perps.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Tron, Ethereum, Binance]
 url: https://sun.io
 twitter: defi_sun
 github: null
-logo: null
+logo: /logos/sunx-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

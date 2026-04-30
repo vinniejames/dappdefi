@@ -7,7 +7,7 @@ chains: [Aptos]
 url: https://echo-protocol.xyz
 twitter: Echo_protocol_
 github: null
-logo: null
+logo: /logos/echo-lending.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

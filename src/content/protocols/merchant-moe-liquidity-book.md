@@ -7,7 +7,7 @@ chains: [Mantle]
 url: https://merchantmoe.com
 twitter: MerchantMoe_xyz
 github: null
-logo: null
+logo: /logos/merchant-moe-liquidity-book.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

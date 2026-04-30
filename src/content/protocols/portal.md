@@ -7,7 +7,7 @@ chains: [Ethereum, Solana, Binance, Algorand, Polygon, Base]
 url: https://portalbridge.com
 twitter: portalbridge_
 github: wormhole-foundation/wormhole
-logo: null
+logo: /logos/portal.png
 listed_at: 2022-03-13
 tags:
   governance: dao

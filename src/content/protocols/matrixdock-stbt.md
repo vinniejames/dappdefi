@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.matrixdock.com
 twitter: MatrixDockHQ
 github: null
-logo: null
+logo: /logos/matrixdock-stbt.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

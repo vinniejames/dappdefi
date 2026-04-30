@@ -7,7 +7,7 @@ chains: [xDai]
 url: https://realt.co
 twitter: RealTPlatform
 github: null
-logo: null
+logo: /logos/realt-tokens.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

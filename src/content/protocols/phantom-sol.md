@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://phantom.app
 twitter: phantom
 github: null
-logo: null
+logo: /logos/phantom-sol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

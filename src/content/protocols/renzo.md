@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Linea, Solana, Monad]
 url: https://www.renzoprotocol.com
 twitter: RenzoProtocol
 github: null
-logo: null
+logo: /logos/renzo.png
 listed_at: 2026-04-29
 tags:
   governance: dao

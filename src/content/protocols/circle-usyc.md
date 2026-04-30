@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Near, Noble]
 url: https://www.circle.com/usyc
 twitter: circle
 github: null
-logo: null
+logo: /logos/circle-usyc.png
 listed_at: 2023-10-26
 tags:
   governance: foundation

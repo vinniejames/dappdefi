@@ -7,7 +7,7 @@ chains: [Ethereum, Katana, Base]
 url: https://yearn.fi
 twitter: yearnfi
 github: yearn
-logo: null
+logo: /logos/yearn-curating.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

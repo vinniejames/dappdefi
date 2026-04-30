@@ -7,7 +7,7 @@ chains: ["zkSync Era"]
 url: https://www.sygnum.com
 twitter: sygnumofficial
 github: null
-logo: null
+logo: /logos/sygnum-fiusd-liquidity-fund.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

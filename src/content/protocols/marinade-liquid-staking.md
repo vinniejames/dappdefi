@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://marinade.finance
 twitter: MarinadeFinance
 github: marinade-finance
-logo: null
+logo: /logos/marinade-liquid-staking.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

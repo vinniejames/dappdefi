@@ -7,7 +7,7 @@ chains: [AILayer]
 url: https://bitfi.app
 twitter: Bitfi_app
 github: null
-logo: null
+logo: /logos/bitfi-btc.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

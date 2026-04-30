@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://app.hyperlend.finance/
 twitter: hyperlendx
 github: null
-logo: null
+logo: /logos/hyperlend-pooled.jpg
 listed_at: 2025-03-22
 tags:
   governance: foundation

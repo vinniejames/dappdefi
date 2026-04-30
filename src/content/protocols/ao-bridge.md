@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://ao.computer
 twitter: aoTheComputer
 github: permaweb
-logo: null
+logo: /logos/ao-bridge.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

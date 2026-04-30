@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Hemi, Base, CORE]
 url: https://bitfi.app
 twitter: Bitfi_app
 github: null
-logo: null
+logo: /logos/bitfi-basis.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

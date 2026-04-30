@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.paradex.trade
 twitter: tradeparadex
 github: null
-logo: null
+logo: /logos/paradex-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

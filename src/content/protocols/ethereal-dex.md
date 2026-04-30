@@ -7,7 +7,7 @@ chains: [Ethereal]
 url: https://ethereal.trade
 twitter: ethereal_dex
 github: null
-logo: null
+logo: /logos/ethereal-dex.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

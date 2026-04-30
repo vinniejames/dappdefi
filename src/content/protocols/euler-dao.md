@@ -7,7 +7,7 @@ chains: [Ethereum, Unichain, Arbitrum]
 url: https://www.euler.finance
 twitter: eulerfinance
 github: euler-xyz
-logo: null
+logo: /logos/euler-dao.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

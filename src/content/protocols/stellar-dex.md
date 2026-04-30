@@ -7,7 +7,7 @@ chains: [Stellar]
 url: https://stellar.org
 twitter: StellarOrg
 github: stellar
-logo: null
+logo: /logos/stellar-dex.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

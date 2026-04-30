@@ -7,7 +7,7 @@ chains: [Ethereum, Polygon, Arbitrum]
 url: https://sushi.com
 twitter: SushiSwap
 github: sushiswap
-logo: null
+logo: /logos/sushiswap.png
 listed_at: 2026-04-29
 tags:
   governance: dao

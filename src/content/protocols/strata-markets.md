@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://strata.market
 twitter: strata_market
 github: null
-logo: null
+logo: /logos/strata-markets.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

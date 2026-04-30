@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://www.asterdex.com
 twitter: Aster_DEX
 github: null
-logo: null
+logo: /logos/aster-usdf.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

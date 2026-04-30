@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jup.ag/
 twitter: JupiterExchange
 github: null
-logo: null
+logo: /logos/jupiter-lend.jpg
 listed_at: 2025-08-19
 tags:
   governance: dao

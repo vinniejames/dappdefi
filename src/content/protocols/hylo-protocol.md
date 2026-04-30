@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://hylo.so
 twitter: hylo_so
 github: null
-logo: null
+logo: /logos/hylo-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

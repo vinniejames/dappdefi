@@ -7,7 +7,7 @@ chains: [Filecoin, Base]
 url: https://glif.io
 twitter: glifio
 github: glifio
-logo: null
+logo: /logos/glif.png
 listed_at: 2026-04-29
 tags:
   governance: dao

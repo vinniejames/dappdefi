@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://babylonlabs.io
 twitter: babylonlabs_io
 github: babylonlabs-io/babylon
-logo: null
+logo: /logos/babylon-protocol.jpg
 listed_at: 2024-10-22
 tags:
   governance: dao

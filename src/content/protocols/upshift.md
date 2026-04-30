@@ -7,7 +7,7 @@ chains: [Ethereum, Flare, Monad, "Hyperliquid L1", Avalanche]
 url: https://upshift.finance
 twitter: UpshiftFi
 github: null
-logo: null
+logo: /logos/upshift.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

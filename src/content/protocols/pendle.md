@@ -7,7 +7,7 @@ chains: [Ethereum, Plasma, Arbitrum, Sonic, "Hyperliquid L1", Binance]
 url: https://pendle.finance/
 twitter: pendle_fi
 github: pendle-finance/pendle-core-v2-public
-logo: null
+logo: /logos/pendle.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

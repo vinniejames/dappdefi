@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Base, Polygon, Unichain]
 url: https://app.uniswap.org/
 twitter: Uniswap
 github: Uniswap/v4-core
-logo: null
+logo: /logos/uniswap-v4.png
 listed_at: 2025-01-29
 tags:
   governance: dao

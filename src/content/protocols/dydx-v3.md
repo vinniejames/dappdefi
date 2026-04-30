@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://trade.dydx.exchange
 twitter: dYdX
 github: dydxprotocol
-logo: null
+logo: /logos/dydx-v3.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

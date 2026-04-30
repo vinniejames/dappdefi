@@ -7,7 +7,7 @@ chains: [Ethereum, xDai]
 url: https://stakewise.io/
 twitter: stakewise_io
 github: stakewise
-logo: null
+logo: /logos/stakewise-v2.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

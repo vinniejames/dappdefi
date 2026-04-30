@@ -7,7 +7,7 @@ chains: [Arbitrum, Sonic, Avalanche]
 url: https://www.silo.finance
 twitter: SiloFinance
 github: silo-finance
-logo: null
+logo: /logos/silo-v2.png
 listed_at: 2026-04-29
 tags:
   governance: dao

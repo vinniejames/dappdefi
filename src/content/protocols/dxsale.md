@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Base]
 url: https://dx.app
 twitter: DxSaleNetwork
 github: null
-logo: null
+logo: /logos/dxsale.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

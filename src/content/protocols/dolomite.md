@@ -7,7 +7,7 @@ chains: [Ethereum, Berachain, Arbitrum, Mantle]
 url: https://dolomite.io
 twitter: Dolomite_io
 github: dolomite-exchange
-logo: null
+logo: /logos/dolomite.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

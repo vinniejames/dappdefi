@@ -7,7 +7,7 @@ chains: [Ethereum, Solana]
 url: https://www.maple.finance
 twitter: maplefinance
 github: maple-labs
-logo: null
+logo: /logos/maple.png
 listed_at: 2026-04-29
 tags:
   governance: dao

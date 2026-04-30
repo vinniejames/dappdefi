@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://vishwa.network
 twitter: vishwanetwork
 github: null
-logo: null
+logo: /logos/vishwa.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [BSquared]
 url: https://www.bsquared.network
 twitter: BSquaredNetwork
 github: null
-logo: null
+logo: /logos/buzz-farming.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

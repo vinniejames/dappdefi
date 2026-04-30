@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://springsui.com
 twitter: springsui_
 github: null
-logo: null
+logo: /logos/springsui.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum]
 url: https://internetcomputer.org
 twitter: dfinity
 github: dfinity
-logo: null
+logo: /logos/chain-fusion.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://bucketprotocol.io
 twitter: bucket_protocol
 github: null
-logo: null
+logo: /logos/bucket-farm.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

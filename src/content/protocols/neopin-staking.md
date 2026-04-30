@@ -7,7 +7,7 @@ chains: [Klaytn, Tron]
 url: https://neopin.io
 twitter: NEOPIN_Official
 github: null
-logo: null
+logo: /logos/neopin-staking.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

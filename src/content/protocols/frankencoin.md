@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.frankencoin.com
 twitter: frankencoinZCHF
 github: Frankencoin-ZCHF
-logo: null
+logo: /logos/frankencoin.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.kraken.com
 twitter: krakenfx
 github: null
-logo: null
+logo: /logos/kraken-bitcoin.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

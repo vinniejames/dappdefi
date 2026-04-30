@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://alphaping.com
 twitter: AlphaPingDAO
 github: null
-logo: null
+logo: /logos/alphaping.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

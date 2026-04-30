@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://blackhole.xyz
 twitter: blackhole_dex
 github: null
-logo: null
+logo: /logos/blackhole-clmm.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

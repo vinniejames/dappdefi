@@ -7,7 +7,7 @@ chains: [Binance, Base, Ethereum, Solana, Arbitrum]
 url: https://pancakeswap.finance/
 twitter: PancakeSwap
 github: pancakeswap
-logo: null
+logo: /logos/pancakeswap-amm-v3.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

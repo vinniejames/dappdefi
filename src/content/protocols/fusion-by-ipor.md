@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://www.ipor.io
 twitter: ipor_io
 github: IPOR-Labs
-logo: null
+logo: /logos/fusion-by-ipor.svg
 listed_at: 2026-04-29
 tags:
   governance: dao

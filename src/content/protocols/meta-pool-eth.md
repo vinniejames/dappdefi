@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://metapool.app
 twitter: meta_pool
 github: Meta-Pool
-logo: null
+logo: /logos/meta-pool-eth.png
 listed_at: 2026-04-29
 tags:
   governance: dao

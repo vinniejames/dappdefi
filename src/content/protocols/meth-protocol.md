@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.methprotocol.xyz/
 twitter: mETHProtocol
 github: null
-logo: null
+logo: /logos/meth-protocol.png
 listed_at: 2023-12-04
 tags:
   governance: dao

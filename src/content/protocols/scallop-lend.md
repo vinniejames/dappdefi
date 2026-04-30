@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://app.scallop.io
 twitter: Scallop_io
 github: scallop-io
-logo: null
+logo: /logos/scallop-lend.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

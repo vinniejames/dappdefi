@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.ether.fi
 twitter: ether_fi
 github: etherfi-protocol
-logo: null
+logo: /logos/ether.fi-liquid.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

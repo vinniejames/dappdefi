@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.puffer.fi
 twitter: puffer_finance
 github: PufferFinance
-logo: null
+logo: /logos/puffer-stake.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

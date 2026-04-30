@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://katana.network
 twitter: KatanaNetwork
 github: null
-logo: null
+logo: /logos/katana-pre-launch.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ripple]
 url: https://xrpl.org
 twitter: RippleXDev
 github: XRPLF
-logo: null
+logo: /logos/xrpl-dex.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

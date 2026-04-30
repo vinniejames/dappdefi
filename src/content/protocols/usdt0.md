@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://usdt0.to
 twitter: USDT0_to
 github: null
-logo: null
+logo: /logos/usdt0.jpg
 listed_at: 2025-03-13
 tags:
   governance: foundation

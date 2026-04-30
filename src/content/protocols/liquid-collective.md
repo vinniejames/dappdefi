@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://liquidcollective.io
 twitter: liquid_col
 github: null
-logo: null
+logo: /logos/liquid-collective.jpg
 listed_at: 2023-08-16
 tags:
   governance: multisig

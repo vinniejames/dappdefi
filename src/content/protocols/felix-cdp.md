@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://felix.market
 twitter: felixmarket
 github: null
-logo: null
+logo: /logos/felix-cdp.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

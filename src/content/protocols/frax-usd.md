@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://frax.com
 twitter: fraxfinance
 github: FraxFinance
-logo: null
+logo: /logos/frax-usd.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

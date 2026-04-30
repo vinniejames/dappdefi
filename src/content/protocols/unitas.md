@@ -7,7 +7,7 @@ chains: [Solana, Binance]
 url: https://unitasprotocol.com
 twitter: unitasprotocol
 github: null
-logo: null
+logo: /logos/unitas.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

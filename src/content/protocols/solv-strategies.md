@@ -7,7 +7,7 @@ chains: [Binance, Avalanche, Ethereum]
 url: https://app.solv.finance
 twitter: SolvProtocol
 github: null
-logo: null
+logo: /logos/solv-strategies.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

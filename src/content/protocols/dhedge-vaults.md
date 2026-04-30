@@ -7,7 +7,7 @@ chains: [Base, Optimism, Arbitrum]
 url: https://www.dhedge.org
 twitter: dHedgeOrg
 github: dhedge
-logo: null
+logo: /logos/dhedge-vaults.png
 listed_at: 2026-04-29
 tags:
   governance: dao

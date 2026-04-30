@@ -7,7 +7,7 @@ chains: [Ethereum, Aptos, Sei]
 url: https://securitize.io
 twitter: Securitize
 github: null
-logo: null
+logo: /logos/apollo-diversified-credit-securitize-fund.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

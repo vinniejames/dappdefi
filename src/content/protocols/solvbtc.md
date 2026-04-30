@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Solana, Binance, Base]
 url: https://app.solv.finance/solvbtc
 twitter: SolvProtocol
 github: null
-logo: null
+logo: /logos/solvbtc.jpg
 listed_at: 2024-05-16
 tags:
   governance: dao

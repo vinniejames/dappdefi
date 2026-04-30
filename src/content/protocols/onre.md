@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://onre.io
 twitter: onreprotocol
 github: null
-logo: null
+logo: /logos/onre.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

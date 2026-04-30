@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://lista.org/
 twitter: LISTA_DAO
 github: null
-logo: null
+logo: /logos/lista-cdp.jpg
 listed_at: 2022-08-30
 tags:
   governance: dao

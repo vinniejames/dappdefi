@@ -7,7 +7,7 @@ chains: [Ethereum, TAC, Berachain]
 url: https://tulipa.capital
 twitter: tulipa_capital
 github: null
-logo: null
+logo: /logos/tulipa-capital.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

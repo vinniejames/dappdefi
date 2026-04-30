@@ -7,7 +7,7 @@ chains: [Starknet]
 url: https://vesu.xyz
 twitter: vesuxyz
 github: vesuxyz
-logo: null
+logo: /logos/vesu.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

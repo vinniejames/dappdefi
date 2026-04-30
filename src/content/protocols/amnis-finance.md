@@ -7,7 +7,7 @@ chains: [Aptos]
 url: https://amnis.finance
 twitter: AmnisFinance
 github: amnisfinance
-logo: null
+logo: /logos/amnis-finance.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

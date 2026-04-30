@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.solstrategies.io
 twitter: SOLStrategiesCo
 github: null
-logo: null
+logo: /logos/stkesol-by-sol-strategies.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

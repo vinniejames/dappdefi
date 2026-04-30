@@ -7,7 +7,7 @@ chains: [Binance, Arbitrum, Ethereum, Mantle]
 url: https://app.solv.finance
 twitter: SolvProtocol
 github: null
-logo: null
+logo: /logos/solv-basis-trading.png
 listed_at: 2026-04-29
 tags:
   governance: dao

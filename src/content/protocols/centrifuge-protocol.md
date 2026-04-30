@@ -7,7 +7,7 @@ chains: [Ethereum, Avalanche, "Plume Mainnet", Base, Binance, Optimism]
 url: https://centrifuge.io
 twitter: centrifuge
 github: centrifuge
-logo: null
+logo: /logos/centrifuge-protocol.jpg
 listed_at: 2024-08-01
 tags:
   governance: dao

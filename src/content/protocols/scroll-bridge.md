@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://scroll.io/bridge
 twitter: Scroll_ZKP
 github: scroll-tech
-logo: null
+logo: /logos/scroll-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

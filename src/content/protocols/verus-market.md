@@ -7,7 +7,7 @@ chains: [Verus]
 url: https://verus.io
 twitter: VerusCoin
 github: VerusCoin
-logo: null
+logo: /logos/verus-market.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

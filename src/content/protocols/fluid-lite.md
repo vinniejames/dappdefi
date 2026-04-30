@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://fluid.io
 twitter: 0xfluid
 github: Instadapp
-logo: null
+logo: /logos/fluid-lite.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

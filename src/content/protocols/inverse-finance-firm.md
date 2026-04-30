@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.inverse.finance
 twitter: InverseFinance
 github: InverseFinance
-logo: null
+logo: /logos/inverse-finance-firm.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

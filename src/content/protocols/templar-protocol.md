@@ -7,7 +7,7 @@ chains: [Bitcoin, Stellar, Ethereum]
 url: https://templar.fi
 twitter: templar_fi
 github: null
-logo: null
+logo: /logos/templar-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Algorand]
 url: https://www.lofty.ai
 twitter: loftyai
 github: null
-logo: null
+logo: /logos/lofty.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

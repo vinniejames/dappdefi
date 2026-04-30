@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jpool.one
 twitter: JPoolSolana
 github: null
-logo: null
+logo: /logos/jpool.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

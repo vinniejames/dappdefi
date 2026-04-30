@@ -7,7 +7,7 @@ chains: [Thorchain, Bitcoin, Ethereum]
 url: https://thorchain.org
 twitter: THORChain
 github: thorchain
-logo: null
+logo: /logos/thorchain-dex.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

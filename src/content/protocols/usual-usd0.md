@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://usual.money
 twitter: usualmoney
 github: null
-logo: null
+logo: /logos/usual-usd0.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

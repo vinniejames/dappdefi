@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://pacifica.fi
 twitter: pacifica_fi
 github: null
-logo: null
+logo: /logos/pacifica.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://lista.org/
 twitter: LISTA_DAO
 github: null
-logo: null
+logo: /logos/lista-liquid-staking.jpg
 listed_at: 2023-08-07
 tags:
   governance: dao

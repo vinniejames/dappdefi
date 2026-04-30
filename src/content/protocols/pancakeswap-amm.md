@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Aptos, Base, "zkSync Era", Op_Bnb]
 url: https://pancakeswap.finance/
 twitter: PancakeSwap
 github: pancakeswap
-logo: null
+logo: /logos/pancakeswap-amm.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

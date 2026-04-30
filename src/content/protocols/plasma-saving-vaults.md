@@ -7,7 +7,7 @@ chains: [Plasma]
 url: https://plasma.to
 twitter: plasma_network
 github: null
-logo: null
+logo: /logos/plasma-saving-vaults.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

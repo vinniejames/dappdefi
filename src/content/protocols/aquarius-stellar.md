@@ -7,7 +7,7 @@ chains: [Stellar]
 url: https://aqua.network
 twitter: aqua_token
 github: null
-logo: null
+logo: /logos/aquarius-stellar.png
 listed_at: 2026-04-29
 tags:
   governance: dao

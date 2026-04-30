@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://anvil.xyz
 twitter: anvil_xyz
 github: null
-logo: null
+logo: /logos/anvil.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

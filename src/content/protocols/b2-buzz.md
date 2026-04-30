@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Polygon, Binance]
 url: https://www.bsquared.network
 twitter: BSquaredNetwork
 github: null
-logo: null
+logo: /logos/b2-buzz.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

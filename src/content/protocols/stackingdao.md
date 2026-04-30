@@ -7,7 +7,7 @@ chains: [Stacks]
 url: https://stackingdao.com
 twitter: StackingDAO
 github: null
-logo: null
+logo: /logos/stackingdao.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

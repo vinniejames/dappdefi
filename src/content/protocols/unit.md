@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Solana, Plasma, Monad]
 url: https://hyperunit.xyz/deposit
 twitter: unitxyz
 github: null
-logo: null
+logo: /logos/unit.jpg
 listed_at: 2025-02-14
 tags:
   governance: foundation

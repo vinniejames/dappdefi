@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Base, Monad, Fraxtal, Etherlink]
 url: https://curve.finance
 twitter: CurveFinance
 github: curvefi/curve-contract
-logo: null
+logo: /logos/curve-dex.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

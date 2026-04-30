@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://edgevana.com
 twitter: edgevana
 github: null
-logo: null
+logo: /logos/edgevana.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

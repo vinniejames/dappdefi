@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://realms.today
 twitter: Realms_DAOs
 github: solana-labs/governance-program
-logo: null
+logo: /logos/realms.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

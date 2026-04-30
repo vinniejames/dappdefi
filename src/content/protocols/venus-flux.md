@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://app.venus.io
 twitter: VenusProtocol
 github: VenusProtocol
-logo: null
+logo: /logos/venus-flux.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

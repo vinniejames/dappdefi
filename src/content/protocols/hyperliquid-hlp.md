@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://app.hyperliquid.xyz
 twitter: HyperliquidX
 github: null
-logo: null
+logo: /logos/hyperliquid-hlp.jpg
 listed_at: 2024-12-01
 tags:
   governance: foundation

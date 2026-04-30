@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://pharaoh.exchange
 twitter: PharaohExchange
 github: null
-logo: null
+logo: /logos/pharaoh-v3.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://grvt.io
 twitter: grvt_io
 github: null
-logo: null
+logo: /logos/grvt-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

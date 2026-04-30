@@ -7,7 +7,7 @@ chains: [Sui, Aptos]
 url: https://www.cetus.zone
 twitter: CetusProtocol
 github: CetusProtocol
-logo: null
+logo: /logos/cetus-clmm.png
 listed_at: 2026-04-29
 tags:
   governance: dao

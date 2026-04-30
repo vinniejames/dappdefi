@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://stakestone.io
 twitter: Stake_Stone
 github: null
-logo: null
+logo: /logos/stakestone-stone.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

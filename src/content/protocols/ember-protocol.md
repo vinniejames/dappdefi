@@ -7,7 +7,7 @@ chains: [Ethereum, Sui]
 url: https://emberprotocol.xyz
 twitter: ember_protocol
 github: null
-logo: null
+logo: /logos/ember-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

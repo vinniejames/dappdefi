@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://hakutora.io
 twitter: hakutora_io
 github: null
-logo: null
+logo: /logos/hakutora.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

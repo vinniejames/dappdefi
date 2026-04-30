@@ -7,7 +7,7 @@ chains: [Ethereum, Mantle, Arbitrum, Optimism, Base]
 url: https://yieldlayer.cian.app/
 twitter: CIAN_protocol
 github: null
-logo: null
+logo: /logos/cian-yield-layer.jpg
 listed_at: 2024-11-18
 tags:
   governance: foundation

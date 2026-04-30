@@ -7,7 +7,7 @@ chains: [Ethereum, Fraxtal]
 url: https://app.frax.finance
 twitter: fraxfinance
 github: FraxFinance
-logo: null
+logo: /logos/frax-ether.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

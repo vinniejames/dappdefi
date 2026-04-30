@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://www.arrakis.finance
 twitter: ArrakisFinance
 github: ArrakisFinance
-logo: null
+logo: /logos/arrakis-modular.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

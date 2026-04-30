@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Avalanche]
 url: https://homora.alphaventuredao.io
 twitter: AlphaFinanceLab
 github: AlphaVentureDAO
-logo: null
+logo: /logos/homora-v2.png
 listed_at: 2026-04-29
 tags:
   governance: dao

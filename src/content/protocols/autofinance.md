@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://autofinance.fi
 twitter: AUTOfinance_fi
 github: null
-logo: null
+logo: /logos/autofinance.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

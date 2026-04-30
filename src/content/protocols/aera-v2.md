@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Polygon]
 url: https://aera.finance
 twitter: aerafinance
 github: GauntletNetwork
-logo: null
+logo: /logos/aera-v2.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

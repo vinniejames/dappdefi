@@ -7,7 +7,7 @@ chains: [Bitcoin, Ethereum, Merlin, BOB, Binance]
 url: https://app.bedrock.technology/
 twitter: Bedrock_DeFi
 github: null
-logo: null
+logo: /logos/bedrock-unibtc.jpg
 listed_at: 2024-10-29
 tags:
   governance: foundation

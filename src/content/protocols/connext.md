@@ -7,7 +7,7 @@ chains: [Ethereum, Linea, Arbitrum, Base]
 url: https://www.connext.network
 twitter: ConnextNetwork
 github: connext
-logo: null
+logo: /logos/connext.png
 listed_at: 2026-04-29
 tags:
   governance: dao

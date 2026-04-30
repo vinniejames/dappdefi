@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://hastra.io
 twitter: HastraFinance
 github: null
-logo: null
+logo: /logos/hastra.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

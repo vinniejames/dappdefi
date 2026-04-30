@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://haedal.xyz
 twitter: HaedalProtocol
 github: null
-logo: null
+logo: /logos/haedal-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

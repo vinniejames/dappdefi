@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://portal.polygon.technology
 twitter: 0xPolygon
 github: 0xPolygonHermez
-logo: null
+logo: /logos/polygon-zkevm-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

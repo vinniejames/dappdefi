@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://www.naviprotocol.io
 twitter: navi_protocol
 github: naviprotocol
-logo: null
+logo: /logos/navi-lending.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

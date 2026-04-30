@@ -7,7 +7,7 @@ chains: [Solana, Arbitrum, Ethereum]
 url: https://orderly.network
 twitter: OrderlyNetwork
 github: OrderlyNetwork
-logo: null
+logo: /logos/orderly-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

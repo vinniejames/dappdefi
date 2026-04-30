@@ -7,7 +7,7 @@ chains: [Solana, Ethereum, Sei]
 url: https://www.rockawayx.com
 twitter: rockawayxhq
 github: null
-logo: null
+logo: /logos/rockawayx.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.nodedao.com
 twitter: Node_DAO
 github: NodeDAO-Official
-logo: null
+logo: /logos/nodedao.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Plasma, Base, Avalanche, Binance, Polygon, Mantle, 
 url: https://aave.com
 twitter: aave
 github: aave-dao/aave-v3-origin
-logo: null
+logo: /logos/aave-v3.png
 listed_at: 2022-04-01
 tags:
   governance: dao

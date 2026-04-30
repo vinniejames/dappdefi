@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://starkgate.starknet.io
 twitter: Starknet
 github: starkware-libs
-logo: null
+logo: /logos/starknet-bridge.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://blast.io/bridge
 twitter: Blast_L2
 github: null
-logo: null
+logo: /logos/blast-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

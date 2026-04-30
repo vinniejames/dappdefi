@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://gain.finance
 twitter: gain_finance
 github: null
-logo: null
+logo: /logos/gain.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

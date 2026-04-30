@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://app.exponent.finance
 twitter: exponent_fi
 github: null
-logo: null
+logo: /logos/exponent.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

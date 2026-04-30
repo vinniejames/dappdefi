@@ -7,7 +7,7 @@ chains: [Ethereum, Polygon, Arbitrum]
 url: https://balancer.fi
 twitter: Balancer
 github: balancer/balancer-v2-monorepo
-logo: null
+logo: /logos/balancer-v2.png
 listed_at: 2026-04-29
 tags:
   governance: dao

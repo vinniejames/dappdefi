@@ -7,7 +7,7 @@ chains: [Bitcoin, Arbitrum, Ethereum, Zkfair]
 url: https://merlinchain.io/bridge/staking
 twitter: MerlinLayer2
 github: null
-logo: null
+logo: /logos/merlins-seal.png
 listed_at: 2024-02-09
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://yieldbasis.com
 twitter: yieldbasis
 github: null
-logo: null
+logo: /logos/yield-basis.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

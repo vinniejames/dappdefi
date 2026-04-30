@@ -7,7 +7,7 @@ chains: ["Immutable zkEVM", Polygon, Manta]
 url: https://quickswap.exchange
 twitter: QuickswapDEX
 github: QuickSwap
-logo: null
+logo: /logos/quickswap-v3.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

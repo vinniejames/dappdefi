@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://fx.aladdin.club
 twitter: AladdinDAO
 github: AladdinDAO
-logo: null
+logo: /logos/fx-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

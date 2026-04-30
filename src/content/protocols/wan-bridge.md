@@ -7,7 +7,7 @@ chains: [Cardano, Binance, Bitcoin]
 url: https://wanchain.org
 twitter: wanchain_org
 github: wanchain
-logo: null
+logo: /logos/wan-bridge.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

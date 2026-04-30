@@ -7,7 +7,7 @@ chains: [ENI]
 url: https://dswap.eni
 twitter: null
 github: null
-logo: null
+logo: /logos/dswap.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

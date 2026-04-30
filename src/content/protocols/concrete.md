@@ -7,7 +7,7 @@ chains: [Ethereum, Stable, Berachain, Arbitrum, Katana]
 url: https://app.concrete.xyz
 twitter: ConcreteXYZ
 github: null
-logo: null
+logo: /logos/concrete.png
 listed_at: 2025-02-07
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum, Binance]
 url: https://www.aegis.im
 twitter: aegis_im
 github: null
-logo: null
+logo: /logos/aegis.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

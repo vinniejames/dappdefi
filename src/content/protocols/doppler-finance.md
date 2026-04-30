@@ -7,7 +7,7 @@ chains: [Ripple, Ethereum]
 url: https://doppler.finance
 twitter: DopplerFinance
 github: null
-logo: null
+logo: /logos/doppler-finance.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

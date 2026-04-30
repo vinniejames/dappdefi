@@ -7,7 +7,7 @@ chains: [Ethereum, Solana, "Plume Mainnet"]
 url: https://superstate.com/
 twitter: superstatefunds
 github: null
-logo: null
+logo: /logos/superstate-uscc.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

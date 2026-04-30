@@ -7,7 +7,7 @@ chains: [Base, Optimism, Avalanche]
 url: https://40acres.finance
 twitter: 40acres_fi
 github: null
-logo: null
+logo: /logos/40-acres.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

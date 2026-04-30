@@ -7,7 +7,7 @@ chains: [Ethereum, Base, PGN]
 url: https://app.optimism.io/bridge/deposit
 twitter: optimismFND
 github: ethereum-optimism/optimism
-logo: null
+logo: /logos/optimism-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

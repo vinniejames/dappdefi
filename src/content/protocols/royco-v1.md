@@ -7,7 +7,7 @@ chains: [Berachain, Arbitrum, Ethereum]
 url: https://royco.org
 twitter: roycoprotocol
 github: null
-logo: null
+logo: /logos/royco-v1.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

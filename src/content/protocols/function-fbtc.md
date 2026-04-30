@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.fxn.xyz
 twitter: FunctionBTC
 github: null
-logo: null
+logo: /logos/function-fbtc.jpg
 listed_at: 2024-08-05
 tags:
   governance: foundation

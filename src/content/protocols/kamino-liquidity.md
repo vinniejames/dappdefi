@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://kamino.com/liquidity
 twitter: Kamino
 github: null
-logo: null
+logo: /logos/kamino-liquidity.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

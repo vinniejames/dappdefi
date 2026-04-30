@@ -7,7 +7,7 @@ chains: [Ethereum, Plasma, Avalanche, Arbitrum]
 url: https://k3capital.io
 twitter: k3capital
 github: null
-logo: null
+logo: /logos/k3-capital.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

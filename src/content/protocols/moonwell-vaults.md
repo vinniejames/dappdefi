@@ -7,7 +7,7 @@ chains: [Base, Optimism]
 url: https://moonwell.fi
 twitter: MoonwellDeFi
 github: moonwell-fi
-logo: null
+logo: /logos/moonwell-vaults.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

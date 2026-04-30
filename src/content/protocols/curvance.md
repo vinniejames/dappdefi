@@ -7,7 +7,7 @@ chains: [Monad]
 url: https://curvance.com
 twitter: Curvance
 github: null
-logo: null
+logo: /logos/curvance.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

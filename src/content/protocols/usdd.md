@@ -7,7 +7,7 @@ chains: [Tron, Ethereum, Binance]
 url: https://usdd.io/
 twitter: usddio
 github: null
-logo: null
+logo: /logos/usdd.jpg
 listed_at: 2025-03-13
 tags:
   governance: dao

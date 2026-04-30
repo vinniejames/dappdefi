@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://projectx.fi
 twitter: ProjectX_HL
 github: null
-logo: null
+logo: /logos/project-x.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

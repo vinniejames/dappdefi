@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Base, Katana, Solana, Optimism]
 url: https://www.gauntlet.xyz
 twitter: gauntlet_xyz
 github: null
-logo: null
+logo: /logos/gauntlet.jpg
 listed_at: 2025-05-20
 tags:
   governance: foundation

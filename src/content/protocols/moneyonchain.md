@@ -7,7 +7,7 @@ chains: [RSK]
 url: https://moneyonchain.com
 twitter: moneyonchainok
 github: money-on-chain
-logo: null
+logo: /logos/moneyonchain.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

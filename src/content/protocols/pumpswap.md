@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://pump.fun
 twitter: pumpdotfun
 github: null
-logo: null
+logo: /logos/pumpswap.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

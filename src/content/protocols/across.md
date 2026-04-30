@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://across.to
 twitter: AcrossProtocol
 github: across-protocol
-logo: null
+logo: /logos/across.png
 listed_at: 2026-04-29
 tags:
   governance: dao

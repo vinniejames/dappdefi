@@ -7,7 +7,7 @@ chains: [Solana, Eclipse]
 url: https://save.finance
 twitter: save_finance
 github: solendprotocol
-logo: null
+logo: /logos/save.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

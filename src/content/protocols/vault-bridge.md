@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.agglayer.dev
 twitter: AggLayer
 github: 0xPolygon/agglayer
-logo: null
+logo: /logos/vault-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

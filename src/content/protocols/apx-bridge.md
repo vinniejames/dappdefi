@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Arbitrum]
 url: https://www.asterdex.com
 twitter: Aster_DEX
 github: null
-logo: null
+logo: /logos/apx-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

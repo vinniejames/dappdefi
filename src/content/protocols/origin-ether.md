@@ -7,7 +7,7 @@ chains: [Ethereum, Base, "Plume Mainnet"]
 url: https://www.originprotocol.com
 twitter: OriginProtocol
 github: OriginProtocol
-logo: null
+logo: /logos/origin-ether.png
 listed_at: 2026-04-29
 tags:
   governance: dao

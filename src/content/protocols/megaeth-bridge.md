@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://megaeth.com
 twitter: megaeth_labs
 github: null
-logo: null
+logo: /logos/megaeth-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

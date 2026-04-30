@@ -7,7 +7,7 @@ chains: [Sui]
 url: https://alphalend.xyz
 twitter: AlphaLend
 github: null
-logo: null
+logo: /logos/alphalend.png
 listed_at: 2026-04-29
 tags:
   governance: dao

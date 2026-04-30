@@ -7,7 +7,7 @@ chains: [Plasma, Ethereum]
 url: https://telos.consilium.is
 twitter: TelosConsilium
 github: null
-logo: null
+logo: /logos/telos-consilium.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

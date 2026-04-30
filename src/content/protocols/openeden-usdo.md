@@ -7,7 +7,7 @@ chains: [Ripple, Ethereum, Polygon]
 url: https://openeden.com
 twitter: OpenEden_HQ
 github: null
-logo: null
+logo: /logos/openeden-usdo.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

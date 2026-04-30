@@ -7,7 +7,7 @@ chains: [Ethereum, Celo, Base]
 url: https://www.anemoy.io
 twitter: anemoycapital
 github: null
-logo: null
+logo: /logos/anemoy-capital.png
 listed_at: 2024-12-09
 tags:
   governance: foundation

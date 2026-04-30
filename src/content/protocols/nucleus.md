@@ -7,7 +7,7 @@ chains: ["Plume Mainnet", Ethereum, Swellchain]
 url: https://nucleusearn.io
 twitter: nucleusearn
 github: null
-logo: null
+logo: /logos/nucleus.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.mantle.xyz
 twitter: Mantle_Official
 github: null
-logo: null
+logo: /logos/mantle-restaking.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

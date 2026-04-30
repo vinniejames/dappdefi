@@ -7,7 +7,7 @@ chains: [Berachain]
 url: https://kodiak.finance
 twitter: KodiakFi
 github: null
-logo: null
+logo: /logos/kodiak-islands.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

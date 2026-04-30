@@ -7,7 +7,7 @@ chains: [Ethereum, Binance]
 url: https://www.yieldnest.finance
 twitter: YieldNestFi
 github: null
-logo: null
+logo: /logos/yieldnest.png
 listed_at: 2026-04-29
 tags:
   governance: dao

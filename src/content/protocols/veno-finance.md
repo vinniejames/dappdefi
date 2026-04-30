@@ -7,7 +7,7 @@ chains: [Cronos, Ethereum, "Cronos zkEVM"]
 url: https://veno.finance
 twitter: VenoFinance
 github: null
-logo: null
+logo: /logos/veno-finance.png
 listed_at: 2026-04-29
 tags:
   governance: dao

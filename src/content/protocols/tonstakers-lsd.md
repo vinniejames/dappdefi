@@ -7,7 +7,7 @@ chains: [TON]
 url: https://tonstakers.com
 twitter: tonstakers
 github: null
-logo: null
+logo: /logos/tonstakers-lsd.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

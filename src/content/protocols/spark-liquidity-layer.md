@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Unichain, Arbitrum, Optimism, Avalanche]
 url: https://app.spark.fi/
 twitter: sparkdotfi
 github: marsfoundation
-logo: null
+logo: /logos/spark-liquidity-layer.jpg
 listed_at: 2025-04-03
 tags:
   governance: dao

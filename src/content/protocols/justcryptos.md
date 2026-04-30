@@ -7,7 +7,7 @@ chains: [Tron]
 url: https://just.network/token
 twitter: DeFi_JUST
 github: null
-logo: null
+logo: /logos/justcryptos.png
 listed_at: 2021-10-21
 tags:
   governance: dao

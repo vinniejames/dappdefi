@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://adrastea.io
 twitter: adrastea_io
 github: null
-logo: null
+logo: /logos/adrastea-validator.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://tzbtc.io
 twitter: tzbtcofficial
 github: null
-logo: null
+logo: /logos/tzbtc.jpg
 listed_at: 2026-04-29
 tags:
   governance: multisig

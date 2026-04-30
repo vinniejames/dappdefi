@@ -7,7 +7,7 @@ chains: [Ripple, Celo, Ethereum]
 url: https://wrapped.com
 twitter: WRPDcom
 github: null
-logo: null
+logo: /logos/wrapped.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Arbitrum, "Hyperliquid L1", Base]
 url: https://d2.finance
 twitter: d2finance
 github: null
-logo: null
+logo: /logos/d2-finance.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum, Base]
 url: https://seamlessprotocol.com
 twitter: SeamlessFi
 github: seamless-protocol
-logo: null
+logo: /logos/seamless-v2.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

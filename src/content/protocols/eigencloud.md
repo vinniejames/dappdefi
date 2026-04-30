@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.eigencloud.xyz
 twitter: eigencloud
 github: Layr-Labs/eigenlayer-contracts
-logo: null
+logo: /logos/eigencloud.png
 listed_at: 2023-06-14
 tags:
   governance: dao

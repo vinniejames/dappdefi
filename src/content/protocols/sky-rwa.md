@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://sky.money
 twitter: SkyEcosystem
 github: makerdao
-logo: null
+logo: /logos/sky-rwa.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

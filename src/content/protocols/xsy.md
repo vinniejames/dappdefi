@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://xsy.finance
 twitter: xsy_finance
 github: null
-logo: null
+logo: /logos/xsy.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

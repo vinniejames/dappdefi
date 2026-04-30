@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://lightning.network/
 twitter: null
 github: lightningnetwork/lnd
-logo: null
+logo: /logos/lightning-network.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

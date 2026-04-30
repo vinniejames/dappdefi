@@ -7,7 +7,7 @@ chains: [Ethereum, Sei, Arbitrum, Binance]
 url: https://gaib.ai
 twitter: gaib_ai
 github: null
-logo: null
+logo: /logos/gaib.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

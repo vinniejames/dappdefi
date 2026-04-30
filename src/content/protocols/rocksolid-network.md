@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://rocksolid.network
 twitter: rocksolid_net
 github: null
-logo: null
+logo: /logos/rocksolid-network.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

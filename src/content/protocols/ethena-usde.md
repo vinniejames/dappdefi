@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.ethena.fi/
 twitter: ethena_labs
 github: ethena-labs/ethena
-logo: null
+logo: /logos/ethena-usde.png
 listed_at: 2024-02-15
 tags:
   governance: dao

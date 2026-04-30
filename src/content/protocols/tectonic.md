@@ -7,7 +7,7 @@ chains: [Cronos]
 url: https://tectonic.finance
 twitter: TectonicFi
 github: null
-logo: null
+logo: /logos/tectonic.png
 listed_at: 2026-04-29
 tags:
   governance: dao

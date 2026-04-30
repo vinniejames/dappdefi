@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Avalanche, "Plume Mainnet"]
 url: https://data.grove.finance/
 twitter: grovedotfinance
 github: null
-logo: null
+logo: /logos/grove-finance.jpg
 listed_at: 2026-03-26
 tags:
   governance: dao

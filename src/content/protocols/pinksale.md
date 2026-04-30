@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Polygon, Cronos]
 url: https://www.pinksale.finance
 twitter: Pinksale_Fi
 github: null
-logo: null
+logo: /logos/pinksale.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

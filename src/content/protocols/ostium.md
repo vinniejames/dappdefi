@@ -7,7 +7,7 @@ chains: [Arbitrum]
 url: https://ostium.io
 twitter: OstiumLabs
 github: null
-logo: null
+logo: /logos/ostium.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

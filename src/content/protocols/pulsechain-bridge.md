@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://bridge.pulsechain.com
 twitter: PulseChainCom
 github: null
-logo: null
+logo: /logos/pulsechain-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

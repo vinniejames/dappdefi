@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.compound.finance
 twitter: compoundfinance
 github: compound-finance/compound-protocol
-logo: null
+logo: /logos/compound-v2.png
 listed_at: 2026-04-29
 tags:
   governance: dao

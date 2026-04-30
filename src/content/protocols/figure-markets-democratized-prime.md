@@ -7,7 +7,7 @@ chains: [Provenance]
 url: https://www.figuremarkets.com
 twitter: figuremarkets
 github: null
-logo: null
+logo: /logos/figure-markets-democratized-prime.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Ethereum, xDai]
 url: https://app.spark.fi/
 twitter: sparkdotfi
 github: marsfoundation/spark-lend
-logo: null
+logo: /logos/sparklend.jpg
 listed_at: 2023-05-03
 tags:
   governance: dao

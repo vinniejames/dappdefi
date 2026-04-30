@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://meteora.ag
 twitter: MeteoraAG
 github: MeteoraAg
-logo: null
+logo: /logos/meteora-damm-v1.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

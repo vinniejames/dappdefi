@@ -7,7 +7,7 @@ chains: [Sui, Sei, "Immutable zkEVM"]
 url: https://kaio.finance
 twitter: KAIOfinance
 github: null
-logo: null
+logo: /logos/kaio.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

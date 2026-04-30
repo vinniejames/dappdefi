@@ -7,7 +7,7 @@ chains: [Tezos]
 url: https://youves.com
 twitter: youves_com
 github: youves-org
-logo: null
+logo: /logos/youves.png
 listed_at: 2026-04-29
 tags:
   governance: dao

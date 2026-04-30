@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://kinetiq.xyz
 twitter: kinetiq_xyz
 github: null
-logo: null
+logo: /logos/kinetiq-earn.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

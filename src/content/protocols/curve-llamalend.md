@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Fraxtal]
 url: https://lend.curve.finance
 twitter: CurveFinance
 github: curvefi
-logo: null
+logo: /logos/curve-llamalend.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

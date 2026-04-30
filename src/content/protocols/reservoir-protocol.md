@@ -7,7 +7,7 @@ chains: [Ethereum, Monad, Plasma]
 url: https://reservoir.xyz
 twitter: reservoir_xyz
 github: null
-logo: null
+logo: /logos/reservoir-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

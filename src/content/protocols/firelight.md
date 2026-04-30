@@ -7,7 +7,7 @@ chains: [Flare]
 url: https://firelight.finance
 twitter: firelight_fi
 github: null
-logo: null
+logo: /logos/firelight.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

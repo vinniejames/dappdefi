@@ -7,7 +7,7 @@ chains: [Cronos, Solana]
 url: https://crypto.com/staking
 twitter: cryptocom
 github: null
-logo: null
+logo: /logos/crypto.com-liquid-staking.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

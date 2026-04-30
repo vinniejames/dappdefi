@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Optimism, Base]
 url: https://defisaver.com
 twitter: DeFiSaver
 github: defisaver
-logo: null
+logo: /logos/defi-saver.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

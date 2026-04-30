@@ -7,7 +7,7 @@ chains: [Pulse]
 url: https://pulsex.com
 twitter: pulsexcom
 github: null
-logo: null
+logo: /logos/pulsex-v1.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

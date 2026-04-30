@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://lulo.fi
 twitter: lulo_fi
 github: null
-logo: null
+logo: /logos/lulo.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Arbitrum]
 url: https://usd.ai
 twitter: usddotai
 github: null
-logo: null
+logo: /logos/usd-ai.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

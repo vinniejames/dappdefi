@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://world.org
 twitter: worldcoin
 github: worldcoin
-logo: null
+logo: /logos/world-chain.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

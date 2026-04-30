@@ -7,7 +7,7 @@ chains: [WEMIX]
 url: https://wemix.fi
 twitter: WemixFi
 github: null
-logo: null
+logo: /logos/wemix.fi-staking.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

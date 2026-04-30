@@ -7,7 +7,7 @@ chains: [Provenance]
 url: https://www.figuremarkets.com/crypto-exchange/
 twitter: figuremarkets
 github: null
-logo: null
+logo: /logos/figure-markets-exchange.jpg
 listed_at: 2025-07-28
 tags:
   governance: foundation

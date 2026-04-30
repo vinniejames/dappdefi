@@ -7,7 +7,7 @@ chains: [Ethereum, Monad, Arbitrum, Plasma]
 url: https://midas.app
 twitter: MidasRWA
 github: null
-logo: null
+logo: /logos/midas-rwa.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

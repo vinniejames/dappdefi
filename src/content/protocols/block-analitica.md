@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://blockanalitica.com
 twitter: BlockAnalitica
 github: null
-logo: null
+logo: /logos/block-analitica.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

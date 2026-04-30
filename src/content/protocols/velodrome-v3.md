@@ -7,7 +7,7 @@ chains: [Ink, Optimism, Lisk]
 url: https://velodrome.finance
 twitter: VelodromeFi
 github: velodrome-finance
-logo: null
+logo: /logos/velodrome-v3.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

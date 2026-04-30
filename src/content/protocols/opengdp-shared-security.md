@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, K2]
 url: https://opengdp.io
 twitter: opengdp_io
 github: null
-logo: null
+logo: /logos/opengdp-shared-security.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

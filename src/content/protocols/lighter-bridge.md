@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum]
 url: https://app.lighter.xyz/
 twitter: Lighter_xyz
 github: null
-logo: null
+logo: /logos/lighter-bridge.jpg
 listed_at: 2025-04-14
 tags:
   governance: foundation

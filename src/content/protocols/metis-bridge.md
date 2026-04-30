@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://bridge.metis.io
 twitter: MetisL2
 github: MetisProtocol
-logo: null
+logo: /logos/metis-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

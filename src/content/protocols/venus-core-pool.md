@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Arbitrum, "zkSync Era", Unichain, Base]
 url: "https://app.venus.io/#/core-pool"
 twitter: VenusProtocol
 github: VenusProtocol
-logo: null
+logo: /logos/venus-core-pool.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

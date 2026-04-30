@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Optimism]
 url: https://summer.fi
 twitter: summerfinance_
 github: OasisDEX
-logo: null
+logo: /logos/summer.fi-pro.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

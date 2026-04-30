@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, Solana]
 url: https://ondo.finance
 twitter: OndoFinance
 github: ondoprotocol
-logo: null
+logo: /logos/ondo-global-markets.jpg
 listed_at: 2025-09-03
 tags:
   governance: dao

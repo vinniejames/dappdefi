@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://loopscale.com
 twitter: loopscale
 github: null
-logo: null
+logo: /logos/loopscale.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

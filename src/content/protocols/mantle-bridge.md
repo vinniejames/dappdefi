@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.mantle.xyz/bridge
 twitter: Mantle_Official
 github: mantlenetworkio
-logo: null
+logo: /logos/mantle-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

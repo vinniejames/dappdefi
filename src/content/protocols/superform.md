@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Optimism]
 url: https://www.superform.xyz
 twitter: superformxyz
 github: superform-xyz
-logo: null
+logo: /logos/superform.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

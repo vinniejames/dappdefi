@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://ssv.network/
 twitter: ssv_network
 github: ssvlabs/ssv
-logo: null
+logo: /logos/ssv-network.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

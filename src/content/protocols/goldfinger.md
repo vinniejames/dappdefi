@@ -7,7 +7,7 @@ chains: [Binance]
 url: https://goldfinger.io
 twitter: goldfinger_io
 github: null
-logo: null
+logo: /logos/goldfinger.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

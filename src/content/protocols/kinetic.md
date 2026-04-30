@@ -7,7 +7,7 @@ chains: [Flare]
 url: https://kinetic.market
 twitter: kinetic_market
 github: null
-logo: null
+logo: /logos/kinetic.png
 listed_at: 2026-04-29
 tags:
   governance: dao

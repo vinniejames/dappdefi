@@ -7,7 +7,7 @@ chains: [Base, Optimism, Berachain]
 url: https://extrafi.io
 twitter: extrafi_io
 github: null
-logo: null
+logo: /logos/extra-finance-leverage-farming.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

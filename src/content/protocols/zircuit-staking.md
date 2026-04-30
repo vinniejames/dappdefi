@@ -7,7 +7,7 @@ chains: [Ethereum, Zircuit]
 url: https://stake.zircuit.com
 twitter: ZircuitL2
 github: null
-logo: null
+logo: /logos/zircuit-staking.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

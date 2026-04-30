@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://app.bedrock.technology
 twitter: Bedrock_DeFi
 github: null
-logo: null
+logo: /logos/bedrock-unieth.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

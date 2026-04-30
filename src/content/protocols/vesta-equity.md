@@ -7,7 +7,7 @@ chains: [Algorand]
 url: https://vestaequity.io
 twitter: VestaEquity
 github: null
-logo: null
+logo: /logos/vesta-equity.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

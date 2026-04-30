@@ -7,7 +7,7 @@ chains: [Ethereum, Avalanche, Mantle]
 url: https://www.treehouse.finance
 twitter: TreehouseFi
 github: null
-logo: null
+logo: /logos/treehouse-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

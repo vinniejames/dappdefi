@@ -7,7 +7,7 @@ chains: [Ethereum, TAC, "zkSync Era"]
 url: https://noon.capital
 twitter: nooncapital
 github: null
-logo: null
+logo: /logos/noon.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

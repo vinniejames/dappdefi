@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.okx.com
 twitter: okx
 github: null
-logo: null
+logo: /logos/okx-xbtc.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

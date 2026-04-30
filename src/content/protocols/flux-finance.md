@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://fluxfinance.com
 twitter: fluxdefi
 github: null
-logo: null
+logo: /logos/flux-finance.png
 listed_at: 2026-04-29
 tags:
   governance: dao

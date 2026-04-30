@@ -7,7 +7,7 @@ chains: [Berachain]
 url: https://infrared.finance
 twitter: InfraredFinance
 github: null
-logo: null
+logo: /logos/infrared-finance.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

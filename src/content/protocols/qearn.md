@@ -7,7 +7,7 @@ chains: [Qubic]
 url: https://qubic.org
 twitter: QubicOrg
 github: qubic
-logo: null
+logo: /logos/qearn.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

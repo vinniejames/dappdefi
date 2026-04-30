@@ -7,7 +7,7 @@ chains: ["Plume Mainnet", Solana, Ethereum]
 url: https://nest.credit
 twitter: nest_credit
 github: null
-logo: null
+logo: /logos/nest-credit.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

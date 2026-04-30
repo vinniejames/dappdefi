@@ -7,7 +7,7 @@ chains: [Ethereum, Arbitrum, Base]
 url: https://aura.finance
 twitter: AuraFinance
 github: aurafinance
-logo: null
+logo: /logos/aura.png
 listed_at: 2026-04-29
 tags:
   governance: dao

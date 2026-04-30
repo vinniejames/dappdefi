@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://manta.network
 twitter: MantaNetwork
 github: Manta-Network
-logo: null
+logo: /logos/manta-pacific.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

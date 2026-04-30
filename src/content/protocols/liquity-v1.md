@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.liquity.org
 twitter: LiquityProtocol
 github: liquity
-logo: null
+logo: /logos/liquity-v1.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Polygon]
 url: https://polymarket.com/
 twitter: Polymarket
 github: polymarket
-logo: null
+logo: /logos/polymarket-international.jpg
 listed_at: 2021-10-26
 tags:
   governance: foundation

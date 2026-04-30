@@ -7,7 +7,7 @@ chains: [Solana, Arbitrum]
 url: https://defi.xstocks.fi/
 twitter: xStocksFi
 github: null
-logo: null
+logo: /logos/xstocks.jpg
 listed_at: 2025-07-01
 tags:
   governance: foundation

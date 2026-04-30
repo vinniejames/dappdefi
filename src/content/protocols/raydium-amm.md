@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://raydium.io
 twitter: RaydiumProtocol
 github: raydium-io
-logo: null
+logo: /logos/raydium-amm.png
 listed_at: 2026-04-29
 tags:
   governance: dao

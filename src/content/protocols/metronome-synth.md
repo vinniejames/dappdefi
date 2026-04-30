@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Optimism]
 url: https://metronome.io
 twitter: MetronomeDAO
 github: autonomoussoftware
-logo: null
+logo: /logos/metronome-synth.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

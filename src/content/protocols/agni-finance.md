@@ -7,7 +7,7 @@ chains: [Mantle]
 url: https://agni.finance
 twitter: Agni_Finance
 github: null
-logo: null
+logo: /logos/agni-finance.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

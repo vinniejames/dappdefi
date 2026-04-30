@@ -7,7 +7,7 @@ chains: [Aptos, "Echelon Chain"]
 url: https://echelon.market
 twitter: EchelonMarket
 github: null
-logo: null
+logo: /logos/echelon-market.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

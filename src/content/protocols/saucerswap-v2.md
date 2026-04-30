@@ -7,7 +7,7 @@ chains: [Hedera]
 url: https://www.saucerswap.finance
 twitter: SaucerSwapLabs
 github: saucerswaplabs
-logo: null
+logo: /logos/saucerswap-v2.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

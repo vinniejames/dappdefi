@@ -7,7 +7,7 @@ chains: [RSK]
 url: https://sovryn.com
 twitter: SovrynBTC
 github: DistributedCollective
-logo: null
+logo: /logos/sovryn-zero.png
 listed_at: 2026-04-29
 tags:
   governance: dao

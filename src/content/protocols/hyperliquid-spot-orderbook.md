@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://app.hyperliquid.xyz
 twitter: HyperliquidX
 github: null
-logo: null
+logo: /logos/hyperliquid-spot-orderbook.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

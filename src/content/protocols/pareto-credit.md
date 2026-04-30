@@ -7,7 +7,7 @@ chains: [Ethereum, Polygon, Arbitrum, Optimism]
 url: https://pareto.credit
 twitter: pareto_credit
 github: null
-logo: null
+logo: /logos/pareto-credit.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

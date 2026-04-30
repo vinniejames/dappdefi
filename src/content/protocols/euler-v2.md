@@ -7,7 +7,7 @@ chains: [Ethereum, Plasma, Avalanche, BOB, "Hyperliquid L1"]
 url: https://www.euler.finance
 twitter: eulerfinance
 github: euler-xyz/euler-vault-kit
-logo: null
+logo: /logos/euler-v2.png
 listed_at: 2024-08-26
 tags:
   governance: dao

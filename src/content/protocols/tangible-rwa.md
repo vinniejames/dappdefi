@@ -7,7 +7,7 @@ chains: [Polygon, Arbitrum, Optimism]
 url: https://tangible.store
 twitter: tangibledao
 github: null
-logo: null
+logo: /logos/tangible-rwa.png
 listed_at: 2026-04-29
 tags:
   governance: dao

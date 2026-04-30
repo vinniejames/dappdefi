@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://wallet.zksync.io
 twitter: zksync
 github: matter-labs
-logo: null
+logo: /logos/zksync-lite-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

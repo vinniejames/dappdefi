@@ -7,7 +7,7 @@ chains: [Proton]
 url: https://metalx.com
 twitter: metalpaynow
 github: null
-logo: null
+logo: /logos/metalx-lending.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

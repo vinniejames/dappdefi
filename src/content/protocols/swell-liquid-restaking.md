@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.swellnetwork.io
 twitter: swellnetworkio
 github: null
-logo: null
+logo: /logos/swell-liquid-restaking.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

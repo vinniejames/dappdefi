@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://saturnfi.com
 twitter: saturn_fi
 github: null
-logo: null
+logo: /logos/saturn.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

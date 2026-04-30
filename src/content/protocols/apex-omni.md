@@ -7,7 +7,7 @@ chains: [Ethereum, Mantle, Arbitrum]
 url: https://omni.apex.exchange
 twitter: OfficialApexDEX
 github: null
-logo: null
+logo: /logos/apex-omni.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

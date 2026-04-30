@@ -7,7 +7,7 @@ chains: [Binance, Story, Sei]
 url: https://zoo.finance
 twitter: zoo_finance
 github: null
-logo: null
+logo: /logos/zoo-finance.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

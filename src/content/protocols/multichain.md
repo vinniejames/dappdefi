@@ -7,7 +7,7 @@ chains: [Binance, Ethereum, Polygon]
 url: https://multichain.org
 twitter: MultichainOrg
 github: null
-logo: null
+logo: /logos/multichain.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

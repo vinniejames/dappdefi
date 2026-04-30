@@ -7,7 +7,7 @@ chains: ["Hyperliquid L1"]
 url: https://rysk.finance
 twitter: ryskfinance
 github: rysk-finance
-logo: null
+logo: /logos/rysk-v12.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

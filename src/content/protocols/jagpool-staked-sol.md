@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://jagpool.fi
 twitter: jagpoolstaking
 github: null
-logo: null
+logo: /logos/jagpool-staked-sol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

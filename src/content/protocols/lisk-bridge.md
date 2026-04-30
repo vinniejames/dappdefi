@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://lisk.com
 twitter: LiskHQ
 github: LiskHQ
-logo: null
+logo: /logos/lisk-bridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

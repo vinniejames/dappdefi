@@ -7,7 +7,7 @@ chains: [Near]
 url: https://linearprotocol.org
 twitter: LinearProtocol
 github: null
-logo: null
+logo: /logos/linear-protocol.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

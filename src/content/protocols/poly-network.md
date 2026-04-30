@@ -7,7 +7,7 @@ chains: [Ethereum, Binance, NEO]
 url: https://poly.network
 twitter: PolyNetwork2
 github: null
-logo: null
+logo: /logos/poly-network.png
 listed_at: 2026-04-29
 tags:
   governance: foundation

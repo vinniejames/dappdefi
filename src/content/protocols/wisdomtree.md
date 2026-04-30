@@ -7,7 +7,7 @@ chains: [Ethereum, Stellar]
 url: https://www.wisdomtreeprime.com/
 twitter: WisdomTreePrime
 github: null
-logo: null
+logo: /logos/wisdomtree.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

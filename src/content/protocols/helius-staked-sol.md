@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://helius.dev
 twitter: helius_labs
 github: null
-logo: null
+logo: /logos/helius-staked-sol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

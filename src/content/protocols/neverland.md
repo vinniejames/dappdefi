@@ -7,7 +7,7 @@ chains: [Monad]
 url: https://neverland.fi
 twitter: neverland_fi
 github: null
-logo: null
+logo: /logos/neverland.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

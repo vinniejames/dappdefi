@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://mainstreet.fi
 twitter: mainstreet_fi
 github: null
-logo: null
+logo: /logos/mainstreet.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

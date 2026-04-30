@@ -7,7 +7,7 @@ chains: [TON]
 url: https://ston.fi
 twitter: ston_fi
 github: ston-fi
-logo: null
+logo: /logos/ston.fi.png
 listed_at: 2026-04-29
 tags:
   governance: dao

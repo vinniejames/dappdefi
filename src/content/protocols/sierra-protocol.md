@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://sierra.io
 twitter: sierra_protocol
 github: null
-logo: null
+logo: /logos/sierra-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

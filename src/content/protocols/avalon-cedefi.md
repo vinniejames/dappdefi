@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://www.avalonfinance.xyz
 twitter: avalonfinance_
 github: null
-logo: null
+logo: /logos/avalon-cedefi.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

@@ -7,7 +7,7 @@ chains: [Tron]
 url: https://justlend.just.network
 twitter: DeFi_JUST
 github: null
-logo: null
+logo: /logos/justlend.png
 listed_at: 2026-04-29
 tags:
   governance: dao

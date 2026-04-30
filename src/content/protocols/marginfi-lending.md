@@ -7,7 +7,7 @@ chains: [Solana]
 url: https://www.marginfi.com
 twitter: marginfi
 github: mrgnlabs
-logo: null
+logo: /logos/marginfi-lending.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

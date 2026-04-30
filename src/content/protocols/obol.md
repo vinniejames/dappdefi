@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://obol.org/
 twitter: Obol_Collective
 github: ObolNetwork/charon
-logo: null
+logo: /logos/obol.jpg
 listed_at: 2025-11-04
 tags:
   governance: dao

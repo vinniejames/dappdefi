@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://raac.io
 twitter: RAAC_io
 github: null
-logo: null
+logo: /logos/raac.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

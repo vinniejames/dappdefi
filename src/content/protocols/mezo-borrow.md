@@ -7,7 +7,7 @@ chains: [Mezo]
 url: https://mezo.org
 twitter: MezoNetwork
 github: null
-logo: null
+logo: /logos/mezo-borrow.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

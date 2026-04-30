@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://symbiotic.fi
 twitter: symbioticfi
 github: symbioticfi
-logo: null
+logo: /logos/symbiotic.png
 listed_at: 2024-06-11
 tags:
   governance: dao

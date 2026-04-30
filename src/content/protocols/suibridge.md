@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://bridge.sui.io
 twitter: SuiNetwork
 github: MystenLabs/sui
-logo: null
+logo: /logos/suibridge.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

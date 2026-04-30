@@ -7,7 +7,7 @@ chains: [dYdX]
 url: https://dydx.exchange
 twitter: dYdX
 github: dydxprotocol/v4-chain
-logo: null
+logo: /logos/dydx-v4.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://synthetix.io
 twitter: synthetix_io
 github: Synthetixio
-logo: null
+logo: /logos/synthetix-v3.png
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Ethereum]
 url: https://infinifi.xyz
 twitter: infinifi_xyz
 github: null
-logo: null
+logo: /logos/infinifi.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

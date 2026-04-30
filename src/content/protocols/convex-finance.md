@@ -7,7 +7,7 @@ chains: [Ethereum, Fraxtal, Arbitrum, Polygon]
 url: https://www.convexfinance.com/
 twitter: ConvexFinance
 github: convex-eth
-logo: null
+logo: /logos/convex-finance.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

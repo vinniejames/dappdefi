@@ -7,7 +7,7 @@ chains: [Binance, Ethereum]
 url: https://www.lorenzo-protocol.xyz
 twitter: LorenzoProtocol
 github: null
-logo: null
+logo: /logos/lorenzo-susd1+.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

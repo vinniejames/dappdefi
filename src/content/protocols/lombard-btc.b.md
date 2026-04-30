@@ -7,7 +7,7 @@ chains: [Bitcoin]
 url: https://www.lombard.finance
 twitter: Lombard_Finance
 github: null
-logo: null
+logo: /logos/lombard-btc.b.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Base, Ethereum, Monad]
 url: https://afi.xyz
 twitter: afi_protocol
 github: null
-logo: null
+logo: /logos/afi-protocol.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

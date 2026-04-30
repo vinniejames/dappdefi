@@ -7,7 +7,7 @@ chains: [Bitcoin, zkLink]
 url: https://ailayer.xyz
 twitter: AILayerXYZ
 github: null
-logo: null
+logo: /logos/ailayer-farm.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

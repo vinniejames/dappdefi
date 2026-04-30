@@ -7,7 +7,7 @@ chains: [Base]
 url: https://aerodrome.finance
 twitter: aerodromefi
 github: aerodrome-finance
-logo: null
+logo: /logos/aerodrome-slipstream.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

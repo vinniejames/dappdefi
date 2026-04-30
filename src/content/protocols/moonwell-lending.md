@@ -7,7 +7,7 @@ chains: [Base, Optimism, Moonbeam]
 url: https://moonwell.fi
 twitter: MoonwellDeFi
 github: moonwell-fi
-logo: null
+logo: /logos/moonwell-lending.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

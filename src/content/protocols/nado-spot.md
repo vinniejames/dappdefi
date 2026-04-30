@@ -7,7 +7,7 @@ chains: [Ink]
 url: https://nado.io
 twitter: nadoexchange
 github: null
-logo: null
+logo: /logos/nado-spot.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

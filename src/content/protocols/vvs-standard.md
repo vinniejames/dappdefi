@@ -7,7 +7,7 @@ chains: [Cronos]
 url: https://vvs.finance
 twitter: VVS_finance
 github: null
-logo: null
+logo: /logos/vvs-standard.jpg
 listed_at: 2026-04-29
 tags:
   governance: dao

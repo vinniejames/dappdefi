@@ -7,7 +7,7 @@ chains: [Base]
 url: https://t-rize.io
 twitter: t_rize_io
 github: null
-logo: null
+logo: /logos/t-rize.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

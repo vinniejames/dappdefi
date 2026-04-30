@@ -7,7 +7,7 @@ chains: [Avalanche]
 url: https://avant.fi
 twitter: avantprotocol
 github: null
-logo: null
+logo: /logos/avant-avusd.jpg
 listed_at: 2026-04-29
 tags:
   governance: foundation

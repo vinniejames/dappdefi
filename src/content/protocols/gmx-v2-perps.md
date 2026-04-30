@@ -7,7 +7,7 @@ chains: [Arbitrum, Avalanche, MegaETH, Botanix]
 url: https://gmx.io
 twitter: GMX_IO
 github: gmx-io
-logo: null
+logo: /logos/gmx-v2-perps.png
 listed_at: 2026-04-29
 tags:
   governance: dao

@@ -7,7 +7,7 @@ chains: [Ethereum, Base, Arbitrum]
 url: https://www.ether.fi/
 twitter: ether_fi
 github: etherfi-protocol/smart-contracts
-logo: null
+logo: /logos/ether.fi-stake.jpg
 listed_at: 2023-03-02
 tags:
   governance: dao
