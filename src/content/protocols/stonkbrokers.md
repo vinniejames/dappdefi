@@ -5,14 +5,14 @@ subcategories: [nft-lending, marketplace]
 chains: [Robinhood]
 url: https://www.stonkbrokers.cash
 twitter: ClutchMarkets
-github: Clutch-L4bs/stonkbrokers
+github: null
 logo: /logos/stonkbrokers.png
 listed_at: 2026-07-19
 tags:
   governance: unknown
   token: STONKBROKER
   audited: unknown
-  open_source: true
+  open_source: false
   custody: non-custodial
   permissions: permissionless
   launched: 2026
