@@ -7,7 +7,7 @@ chains: ["Robinhood Chain", Base, "BNB Smart Chain"]
 url: https://quantumpools.io
 twitter: QuantumPools
 github: Kittrian/quantumpools-public
-logo: null
+logo: /logos/quantumpools.png
 listed_at: 2026-10-21
 tags:
   governance: multisig
